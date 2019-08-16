@@ -1,0 +1,15 @@
+Finish naming the columns and features
+Finish ETL this week/next week, ideally
+
+List of things we can do
+1)Roles - Vince and Fred: cleaning data and construct key-value pairs
+	- David: business questions
+	- Elyse: Wire-frame the data in PowerBI
+2)Look for chronic diseases in the context of the study
+	Diseases and lifestyle
+
+3)Scrape all tables to change code to their real values and left join
+
+Timelines
+1) Monday night Aug 19 2019 - finish defining data tables
+2) Tuesday afternoon - checkpoint
