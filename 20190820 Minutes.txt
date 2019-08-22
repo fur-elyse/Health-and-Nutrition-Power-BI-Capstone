@@ -1,0 +1,15 @@
+Finish ETL this week (August 19), ideally
+
+ROLES:
+1) Vince and Fred: cleaning data and construct key-value pairs
+2) David: business questions
+3) Elyse: Wire-frame the data in PowerBI
+
+LIST OF THINGS WE CAN DO:
+1)Look for chronic diseases in the context of the study: Diseases and lifestyle
+2)Scrape all tables to change code to their real values and left join
+
+TIMELINES:
+1) David to finish Examination_modified tonight, but current file can already be used for scraping
+2) Feature reduction. Check if there's a more scientific approach
+3) Scrape the tables and make disctionaries of key: value pairs
