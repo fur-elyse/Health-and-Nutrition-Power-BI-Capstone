@@ -1,0 +1,2961 @@
+short_title,title,code or value,description,count
+ALQ101,ALQ101 - Had at least 12 alcohol drinks/1 yr?,1,Yes,3790
+ALQ101,ALQ101 - Had at least 12 alcohol drinks/1 yr?,2,No,1623
+ALQ101,ALQ101 - Had at least 12 alcohol drinks/1 yr?,7,Refused,0
+ALQ101,ALQ101 - Had at least 12 alcohol drinks/1 yr?,9,Don't know,8
+ALQ101,ALQ101 - Had at least 12 alcohol drinks/1 yr?,.,Missing,503
+ALQ110,ALQ110 - Had at least 12 alcohol drinks/lifetime?,1,Yes,689
+ALQ110,ALQ110 - Had at least 12 alcohol drinks/lifetime?,2,No,938
+ALQ110,ALQ110 - Had at least 12 alcohol drinks/lifetime?,7,Refused,0
+ALQ110,ALQ110 - Had at least 12 alcohol drinks/lifetime?,9,Don't know,4
+ALQ110,ALQ110 - Had at least 12 alcohol drinks/lifetime?,.,Missing,4293
+ALQ120Q,ALQ120Q - How often drink alcohol over past 12 mos,0 to 365,Range of Values,4475
+ALQ120Q,ALQ120Q - How often drink alcohol over past 12 mos,777,Refused,0
+ALQ120Q,ALQ120Q - How often drink alcohol over past 12 mos,999,Don't know,4
+ALQ120Q,ALQ120Q - How often drink alcohol over past 12 mos,.,Missing,1445
+ALQ120U,"ALQ120U - # days drink alcohol per wk, mo, yr",1,Week,1461
+ALQ120U,"ALQ120U - # days drink alcohol per wk, mo, yr",2,Month,953
+ALQ120U,"ALQ120U - # days drink alcohol per wk, mo, yr",3,Year,1179
+ALQ120U,"ALQ120U - # days drink alcohol per wk, mo, yr",7,Refused,0
+ALQ120U,"ALQ120U - # days drink alcohol per wk, mo, yr",9,Don't know,0
+ALQ120U,"ALQ120U - # days drink alcohol per wk, mo, yr",.,Missing,2331
+ALQ130,ALQ130 - Avg # alcoholic drinks/day - past 12 mos,1 to 25,Range of Values,3593
+ALQ130,ALQ130 - Avg # alcoholic drinks/day - past 12 mos,777,Refused,0
+ALQ130,ALQ130 - Avg # alcoholic drinks/day - past 12 mos,999,Don't know,3
+ALQ130,ALQ130 - Avg # alcoholic drinks/day - past 12 mos,.,Missing,2328
+ALQ141Q ,ALQ141Q  - # days have 4/5 drinks - past 12 mos,0 to 350,Range of Values,3588
+ALQ141Q ,ALQ141Q  - # days have 4/5 drinks - past 12 mos,777,Refused,0
+ALQ141Q ,ALQ141Q  - # days have 4/5 drinks - past 12 mos,999,Don't know,7
+ALQ141Q ,ALQ141Q  - # days have 4/5 drinks - past 12 mos,.,Missing,2329
+ALQ141U ,"ALQ141U  - # days per week, month, year?",1,Week,361
+ALQ141U ,"ALQ141U  - # days per week, month, year?",2,Month,264
+ALQ141U ,"ALQ141U  - # days per week, month, year?",3,Year,839
+ALQ141U ,"ALQ141U  - # days per week, month, year?",7,Refused,0
+ALQ141U ,"ALQ141U  - # days per week, month, year?",9,Don't know,0
+ALQ141U ,"ALQ141U  - # days per week, month, year?",.,Missing,4460
+ALQ151  ,ALQ151   - Ever have 4/5 or more drinks every day?,1,Yes,736
+ALQ151  ,ALQ151   - Ever have 4/5 or more drinks every day?,2,No,3740
+ALQ151  ,ALQ151   - Ever have 4/5 or more drinks every day?,7,Refused,0
+ALQ151  ,ALQ151   - Ever have 4/5 or more drinks every day?,9,Don't know,1
+ALQ151  ,ALQ151   - Ever have 4/5 or more drinks every day?,.,Missing,1447
+BPQ020,BPQ020 - Ever told you had high blood pressure,1,Yes,2174
+BPQ020,BPQ020 - Ever told you had high blood pressure,2,No,4285
+BPQ020,BPQ020 - Ever told you had high blood pressure,7,Refused,0
+BPQ020,BPQ020 - Ever told you had high blood pressure,9,Don't know,5
+BPQ020,BPQ020 - Ever told you had high blood pressure,.,Missing,0
+BPQ030,BPQ030 - Told had high blood pressure - 2+ times,1,Yes,1738
+BPQ030,BPQ030 - Told had high blood pressure - 2+ times,2,No,428
+BPQ030,BPQ030 - Told had high blood pressure - 2+ times,7,Refused,0
+BPQ030,BPQ030 - Told had high blood pressure - 2+ times,9,Don't know,8
+BPQ030,BPQ030 - Told had high blood pressure - 2+ times,.,Missing,4290
+BPD035,BPD035 - Age told had hypertension,10 to 79,Range of Values,2100
+BPD035,BPD035 - Age told had hypertension,80,80 years or older,35
+BPD035,BPD035 - Age told had hypertension,777,Refused,1
+BPD035,BPD035 - Age told had hypertension,999,Don't know,28
+BPD035,BPD035 - Age told had hypertension,.,Missing,4300
+BPQ040A,BPQ040A - Taking prescription for hypertension,1,Yes,1815
+BPQ040A,BPQ040A - Taking prescription for hypertension,2,No,357
+BPQ040A,BPQ040A - Taking prescription for hypertension,7,Refused,0
+BPQ040A,BPQ040A - Taking prescription for hypertension,9,Don't know,2
+BPQ040A,BPQ040A - Taking prescription for hypertension,.,Missing,4290
+BPQ050A,BPQ050A - Now taking prescribed medicine for HBP,1,Yes,1586
+BPQ050A,BPQ050A - Now taking prescribed medicine for HBP,2,No,228
+BPQ050A,BPQ050A - Now taking prescribed medicine for HBP,7,Refused,0
+BPQ050A,BPQ050A - Now taking prescribed medicine for HBP,9,Don't know,1
+BPQ050A,BPQ050A - Now taking prescribed medicine for HBP,.,Missing,4649
+BPQ056,BPQ056 - Take blood pressure at home last 12 mos?,1,Yes,1579
+BPQ056,BPQ056 - Take blood pressure at home last 12 mos?,2,No,4883
+BPQ056,BPQ056 - Take blood pressure at home last 12 mos?,7,Refused,0
+BPQ056,BPQ056 - Take blood pressure at home last 12 mos?,9,Don't know,2
+BPQ056,BPQ056 - Take blood pressure at home last 12 mos?,.,Missing,0
+BPD058,BPD058 - How often checked BP at home last 12 mos,1 to 2704,Range of Values,1574
+BPD058,BPD058 - How often checked BP at home last 12 mos,7777,Refused,0
+BPD058,BPD058 - How often checked BP at home last 12 mos,9999,Don't know,5
+BPD058,BPD058 - How often checked BP at home last 12 mos,.,Missing,4885
+BPQ059,BPQ059 - Doctor tell you to take BP at home?,1,Yes,862
+BPQ059,BPQ059 - Doctor tell you to take BP at home?,2,No,5601
+BPQ059,BPQ059 - Doctor tell you to take BP at home?,7,Refused,1
+BPQ059,BPQ059 - Doctor tell you to take BP at home?,9,Don't know,0
+BPQ059,BPQ059 - Doctor tell you to take BP at home?,.,Missing,0
+BPQ080,BPQ080 - Doctor told you - high cholesterol level,1,Yes,2037
+BPQ080,BPQ080 - Doctor told you - high cholesterol level,2,No,4391
+BPQ080,BPQ080 - Doctor told you - high cholesterol level,7,Refused,0
+BPQ080,BPQ080 - Doctor told you - high cholesterol level,9,Don't know,36
+BPQ080,BPQ080 - Doctor told you - high cholesterol level,.,Missing,0
+BPQ060,BPQ060 - Ever had blood cholesterol checked,1,Yes,2583
+BPQ060,BPQ060 - Ever had blood cholesterol checked,2,No,1689
+BPQ060,BPQ060 - Ever had blood cholesterol checked,7,Refused,3
+BPQ060,BPQ060 - Ever had blood cholesterol checked,9,Don't know,152
+BPQ060,BPQ060 - Ever had blood cholesterol checked,.,Missing,2037
+BPQ070,BPQ070 - When blood cholesterol last checked,1,"Less than 1 year ago,",2998
+BPQ070,BPQ070 - When blood cholesterol last checked,2,"1 year but less than 2 years ago,",817
+BPQ070,BPQ070 - When blood cholesterol last checked,3,"2 years but less than 5 years ago, or",535
+BPQ070,BPQ070 - When blood cholesterol last checked,4,5 years or more?,240
+BPQ070,BPQ070 - When blood cholesterol last checked,7,Refused,0
+BPQ070,BPQ070 - When blood cholesterol last checked,9,Don't know,30
+BPQ070,BPQ070 - When blood cholesterol last checked,.,Missing,1844
+BPQ090D,BPQ090D - Told to take prescriptn for cholesterol,1,Yes,1450
+BPQ090D,BPQ090D - Told to take prescriptn for cholesterol,2,No,3163
+BPQ090D,BPQ090D - Told to take prescriptn for cholesterol,7,Refused,0
+BPQ090D,BPQ090D - Told to take prescriptn for cholesterol,9,Don't know,7
+BPQ090D,BPQ090D - Told to take prescriptn for cholesterol,.,Missing,1844
+BPQ100D,BPQ100D - Now taking prescribed medicine,1,Yes,1136
+BPQ100D,BPQ100D - Now taking prescribed medicine,2,No,310
+BPQ100D,BPQ100D - Now taking prescribed medicine,7,Refused,0
+BPQ100D,BPQ100D - Now taking prescribed medicine,9,Don't know,4
+BPQ100D,BPQ100D - Now taking prescribed medicine,.,Missing,5014
+CDQ001,CDQ001 - SP ever had pain or discomfort in chest,1,Yes,879
+CDQ001,CDQ001 - SP ever had pain or discomfort in chest,2,No,2934
+CDQ001,CDQ001 - SP ever had pain or discomfort in chest,7,Refused,0
+CDQ001,CDQ001 - SP ever had pain or discomfort in chest,9,Don't know,2
+CDQ001,CDQ001 - SP ever had pain or discomfort in chest,.,Missing,0
+CDQ002,CDQ002 - SP get it walking uphill or in a hurry,1,Yes,241
+CDQ002,CDQ002 - SP get it walking uphill or in a hurry,2,No,591
+CDQ002,CDQ002 - SP get it walking uphill or in a hurry,3,Never walks uphill or hurries,42
+CDQ002,CDQ002 - SP get it walking uphill or in a hurry,7,Refused,0
+CDQ002,CDQ002 - SP get it walking uphill or in a hurry,9,Don't know,5
+CDQ002,CDQ002 - SP get it walking uphill or in a hurry,.,Missing,2936
+CDQ003,CDQ003 - During an ordinary pace on level ground,1,Yes,111
+CDQ003,CDQ003 - During an ordinary pace on level ground,2,No,171
+CDQ003,CDQ003 - During an ordinary pace on level ground,7,Refused,0
+CDQ003,CDQ003 - During an ordinary pace on level ground,9,Don't know,1
+CDQ003,CDQ003 - During an ordinary pace on level ground,.,Missing,3532
+CFASTAT,CFASTAT - Cognitive functioning status,1,3 tests,1638
+CFASTAT,CFASTAT - Cognitive functioning status,2,2 tests,44
+CFASTAT,CFASTAT - Cognitive functioning status,3,1 test,4
+CFASTAT,CFASTAT - Cognitive functioning status,4,"Ineligible, proxy",19
+CFASTAT,CFASTAT - Cognitive functioning status,5,"Ineligible, other language",16
+CFASTAT,CFASTAT - Cognitive functioning status,6,No test done,64
+CFASTAT,CFASTAT - Cognitive functioning status,.,Missing,0
+CFALANG,CFALANG - Language - Cognitive Functioning,1,English,1488
+CFALANG,CFALANG - Language - Cognitive Functioning,2,Spanish,167
+CFALANG,CFALANG - Language - Cognitive Functioning,3,Asian language,31
+CFALANG,CFALANG - Language - Cognitive Functioning,.,Missing,99
+CFDCCS,CFDCCS - CERAD: Completion Status,1,Four completed recalls,1672
+CFDCCS,CFDCCS - CERAD: Completion Status,2,One to three completed recalls,9
+CFDCCS,CFDCCS - CERAD: Completion Status,3,Not done,5
+CFDCCS,CFDCCS - CERAD: Completion Status,.,Missing,99
+CFDCRNC,CFDCRNC - CERAD: Reason Not Complete,1,Did not consent to audio record,0
+CFDCRNC,CFDCRNC - CERAD: Reason Not Complete,2,Communication problem,4
+CFDCRNC,CFDCRNC - CERAD: Reason Not Complete,3,Physical limitation,1
+CFDCRNC,CFDCRNC - CERAD: Reason Not Complete,4,Quit or gave up,8
+CFDCRNC,CFDCRNC - CERAD: Reason Not Complete,5,Refused,0
+CFDCRNC,CFDCRNC - CERAD: Reason Not Complete,6,Equipment failure,1
+CFDCRNC,CFDCRNC - CERAD: Reason Not Complete,7,Other,0
+CFDCRNC,CFDCRNC - CERAD: Reason Not Complete,.,Missing,1771
+CFDCST1,CFDCST1 - CERAD: Score Trial 1 Recall,0 to 10,Range of Values,1681
+CFDCST1,CFDCST1 - CERAD: Score Trial 1 Recall,.,Missing,104
+CFDCST2,CFDCST2 - CERAD: Score Trial 2 Recall,0 to 10,Range of Values,1678
+CFDCST2,CFDCST2 - CERAD: Score Trial 2 Recall,.,Missing,107
+CFDCST3,CFDCST3 - CERAD: Score Trial 3 Recall,0 to 10,Range of Values,1674
+CFDCST3,CFDCST3 - CERAD: Score Trial 3 Recall,.,Missing,111
+CFDCSR,CFDCSR - CERAD: Score Delayed Recall,0 to 10,Range of Values,1672
+CFDCSR,CFDCSR - CERAD: Score Delayed Recall,.,Missing,113
+CFDCIT1,CFDCIT1 - CERAD: Intrusion word count Trial 1,0 to 4,Range of Values,1681
+CFDCIT1,CFDCIT1 - CERAD: Intrusion word count Trial 1,.,Missing,104
+CFDCIT2,CFDCIT2 - CERAD: Intrusion word count Trial 2,0 to 5,Range of Values,1678
+CFDCIT2,CFDCIT2 - CERAD: Intrusion word count Trial 2,.,Missing,107
+CFDCIT3,CFDCIT3 - CERAD: Intrusion word count Trial 3,0 to 6,Range of Values,1674
+CFDCIT3,CFDCIT3 - CERAD: Intrusion word count Trial 3,.,Missing,111
+CFDCIR,CFDCIR - CERAD: Intrusion word count Recall,0 to 8,Range of Values,1672
+CFDCIR,CFDCIR - CERAD: Intrusion word count Recall,.,Missing,113
+CFDAPP,CFDAPP - Animal Fluency: Sample Practice Pretest,1,Passed,1661
+CFDAPP,CFDAPP - Animal Fluency: Sample Practice Pretest,2,Failed,11
+CFDAPP,CFDAPP - Animal Fluency: Sample Practice Pretest,3,Not done,14
+CFDAPP,CFDAPP - Animal Fluency: Sample Practice Pretest,.,Missing,99
+CFDARNC,CFDARNC - Animal Fluency: Reason Not Done,1,Did not consent to audio record,0
+CFDARNC,CFDARNC - Animal Fluency: Reason Not Done,2,Communication problem,1
+CFDARNC,CFDARNC - Animal Fluency: Reason Not Done,3,Physical limitation,0
+CFDARNC,CFDARNC - Animal Fluency: Reason Not Done,5,Refused,2
+CFDARNC,CFDARNC - Animal Fluency: Reason Not Done,6,Equipment failure,11
+CFDARNC,CFDARNC - Animal Fluency: Reason Not Done,7,Other,0
+CFDARNC,CFDARNC - Animal Fluency: Reason Not Done,.,Missing,1771
+CFDAST,CFDAST - Animal Fluency: Score Total,3 to 39,Range of Values,1661
+CFDAST,CFDAST - Animal Fluency: Score Total,.,Missing,124
+CFDDPP,CFDDPP - Digit Symbol: Sample Practice Pretest,1,Passed,1592
+CFDDPP,CFDDPP - Digit Symbol: Sample Practice Pretest,2,Failed,61
+CFDDPP,CFDDPP - Digit Symbol: Sample Practice Pretest,3,Not done,33
+CFDDPP,CFDDPP - Digit Symbol: Sample Practice Pretest,.,Missing,99
+CFDDRNC,CFDDRNC - Digit Symbol: Reason Not Done,2,Communication problem,3
+CFDDRNC,CFDDRNC - Digit Symbol: Reason Not Done,3,Physical limitation,7
+CFDDRNC,CFDDRNC - Digit Symbol: Reason Not Done,5,Refused,23
+CFDDRNC,CFDDRNC - Digit Symbol: Reason Not Done,6,Equipment failure,0
+CFDDRNC,CFDDRNC - Digit Symbol: Reason Not Done,7,Other,0
+CFDDRNC,CFDDRNC - Digit Symbol: Reason Not Done,.,Missing,1752
+CFDDS,CFDDS - Digit Symbol: Score,0 to 105,Range of Values,1592
+CFDDS,CFDDS - Digit Symbol: Score,.,Missing,193
+CBD070,CBD070 - Money spent at supermarket/grocery store,0 to 4285,Range of Values,9850
+CBD070,CBD070 - Money spent at supermarket/grocery store,777777,Refused,14
+CBD070,CBD070 - Money spent at supermarket/grocery store,999999,Don't know,188
+CBD070,CBD070 - Money spent at supermarket/grocery store,.,Missing,123
+CBD090,CBD090 - Money spent on nonfood items,0 to 1542,Range of Values,9813
+CBD090,CBD090 - Money spent on nonfood items,777777,Refused,14
+CBD090,CBD090 - Money spent on nonfood items,999999,Don't know,216
+CBD090,CBD090 - Money spent on nonfood items,.,Missing,132
+CBD110,CBD110 - Money spent on food at other stores,0 to 2000,Range of Values,9979
+CBD110,CBD110 - Money spent on food at other stores,777777,Refused,10
+CBD110,CBD110 - Money spent on food at other stores,999999,Don't know,63
+CBD110,CBD110 - Money spent on food at other stores,.,Missing,123
+CBD120,CBD120 - Money spent on eating out,0 to 2142,Range of Values,9853
+CBD120,CBD120 - Money spent on eating out,777777,Refused,16
+CBD120,CBD120 - Money spent on eating out,999999,Don't know,183
+CBD120,CBD120 - Money spent on eating out,.,Missing,123
+CBD130,CBD130 - Money spent on carryout/delivered foods,0 to 1028,Range of Values,9979
+CBD130,CBD130 - Money spent on carryout/delivered foods,777777,Refused,11
+CBD130,CBD130 - Money spent on carryout/delivered foods,999999,Don't know,62
+CBD130,CBD130 - Money spent on carryout/delivered foods,.,Missing,123
+CKQ010  ,CKQ010   - Strenuous exercise in the past 3 days?,1,Yes,2060
+CKQ010  ,CKQ010   - Strenuous exercise in the past 3 days?,2,No,4393
+CKQ010  ,CKQ010   - Strenuous exercise in the past 3 days?,7,Refused,0
+CKQ010  ,CKQ010   - Strenuous exercise in the past 3 days?,9,Don't know,2
+CKQ010  ,CKQ010   - Strenuous exercise in the past 3 days?,.,Missing,524
+CKQ020  ,CKQ020   - Did exercise make muscles sore/painful,1,Yes,1166
+CKQ020  ,CKQ020   - Did exercise make muscles sore/painful,2,No,893
+CKQ020  ,CKQ020   - Did exercise make muscles sore/painful,7,Refused,0
+CKQ020  ,CKQ020   - Did exercise make muscles sore/painful,9,Don't know,1
+CKQ020  ,CKQ020   - Did exercise make muscles sore/painful,.,Missing,4919
+CKQ030  ,"CKQ030   - Past 3 days muscle injury, bruise, injct",1,Yes,430
+CKQ030  ,"CKQ030   - Past 3 days muscle injury, bruise, injct",2,No,6021
+CKQ030  ,"CKQ030   - Past 3 days muscle injury, bruise, injct",7,Refused,0
+CKQ030  ,"CKQ030   - Past 3 days muscle injury, bruise, injct",9,Don't know,4
+CKQ030  ,"CKQ030   - Past 3 days muscle injury, bruise, injct",.,Missing,524
+CKQ040  ,CKQ040   - Injury/injct made muscles sore/painful ,1,Yes,269
+CKQ040  ,CKQ040   - Injury/injct made muscles sore/painful ,2,No,161
+CKQ040  ,CKQ040   - Injury/injct made muscles sore/painful ,7,Refused,0
+CKQ040  ,CKQ040   - Injury/injct made muscles sore/painful ,9,Don't know,0
+CKQ040  ,CKQ040   - Injury/injct made muscles sore/painful ,.,Missing,6549
+CKD060  ,CKD060   - Other muscle pain/soreness last 3 days,1,Yes,1371
+CKD060  ,CKD060   - Other muscle pain/soreness last 3 days,2,No,5081
+CKD060  ,CKD060   - Other muscle pain/soreness last 3 days,7,Refused,0
+CKD060  ,CKD060   - Other muscle pain/soreness last 3 days,9,Don't know,3
+CKD060  ,CKD060   - Other muscle pain/soreness last 3 days,.,Missing,524
+CKQ070Q ,CKQ070Q  - Quantity: how long pain/aching/soreness,1 to 200,Range of Values,1364
+CKQ070Q ,CKQ070Q  - Quantity: how long pain/aching/soreness,77777,Refused,0
+CKQ070Q ,CKQ070Q  - Quantity: how long pain/aching/soreness,99999,Don't know,6
+CKQ070Q ,CKQ070Q  - Quantity: how long pain/aching/soreness,.,Missing,5609
+CKQ070U ,CKQ070U  - Unit: how long pain/aching/soreness,1,Days,375
+CKQ070U ,CKQ070U  - Unit: how long pain/aching/soreness,2,Weeks,142
+CKQ070U ,CKQ070U  - Unit: how long pain/aching/soreness,3,Months,244
+CKQ070U ,CKQ070U  - Unit: how long pain/aching/soreness,4,Years,603
+CKQ070U ,CKQ070U  - Unit: how long pain/aching/soreness,7,Refused,0
+CKQ070U ,CKQ070U  - Unit: how long pain/aching/soreness,9,Don't know,0
+CKQ070U ,CKQ070U  - Unit: how long pain/aching/soreness,.,Missing,5615
+HSD010,HSD010 - General health condition,1,Excellent,641
+HSD010,HSD010 - General health condition,2,"Very good,",1826
+HSD010,HSD010 - General health condition,3,"Good,",2605
+HSD010,HSD010 - General health condition,4,"Fair, or",1186
+HSD010,HSD010 - General health condition,5,Poor?,208
+HSD010,HSD010 - General health condition,7,Refused,0
+HSD010,HSD010 - General health condition,9,Don't know,1
+HSD010,HSD010 - General health condition,.,Missing,2955
+HSQ500  ,HSQ500   - SP have head cold or chest cold,1,Yes,1538
+HSQ500  ,HSQ500   - SP have head cold or chest cold,2,No,6921
+HSQ500  ,HSQ500   - SP have head cold or chest cold,7,Refused,3
+HSQ500  ,HSQ500   - SP have head cold or chest cold,9,Don't know,13
+HSQ500  ,HSQ500   - SP have head cold or chest cold,.,Missing,947
+HSQ510  ,HSQ510   - SP have stomach or intestinal illness?,1,Yes,627
+HSQ510  ,HSQ510   - SP have stomach or intestinal illness?,2,No,7833
+HSQ510  ,HSQ510   - SP have stomach or intestinal illness?,7,Refused,3
+HSQ510  ,HSQ510   - SP have stomach or intestinal illness?,9,Don't know,12
+HSQ510  ,HSQ510   - SP have stomach or intestinal illness?,.,Missing,947
+HSQ520  ,"HSQ520   - SP have flu, pneumonia, ear infection?",1,Yes,339
+HSQ520  ,"HSQ520   - SP have flu, pneumonia, ear infection?",2,No,8111
+HSQ520  ,"HSQ520   - SP have flu, pneumonia, ear infection?",7,Refused,3
+HSQ520  ,"HSQ520   - SP have flu, pneumonia, ear infection?",9,Don't know,22
+HSQ520  ,"HSQ520   - SP have flu, pneumonia, ear infection?",.,Missing,947
+HSQ571  ,HSQ571   - SP donated blood in past 12 months?,1,Yes,260
+HSQ571  ,HSQ571   - SP donated blood in past 12 months?,2,No,5505
+HSQ571  ,HSQ571   - SP donated blood in past 12 months?,7,Refused,0
+HSQ571  ,HSQ571   - SP donated blood in past 12 months?,9,Don't know,4
+HSQ571  ,HSQ571   - SP donated blood in past 12 months?,.,Missing,3653
+HSQ580  ,HSQ580   - How long ago was last blood donation?,1,1,39
+HSQ580  ,HSQ580   - How long ago was last blood donation?,2,2,38
+HSQ580  ,HSQ580   - How long ago was last blood donation?,3,3,28
+HSQ580  ,HSQ580   - How long ago was last blood donation?,4,4,20
+HSQ580  ,HSQ580   - How long ago was last blood donation?,5,5,13
+HSQ580  ,HSQ580   - How long ago was last blood donation?,6,6,29
+HSQ580  ,HSQ580   - How long ago was last blood donation?,7,7,19
+HSQ580  ,HSQ580   - How long ago was last blood donation?,8,8,11
+HSQ580  ,HSQ580   - How long ago was last blood donation?,9,9,11
+HSQ580  ,HSQ580   - How long ago was last blood donation?,10,10,13
+HSQ580  ,HSQ580   - How long ago was last blood donation?,11,11,17
+HSQ580  ,HSQ580   - How long ago was last blood donation?,12,12,18
+HSQ580  ,HSQ580   - How long ago was last blood donation?,77,Refused,0
+HSQ580  ,HSQ580   - How long ago was last blood donation?,99,Don't know,4
+HSQ580  ,HSQ580   - How long ago was last blood donation?,.,Missing,9162
+HSQ590  ,HSQ590   - Blood ever tested for HIV virus?,1,Yes,1884
+HSQ590  ,HSQ590   - Blood ever tested for HIV virus?,2,No,3596
+HSQ590  ,HSQ590   - Blood ever tested for HIV virus?,7,Refused,2
+HSQ590  ,HSQ590   - Blood ever tested for HIV virus?,9,Don't know,286
+HSQ590  ,HSQ590   - Blood ever tested for HIV virus?,.,Missing,3654
+HSAQUEX,HSAQUEX - Source of Health Status Data ,1,Dietary Recall Component -- B(1-11),2443
+HSAQUEX,HSAQUEX - Source of Health Status Data ,2,MEC CAPI Questionnaire -- B(12-150),6979
+HSAQUEX,HSAQUEX - Source of Health Status Data ,.,Missing,0
+DED031,DED031 - Skin reaction to sun after non-exposure,1,Get a severe sunburn with blisters,69
+DED031,DED031 - Skin reaction to sun after non-exposure,2,A severe sunburn for a few days with peeling,302
+DED031,DED031 - Skin reaction to sun after non-exposure,3,Mildly burned with some tanning,993
+DED031,DED031 - Skin reaction to sun after non-exposure,4,Turning darker without a sunburn,937
+DED031,DED031 - Skin reaction to sun after non-exposure,5,Nothing would happen in half an hour,1585
+DED031,DED031 - Skin reaction to sun after non-exposure,6,Other,35
+DED031,DED031 - Skin reaction to sun after non-exposure,77,Refused,1
+DED031,DED031 - Skin reaction to sun after non-exposure,99,Don't know,5
+DED031,DED031 - Skin reaction to sun after non-exposure,.,Missing,1
+DEQ034A,DEQ034A - Stay in the shade?,1,Always,392
+DEQ034A,DEQ034A - Stay in the shade?,2,Most of the time,986
+DEQ034A,DEQ034A - Stay in the shade?,3,Sometimes,1561
+DEQ034A,DEQ034A - Stay in the shade?,4,"Rarely, or",569
+DEQ034A,DEQ034A - Stay in the shade?,5,Never?,372
+DEQ034A,DEQ034A - Stay in the shade?,6,Don't go out in the sun,46
+DEQ034A,DEQ034A - Stay in the shade?,77,Refused,0
+DEQ034A,DEQ034A - Stay in the shade?,99,Don't know,1
+DEQ034A,DEQ034A - Stay in the shade?,.,Missing,1
+DEQ034C,DEQ034C - Wear a long sleeved shirt,1,Always,193
+DEQ034C,DEQ034C - Wear a long sleeved shirt,2,Most of the time,234
+DEQ034C,DEQ034C - Wear a long sleeved shirt,3,Sometimes,836
+DEQ034C,DEQ034C - Wear a long sleeved shirt,4,"Rarely, or",765
+DEQ034C,DEQ034C - Wear a long sleeved shirt,5,Never?,1853
+DEQ034C,DEQ034C - Wear a long sleeved shirt,7,Refused,0
+DEQ034C,DEQ034C - Wear a long sleeved shirt,9,Don't know,0
+DEQ034C,DEQ034C - Wear a long sleeved shirt,.,Missing,47
+DEQ034D,DEQ034D - Use sunscreen?,1,Always,483
+DEQ034D,DEQ034D - Use sunscreen?,2,Most of the time,481
+DEQ034D,DEQ034D - Use sunscreen?,3,Sometimes,760
+DEQ034D,DEQ034D - Use sunscreen?,4,"Rarely, or",546
+DEQ034D,DEQ034D - Use sunscreen?,5,Never?,1610
+DEQ034D,DEQ034D - Use sunscreen?,7,Refused,0
+DEQ034D,DEQ034D - Use sunscreen?,9,Don't know,1
+DEQ034D,DEQ034D - Use sunscreen?,.,Missing,47
+DEQ038G,DEQ038G - In past yr did you have sunburn?,1,Enter number,1408
+DEQ038G,DEQ038G - In past yr did you have sunburn?,2,Never,2509
+DEQ038G,DEQ038G - In past yr did you have sunburn?,7,Refused,0
+DEQ038G,DEQ038G - In past yr did you have sunburn?,9,Don't know,10
+DEQ038G,DEQ038G - In past yr did you have sunburn?,.,Missing,1
+DEQ038Q,DEQ038Q - # of times in past yr you had a sunburn,1 to 15,Range of Values,1399
+DEQ038Q,DEQ038Q - # of times in past yr you had a sunburn,20,20 or more times,9
+DEQ038Q,DEQ038Q - # of times in past yr you had a sunburn,77777,Refused,0
+DEQ038Q,DEQ038Q - # of times in past yr you had a sunburn,99999,Don't know,0
+DEQ038Q,DEQ038Q - # of times in past yr you had a sunburn,.,Missing,2520
+DED120,DED120 - Minutes outdoors 9am - 5pm work day,15 to 480,Range of Values,2022
+DED120,DED120 - Minutes outdoors 9am - 5pm work day,0,No time spent outdoors,1264
+DED120,DED120 - Minutes outdoors 9am - 5pm work day,14,1-14 minutes,81
+DED120,DED120 - Minutes outdoors 9am - 5pm work day,3333,Does not work or go to school,555
+DED120,DED120 - Minutes outdoors 9am - 5pm work day,7777,Refused,0
+DED120,DED120 - Minutes outdoors 9am - 5pm work day,9999,Don't Know,2
+DED120,DED120 - Minutes outdoors 9am - 5pm work day,.,Missing,4
+DED125,DED125 - Minutes outdoors 9am - 5pm not work day,15 to 480,Range of Values,3220
+DED125,DED125 - Minutes outdoors 9am - 5pm not work day,0,No time spent outdoors,644
+DED125,DED125 - Minutes outdoors 9am - 5pm not work day,14,1-14 minutes,47
+DED125,DED125 - Minutes outdoors 9am - 5pm not work day,3333,At work or at school 9 to 5 seven days a week,9
+DED125,DED125 - Minutes outdoors 9am - 5pm not work day,7777,Refused,0
+DED125,DED125 - Minutes outdoors 9am - 5pm not work day,9999,Don't Know,4
+DED125,DED125 - Minutes outdoors 9am - 5pm not work day,.,Missing,4
+DIQ010,DIQ010 - Doctor told you have diabetes,1,Yes,737
+DIQ010,DIQ010 - Doctor told you have diabetes,2,No,8841
+DIQ010,DIQ010 - Doctor told you have diabetes,3,Borderline,185
+DIQ010,DIQ010 - Doctor told you have diabetes,7,Refused,1
+DIQ010,DIQ010 - Doctor told you have diabetes,9,Don't know,5
+DIQ010,DIQ010 - Doctor told you have diabetes,.,Missing,1
+DID040,DID040 - Age when first told you had diabetes,1 to 79,Range of Values,719
+DID040,DID040 - Age when first told you had diabetes,80,80 years or older,8
+DID040,DID040 - Age when first told you had diabetes,666,Less than 1 year,2
+DID040,DID040 - Age when first told you had diabetes,777,Refused,0
+DID040,DID040 - Age when first told you had diabetes,999,Don't know,8
+DID040,DID040 - Age when first told you had diabetes,.,Missing,9033
+DBQ010,DBQ010 - Ever breastfed or fed breastmilk,1,Yes,1358
+DBQ010,DBQ010 - Ever breastfed or fed breastmilk,2,No,504
+DBQ010,DBQ010 - Ever breastfed or fed breastmilk,7,Refused,0
+DBQ010,DBQ010 - Ever breastfed or fed breastmilk,9,Don't know,3
+DBQ010,DBQ010 - Ever breastfed or fed breastmilk,.,Missing,8310
+DBD030,DBD030 - Age stopped breastfeeding(days),1 to 2190,Range of Values,1186
+DBD030,DBD030 - Age stopped breastfeeding(days),0,Still breastfeeding,168
+DBD030,DBD030 - Age stopped breastfeeding(days),777777,Refused,0
+DBD030,DBD030 - Age stopped breastfeeding(days),999999,Don't know,4
+DBD030,DBD030 - Age stopped breastfeeding(days),.,Missing,8817
+DBD041,DBD041 - Age first fed formula(days),1 to 760,Range of Values,1646
+DBD041,DBD041 - Age first fed formula(days),0,Never,212
+DBD041,DBD041 - Age first fed formula(days),777777,Refused,0
+DBD041,DBD041 - Age first fed formula(days),999999,Don't know,7
+DBD041,DBD041 - Age first fed formula(days),.,Missing,8310
+DBD050,"DBD050 - Age stopped receiving 
+formula(days)",1 to 1460,Range of Values,1270
+DBD050,"DBD050 - Age stopped receiving 
+formula(days)",0,Still drinking formula,369
+DBD050,"DBD050 - Age stopped receiving 
+formula(days)",777777,Refused,0
+DBD050,"DBD050 - Age stopped receiving 
+formula(days)",999999,Don't know,14
+DBD050,"DBD050 - Age stopped receiving 
+formula(days)",.,Missing,8522
+DBD055,"DBD055 - Age started other than 
+breastmilk/fomula",1 to 1825,Range of Values,1718
+DBD055,"DBD055 - Age started other than 
+breastmilk/fomula",0,Never,136
+DBD055,"DBD055 - Age started other than 
+breastmilk/fomula",777777,Refused,0
+DBD055,"DBD055 - Age started other than 
+breastmilk/fomula",999999,Don't know,11
+DBD055,"DBD055 - Age started other than 
+breastmilk/fomula",.,Missing,8310
+DBD061,DBD061 - Age first fed milk(days),1 to 2190,Range of Values,1429
+DBD061,DBD061 - Age first fed milk(days),0,Never,283
+DBD061,DBD061 - Age first fed milk(days),777777,Refused,0
+DBD061,DBD061 - Age first fed milk(days),999999,Don't know,7
+DBD061,DBD061 - Age first fed milk(days),.,Missing,8456
+DBQ073A,"DBQ073A - Type of milk first fed - whole 
+milk",10,Whole or regular milk,1090
+DBQ073A,"DBQ073A - Type of milk first fed - whole 
+milk",77,Refused,0
+DBQ073A,"DBQ073A - Type of milk first fed - whole 
+milk",99,Don't know,0
+DBQ073A,"DBQ073A - Type of milk first fed - whole 
+milk",.,Missing,9085
+DBQ073B,"DBQ073B - Type of milk first fed - 2% 
+milk",11,2% fat or reduced-fat milk,262
+DBQ073B,"DBQ073B - Type of milk first fed - 2% 
+milk",.,Missing,9913
+DBQ073C,"DBQ073C - Type of milk first fed - 1% 
+milk",12,"1% fat or low-fat milk (includes 0.5% fat milk or ","      low-fat milk not further specified),"
+DBQ073C,"DBQ073C - Type of milk first fed - 1% 
+milk",.,Missing,10144
+DBQ073D,"DBQ073D - Type of milk first fed - fat free 
+milk",13,"fat-free, skim or nonfat milk, or",11
+DBQ073D,"DBQ073D - Type of milk first fed - fat free 
+milk",.,Missing,10164
+DBQ073E,"DBQ073E - Type of milk first fed - soy 
+milk",14,"soy milk, or",29
+DBQ073E,"DBQ073E - Type of milk first fed - soy 
+milk",.,Missing,10146
+DBQ073U,DBQ073U - Type of milk first fed - other,30,Another type?,31
+DBQ073U,DBQ073U - Type of milk first fed - other,.,Missing,10144
+DLQ010  ,DLQ010   - Have serious difficulty hearing?,1,Yes,442
+DLQ010  ,DLQ010   - Have serious difficulty hearing?,2,No,9325
+DLQ010  ,DLQ010   - Have serious difficulty hearing?,7,Refused,1
+DLQ010  ,DLQ010   - Have serious difficulty hearing?,9,Don't know,1
+DLQ010  ,DLQ010   - Have serious difficulty hearing?,.,Missing,1
+DLQ020  ,DLQ020   - Have serious difficulty seeing?,1,Yes,432
+DLQ020  ,DLQ020   - Have serious difficulty seeing?,2,No,9333
+DLQ020  ,DLQ020   - Have serious difficulty seeing?,7,Refused,1
+DLQ020  ,DLQ020   - Have serious difficulty seeing?,9,Don't know,3
+DLQ020  ,DLQ020   - Have serious difficulty seeing?,.,Missing,1
+DLQ040  ,DLQ040   - Have serious difficulty concentrating ?,1,Yes,879
+DLQ040  ,DLQ040   - Have serious difficulty concentrating ?,2,No,7899
+DLQ040  ,DLQ040   - Have serious difficulty concentrating ?,7,Refused,1
+DLQ040  ,DLQ040   - Have serious difficulty concentrating ?,9,Don't know,1
+DLQ040  ,DLQ040   - Have serious difficulty concentrating ?,.,Missing,990
+DLQ050  ,DLQ050   - Have serious difficulty walking ?,1,Yes,815
+DLQ050  ,DLQ050   - Have serious difficulty walking ?,2,No,7963
+DLQ050  ,DLQ050   - Have serious difficulty walking ?,7,Refused,1
+DLQ050  ,DLQ050   - Have serious difficulty walking ?,9,Don't know,1
+DLQ050  ,DLQ050   - Have serious difficulty walking ?,.,Missing,990
+DLQ060  ,DLQ060   - Have difficulty dressing or bathing?,1,Yes,341
+DLQ060  ,DLQ060   - Have difficulty dressing or bathing?,2,No,8438
+DLQ060  ,DLQ060   - Have difficulty dressing or bathing?,7,Refused,1
+DLQ060  ,DLQ060   - Have difficulty dressing or bathing?,9,Don't know,0
+DLQ060  ,DLQ060   - Have difficulty dressing or bathing?,.,Missing,990
+DLQ080  ,DLQ080   - Have difficulty doing errands alone ?,1,Yes,474
+DLQ080  ,DLQ080   - Have difficulty doing errands alone ?,2,No,6163
+DLQ080  ,DLQ080   - Have difficulty doing errands alone ?,7,Refused,1
+DLQ080  ,DLQ080   - Have difficulty doing errands alone ?,9,Don't know,2
+DLQ080  ,DLQ080   - Have difficulty doing errands alone ?,.,Missing,3130
+DUQ200,DUQ200 - Ever used marijuana or hashish,1,Yes,1991
+DUQ200,DUQ200 - Ever used marijuana or hashish,2,No,1699
+DUQ200,DUQ200 - Ever used marijuana or hashish,7,Refused,6
+DUQ200,DUQ200 - Ever used marijuana or hashish,9,Don't know,5
+DUQ200,DUQ200 - Ever used marijuana or hashish,.,Missing,1356
+DUQ210,DUQ210 - Age when first tried marijuana,0 to 54,Range of Values,1989
+DUQ210,DUQ210 - Age when first tried marijuana,777,Refused,1
+DUQ210,DUQ210 - Age when first tried marijuana,999,Don't know,1
+DUQ210,DUQ210 - Age when first tried marijuana,.,Missing,3066
+DUQ211  ,DUQ211   - Used marijuana every month for a year?,1,Yes,953
+DUQ211  ,DUQ211   - Used marijuana every month for a year?,2,No,1034
+DUQ211  ,DUQ211   - Used marijuana every month for a year?,7,Refused,2
+DUQ211  ,DUQ211   - Used marijuana every month for a year?,9,Don't know,1
+DUQ211  ,DUQ211   - Used marijuana every month for a year?,.,Missing,3067
+DUQ213  ,DUQ213   - Age started regularly using marijuana,8 to 45,Range of Values,952
+DUQ213  ,DUQ213   - Age started regularly using marijuana,777,Refused,1
+DUQ213  ,DUQ213   - Age started regularly using marijuana,999,Don't know,0
+DUQ213  ,DUQ213   - Age started regularly using marijuana,.,Missing,4104
+DUQ215Q ,DUQ215Q  - Time since last used marijuana regularly,0 to 245,Range of Values,943
+DUQ215Q ,DUQ215Q  - Time since last used marijuana regularly,7777,Refused,1
+DUQ215Q ,DUQ215Q  - Time since last used marijuana regularly,9999,Don't know,1
+DUQ215Q ,DUQ215Q  - Time since last used marijuana regularly,.,Missing,4112
+DUQ215U ,DUQ215U  - Time since used marijuana regularly/unit,1,Days,286
+DUQ215U ,DUQ215U  - Time since used marijuana regularly/unit,2,Weeks,46
+DUQ215U ,DUQ215U  - Time since used marijuana regularly/unit,3,Months,85
+DUQ215U ,DUQ215U  - Time since used marijuana regularly/unit,4,Years,526
+DUQ215U ,DUQ215U  - Time since used marijuana regularly/unit,7,Refused,0
+DUQ215U ,DUQ215U  - Time since used marijuana regularly/unit,9,Don't know,0
+DUQ215U ,DUQ215U  - Time since used marijuana regularly/unit,.,Missing,4114
+DUQ217  ,DUQ217   - How often would you use marijuana?,1,Once per month,56
+DUQ217  ,DUQ217   - How often would you use marijuana?,2,2-3 times per month,108
+DUQ217  ,DUQ217   - How often would you use marijuana?,3,"4-8 times per month (about 1-2 times per ","  week)"
+DUQ217  ,DUQ217   - How often would you use marijuana?,4,"9-24 times per month (about 3-6 times per ","  week)"
+DUQ217  ,DUQ217   - How often would you use marijuana?,5,"25-30 times per month (one or more times ","  per day)"
+DUQ217  ,DUQ217   - How often would you use marijuana?,7,Refused,0
+DUQ217  ,DUQ217   - How often would you use marijuana?,9,Don't know,2
+DUQ217  ,DUQ217   - How often would you use marijuana?,.,Missing,4104
+DUQ219  ,DUQ219   - How many joints or pipes smoke in a day?,1,1 per day,375
+DUQ219  ,DUQ219   - How many joints or pipes smoke in a day?,2,2 per day,284
+DUQ219  ,DUQ219   - How many joints or pipes smoke in a day?,3,3-5 per day,209
+DUQ219  ,DUQ219   - How many joints or pipes smoke in a day?,4,Six or more per day,79
+DUQ219  ,DUQ219   - How many joints or pipes smoke in a day?,7,Refused,2
+DUQ219  ,DUQ219   - How many joints or pipes smoke in a day?,9,Don't know,4
+DUQ219  ,DUQ219   - How many joints or pipes smoke in a day?,.,Missing,4104
+DUQ220Q,DUQ220Q - Last time used marijuana or hashish,0 to 258,Range of Values,1982
+DUQ220Q,DUQ220Q - Last time used marijuana or hashish,7777,Refused,2
+DUQ220Q,DUQ220Q - Last time used marijuana or hashish,9999,Don't know,3
+DUQ220Q,DUQ220Q - Last time used marijuana or hashish,.,Missing,3070
+DUQ220U,DUQ220U - Last time used marijuana or hashish/unit,1,Days,435
+DUQ220U,DUQ220U - Last time used marijuana or hashish/unit,2,Weeks,111
+DUQ220U,DUQ220U - Last time used marijuana or hashish/unit,3,Months,235
+DUQ220U,DUQ220U - Last time used marijuana or hashish/unit,4,Years,1201
+DUQ220U,DUQ220U - Last time used marijuana or hashish/unit,7,Refused,0
+DUQ220U,DUQ220U - Last time used marijuana or hashish/unit,9,Don't know,0
+DUQ220U,DUQ220U - Last time used marijuana or hashish/unit,.,Missing,3075
+DUQ230,DUQ230 - # days used marijuana or hashish/month,1 to 30,Range of Values,570
+DUQ230,DUQ230 - # days used marijuana or hashish/month,777,Refused,0
+DUQ230,DUQ230 - # days used marijuana or hashish/month,999,Don't know,0
+DUQ230,DUQ230 - # days used marijuana or hashish/month,.,Missing,4487
+DUQ240,DUQ240 - Ever used cocaine/heroin/methamphetamine,1,Yes,723
+DUQ240,DUQ240 - Ever used cocaine/heroin/methamphetamine,2,No,3800
+DUQ240,DUQ240 - Ever used cocaine/heroin/methamphetamine,7,Refused,10
+DUQ240,DUQ240 - Ever used cocaine/heroin/methamphetamine,9,Don't know,7
+DUQ240,DUQ240 - Ever used cocaine/heroin/methamphetamine,.,Missing,517
+DUQ250,DUQ250 - Ever use any form of cocaine,1,Yes,674
+DUQ250,DUQ250 - Ever use any form of cocaine,2,No,47
+DUQ250,DUQ250 - Ever use any form of cocaine,7,Refused,2
+DUQ250,DUQ250 - Ever use any form of cocaine,9,Don't know,0
+DUQ250,DUQ250 - Ever use any form of cocaine,.,Missing,4334
+DUQ260,DUQ260 - Age first used cocaine,12 to 47,Range of Values,574
+DUQ260,DUQ260 - Age first used cocaine,777,Refused,0
+DUQ260,DUQ260 - Age first used cocaine,999,Don't know,0
+DUQ260,DUQ260 - Age first used cocaine,.,Missing,4483
+DUQ270Q,"DUQ270Q - Last time you used cocaine, in any form",1 to 41,Range of Values,572
+DUQ270Q,"DUQ270Q - Last time you used cocaine, in any form",7777,Refused,2
+DUQ270Q,"DUQ270Q - Last time you used cocaine, in any form",9999,Don't know,0
+DUQ270Q,"DUQ270Q - Last time you used cocaine, in any form",.,Missing,4483
+DUQ270U,DUQ270U - Last time you used cocaine/unit,1,Days,32
+DUQ270U,DUQ270U - Last time you used cocaine/unit,2,Weeks,14
+DUQ270U,DUQ270U - Last time you used cocaine/unit,3,Months,46
+DUQ270U,DUQ270U - Last time you used cocaine/unit,4,Years,480
+DUQ270U,DUQ270U - Last time you used cocaine/unit,7,Refused,0
+DUQ270U,DUQ270U - Last time you used cocaine/unit,9,Don't know,0
+DUQ270U,DUQ270U - Last time you used cocaine/unit,.,Missing,4485
+DUQ272,DUQ272 - # of time you used cocaine,1,Once,51
+DUQ272,DUQ272 - # of time you used cocaine,2,2-5 times,144
+DUQ272,DUQ272 - # of time you used cocaine,3,6-19 times,112
+DUQ272,DUQ272 - # of time you used cocaine,4,20-49 times,99
+DUQ272,DUQ272 - # of time you used cocaine,5,50-99 times,55
+DUQ272,DUQ272 - # of time you used cocaine,6,100 times or more,112
+DUQ272,DUQ272 - # of time you used cocaine,77,Refused,1
+DUQ272,DUQ272 - # of time you used cocaine,99,Don't know,0
+DUQ272,DUQ272 - # of time you used cocaine,.,Missing,4483
+DUQ280,DUQ280 - # of days used cocaine/month,1 to 25,Range of Values,45
+DUQ280,DUQ280 - # of days used cocaine/month,777,Refused,0
+DUQ280,DUQ280 - # of days used cocaine/month,999,Don't know,0
+DUQ280,DUQ280 - # of days used cocaine/month,.,Missing,5012
+DUQ290,DUQ290 - Ever used heroin,1,Yes,110
+DUQ290,DUQ290 - Ever used heroin,2,No,611
+DUQ290,DUQ290 - Ever used heroin,7,Refused,0
+DUQ290,DUQ290 - Ever used heroin,9,Don't know,2
+DUQ290,DUQ290 - Ever used heroin,.,Missing,4334
+DUQ300,DUQ300 - Age first used heroin,15 to 48,Range of Values,79
+DUQ300,DUQ300 - Age first used heroin,777,Refused,1
+DUQ300,DUQ300 - Age first used heroin,999,Don't know,0
+DUQ300,DUQ300 - Age first used heroin,.,Missing,4977
+DUQ310Q,DUQ310Q - Last time used heroin,0 to 35,Range of Values,80
+DUQ310Q,DUQ310Q - Last time used heroin,7777,Refused,0
+DUQ310Q,DUQ310Q - Last time used heroin,9999,Don't know,0
+DUQ310Q,DUQ310Q - Last time used heroin,.,Missing,4977
+DUQ310U,DUQ310U - Last time used heroin/unit,1,Days,5
+DUQ310U,DUQ310U - Last time used heroin/unit,2,Weeks,6
+DUQ310U,DUQ310U - Last time used heroin/unit,3,Months,6
+DUQ310U,DUQ310U - Last time used heroin/unit,4,Years,63
+DUQ310U,DUQ310U - Last time used heroin/unit,7,Refused,0
+DUQ310U,DUQ310U - Last time used heroin/unit,9,Don't know,0
+DUQ310U,DUQ310U - Last time used heroin/unit,.,Missing,4977
+DUQ320,DUQ320 - # of days used heroin/month,1 to 30,Range of Values,8
+DUQ320,DUQ320 - # of days used heroin/month,77,Refused,0
+DUQ320,DUQ320 - # of days used heroin/month,99,Don't know,0
+DUQ320,DUQ320 - # of days used heroin/month,.,Missing,5049
+DUQ330,DUQ330 - Ever used methamphetamine,1,Yes,284
+DUQ330,DUQ330 - Ever used methamphetamine,2,No,439
+DUQ330,DUQ330 - Ever used methamphetamine,7,Refused,0
+DUQ330,DUQ330 - Ever used methamphetamine,9,Don't know,0
+DUQ330,DUQ330 - Ever used methamphetamine,.,Missing,4334
+DUQ340,DUQ340 - Age first used methamphetamine,10 to 50,Range of Values,246
+DUQ340,DUQ340 - Age first used methamphetamine,777,Refused,0
+DUQ340,DUQ340 - Age first used methamphetamine,999,Don't know,0
+DUQ340,DUQ340 - Age first used methamphetamine,.,Missing,4811
+DUQ350Q,DUQ350Q - Last time used methamphetamine,0 to 40,Range of Values,245
+DUQ350Q,DUQ350Q - Last time used methamphetamine,7777,Refused,1
+DUQ350Q,DUQ350Q - Last time used methamphetamine,9999,Don't know,0
+DUQ350Q,DUQ350Q - Last time used methamphetamine,.,Missing,4811
+DUQ350U,DUQ350U - Last time used methamphetamine/unit,1,Days,24
+DUQ350U,DUQ350U - Last time used methamphetamine/unit,2,Weeks,6
+DUQ350U,DUQ350U - Last time used methamphetamine/unit,3,Months,26
+DUQ350U,DUQ350U - Last time used methamphetamine/unit,4,Years,189
+DUQ350U,DUQ350U - Last time used methamphetamine/unit,7,Refused,0
+DUQ350U,DUQ350U - Last time used methamphetamine/unit,9,Don't know,0
+DUQ350U,DUQ350U - Last time used methamphetamine/unit,.,Missing,4812
+DUQ352,DUQ352 - # times used methamphetamine,1,Once,18
+DUQ352,DUQ352 - # times used methamphetamine,2,2-5 times,51
+DUQ352,DUQ352 - # times used methamphetamine,3,6-19 times,34
+DUQ352,DUQ352 - # times used methamphetamine,4,20-49 times,41
+DUQ352,DUQ352 - # times used methamphetamine,5,50-99 times,27
+DUQ352,DUQ352 - # times used methamphetamine,6,100 times or more,75
+DUQ352,DUQ352 - # times used methamphetamine,77,Refused,0
+DUQ352,DUQ352 - # times used methamphetamine,99,Don't know,0
+DUQ352,DUQ352 - # times used methamphetamine,.,Missing,4811
+DUQ360,DUQ360 - # days used methamphetamine/month,1 to 30,Range of Values,30
+DUQ360,DUQ360 - # days used methamphetamine/month,77,Refused,0
+DUQ360,DUQ360 - # days used methamphetamine/month,99,Don't know,0
+DUQ360,DUQ360 - # days used methamphetamine/month,.,Missing,5027
+DUQ370,DUQ370 - Ever use a needle to inject illegal drug,1,Yes,105
+DUQ370,DUQ370 - Ever use a needle to inject illegal drug,2,No,4430
+DUQ370,DUQ370 - Ever use a needle to inject illegal drug,7,Refused,3
+DUQ370,DUQ370 - Ever use a needle to inject illegal drug,9,Don't know,1
+DUQ370,DUQ370 - Ever use a needle to inject illegal drug,.,Missing,518
+DUQ380A,DUQ380A - Drugs injected - Cocaine,1,Cocaine,55
+DUQ380A,DUQ380A - Drugs injected - Cocaine,7,Refused,0
+DUQ380A,DUQ380A - Drugs injected - Cocaine,9,Don't know,1
+DUQ380A,DUQ380A - Drugs injected - Cocaine,.,Missing,5001
+DUQ380B,DUQ380B - Drugs injected - Heroin,2,Heroin,55
+DUQ380B,DUQ380B - Drugs injected - Heroin,.,Missing,5002
+DUQ380C,DUQ380C - Drugs injected - Methamphetamine,3,Methamphetamine,47
+DUQ380C,DUQ380C - Drugs injected - Methamphetamine,.,Missing,5010
+DUQ380D,DUQ380D - Drugs injected - Steroids,4,Steroids,4
+DUQ380D,DUQ380D - Drugs injected - Steroids,.,Missing,5053
+DUQ380E,DUQ380E - Drugs injected - Any other drugs,5,Any other drugs,12
+DUQ380E,DUQ380E - Drugs injected - Any other drugs,.,Missing,5045
+DUQ390,DUQ390 - Age first injected drugs,12 to 42,Range of Values,105
+DUQ390,DUQ390 - Age first injected drugs,777,Refused,0
+DUQ390,DUQ390 - Age first injected drugs,999,Don't know,0
+DUQ390,DUQ390 - Age first injected drugs,.,Missing,4952
+DUQ400Q,DUQ400Q - Last time injected drugs,0 to 48,Range of Values,105
+DUQ400Q,DUQ400Q - Last time injected drugs,7777,Refused,0
+DUQ400Q,DUQ400Q - Last time injected drugs,9999,Don't know,0
+DUQ400Q,DUQ400Q - Last time injected drugs,.,Missing,4952
+DUQ400U,DUQ400U - Last time injected drugs/unit,1,Days,6
+DUQ400U,DUQ400U - Last time injected drugs/unit,2,Weeks,3
+DUQ400U,DUQ400U - Last time injected drugs/unit,3,Months,13
+DUQ400U,DUQ400U - Last time injected drugs/unit,4,Years,83
+DUQ400U,DUQ400U - Last time injected drugs/unit,7,Refused,0
+DUQ400U,DUQ400U - Last time injected drugs/unit,9,Don't know,0
+DUQ400U,DUQ400U - Last time injected drugs/unit,.,Missing,4952
+DUQ410,DUQ410 - # times injected drugs/lifetime,1,Once,10
+DUQ410,DUQ410 - # times injected drugs/lifetime,2,2-5 times,22
+DUQ410,DUQ410 - # times injected drugs/lifetime,3,6-19 times,14
+DUQ410,DUQ410 - # times injected drugs/lifetime,4,20-49 times,14
+DUQ410,DUQ410 - # times injected drugs/lifetime,5,50-99 times,13
+DUQ410,DUQ410 - # times injected drugs/lifetime,6,100 times or more,31
+DUQ410,DUQ410 - # times injected drugs/lifetime,77,Refused,0
+DUQ410,DUQ410 - # times injected drugs/lifetime,99,Don't know,1
+DUQ410,DUQ410 - # times injected drugs/lifetime,.,Missing,4952
+DUQ420,DUQ420 - How often did you inject drugs,1,"More than once a day,",33
+DUQ420,DUQ420 - How often did you inject drugs,2,"About once a day,",17
+DUQ420,DUQ420 - How often did you inject drugs,3,"At least once a week but not every day,",19
+DUQ420,DUQ420 - How often did you inject drugs,4,"At least once a month but not every week,",7
+DUQ420,DUQ420 - How often did you inject drugs,5,Less than once a month,18
+DUQ420,DUQ420 - How often did you inject drugs,7,Refused,1
+DUQ420,DUQ420 - How often did you inject drugs,9,Don't know,0
+DUQ420,DUQ420 - How often did you inject drugs,.,Missing,4962
+ECD010,ECD010 - Mother's age when born,15 to 44,Range of Values,3654
+ECD010,ECD010 - Mother's age when born,14,14 years or younger,7
+ECD010,ECD010 - Mother's age when born,45,45 years or older,7
+ECD010,ECD010 - Mother's age when born,7777,Refused,2
+ECD010,ECD010 - Mother's age when born,9999,Don't know,40
+ECD010,ECD010 - Mother's age when born,.,Missing,1
+ECQ020,ECQ020 - Mother smoked when pregnant,1,Yes,358
+ECQ020,ECQ020 - Mother smoked when pregnant,2,No,3322
+ECQ020,ECQ020 - Mother smoked when pregnant,7,Refused,1
+ECQ020,ECQ020 - Mother smoked when pregnant,9,Don't know,29
+ECQ020,ECQ020 - Mother smoked when pregnant,.,Missing,1
+ECD070A,"ECD070A - Weight at birth, pounds",1 to 12,Range of Values,3622
+ECD070A,"ECD070A - Weight at birth, pounds",13,13 pounds or more,0
+ECD070A,"ECD070A - Weight at birth, pounds",7777,Refused,0
+ECD070A,"ECD070A - Weight at birth, pounds",9999,Don't know,88
+ECD070A,"ECD070A - Weight at birth, pounds",.,Missing,1
+ECD070B,"ECD070B - Weight at birth, ounces",0 to 15,Range of Values,3622
+ECD070B,"ECD070B - Weight at birth, ounces",7777,Refused,0
+ECD070B,"ECD070B - Weight at birth, ounces",9999,Don't know,88
+ECD070B,"ECD070B - Weight at birth, ounces",.,Missing,1
+FSD032A,FSD032A - HH Worried run out of food,1,Often true,1007
+FSD032A,FSD032A - HH Worried run out of food,2,Sometimes true,1967
+FSD032A,FSD032A - HH Worried run out of food,3,Never true,7070
+FSD032A,FSD032A - HH Worried run out of food,7,Refused,7
+FSD032A,FSD032A - HH Worried run out of food,9,Don't know,8
+FSD032A,FSD032A - HH Worried run out of food,.,Missing,116
+FSD032B,FSD032B - HH Food didn't last,1,Often true,663
+FSD032B,FSD032B - HH Food didn't last,2,Sometimes true,1816
+FSD032B,FSD032B - HH Food didn't last,3,Never true,7574
+FSD032B,FSD032B - HH Food didn't last,7,Refused,6
+FSD032B,FSD032B - HH Food didn't last,9,Don't know,0
+FSD032B,FSD032B - HH Food didn't last,.,Missing,116
+FSD032C,FSD032C - HH Couldn't afford balanced meals,1,Often true,565
+FSD032C,FSD032C - HH Couldn't afford balanced meals,2,Sometimes true,1542
+FSD032C,FSD032C - HH Couldn't afford balanced meals,3,Never true,7939
+FSD032C,FSD032C - HH Couldn't afford balanced meals,7,Refused,6
+FSD032C,FSD032C - HH Couldn't afford balanced meals,9,Don't know,7
+FSD032C,FSD032C - HH Couldn't afford balanced meals,.,Missing,116
+HIQ011,HIQ011 - Covered by health insurance,1,Yes,8594
+HIQ011,HIQ011 - Covered by health insurance,2,No,1570
+HIQ011,HIQ011 - Covered by health insurance,7,Refused,3
+HIQ011,HIQ011 - Covered by health insurance,9,Don't know,8
+HIQ011,HIQ011 - Covered by health insurance,.,Missing,0
+HIQ031A,HIQ031A - Covered by private insurance,14,Covered by private insurance,4797
+HIQ031A,HIQ031A - Covered by private insurance,77,Refused,1
+HIQ031A,HIQ031A - Covered by private insurance,99,Don't know,23
+HIQ031A,HIQ031A - Covered by private insurance,.,Missing,5354
+HIQ031B,HIQ031B - Covered by Medicare,15,Covered by Medicare,1226
+HIQ031B,HIQ031B - Covered by Medicare,.,Missing,8949
+HIQ031C,HIQ031C - Covered by Medi-Gap,16,Covered by Medi-Gap,11
+HIQ031C,HIQ031C - Covered by Medi-Gap,.,Missing,10164
+HIQ031D,HIQ031D - Covered by Medicaid,17,Covered by Medicaid,2402
+HIQ031D,HIQ031D - Covered by Medicaid,.,Missing,7773
+HIQ031E,HIQ031E - Covered by SCHIP,18,Covered by SCHIP,53
+HIQ031E,HIQ031E - Covered by SCHIP,.,Missing,10122
+HIQ031F,HIQ031F - Covered by military health care,19,Covered by military health care,240
+HIQ031F,HIQ031F - Covered by military health care,.,Missing,9935
+HIQ031G,HIQ031G - Covered by Indian Health Service,20,Covered by Indian Health Service,10
+HIQ031G,HIQ031G - Covered by Indian Health Service,.,Missing,10165
+HIQ031H,HIQ031H - Covered by state-sponsored health plan,21,Covered by state-sponsored health plan,563
+HIQ031H,HIQ031H - Covered by state-sponsored health plan,.,Missing,9612
+HIQ031I,HIQ031I - Covered by other government insurance,22,Covered by other government insurance,206
+HIQ031I,HIQ031I - Covered by other government insurance,.,Missing,9969
+HIQ031J,HIQ031J - Covered by single service plan,23,Covered by single service plan,233
+HIQ031J,HIQ031J - Covered by single service plan,.,Missing,9942
+HIQ031AA,HIQ031AA - No coverage of any type,40,No coverage of any type,8
+HIQ031AA,HIQ031AA - No coverage of any type,.,Missing,10167
+HEQ010  ,HEQ010   - Ever told you have Hepatitis B?,1,Yes,66
+HEQ010  ,HEQ010   - Ever told you have Hepatitis B?,2,No,8479
+HEQ010  ,HEQ010   - Ever told you have Hepatitis B?,7,Refused,0
+HEQ010  ,HEQ010   - Ever told you have Hepatitis B?,9,Don't know,27
+HEQ010  ,HEQ010   - Ever told you have Hepatitis B?,.,Missing,0
+HEQ020  ,HEQ020   - Ever prescribed meds treat Hepatitis B?,1,Yes,9
+HEQ020  ,HEQ020   - Ever prescribed meds treat Hepatitis B?,2,No,44
+HEQ020  ,HEQ020   - Ever prescribed meds treat Hepatitis B?,7,Refused,0
+HEQ020  ,HEQ020   - Ever prescribed meds treat Hepatitis B?,9,Don't know,13
+HEQ020  ,HEQ020   - Ever prescribed meds treat Hepatitis B?,.,Missing,8506
+HEQ030  ,HEQ030   - Ever told you have Hepatitis C?,1,Yes,76
+HEQ030  ,HEQ030   - Ever told you have Hepatitis C?,2,No,8468
+HEQ030  ,HEQ030   - Ever told you have Hepatitis C?,7,Refused,0
+HEQ030  ,HEQ030   - Ever told you have Hepatitis C?,9,Don't know,28
+HEQ030  ,HEQ030   - Ever told you have Hepatitis C?,.,Missing,0
+HEQ040  ,HEQ040   - Ever prescribed meds treat Hepatitis C?,1,Yes,24
+HEQ040  ,HEQ040   - Ever prescribed meds treat Hepatitis C?,2,No,47
+HEQ040  ,HEQ040   - Ever prescribed meds treat Hepatitis C?,7,Refused,0
+HEQ040  ,HEQ040   - Ever prescribed meds treat Hepatitis C?,9,Don't know,5
+HEQ040  ,HEQ040   - Ever prescribed meds treat Hepatitis C?,.,Missing,8496
+HUQ010,HUQ010 - General health condition,1,"Excellent,",2615
+HUQ010,HUQ010 - General health condition,2,"Very good,",2716
+HUQ010,HUQ010 - General health condition,3,"Good,",3235
+HUQ010,HUQ010 - General health condition,4,"Fair, or",1330
+HUQ010,HUQ010 - General health condition,5,Poor?,274
+HUQ010,HUQ010 - General health condition,7,Refused,2
+HUQ010,HUQ010 - General health condition,9,Don't know,3
+HUQ010,HUQ010 - General health condition,.,Missing,0
+HOD050,HOD050 - Number of rooms in home,1,1,88
+HOD050,HOD050 - Number of rooms in home,2,2,202
+HOD050,HOD050 - Number of rooms in home,3,3,683
+HOD050,HOD050 - Number of rooms in home,4,4,1613
+HOD050,HOD050 - Number of rooms in home,5,5,2093
+HOD050,HOD050 - Number of rooms in home,6,6,1922
+HOD050,HOD050 - Number of rooms in home,7,7,1272
+HOD050,HOD050 - Number of rooms in home,8,8,853
+HOD050,HOD050 - Number of rooms in home,9,9,574
+HOD050,HOD050 - Number of rooms in home,10,10,343
+HOD050,HOD050 - Number of rooms in home,11,11,197
+HOD050,HOD050 - Number of rooms in home,12,12,108
+HOD050,HOD050 - Number of rooms in home,13,13 or more,85
+HOD050,HOD050 - Number of rooms in home,777,Refused,16
+HOD050,HOD050 - Number of rooms in home,999,Don't know,5
+HOD050,HOD050 - Number of rooms in home,.,Missing,121
+HOQ065,"HOQ065 - Home owned, bought, rented, other",1,Owned or being bought,5550
+HOQ065,"HOQ065 - Home owned, bought, rented, other",2,Rented,4269
+HOQ065,"HOQ065 - Home owned, bought, rented, other",3,Other arrangement,223
+HOQ065,"HOQ065 - Home owned, bought, rented, other",7,Refused,11
+HOQ065,"HOQ065 - Home owned, bought, rented, other",9,Don't know,1
+HOQ065,"HOQ065 - Home owned, bought, rented, other",.,Missing,121
+IMQ011  ,IMQ011   - Received Hepatitis A vaccine,1,"Yes, at least 2 doses",4238
+IMQ011  ,IMQ011   - Received Hepatitis A vaccine,2,Less than 2 doses,194
+IMQ011  ,IMQ011   - Received Hepatitis A vaccine,3,No doses,3943
+IMQ011  ,IMQ011   - Received Hepatitis A vaccine,7,Refused,6
+IMQ011  ,IMQ011   - Received Hepatitis A vaccine,9,Don't know,1126
+IMQ011  ,IMQ011   - Received Hepatitis A vaccine,.,Missing,668
+IMQ020  ,IMQ020   - Received Hepatitis B 3 dose series,1,Yes at least 3 doses,5230
+IMQ020  ,IMQ020   - Received Hepatitis B 3 dose series,2,Less than 3 doses,453
+IMQ020  ,IMQ020   - Received Hepatitis B 3 dose series,3,No doses,3517
+IMQ020  ,IMQ020   - Received Hepatitis B 3 dose series,7,Refused,7
+IMQ020  ,IMQ020   - Received Hepatitis B 3 dose series,9,Don't know,968
+IMQ020  ,IMQ020   - Received Hepatitis B 3 dose series,.,Missing,0
+INQ020,INQ020 - Income from wages/salaries,1,Yes,8142
+INQ020,INQ020 - Income from wages/salaries,2,No,1856
+INQ020,INQ020 - Income from wages/salaries,7,Refused,48
+INQ020,INQ020 - Income from wages/salaries,9,Don't know,6
+INQ020,INQ020 - Income from wages/salaries,.,Missing,123
+INQ012,INQ012 - Income from self employment,1,Yes,1530
+INQ012,INQ012 - Income from self employment,2,No,8497
+INQ012,INQ012 - Income from self employment,7,Refused,24
+INQ012,INQ012 - Income from self employment,9,Don't know,1
+INQ012,INQ012 - Income from self employment,.,Missing,123
+INQ030,INQ030 - Income from Social Security or RR,1,Yes,2218
+INQ030,INQ030 - Income from Social Security or RR,2,No,7804
+INQ030,INQ030 - Income from Social Security or RR,7,Refused,21
+INQ030,INQ030 - Income from Social Security or RR,9,Don't know,9
+INQ030,INQ030 - Income from Social Security or RR,.,Missing,123
+INQ060,INQ060 - Income from other disability pension,1,Yes,754
+INQ060,INQ060 - Income from other disability pension,2,No,9269
+INQ060,INQ060 - Income from other disability pension,7,Refused,24
+INQ060,INQ060 - Income from other disability pension,9,Don't know,5
+INQ060,INQ060 - Income from other disability pension,.,Missing,123
+INQ080,INQ080 - Income from retirement/survivor pension,1,Yes,1019
+INQ080,INQ080 - Income from retirement/survivor pension,2,No,9011
+INQ080,INQ080 - Income from retirement/survivor pension,7,Refused,20
+INQ080,INQ080 - Income from retirement/survivor pension,9,Don't know,2
+INQ080,INQ080 - Income from retirement/survivor pension,.,Missing,123
+INQ090,INQ090 - Income from Supplemental Security Income,1,Yes,710
+INQ090,INQ090 - Income from Supplemental Security Income,2,No,9314
+INQ090,INQ090 - Income from Supplemental Security Income,7,Refused,20
+INQ090,INQ090 - Income from Supplemental Security Income,9,Don't know,8
+INQ090,INQ090 - Income from Supplemental Security Income,.,Missing,123
+INQ132,INQ132 - Income from state/county cash assistance,1,Yes,623
+INQ132,INQ132 - Income from state/county cash assistance,2,No,9398
+INQ132,INQ132 - Income from state/county cash assistance,7,Refused,26
+INQ132,INQ132 - Income from state/county cash assistance,9,Don't know,5
+INQ132,INQ132 - Income from state/county cash assistance,.,Missing,123
+INQ140,INQ140 - Income from interest/dividends or rental,1,Yes,2022
+INQ140,INQ140 - Income from interest/dividends or rental,2,No,7990
+INQ140,INQ140 - Income from interest/dividends or rental,7,Refused,29
+INQ140,INQ140 - Income from interest/dividends or rental,9,Don't know,11
+INQ140,INQ140 - Income from interest/dividends or rental,.,Missing,123
+INQ150,INQ150 - Income from other sources,1,Yes,1487
+INQ150,INQ150 - Income from other sources,2,No,8546
+INQ150,INQ150 - Income from other sources,7,Refused,16
+INQ150,INQ150 - Income from other sources,9,Don't know,3
+INQ150,INQ150 - Income from other sources,.,Missing,123
+IND235,IND235 - Monthly family income,1,$0 - $399,317
+IND235,IND235 - Monthly family income,2,$400 - $799,488
+IND235,IND235 - Monthly family income,3,$800 - $1249,1012
+IND235,IND235 - Monthly family income,4,$1250 - $1649,789
+IND235,IND235 - Monthly family income,5,$1650 - $2099,863
+IND235,IND235 - Monthly family income,6,$2100 - $2899,981
+IND235,IND235 - Monthly family income,7,$2900 - $3749,1010
+IND235,IND235 - Monthly family income,8,$3750 - $4599,769
+IND235,IND235 - Monthly family income,9,$4600 - $5399,539
+IND235,IND235 - Monthly family income,10,$5400 - $6249,401
+IND235,IND235 - Monthly family income,11,$6250 - $8399,717
+IND235,IND235 - Monthly family income,12,$8400 and over,1223
+IND235,IND235 - Monthly family income,77,Refused,235
+IND235,IND235 - Monthly family income,99,Don't know,462
+IND235,IND235 - Monthly family income,.,Missing,369
+INDFMMPI,INDFMMPI - Family monthly poverty level index,0 to 4.97,Range of Values,8002
+INDFMMPI,INDFMMPI - Family monthly poverty level index,5,Value greater than or equal to 5.00,1107
+INDFMMPI,INDFMMPI - Family monthly poverty level index,.,Missing,1066
+INDFMMPC,INDFMMPC - Family monthly poverty level category,1,Monthly poverty level index <= 1.30,4107
+INDFMMPC,INDFMMPC - Family monthly poverty level category,2,1.30 < Monthly poverty level index <= 1.85,1329
+INDFMMPC,INDFMMPC - Family monthly poverty level category,3,Monthly poverty level index > 1.85,4189
+INDFMMPC,INDFMMPC - Family monthly poverty level category,7,Refused,63
+INDFMMPC,INDFMMPC - Family monthly poverty level category,9,Don't Know,118
+INDFMMPC,INDFMMPC - Family monthly poverty level category,.,Missing,369
+KIQ022,KIQ022 - Ever told you had weak/failing kidneys,1,Yes,187
+KIQ022,KIQ022 - Ever told you had weak/failing kidneys,2,No,5574
+KIQ022,KIQ022 - Ever told you had weak/failing kidneys,7,Refused,0
+KIQ022,KIQ022 - Ever told you had weak/failing kidneys,9,Don't know,8
+KIQ022,KIQ022 - Ever told you had weak/failing kidneys,.,Missing,0
+KIQ025,KIQ025 - Received dialysis in past 12 months,1,Yes,20
+KIQ025,KIQ025 - Received dialysis in past 12 months,2,No,167
+KIQ025,KIQ025 - Received dialysis in past 12 months,7,Refused,0
+KIQ025,KIQ025 - Received dialysis in past 12 months,9,Don't know,0
+KIQ025,KIQ025 - Received dialysis in past 12 months,.,Missing,5582
+KIQ026,KIQ026 - Ever had kidney stones?,1,Yes,535
+KIQ026,KIQ026 - Ever had kidney stones?,2,No,5223
+KIQ026,KIQ026 - Ever had kidney stones?,7,Refused,0
+KIQ026,KIQ026 - Ever had kidney stones?,9,Don't know,11
+KIQ026,KIQ026 - Ever had kidney stones?,.,Missing,0
+KID028,KID028 - How many times passed a kidney stone?,0 to 24,Range of Values,520
+KID028,KID028 - How many times passed a kidney stone?,777,Refused,0
+KID028,KID028 - How many times passed a kidney stone?,999,Don't know,15
+KID028,KID028 - How many times passed a kidney stone?,.,Missing,5234
+KIQ005,KIQ005 - How often have urinary leakage,1,"never,",3513
+KIQ005,KIQ005 - How often have urinary leakage,2,"less than once a month,",463
+KIQ005,KIQ005 - How often have urinary leakage,3,"a few times a month,",526
+KIQ005,KIQ005 - How often have urinary leakage,4,"a few times a week, or",293
+KIQ005,KIQ005 - How often have urinary leakage,5,every day and/or night?,295
+KIQ005,KIQ005 - How often have urinary leakage,7,Refused,2
+KIQ005,KIQ005 - How often have urinary leakage,9,Don't know,4
+KIQ005,KIQ005 - How often have urinary leakage,.,Missing,673
+KIQ010,KIQ010 - How much urine lose each time?,1,"drops,",1057
+KIQ010,KIQ010 - How much urine lose each time?,2,"small splashes, or",341
+KIQ010,KIQ010 - How much urine lose each time?,3,more?,170
+KIQ010,KIQ010 - How much urine lose each time?,7,Refused,1
+KIQ010,KIQ010 - How much urine lose each time?,9,Don't know,8
+KIQ010,KIQ010 - How much urine lose each time?,.,Missing,4192
+KIQ042,KIQ042 - Leak urine during physical activities,1,Yes,1169
+KIQ042,KIQ042 - Leak urine during physical activities,2,No,3920
+KIQ042,KIQ042 - Leak urine during physical activities,7,Refused,1
+KIQ042,KIQ042 - Leak urine during physical activities,9,Don't know,6
+KIQ042,KIQ042 - Leak urine during physical activities,.,Missing,673
+KIQ430,KIQ430 - How frequently does this occur?,1,"less than once a month,",523
+KIQ430,KIQ430 - How frequently does this occur?,2,"a few times a month,",350
+KIQ430,KIQ430 - How frequently does this occur?,3,"a few times a week, or",188
+KIQ430,KIQ430 - How frequently does this occur?,4,every day and/or night?,105
+KIQ430,KIQ430 - How frequently does this occur?,7,Refused,0
+KIQ430,KIQ430 - How frequently does this occur?,9,Don't know,3
+KIQ430,KIQ430 - How frequently does this occur?,.,Missing,4600
+KIQ044,KIQ044 - Urinated before reaching the toilet,1,Yes,1087
+KIQ044,KIQ044 - Urinated before reaching the toilet,2,No,3998
+KIQ044,KIQ044 - Urinated before reaching the toilet,7,Refused,1
+KIQ044,KIQ044 - Urinated before reaching the toilet,9,Don't know,9
+KIQ044,KIQ044 - Urinated before reaching the toilet,.,Missing,674
+KIQ450,KIQ450 - How frequently does this occur?,1,"less than once a month,",459
+KIQ450,KIQ450 - How frequently does this occur?,2,"a few times a month,",347
+KIQ450,KIQ450 - How frequently does this occur?,3,"a few times a week, or",163
+KIQ450,KIQ450 - How frequently does this occur?,4,every day and/or night?,114
+KIQ450,KIQ450 - How frequently does this occur?,7,Refused,0
+KIQ450,KIQ450 - How frequently does this occur?,9,Don't know,4
+KIQ450,KIQ450 - How frequently does this occur?,.,Missing,4682
+KIQ046,KIQ046 - Leak urine during nonphysical activities,1,Yes,468
+KIQ046,KIQ046 - Leak urine during nonphysical activities,2,No,4620
+KIQ046,KIQ046 - Leak urine during nonphysical activities,7,Refused,1
+KIQ046,KIQ046 - Leak urine during nonphysical activities,9,Don't know,7
+KIQ046,KIQ046 - Leak urine during nonphysical activities,.,Missing,673
+KIQ470,KIQ470 - How frequently does this occur?,1,"less than once a month,",134
+KIQ470,KIQ470 - How frequently does this occur?,2,"a few times a month,",145
+KIQ470,KIQ470 - How frequently does this occur?,3,"a few times a week, or",100
+KIQ470,KIQ470 - How frequently does this occur?,4,every day and/or night?,89
+KIQ470,KIQ470 - How frequently does this occur?,7,Refused,0
+KIQ470,KIQ470 - How frequently does this occur?,9,Don't know,0
+KIQ470,KIQ470 - How frequently does this occur?,.,Missing,5301
+MCQ010  ,MCQ010   - Ever been told you have asthma,1,Yes,1538
+MCQ010  ,MCQ010   - Ever been told you have asthma,2,No,8222
+MCQ010  ,MCQ010   - Ever been told you have asthma,7,Refused,1
+MCQ010  ,MCQ010   - Ever been told you have asthma,9,Don't know,8
+MCQ010  ,MCQ010   - Ever been told you have asthma,.,Missing,1
+MCQ025  ,MCQ025   - Age when first had asthma,1 to 78,Range of Values,1507
+MCQ025  ,MCQ025   - Age when first had asthma,80,80 years or older,6
+MCQ025  ,MCQ025   - Age when first had asthma,77777,Refused,0
+MCQ025  ,MCQ025   - Age when first had asthma,99999,Don't know,25
+MCQ025  ,MCQ025   - Age when first had asthma,.,Missing,8232
+MCQ035  ,MCQ035   - Still have asthma,1,Yes,939
+MCQ035  ,MCQ035   - Still have asthma,2,No,582
+MCQ035  ,MCQ035   - Still have asthma,7,Refused,0
+MCQ035  ,MCQ035   - Still have asthma,9,Don't know,17
+MCQ035  ,MCQ035   - Still have asthma,.,Missing,8232
+MCQ040  ,MCQ040   - Had asthma attack in past year,1,Yes,464
+MCQ040  ,MCQ040   - Had asthma attack in past year,2,No,473
+MCQ040  ,MCQ040   - Had asthma attack in past year,7,Refused,0
+MCQ040  ,MCQ040   - Had asthma attack in past year,9,Don't know,2
+MCQ040  ,MCQ040   - Had asthma attack in past year,.,Missing,8831
+MCQ050  ,MCQ050   - Emergency care visit for asthma/past yr,1,Yes,193
+MCQ050  ,MCQ050   - Emergency care visit for asthma/past yr,2,No,745
+MCQ050  ,MCQ050   - Emergency care visit for asthma/past yr,7,Refused,0
+MCQ050  ,MCQ050   - Emergency care visit for asthma/past yr,9,Don't know,1
+MCQ050  ,MCQ050   - Emergency care visit for asthma/past yr,.,Missing,8831
+AGQ030  ,AGQ030   - Did SP have episode of hay fever/past yr,1,Yes,261
+AGQ030  ,AGQ030   - Did SP have episode of hay fever/past yr,2,No,675
+AGQ030  ,AGQ030   - Did SP have episode of hay fever/past yr,7,Refused,0
+AGQ030  ,AGQ030   - Did SP have episode of hay fever/past yr,9,Don't know,3
+AGQ030  ,AGQ030   - Did SP have episode of hay fever/past yr,.,Missing,8831
+MCQ053  ,MCQ053   - Taking treatment for anemia/past 3 mos,1,Yes,308
+MCQ053  ,MCQ053   - Taking treatment for anemia/past 3 mos,2,No,9454
+MCQ053  ,MCQ053   - Taking treatment for anemia/past 3 mos,7,Refused,1
+MCQ053  ,MCQ053   - Taking treatment for anemia/past 3 mos,9,Don't know,6
+MCQ053  ,MCQ053   - Taking treatment for anemia/past 3 mos,.,Missing,1
+MCQ070  ,MCQ070   - Ever been told you have psoriasis?,1,Yes,162
+MCQ070  ,MCQ070   - Ever been told you have psoriasis?,2,No,6296
+MCQ070  ,MCQ070   - Ever been told you have psoriasis?,7,Refused,0
+MCQ070  ,MCQ070   - Ever been told you have psoriasis?,9,Don't know,6
+MCQ070  ,MCQ070   - Ever been told you have psoriasis?,.,Missing,3306
+MCQ075  ,MCQ075   - Degree of Psoriasis,1,"little or no psoriasis,",88
+MCQ075  ,MCQ075   - Degree of Psoriasis,2,"only a few patches (that could be covered ","by one or two palms of {your/his/her} "
+MCQ075  ,MCQ075   - Degree of Psoriasis,3,"scattered patches (that could be covered ","between three and ten palms of {your/ "
+MCQ075  ,MCQ075   - Degree of Psoriasis,4,"extensive psoriasis (covering large areas of ","the body, that would be more than ten "
+MCQ075  ,MCQ075   - Degree of Psoriasis,7,Refused,0
+MCQ075  ,MCQ075   - Degree of Psoriasis,9,Don't know,2
+MCQ075  ,MCQ075   - Degree of Psoriasis,.,Missing,9608
+MCQ080  ,MCQ080   - Doctor ever said you were overweight,1,Yes,2154
+MCQ080  ,MCQ080   - Doctor ever said you were overweight,2,No,4308
+MCQ080  ,MCQ080   - Doctor ever said you were overweight,7,Refused,0
+MCQ080  ,MCQ080   - Doctor ever said you were overweight,9,Don't know,2
+MCQ080  ,MCQ080   - Doctor ever said you were overweight,.,Missing,3306
+MCQ082  ,MCQ082   - Ever been told you have celiac disease?,1,Yes,33
+MCQ082  ,MCQ082   - Ever been told you have celiac disease?,2,No,8534
+MCQ082  ,MCQ082   - Ever been told you have celiac disease?,7,Refused,0
+MCQ082  ,MCQ082   - Ever been told you have celiac disease?,9,Don't know,5
+MCQ082  ,MCQ082   - Ever been told you have celiac disease?,.,Missing,1198
+MCQ084  ,MCQ084   - Difficulties in thinking or remembering,1,Yes,318
+MCQ084  ,MCQ084   - Difficulties in thinking or remembering,2,No,1521
+MCQ084  ,MCQ084   - Difficulties in thinking or remembering,7,Refused,0
+MCQ084  ,MCQ084   - Difficulties in thinking or remembering,9,Don't know,1
+MCQ084  ,MCQ084   - Difficulties in thinking or remembering,.,Missing,7930
+MCQ086  ,MCQ086   - Are you on a gluten-free diet?,1,Yes,123
+MCQ086  ,MCQ086   - Are you on a gluten-free diet?,2,No,8446
+MCQ086  ,MCQ086   - Are you on a gluten-free diet?,7,Refused,0
+MCQ086  ,MCQ086   - Are you on a gluten-free diet?,9,Don't know,3
+MCQ086  ,MCQ086   - Are you on a gluten-free diet?,.,Missing,1198
+MCQ092  ,MCQ092   - Ever receive blood transfusion,1,Yes,732
+MCQ092  ,MCQ092   - Ever receive blood transfusion,2,No,7782
+MCQ092  ,MCQ092   - Ever receive blood transfusion,7,Refused,1
+MCQ092  ,MCQ092   - Ever receive blood transfusion,9,Don't know,57
+MCQ092  ,MCQ092   - Ever receive blood transfusion,.,Missing,1198
+MCD093,MCD093 - Year receive blood transfusion,1,Before 1972,128
+MCD093,MCD093 - Year receive blood transfusion,2,1972 - 1991,187
+MCD093,MCD093 - Year receive blood transfusion,3,1992 to present,388
+MCD093,MCD093 - Year receive blood transfusion,7,Refused,1
+MCD093,MCD093 - Year receive blood transfusion,9,Don't know,28
+MCD093,MCD093 - Year receive blood transfusion,.,Missing,9038
+MCQ149  ,MCQ149   - Menstrual periods started yet?,1,Yes,38
+MCQ149  ,MCQ149   - Menstrual periods started yet?,2,No,394
+MCQ149  ,MCQ149   - Menstrual periods started yet?,7,Refused,0
+MCQ149  ,MCQ149   - Menstrual periods started yet?,9,Don't know,0
+MCQ149  ,MCQ149   - Menstrual periods started yet?,.,Missing,9338
+MCQ151  ,MCQ151   - Age at first menstrual period,8 to 11,Range of Values,38
+MCQ151  ,MCQ151   - Age at first menstrual period,77,Refused,0
+MCQ151  ,MCQ151   - Age at first menstrual period,99,Don't know,0
+MCQ151  ,MCQ151   - Age at first menstrual period,.,Missing,9732
+MCQ160a ,MCQ160a  - Doctor ever said you had arthritis,1,Yes,1508
+MCQ160a ,MCQ160a  - Doctor ever said you had arthritis,2,No,4248
+MCQ160a ,MCQ160a  - Doctor ever said you had arthritis,7,Refused,0
+MCQ160a ,MCQ160a  - Doctor ever said you had arthritis,9,Don't know,13
+MCQ160a ,MCQ160a  - Doctor ever said you had arthritis,.,Missing,4001
+MCQ180a ,MCQ180a  - Age when told you had arthritis,1 to 79,Range of Values,1426
+MCQ180a ,MCQ180a  - Age when told you had arthritis,80,80 years or older,52
+MCQ180a ,MCQ180a  - Age when told you had arthritis,77777,Refused,0
+MCQ180a ,MCQ180a  - Age when told you had arthritis,99999,Don't know,30
+MCQ180a ,MCQ180a  - Age when told you had arthritis,.,Missing,8262
+MCQ195  ,MCQ195   - Which type of arthritis was it?,1,Osteoarthritis or degenerative arthritis,694
+MCQ195  ,MCQ195   - Which type of arthritis was it?,2,Rheumatoid arthritis,254
+MCQ195  ,MCQ195   - Which type of arthritis was it?,3,Psoriatic arthritis,21
+MCQ195  ,MCQ195   - Which type of arthritis was it?,4,Other,138
+MCQ195  ,MCQ195   - Which type of arthritis was it?,7,Refused,1
+MCQ195  ,MCQ195   - Which type of arthritis was it?,9,Don't know,400
+MCQ195  ,MCQ195   - Which type of arthritis was it?,.,Missing,8262
+MCQ160n ,MCQ160n  - Doctor ever told you that you had gout?,1,Yes,234
+MCQ160n ,MCQ160n  - Doctor ever told you that you had gout?,2,No,5531
+MCQ160n ,MCQ160n  - Doctor ever told you that you had gout?,7,Refused,0
+MCQ160n ,MCQ160n  - Doctor ever told you that you had gout?,9,Don't know,4
+MCQ160n ,MCQ160n  - Doctor ever told you that you had gout?,.,Missing,4001
+MCQ180n ,MCQ180n  - Age when told you had gout.,8 to 79,Range of Values,219
+MCQ180n ,MCQ180n  - Age when told you had gout.,80,80 years or older,12
+MCQ180n ,MCQ180n  - Age when told you had gout.,77777,Refused,0
+MCQ180n ,MCQ180n  - Age when told you had gout.,99999,Don't know,3
+MCQ180n ,MCQ180n  - Age when told you had gout.,.,Missing,9536
+MCQ160b ,MCQ160b  - Ever told had congestive heart failure,1,Yes,182
+MCQ160b ,MCQ160b  - Ever told had congestive heart failure,2,No,5579
+MCQ160b ,MCQ160b  - Ever told had congestive heart failure,7,Refused,0
+MCQ160b ,MCQ160b  - Ever told had congestive heart failure,9,Don't know,8
+MCQ160b ,MCQ160b  - Ever told had congestive heart failure,.,Missing,4001
+MCQ180b ,MCQ180b  - Age when told you had heart failure,0 to 79,Range of Values,166
+MCQ180b ,MCQ180b  - Age when told you had heart failure,80,80 years or older,15
+MCQ180b ,MCQ180b  - Age when told you had heart failure,77777,Refused,0
+MCQ180b ,MCQ180b  - Age when told you had heart failure,99999,Don't know,1
+MCQ180b ,MCQ180b  - Age when told you had heart failure,.,Missing,9588
+MCQ160c ,MCQ160c  - Ever told you had coronary heart disease,1,Yes,232
+MCQ160c ,MCQ160c  - Ever told you had coronary heart disease,2,No,5519
+MCQ160c ,MCQ160c  - Ever told you had coronary heart disease,7,Refused,0
+MCQ160c ,MCQ160c  - Ever told you had coronary heart disease,9,Don't know,18
+MCQ160c ,MCQ160c  - Ever told you had coronary heart disease,.,Missing,4001
+MCQ180c ,MCQ180c  - Age when told had coronary heart disease,0 to 79,Range of Values,210
+MCQ180c ,MCQ180c  - Age when told had coronary heart disease,80,80 years or older,21
+MCQ180c ,MCQ180c  - Age when told had coronary heart disease,77777,Refused,0
+MCQ180c ,MCQ180c  - Age when told had coronary heart disease,99999,Don't know,1
+MCQ180c ,MCQ180c  - Age when told had coronary heart disease,.,Missing,9538
+MCQ160d ,MCQ160d  - Ever told you had angina/angina pectoris,1,Yes,136
+MCQ160d ,MCQ160d  - Ever told you had angina/angina pectoris,2,No,5625
+MCQ160d ,MCQ160d  - Ever told you had angina/angina pectoris,7,Refused,0
+MCQ160d ,MCQ160d  - Ever told you had angina/angina pectoris,9,Don't know,8
+MCQ160d ,MCQ160d  - Ever told you had angina/angina pectoris,.,Missing,4001
+MCQ180d ,MCQ180d  - Age when told you had angina pectoris,9 to 79,Range of Values,125
+MCQ180d ,MCQ180d  - Age when told you had angina pectoris,80,80 years or older,10
+MCQ180d ,MCQ180d  - Age when told you had angina pectoris,77777,Refused,0
+MCQ180d ,MCQ180d  - Age when told you had angina pectoris,99999,Don't know,1
+MCQ180d ,MCQ180d  - Age when told you had angina pectoris,.,Missing,9634
+MCQ160e ,MCQ160e  - Ever told you had heart attack,1,Yes,230
+MCQ160e ,MCQ160e  - Ever told you had heart attack,2,No,5536
+MCQ160e ,MCQ160e  - Ever told you had heart attack,7,Refused,0
+MCQ160e ,MCQ160e  - Ever told you had heart attack,9,Don't know,3
+MCQ160e ,MCQ160e  - Ever told you had heart attack,.,Missing,4001
+MCQ180e ,MCQ180e  - Age when told you had heart attack,16 to 78,Range of Values,215
+MCQ180e ,MCQ180e  - Age when told you had heart attack,80,80 years or older,13
+MCQ180e ,MCQ180e  - Age when told you had heart attack,77777,Refused,0
+MCQ180e ,MCQ180e  - Age when told you had heart attack,99999,Don't know,1
+MCQ180e ,MCQ180e  - Age when told you had heart attack,.,Missing,9541
+MCQ160f ,MCQ160f  - Ever told you had a stroke,1,Yes,202
+MCQ160f ,MCQ160f  - Ever told you had a stroke,2,No,5562
+MCQ160f ,MCQ160f  - Ever told you had a stroke,7,Refused,0
+MCQ160f ,MCQ160f  - Ever told you had a stroke,9,Don't know,5
+MCQ160f ,MCQ160f  - Ever told you had a stroke,.,Missing,4001
+MCQ180f ,MCQ180f  - Age when told you had a stroke,7 to 79,Range of Values,182
+MCQ180f ,MCQ180f  - Age when told you had a stroke,80,80 years or older,18
+MCQ180f ,MCQ180f  - Age when told you had a stroke,77777,Refused,0
+MCQ180f ,MCQ180f  - Age when told you had a stroke,99999,Don't know,2
+MCQ180f ,MCQ180f  - Age when told you had a stroke,.,Missing,9568
+MCQ160g ,MCQ160g  - Ever told you had emphysema,1,Yes,95
+MCQ160g ,MCQ160g  - Ever told you had emphysema,2,No,5671
+MCQ160g ,MCQ160g  - Ever told you had emphysema,7,Refused,0
+MCQ160g ,MCQ160g  - Ever told you had emphysema,9,Don't know,3
+MCQ160g ,MCQ160g  - Ever told you had emphysema,.,Missing,4001
+MCQ180g ,MCQ180g  - Age when told you had emphysema,10 to 79,Range of Values,89
+MCQ180g ,MCQ180g  - Age when told you had emphysema,80,80 years or older,4
+MCQ180g ,MCQ180g  - Age when told you had emphysema,77777,Refused,0
+MCQ180g ,MCQ180g  - Age when told you had emphysema,99999,Don't know,2
+MCQ180g ,MCQ180g  - Age when told you had emphysema,.,Missing,9675
+MCQ160m ,MCQ160m  - Ever told you had thyroid problem,1,Yes,601
+MCQ160m ,MCQ160m  - Ever told you had thyroid problem,2,No,5157
+MCQ160m ,MCQ160m  - Ever told you had thyroid problem,7,Refused,0
+MCQ160m ,MCQ160m  - Ever told you had thyroid problem,9,Don't know,11
+MCQ160m ,MCQ160m  - Ever told you had thyroid problem,.,Missing,4001
+MCQ170m ,MCQ170m  - Do you still have thyroid problem,1,Yes,432
+MCQ170m ,MCQ170m  - Do you still have thyroid problem,2,No,149
+MCQ170m ,MCQ170m  - Do you still have thyroid problem,7,Refused,0
+MCQ170m ,MCQ170m  - Do you still have thyroid problem,9,Don't know,20
+MCQ170m ,MCQ170m  - Do you still have thyroid problem,.,Missing,9169
+MCQ180m ,MCQ180m  - Age when told you had thyroid problem,1 to 78,Range of Values,579
+MCQ180m ,MCQ180m  - Age when told you had thyroid problem,80,80 years or older,12
+MCQ180m ,MCQ180m  - Age when told you had thyroid problem,77777,Refused,0
+MCQ180m ,MCQ180m  - Age when told you had thyroid problem,99999,Don't know,10
+MCQ180m ,MCQ180m  - Age when told you had thyroid problem,.,Missing,9169
+MCQ160k ,MCQ160k  - Ever told you had chronic bronchitis,1,Yes,320
+MCQ160k ,MCQ160k  - Ever told you had chronic bronchitis,2,No,5441
+MCQ160k ,MCQ160k  - Ever told you had chronic bronchitis,7,Refused,0
+MCQ160k ,MCQ160k  - Ever told you had chronic bronchitis,9,Don't know,8
+MCQ160k ,MCQ160k  - Ever told you had chronic bronchitis,.,Missing,4001
+MCQ170k ,MCQ170k  - Do you still have chronic bronchitis,1,Yes,150
+MCQ170k ,MCQ170k  - Do you still have chronic bronchitis,2,No,162
+MCQ170k ,MCQ170k  - Do you still have chronic bronchitis,7,Refused,0
+MCQ170k ,MCQ170k  - Do you still have chronic bronchitis,9,Don't know,8
+MCQ170k ,MCQ170k  - Do you still have chronic bronchitis,.,Missing,9450
+MCQ180k ,MCQ180k  - Age when told you had chronic bronchitis,0 to 79,Range of Values,304
+MCQ180k ,MCQ180k  - Age when told you had chronic bronchitis,80,80 years or older,6
+MCQ180k ,MCQ180k  - Age when told you had chronic bronchitis,77777,Refused,0
+MCQ180k ,MCQ180k  - Age when told you had chronic bronchitis,99999,Don't know,10
+MCQ180k ,MCQ180k  - Age when told you had chronic bronchitis,.,Missing,9450
+MCQ160l ,MCQ160l  - Ever told you had any liver condition,1,Yes,234
+MCQ160l ,MCQ160l  - Ever told you had any liver condition,2,No,5525
+MCQ160l ,MCQ160l  - Ever told you had any liver condition,7,Refused,0
+MCQ160l ,MCQ160l  - Ever told you had any liver condition,9,Don't know,10
+MCQ160l ,MCQ160l  - Ever told you had any liver condition,.,Missing,4001
+MCQ170l ,MCQ170l  - Do you still have a liver condition,1,Yes,132
+MCQ170l ,MCQ170l  - Do you still have a liver condition,2,No,83
+MCQ170l ,MCQ170l  - Do you still have a liver condition,7,Refused,0
+MCQ170l ,MCQ170l  - Do you still have a liver condition,9,Don't know,19
+MCQ170l ,MCQ170l  - Do you still have a liver condition,.,Missing,9536
+MCQ180l ,MCQ180l  - Age when told you had a liver condition,5 to 75,Range of Values,230
+MCQ180l ,MCQ180l  - Age when told you had a liver condition,80,80 years or older,0
+MCQ180l ,MCQ180l  - Age when told you had a liver condition,77777,Refused,0
+MCQ180l ,MCQ180l  - Age when told you had a liver condition,99999,Don't know,4
+MCQ180l ,MCQ180l  - Age when told you had a liver condition,.,Missing,9536
+MCQ160o ,MCQ160o  - Ever told you had COPD?,1,Yes,192
+MCQ160o ,MCQ160o  - Ever told you had COPD?,2,No,5573
+MCQ160o ,MCQ160o  - Ever told you had COPD?,7,Refused,0
+MCQ160o ,MCQ160o  - Ever told you had COPD?,9,Don't know,4
+MCQ160o ,MCQ160o  - Ever told you had COPD?,.,Missing,4001
+MCQ203  ,MCQ203   - Ever been told you have jaundice?,1,Yes,157
+MCQ203  ,MCQ203   - Ever been told you have jaundice?,2,No,8304
+MCQ203  ,MCQ203   - Ever been told you have jaundice?,7,Refused,0
+MCQ203  ,MCQ203   - Ever been told you have jaundice?,9,Don't know,11
+MCQ203  ,MCQ203   - Ever been told you have jaundice?,.,Missing,1298
+MCQ206  ,MCQ206   - Age when told you have jaundice?,0 to 72,Range of Values,155
+MCQ206  ,MCQ206   - Age when told you have jaundice?,80,80 years or older,0
+MCQ206  ,MCQ206   - Age when told you have jaundice?,777,Refused,0
+MCQ206  ,MCQ206   - Age when told you have jaundice?,999,Don't know,2
+MCQ206  ,MCQ206   - Age when told you have jaundice?,.,Missing,9613
+MCQ220  ,MCQ220   - Ever told you had cancer or malignancy,1,Yes,547
+MCQ220  ,MCQ220   - Ever told you had cancer or malignancy,2,No,5222
+MCQ220  ,MCQ220   - Ever told you had cancer or malignancy,7,Refused,0
+MCQ220  ,MCQ220   - Ever told you had cancer or malignancy,9,Don't know,0
+MCQ220  ,MCQ220   - Ever told you had cancer or malignancy,.,Missing,4001
+MCQ230a ,MCQ230a  - What kind of cancer,10,Bladder,8
+MCQ230a ,MCQ230a  - What kind of cancer,11,Blood,4
+MCQ230a ,MCQ230a  - What kind of cancer,12,Bone,0
+MCQ230a ,MCQ230a  - What kind of cancer,13,Brain,3
+MCQ230a ,MCQ230a  - What kind of cancer,14,Breast,95
+MCQ230a ,MCQ230a  - What kind of cancer,15,Cervix (cervical),35
+MCQ230a ,MCQ230a  - What kind of cancer,16,Colon,24
+MCQ230a ,MCQ230a  - What kind of cancer,17,Esophagus (esophageal),1
+MCQ230a ,MCQ230a  - What kind of cancer,18,Gallbladder,0
+MCQ230a ,MCQ230a  - What kind of cancer,19,Kidney,11
+MCQ230a ,MCQ230a  - What kind of cancer,20,Larynx/ windpipe,4
+MCQ230a ,MCQ230a  - What kind of cancer,21,Leukemia,4
+MCQ230a ,MCQ230a  - What kind of cancer,22,Liver,4
+MCQ230a ,MCQ230a  - What kind of cancer,23,Lung,16
+MCQ230a ,MCQ230a  - What kind of cancer,24,Lymphoma/ Hodgkin's disease,10
+MCQ230a ,MCQ230a  - What kind of cancer,25,Melanoma,38
+MCQ230a ,MCQ230a  - What kind of cancer,26,Mouth/tongue/lip,4
+MCQ230a ,MCQ230a  - What kind of cancer,27,Nervous system,0
+MCQ230a ,MCQ230a  - What kind of cancer,28,Ovary (ovarian),7
+MCQ230a ,MCQ230a  - What kind of cancer,29,Pancreas (pancreatic),2
+MCQ230a ,MCQ230a  - What kind of cancer,30,Prostate,65
+MCQ230a ,MCQ230a  - What kind of cancer,31,Rectum (rectal),1
+MCQ230a ,MCQ230a  - What kind of cancer,32,Skin (non-melanoma),98
+MCQ230a ,MCQ230a  - What kind of cancer,33,Skin (don't know what kind),47
+MCQ230a ,MCQ230a  - What kind of cancer,34,Soft tissue (muscle or fat),3
+MCQ230a ,MCQ230a  - What kind of cancer,35,Stomach,3
+MCQ230a ,MCQ230a  - What kind of cancer,36,Testis (testicular),3
+MCQ230a ,MCQ230a  - What kind of cancer,37,Thyroid,11
+MCQ230a ,MCQ230a  - What kind of cancer,38,Uterus (uterine),16
+MCQ230a ,MCQ230a  - What kind of cancer,39,Other,26
+MCQ230a ,MCQ230a  - What kind of cancer,66,More than 3 kinds,0
+MCQ230a ,MCQ230a  - What kind of cancer,77,Refused,0
+MCQ230a ,MCQ230a  - What kind of cancer,99,Don't know,4
+MCQ230a ,MCQ230a  - What kind of cancer,.,Missing,9223
+MCQ230b ,MCQ230b  - What kind of cancer,10,Bladder,3
+MCQ230b ,MCQ230b  - What kind of cancer,11,Blood,0
+MCQ230b ,MCQ230b  - What kind of cancer,12,Bone,2
+MCQ230b ,MCQ230b  - What kind of cancer,13,Brain,0
+MCQ230b ,MCQ230b  - What kind of cancer,14,Breast,5
+MCQ230b ,MCQ230b  - What kind of cancer,15,Cervix (cervical),2
+MCQ230b ,MCQ230b  - What kind of cancer,16,Colon,3
+MCQ230b ,MCQ230b  - What kind of cancer,17,Esophagus (esophageal),1
+MCQ230b ,MCQ230b  - What kind of cancer,18,Gallbladder,0
+MCQ230b ,MCQ230b  - What kind of cancer,19,Kidney,1
+MCQ230b ,MCQ230b  - What kind of cancer,20,Larynx/ windpipe,0
+MCQ230b ,MCQ230b  - What kind of cancer,21,Leukemia,1
+MCQ230b ,MCQ230b  - What kind of cancer,22,Liver,1
+MCQ230b ,MCQ230b  - What kind of cancer,23,Lung,4
+MCQ230b ,MCQ230b  - What kind of cancer,24,Lymphoma/ Hodgkins disease,1
+MCQ230b ,MCQ230b  - What kind of cancer,25,Melanoma,4
+MCQ230b ,MCQ230b  - What kind of cancer,26,Mouth/tongue/lip,0
+MCQ230b ,MCQ230b  - What kind of cancer,27,Nervous system,0
+MCQ230b ,MCQ230b  - What kind of cancer,28,Ovary (ovarian),3
+MCQ230b ,MCQ230b  - What kind of cancer,29,Pancreas (pancreatic),1
+MCQ230b ,MCQ230b  - What kind of cancer,30,Prostate,2
+MCQ230b ,MCQ230b  - What kind of cancer,31,Rectum (rectal),0
+MCQ230b ,MCQ230b  - What kind of cancer,32,Skin (non-melanoma),7
+MCQ230b ,MCQ230b  - What kind of cancer,33,Skin (don't know what kind),10
+MCQ230b ,MCQ230b  - What kind of cancer,34,Soft tissue (muscle or fat),0
+MCQ230b ,MCQ230b  - What kind of cancer,35,Stomach,0
+MCQ230b ,MCQ230b  - What kind of cancer,36,Testis (testicular),0
+MCQ230b ,MCQ230b  - What kind of cancer,37,Thyroid,1
+MCQ230b ,MCQ230b  - What kind of cancer,38,Uterus (uterine),2
+MCQ230b ,MCQ230b  - What kind of cancer,39,Other,7
+MCQ230b ,MCQ230b  - What kind of cancer,66,More than 3 kinds,0
+MCQ230b ,MCQ230b  - What kind of cancer,77,Refused,0
+MCQ230b ,MCQ230b  - What kind of cancer,99,Don't know,0
+MCQ230b ,MCQ230b  - What kind of cancer,.,Missing,9709
+MCQ230c ,MCQ230c  - What kind of cancer,10,Bladder,0
+MCQ230c ,MCQ230c  - What kind of cancer,11,Blood,0
+MCQ230c ,MCQ230c  - What kind of cancer,12,Bone,0
+MCQ230c ,MCQ230c  - What kind of cancer,13,Brain,0
+MCQ230c ,MCQ230c  - What kind of cancer,14,Breast,1
+MCQ230c ,MCQ230c  - What kind of cancer,15,Cervix (cervical),0
+MCQ230c ,MCQ230c  - What kind of cancer,16,Colon,1
+MCQ230c ,MCQ230c  - What kind of cancer,17,Esophagus (esophageal),0
+MCQ230c ,MCQ230c  - What kind of cancer,18,Gallbladder,0
+MCQ230c ,MCQ230c  - What kind of cancer,19,Kidney,0
+MCQ230c ,MCQ230c  - What kind of cancer,20,Larynx/ windpipe,0
+MCQ230c ,MCQ230c  - What kind of cancer,21,Leukemia,0
+MCQ230c ,MCQ230c  - What kind of cancer,22,Liver,0
+MCQ230c ,MCQ230c  - What kind of cancer,23,Lung,1
+MCQ230c ,MCQ230c  - What kind of cancer,24,Lymphoma/ Hodgkins disease,0
+MCQ230c ,MCQ230c  - What kind of cancer,25,Melanoma,0
+MCQ230c ,MCQ230c  - What kind of cancer,26,Mouth/tongue/lip,0
+MCQ230c ,MCQ230c  - What kind of cancer,27,Nervous system,0
+MCQ230c ,MCQ230c  - What kind of cancer,28,Ovary (ovarian),0
+MCQ230c ,MCQ230c  - What kind of cancer,29,Pancreas (pancreatic),0
+MCQ230c ,MCQ230c  - What kind of cancer,30,Prostate,1
+MCQ230c ,MCQ230c  - What kind of cancer,31,Rectum (rectal),0
+MCQ230c ,MCQ230c  - What kind of cancer,32,Skin (non-melanoma),0
+MCQ230c ,MCQ230c  - What kind of cancer,33,Skin (don't know what kind),0
+MCQ230c ,MCQ230c  - What kind of cancer,34,Soft tissue (muscle or fat),0
+MCQ230c ,MCQ230c  - What kind of cancer,35,Stomach,0
+MCQ230c ,MCQ230c  - What kind of cancer,36,Testis (testicular),0
+MCQ230c ,MCQ230c  - What kind of cancer,37,Thyroid,0
+MCQ230c ,MCQ230c  - What kind of cancer,38,Uterus (uterine),0
+MCQ230c ,MCQ230c  - What kind of cancer,39,Other,0
+MCQ230c ,MCQ230c  - What kind of cancer,66,More than 3 kinds,0
+MCQ230c ,MCQ230c  - What kind of cancer,77,Refused,0
+MCQ230c ,MCQ230c  - What kind of cancer,99,Don't know,0
+MCQ230c ,MCQ230c  - What kind of cancer,.,Missing,9766
+MCQ230d ,MCQ230d  - What kind of cancer,10,Bladder,0
+MCQ230d ,MCQ230d  - What kind of cancer,11,Blood,0
+MCQ230d ,MCQ230d  - What kind of cancer,12,Bone,0
+MCQ230d ,MCQ230d  - What kind of cancer,13,Brain,0
+MCQ230d ,MCQ230d  - What kind of cancer,14,Breast,0
+MCQ230d ,MCQ230d  - What kind of cancer,15,Cervix (cervical),0
+MCQ230d ,MCQ230d  - What kind of cancer,16,Colon,0
+MCQ230d ,MCQ230d  - What kind of cancer,17,Esophagus (esophageal),0
+MCQ230d ,MCQ230d  - What kind of cancer,18,Gallbladder,0
+MCQ230d ,MCQ230d  - What kind of cancer,19,Kidney,0
+MCQ230d ,MCQ230d  - What kind of cancer,20,Larynx/ windpipe,0
+MCQ230d ,MCQ230d  - What kind of cancer,21,Leukemia,0
+MCQ230d ,MCQ230d  - What kind of cancer,22,Liver,0
+MCQ230d ,MCQ230d  - What kind of cancer,23,Lung,0
+MCQ230d ,MCQ230d  - What kind of cancer,24,Lymphoma/ Hodgkins disease,0
+MCQ230d ,MCQ230d  - What kind of cancer,25,Melanoma,0
+MCQ230d ,MCQ230d  - What kind of cancer,26,Mouth/tongue/lip,0
+MCQ230d ,MCQ230d  - What kind of cancer,27,Nervous system,0
+MCQ230d ,MCQ230d  - What kind of cancer,28,Ovary (ovarian),0
+MCQ230d ,MCQ230d  - What kind of cancer,29,Pancreas (pancreatic),0
+MCQ230d ,MCQ230d  - What kind of cancer,30,Prostate,0
+MCQ230d ,MCQ230d  - What kind of cancer,31,Rectum (rectal),0
+MCQ230d ,MCQ230d  - What kind of cancer,32,Skin (non-melanoma),0
+MCQ230d ,MCQ230d  - What kind of cancer,33,Skin (don't know what kind),0
+MCQ230d ,MCQ230d  - What kind of cancer,34,Soft tissue (muscle or fat),0
+MCQ230d ,MCQ230d  - What kind of cancer,35,Stomach,0
+MCQ230d ,MCQ230d  - What kind of cancer,36,Testis (testicular),0
+MCQ230d ,MCQ230d  - What kind of cancer,37,Thyroid,0
+MCQ230d ,MCQ230d  - What kind of cancer,38,Uterus (uterine),0
+MCQ230d ,MCQ230d  - What kind of cancer,39,Other,0
+MCQ230d ,MCQ230d  - What kind of cancer,66,More than 3 kinds,2
+MCQ230d ,MCQ230d  - What kind of cancer,77,Refused,0
+MCQ230d ,MCQ230d  - What kind of cancer,99,Don't know,0
+MCQ230d ,MCQ230d  - What kind of cancer,.,Missing,9768
+MCQ240a ,MCQ240a  - Age when bladder cancer first diagnosed,50 to 75,Range of Values,8
+MCQ240a ,MCQ240a  - Age when bladder cancer first diagnosed,80,80 years or older,3
+MCQ240a ,MCQ240a  - Age when bladder cancer first diagnosed,77777,Refused,0
+MCQ240a ,MCQ240a  - Age when bladder cancer first diagnosed,99999,Don't know,0
+MCQ240a ,MCQ240a  - Age when bladder cancer first diagnosed,.,Missing,9759
+MCQ240aa,MCQ240aa - Age testicular cancer first diagnosed,22 to 32,Range of Values,3
+MCQ240aa,MCQ240aa - Age testicular cancer first diagnosed,80,80 years or older,0
+MCQ240aa,MCQ240aa - Age testicular cancer first diagnosed,77777,Refused,0
+MCQ240aa,MCQ240aa - Age testicular cancer first diagnosed,99999,Don't know,0
+MCQ240aa,MCQ240aa - Age testicular cancer first diagnosed,.,Missing,9767
+MCQ240b ,MCQ240b  - Age when blood cancer first diagnosed,10 to 63,Range of Values,4
+MCQ240b ,MCQ240b  - Age when blood cancer first diagnosed,80,80 years or older,0
+MCQ240b ,MCQ240b  - Age when blood cancer first diagnosed,77777,Refused,0
+MCQ240b ,MCQ240b  - Age when blood cancer first diagnosed,99999,Don't know,0
+MCQ240b ,MCQ240b  - Age when blood cancer first diagnosed,.,Missing,9766
+MCQ240bb,MCQ240bb - Age when thyroid cancer first diagnosed,25 to 66,Range of Values,12
+MCQ240bb,MCQ240bb - Age when thyroid cancer first diagnosed,80,80 years or older,0
+MCQ240bb,MCQ240bb - Age when thyroid cancer first diagnosed,77777,Refused,0
+MCQ240bb,MCQ240bb - Age when thyroid cancer first diagnosed,99999,Don't know,0
+MCQ240bb,MCQ240bb - Age when thyroid cancer first diagnosed,.,Missing,9758
+MCQ240c ,MCQ240c  - Age when bone cancer first diagnosed,58 to 59,Range of Values,2
+MCQ240c ,MCQ240c  - Age when bone cancer first diagnosed,80,80 years or older,0
+MCQ240c ,MCQ240c  - Age when bone cancer first diagnosed,77777,Refused,0
+MCQ240c ,MCQ240c  - Age when bone cancer first diagnosed,99999,Don't know,0
+MCQ240c ,MCQ240c  - Age when bone cancer first diagnosed,.,Missing,9768
+MCQ240cc,MCQ240cc - Age when uterine cancer first diagnosed,14 to 67,Range of Values,18
+MCQ240cc,MCQ240cc - Age when uterine cancer first diagnosed,80,80 years or older,0
+MCQ240cc,MCQ240cc - Age when uterine cancer first diagnosed,77777,Refused,0
+MCQ240cc,MCQ240cc - Age when uterine cancer first diagnosed,99999,Don't know,0
+MCQ240cc,MCQ240cc - Age when uterine cancer first diagnosed,.,Missing,9752
+MCQ240d ,MCQ240d  - Age when brain cancer first diagnosed,25 to 73,Range of Values,3
+MCQ240d ,MCQ240d  - Age when brain cancer first diagnosed,80,80 years or older,0
+MCQ240d ,MCQ240d  - Age when brain cancer first diagnosed,77777,Refused,0
+MCQ240d ,MCQ240d  - Age when brain cancer first diagnosed,99999,Don't know,0
+MCQ240d ,MCQ240d  - Age when brain cancer first diagnosed,.,Missing,9767
+MCQ240dd,MCQ240dd - Age other type of cancer first diagnosed,4 to 76,Range of Values,29
+MCQ240dd,MCQ240dd - Age other type of cancer first diagnosed,80,80 years or older,4
+MCQ240dd,MCQ240dd - Age other type of cancer first diagnosed,77777,Refused,0
+MCQ240dd,MCQ240dd - Age other type of cancer first diagnosed,99999,Don't know,0
+MCQ240dd,MCQ240dd - Age other type of cancer first diagnosed,.,Missing,9737
+MCQ240dk,MCQ240dk - How old when cancer first diagnosed?,28 to 47,Range of Values,4
+MCQ240dk,MCQ240dk - How old when cancer first diagnosed?,80,80 years or older,0
+MCQ240dk,MCQ240dk - How old when cancer first diagnosed?,777,Refused,0
+MCQ240dk,MCQ240dk - How old when cancer first diagnosed?,999,Don't know,0
+MCQ240dk,MCQ240dk - How old when cancer first diagnosed?,.,Missing,9766
+MCQ240e ,MCQ240e  - Age when breast cancer first diagnosed,14 to 79,Range of Values,97
+MCQ240e ,MCQ240e  - Age when breast cancer first diagnosed,80,80 years or older,2
+MCQ240e ,MCQ240e  - Age when breast cancer first diagnosed,77777,Refused,0
+MCQ240e ,MCQ240e  - Age when breast cancer first diagnosed,99999,Don't know,2
+MCQ240e ,MCQ240e  - Age when breast cancer first diagnosed,.,Missing,9669
+MCQ240f ,MCQ240f  - Age when cervical cancer first diagnosed,15 to 65,Range of Values,37
+MCQ240f ,MCQ240f  - Age when cervical cancer first diagnosed,80,80 years or older,0
+MCQ240f ,MCQ240f  - Age when cervical cancer first diagnosed,77777,Refused,0
+MCQ240f ,MCQ240f  - Age when cervical cancer first diagnosed,99999,Don't know,0
+MCQ240f ,MCQ240f  - Age when cervical cancer first diagnosed,.,Missing,9733
+MCQ240g ,MCQ240g  - Age when colon cancer first diagnosed,25 to 76,Range of Values,27
+MCQ240g ,MCQ240g  - Age when colon cancer first diagnosed,80,80 years or older,1
+MCQ240g ,MCQ240g  - Age when colon cancer first diagnosed,77777,Refused,0
+MCQ240g ,MCQ240g  - Age when colon cancer first diagnosed,99999,Don't know,0
+MCQ240g ,MCQ240g  - Age when colon cancer first diagnosed,.,Missing,9742
+MCQ240h ,MCQ240h  - Age esophageal cancer first diagnosed,54 to 56,Range of Values,2
+MCQ240h ,MCQ240h  - Age esophageal cancer first diagnosed,80,80 years or older,0
+MCQ240h ,MCQ240h  - Age esophageal cancer first diagnosed,77777,Refused,0
+MCQ240h ,MCQ240h  - Age esophageal cancer first diagnosed,99999,Don't know,0
+MCQ240h ,MCQ240h  - Age esophageal cancer first diagnosed,.,Missing,9768
+MCQ240i ,MCQ240i  - Age gallbladder cancer first diagnosed,80,80 years or older,0
+MCQ240i ,MCQ240i  - Age gallbladder cancer first diagnosed,77777,Refused,0
+MCQ240i ,MCQ240i  - Age gallbladder cancer first diagnosed,99999,Don't know,0
+MCQ240i ,MCQ240i  - Age gallbladder cancer first diagnosed,.,Missing,9770
+MCQ240j ,MCQ240j  - Age when kidney cancer first diagnosed,36 to 74,Range of Values,11
+MCQ240j ,MCQ240j  - Age when kidney cancer first diagnosed,80,80 years or older,1
+MCQ240j ,MCQ240j  - Age when kidney cancer first diagnosed,77777,Refused,0
+MCQ240j ,MCQ240j  - Age when kidney cancer first diagnosed,99999,Don't know,0
+MCQ240j ,MCQ240j  - Age when kidney cancer first diagnosed,.,Missing,9758
+MCQ240k ,MCQ240k  - Age larynx/windpipe cancer diagnosed,51 to 69,Range of Values,4
+MCQ240k ,MCQ240k  - Age larynx/windpipe cancer diagnosed,80,80 years or older,0
+MCQ240k ,MCQ240k  - Age larynx/windpipe cancer diagnosed,77777,Refused,0
+MCQ240k ,MCQ240k  - Age larynx/windpipe cancer diagnosed,99999,Don't know,0
+MCQ240k ,MCQ240k  - Age larynx/windpipe cancer diagnosed,.,Missing,9766
+MCQ240l ,MCQ240l  - Age when leukemia first diagnosed,9 to 75,Range of Values,5
+MCQ240l ,MCQ240l  - Age when leukemia first diagnosed,80,80 years or older,0
+MCQ240l ,MCQ240l  - Age when leukemia first diagnosed,77777,Refused,0
+MCQ240l ,MCQ240l  - Age when leukemia first diagnosed,99999,Don't know,0
+MCQ240l ,MCQ240l  - Age when leukemia first diagnosed,.,Missing,9765
+MCQ240m ,MCQ240m  - Age when liver cancer first diagnosed,45 to 70,Range of Values,5
+MCQ240m ,MCQ240m  - Age when liver cancer first diagnosed,80,80 years or older,0
+MCQ240m ,MCQ240m  - Age when liver cancer first diagnosed,77777,Refused,0
+MCQ240m ,MCQ240m  - Age when liver cancer first diagnosed,99999,Don't know,0
+MCQ240m ,MCQ240m  - Age when liver cancer first diagnosed,.,Missing,9765
+MCQ240n ,MCQ240n  - Age when lung cancer first diagnosed,29 to 79,Range of Values,20
+MCQ240n ,MCQ240n  - Age when lung cancer first diagnosed,80,80 years or older,1
+MCQ240n ,MCQ240n  - Age when lung cancer first diagnosed,77777,Refused,0
+MCQ240n ,MCQ240n  - Age when lung cancer first diagnosed,99999,Don't know,0
+MCQ240n ,MCQ240n  - Age when lung cancer first diagnosed,.,Missing,9749
+MCQ240o ,MCQ240o  - Age lymphoma/Hodgkins'  diagnosed,25 to 79,Range of Values,11
+MCQ240o ,MCQ240o  - Age lymphoma/Hodgkins'  diagnosed,80,80 years or older,0
+MCQ240o ,MCQ240o  - Age lymphoma/Hodgkins'  diagnosed,77777,Refused,0
+MCQ240o ,MCQ240o  - Age lymphoma/Hodgkins'  diagnosed,99999,Don't know,0
+MCQ240o ,MCQ240o  - Age lymphoma/Hodgkins'  diagnosed,.,Missing,9759
+MCQ240p ,MCQ240p  - Age when melanoma first diagnosed,18 to 77,Range of Values,41
+MCQ240p ,MCQ240p  - Age when melanoma first diagnosed,80,80 years or older,1
+MCQ240p ,MCQ240p  - Age when melanoma first diagnosed,77777,Refused,0
+MCQ240p ,MCQ240p  - Age when melanoma first diagnosed,99999,Don't know,0
+MCQ240p ,MCQ240p  - Age when melanoma first diagnosed,.,Missing,9728
+MCQ240q ,MCQ240q  - Age mouth\tongue\lip cancer diagnosed,41 to 50,Range of Values,4
+MCQ240q ,MCQ240q  - Age mouth\tongue\lip cancer diagnosed,80,80 years or older,0
+MCQ240q ,MCQ240q  - Age mouth\tongue\lip cancer diagnosed,77777,Refused,0
+MCQ240q ,MCQ240q  - Age mouth\tongue\lip cancer diagnosed,99999,Don't know,0
+MCQ240q ,MCQ240q  - Age mouth\tongue\lip cancer diagnosed,.,Missing,9766
+MCQ240r ,MCQ240r  - Age nervous system cancer diagnosed,80,80 years or older,0
+MCQ240r ,MCQ240r  - Age nervous system cancer diagnosed,77777,Refused,0
+MCQ240r ,MCQ240r  - Age nervous system cancer diagnosed,99999,Don't know,0
+MCQ240r ,MCQ240r  - Age nervous system cancer diagnosed,.,Missing,9770
+MCQ240s ,MCQ240s  - Age when ovarian cancer first diagnosed,16 to 70,Range of Values,10
+MCQ240s ,MCQ240s  - Age when ovarian cancer first diagnosed,80,80 years or older,0
+MCQ240s ,MCQ240s  - Age when ovarian cancer first diagnosed,77777,Refused,0
+MCQ240s ,MCQ240s  - Age when ovarian cancer first diagnosed,99999,Don't know,0
+MCQ240s ,MCQ240s  - Age when ovarian cancer first diagnosed,.,Missing,9760
+MCQ240t ,MCQ240t  - Age pancreatic cancer first diagnosed,48 to 63,Range of Values,3
+MCQ240t ,MCQ240t  - Age pancreatic cancer first diagnosed,80,80 years or older,0
+MCQ240t ,MCQ240t  - Age pancreatic cancer first diagnosed,77777,Refused,0
+MCQ240t ,MCQ240t  - Age pancreatic cancer first diagnosed,99999,Don't know,0
+MCQ240t ,MCQ240t  - Age pancreatic cancer first diagnosed,.,Missing,9767
+MCQ240u ,MCQ240u  - Age prostate cancer first diagnosed,49 to 79,Range of Values,67
+MCQ240u ,MCQ240u  - Age prostate cancer first diagnosed,80,80 years or older,1
+MCQ240u ,MCQ240u  - Age prostate cancer first diagnosed,77777,Refused,0
+MCQ240u ,MCQ240u  - Age prostate cancer first diagnosed,99999,Don't know,0
+MCQ240u ,MCQ240u  - Age prostate cancer first diagnosed,.,Missing,9702
+MCQ240v ,MCQ240v  - Age when rectal cancer first diagnosed,51,51,1
+MCQ240v ,MCQ240v  - Age when rectal cancer first diagnosed,80,80 years or older,0
+MCQ240v ,MCQ240v  - Age when rectal cancer first diagnosed,77777,Refused,0
+MCQ240v ,MCQ240v  - Age when rectal cancer first diagnosed,99999,Don't know,0
+MCQ240v ,MCQ240v  - Age when rectal cancer first diagnosed,.,Missing,9769
+MCQ240w ,MCQ240w  - Age non-melanoma skin cancer diagnosed,7 to 79,Range of Values,98
+MCQ240w ,MCQ240w  - Age non-melanoma skin cancer diagnosed,80,80 years or older,7
+MCQ240w ,MCQ240w  - Age non-melanoma skin cancer diagnosed,77777,Refused,0
+MCQ240w ,MCQ240w  - Age non-melanoma skin cancer diagnosed,99999,Don't know,0
+MCQ240w ,MCQ240w  - Age non-melanoma skin cancer diagnosed,.,Missing,9665
+MCQ240x ,MCQ240x  - Age unknown skin cancer first diagnosed,18 to 79,Range of Values,52
+MCQ240x ,MCQ240x  - Age unknown skin cancer first diagnosed,80,80 years or older,5
+MCQ240x ,MCQ240x  - Age unknown skin cancer first diagnosed,77777,Refused,0
+MCQ240x ,MCQ240x  - Age unknown skin cancer first diagnosed,99999,Don't know,0
+MCQ240x ,MCQ240x  - Age unknown skin cancer first diagnosed,.,Missing,9713
+MCQ240y ,MCQ240y  - Age soft tissue cancer first diagnosed,20 to 55,Range of Values,3
+MCQ240y ,MCQ240y  - Age soft tissue cancer first diagnosed,80,80 years or older,0
+MCQ240y ,MCQ240y  - Age soft tissue cancer first diagnosed,77777,Refused,0
+MCQ240y ,MCQ240y  - Age soft tissue cancer first diagnosed,99999,Don't know,0
+MCQ240y ,MCQ240y  - Age soft tissue cancer first diagnosed,.,Missing,9767
+MCQ240z ,MCQ240z  - Age stomach cancer first diagnosed,45 to 73,Range of Values,3
+MCQ240z ,MCQ240z  - Age stomach cancer first diagnosed,80,80 years or older,0
+MCQ240z ,MCQ240z  - Age stomach cancer first diagnosed,77777,Refused,0
+MCQ240z ,MCQ240z  - Age stomach cancer first diagnosed,99999,Don't know,0
+MCQ240z ,MCQ240z  - Age stomach cancer first diagnosed,.,Missing,9767
+MCQ300a ,MCQ300a  - Close relative had heart attack?,1,Yes,622
+MCQ300a ,MCQ300a  - Close relative had heart attack?,2,No,5003
+MCQ300a ,MCQ300a  - Close relative had heart attack?,7,Refused,0
+MCQ300a ,MCQ300a  - Close relative had heart attack?,9,Don't know,144
+MCQ300a ,MCQ300a  - Close relative had heart attack?,.,Missing,4001
+MCQ300b ,MCQ300b  - Close relative had asthma?,1,Yes,2050
+MCQ300b ,MCQ300b  - Close relative had asthma?,2,No,6361
+MCQ300b ,MCQ300b  - Close relative had asthma?,7,Refused,3
+MCQ300b ,MCQ300b  - Close relative had asthma?,9,Don't know,158
+MCQ300b ,MCQ300b  - Close relative had asthma?,.,Missing,1198
+MCQ300c ,MCQ300c  - Close relative had diabetes?,1,Yes,2301
+MCQ300c ,MCQ300c  - Close relative had diabetes?,2,No,3351
+MCQ300c ,MCQ300c  - Close relative had diabetes?,7,Refused,0
+MCQ300c ,MCQ300c  - Close relative had diabetes?,9,Don't know,117
+MCQ300c ,MCQ300c  - Close relative had diabetes?,.,Missing,4001
+MCQ365a ,MCQ365a  - Doctor told you to lose weight,1,Yes,1682
+MCQ365a ,MCQ365a  - Doctor told you to lose weight,2,No,4781
+MCQ365a ,MCQ365a  - Doctor told you to lose weight,7,Refused,0
+MCQ365a ,MCQ365a  - Doctor told you to lose weight,9,Don't know,1
+MCQ365a ,MCQ365a  - Doctor told you to lose weight,.,Missing,3306
+MCQ365b ,MCQ365b  - Doctor told you to exercise,1,Yes,2244
+MCQ365b ,MCQ365b  - Doctor told you to exercise,2,No,4220
+MCQ365b ,MCQ365b  - Doctor told you to exercise,7,Refused,0
+MCQ365b ,MCQ365b  - Doctor told you to exercise,9,Don't know,0
+MCQ365b ,MCQ365b  - Doctor told you to exercise,.,Missing,3306
+MCQ365c ,MCQ365c  - Doctor told you to reduce salt in diet,1,Yes,1543
+MCQ365c ,MCQ365c  - Doctor told you to reduce salt in diet,2,No,4913
+MCQ365c ,MCQ365c  - Doctor told you to reduce salt in diet,7,Refused,0
+MCQ365c ,MCQ365c  - Doctor told you to reduce salt in diet,9,Don't know,8
+MCQ365c ,MCQ365c  - Doctor told you to reduce salt in diet,.,Missing,3306
+MCQ365d ,MCQ365d  - Doctor told you to reduce fat/calories,1,Yes,1746
+MCQ365d ,MCQ365d  - Doctor told you to reduce fat/calories,2,No,4713
+MCQ365d ,MCQ365d  - Doctor told you to reduce fat/calories,7,Refused,0
+MCQ365d ,MCQ365d  - Doctor told you to reduce fat/calories,9,Don't know,5
+MCQ365d ,MCQ365d  - Doctor told you to reduce fat/calories,.,Missing,3306
+MCQ370a ,MCQ370a  - Are you now controlling or losing weight,1,Yes,3923
+MCQ370a ,MCQ370a  - Are you now controlling or losing weight,2,No,2537
+MCQ370a ,MCQ370a  - Are you now controlling or losing weight,7,Refused,1
+MCQ370a ,MCQ370a  - Are you now controlling or losing weight,9,Don't know,3
+MCQ370a ,MCQ370a  - Are you now controlling or losing weight,.,Missing,3306
+MCQ370b ,MCQ370b  - Are you now increasing exercise,1,Yes,3816
+MCQ370b ,MCQ370b  - Are you now increasing exercise,2,No,2647
+MCQ370b ,MCQ370b  - Are you now increasing exercise,7,Refused,1
+MCQ370b ,MCQ370b  - Are you now increasing exercise,9,Don't know,0
+MCQ370b ,MCQ370b  - Are you now increasing exercise,.,Missing,3306
+MCQ370c ,MCQ370c  - Are you now reducing salt in diet,1,Yes,3198
+MCQ370c ,MCQ370c  - Are you now reducing salt in diet,2,No,3264
+MCQ370c ,MCQ370c  - Are you now reducing salt in diet,7,Refused,1
+MCQ370c ,MCQ370c  - Are you now reducing salt in diet,9,Don't know,1
+MCQ370c ,MCQ370c  - Are you now reducing salt in diet,.,Missing,3306
+MCQ370d ,MCQ370d  - Are you now reducing fat in diet,1,Yes,3454
+MCQ370d ,MCQ370d  - Are you now reducing fat in diet,2,No,3006
+MCQ370d ,MCQ370d  - Are you now reducing fat in diet,7,Refused,1
+MCQ370d ,MCQ370d  - Are you now reducing fat in diet,9,Don't know,3
+MCQ370d ,MCQ370d  - Are you now reducing fat in diet,.,Missing,3306
+MCQ380  ,"MCQ380   - Past 7 days, had trouble remembering",0,Never,981
+MCQ380  ,"MCQ380   - Past 7 days, had trouble remembering",1,About once,445
+MCQ380  ,"MCQ380   - Past 7 days, had trouble remembering",2,Two or three times,279
+MCQ380  ,"MCQ380   - Past 7 days, had trouble remembering",3,Nearly every day,84
+MCQ380  ,"MCQ380   - Past 7 days, had trouble remembering",4,Several times a day,47
+MCQ380  ,"MCQ380   - Past 7 days, had trouble remembering",7,Refused,0
+MCQ380  ,"MCQ380   - Past 7 days, had trouble remembering",9,Don't know,4
+MCQ380  ,"MCQ380   - Past 7 days, had trouble remembering",.,Missing,7930
+DPQ010  ,DPQ010   - Have little interest in doing things,0,Not at all,3976
+DPQ010  ,DPQ010   - Have little interest in doing things,1,Several days,881
+DPQ010  ,DPQ010   - Have little interest in doing things,2,More than half the days,293
+DPQ010  ,DPQ010   - Have little interest in doing things,3,Nearly every day,242
+DPQ010  ,DPQ010   - Have little interest in doing things,7,Refused,1
+DPQ010  ,DPQ010   - Have little interest in doing things,9,Don't know,5
+DPQ010  ,DPQ010   - Have little interest in doing things,.,Missing,526
+DPQ020  ,"DPQ020   - Feeling down, depressed, or hopeless",0,Not at all,4071
+DPQ020  ,"DPQ020   - Feeling down, depressed, or hopeless",1,Several days,903
+DPQ020  ,"DPQ020   - Feeling down, depressed, or hopeless",2,More than half the days,214
+DPQ020  ,"DPQ020   - Feeling down, depressed, or hopeless",3,Nearly every day,202
+DPQ020  ,"DPQ020   - Feeling down, depressed, or hopeless",7,Refused,3
+DPQ020  ,"DPQ020   - Feeling down, depressed, or hopeless",9,Don't know,3
+DPQ020  ,"DPQ020   - Feeling down, depressed, or hopeless",.,Missing,528
+DPQ030  ,DPQ030   - Trouble sleeping or sleeping too much,0,Not at all,3416
+DPQ030  ,DPQ030   - Trouble sleeping or sleeping too much,1,Several days,1127
+DPQ030  ,DPQ030   - Trouble sleeping or sleeping too much,2,More than half the days,350
+DPQ030  ,DPQ030   - Trouble sleeping or sleeping too much,3,Nearly every day,501
+DPQ030  ,DPQ030   - Trouble sleeping or sleeping too much,7,Refused,1
+DPQ030  ,DPQ030   - Trouble sleeping or sleeping too much,9,Don't know,0
+DPQ030  ,DPQ030   - Trouble sleeping or sleeping too much,.,Missing,529
+DPQ040  ,DPQ040   - Feeling tired or having little energy,0,Not at all,2650
+DPQ040  ,DPQ040   - Feeling tired or having little energy,1,Several days,1829
+DPQ040  ,DPQ040   - Feeling tired or having little energy,2,More than half the days,423
+DPQ040  ,DPQ040   - Feeling tired or having little energy,3,Nearly every day,492
+DPQ040  ,DPQ040   - Feeling tired or having little energy,7,Refused,1
+DPQ040  ,DPQ040   - Feeling tired or having little energy,9,Don't know,0
+DPQ040  ,DPQ040   - Feeling tired or having little energy,.,Missing,529
+DPQ050  ,DPQ050   - Poor appetite or overeating,0,Not at all,4036
+DPQ050  ,DPQ050   - Poor appetite or overeating,1,Several days,832
+DPQ050  ,DPQ050   - Poor appetite or overeating,2,More than half the days,278
+DPQ050  ,DPQ050   - Poor appetite or overeating,3,Nearly every day,247
+DPQ050  ,DPQ050   - Poor appetite or overeating,7,Refused,0
+DPQ050  ,DPQ050   - Poor appetite or overeating,9,Don't know,2
+DPQ050  ,DPQ050   - Poor appetite or overeating,.,Missing,529
+DPQ060  ,DPQ060   - Feeling bad about yourself,0,Not at all,4449
+DPQ060  ,DPQ060   - Feeling bad about yourself,1,Several days,620
+DPQ060  ,DPQ060   - Feeling bad about yourself,2,More than half the days,154
+DPQ060  ,DPQ060   - Feeling bad about yourself,3,Nearly every day,167
+DPQ060  ,DPQ060   - Feeling bad about yourself,7,Refused,0
+DPQ060  ,DPQ060   - Feeling bad about yourself,9,Don't know,4
+DPQ060  ,DPQ060   - Feeling bad about yourself,.,Missing,530
+DPQ070  ,DPQ070   - Trouble concentrating on things,0,Not at all,4423
+DPQ070  ,DPQ070   - Trouble concentrating on things,1,Several days,586
+DPQ070  ,DPQ070   - Trouble concentrating on things,2,More than half the days,193
+DPQ070  ,DPQ070   - Trouble concentrating on things,3,Nearly every day,189
+DPQ070  ,DPQ070   - Trouble concentrating on things,7,Refused,1
+DPQ070  ,DPQ070   - Trouble concentrating on things,9,Don't know,2
+DPQ070  ,DPQ070   - Trouble concentrating on things,.,Missing,530
+DPQ080  ,DPQ080   - Moving or speaking slowly or too fast,0,Not at all,4786
+DPQ080  ,DPQ080   - Moving or speaking slowly or too fast,1,Several days,367
+DPQ080  ,DPQ080   - Moving or speaking slowly or too fast,2,More than half the days,134
+DPQ080  ,DPQ080   - Moving or speaking slowly or too fast,3,Nearly every day,104
+DPQ080  ,DPQ080   - Moving or speaking slowly or too fast,7,Refused,1
+DPQ080  ,DPQ080   - Moving or speaking slowly or too fast,9,Don't know,2
+DPQ080  ,DPQ080   - Moving or speaking slowly or too fast,.,Missing,530
+DPQ090  ,DPQ090   - Thought you would be better off dead,0,Not at all,5205
+DPQ090  ,DPQ090   - Thought you would be better off dead,1,Several days,122
+DPQ090  ,DPQ090   - Thought you would be better off dead,2,More than half the days,31
+DPQ090  ,DPQ090   - Thought you would be better off dead,3,Nearly every day,32
+DPQ090  ,DPQ090   - Thought you would be better off dead,7,Refused,1
+DPQ090  ,DPQ090   - Thought you would be better off dead,9,Don't know,2
+DPQ090  ,DPQ090   - Thought you would be better off dead,.,Missing,531
+DPQ100  ,DPQ100   - Difficulty these problems have caused,0,"Not at all difficult,",2693
+DPQ100  ,DPQ100   - Difficulty these problems have caused,1,"Somewhat difficult,",771
+DPQ100  ,DPQ100   - Difficulty these problems have caused,2,"Very difficult,",138
+DPQ100  ,DPQ100   - Difficulty these problems have caused,3,Extremely difficult,69
+DPQ100  ,DPQ100   - Difficulty these problems have caused,7,Refused,1
+DPQ100  ,DPQ100   - Difficulty these problems have caused,9,Don't know,2
+DPQ100  ,DPQ100   - Difficulty these problems have caused,.,Missing,2250
+OCD150,OCD150 - Type of work done last week,1,"Working at a job or business,",3345
+OCD150,OCD150 - Type of work done last week,2,"With a job or business but not at work,",98
+OCD150,OCD150 - Type of work done last week,3,"Looking for work, or",200
+OCD150,OCD150 - Type of work done last week,4,Not working at a job or business?,2816
+OCD150,OCD150 - Type of work done last week,7,Refused,0
+OCD150,OCD150 - Type of work done last week,9,Don't know,0
+OCD150,OCD150 - Type of work done last week,.,Missing,5
+OCQ180,OCQ180 - Hours worked last week at all jobs,1 to 120,Range of Values,3339
+OCQ180,OCQ180 - Hours worked last week at all jobs,77777,Refused,2
+OCQ180,OCQ180 - Hours worked last week at all jobs,99999,Don't know,4
+OCQ180,OCQ180 - Hours worked last week at all jobs,.,Missing,3119
+OHQ030  ,OHQ030   - When did you last visit a dentist,1,6 months or less,4632
+OHQ030  ,OHQ030   - When did you last visit a dentist,2,"More than 6 months, but not more than 1 year ago",1510
+OHQ030  ,OHQ030   - When did you last visit a dentist,3,"More than 1 year, but not more than 2 years ago",980
+OHQ030  ,OHQ030   - When did you last visit a dentist,4,"More than 2 years, but not more than 3 years ago",592
+OHQ030  ,OHQ030   - When did you last visit a dentist,5,"More than 3 years, but not more than 5 years ago",480
+OHQ030  ,OHQ030   - When did you last visit a dentist,6,More than 5 years ago,913
+OHQ030  ,OHQ030   - When did you last visit a dentist,7,Never have been,650
+OHQ030  ,OHQ030   - When did you last visit a dentist,77,Refused,2
+OHQ030  ,OHQ030   - When did you last visit a dentist,99,Don't know,9
+OHQ030  ,OHQ030   - When did you last visit a dentist,.,Missing,2
+OHQ033  ,OHQ033   - Main reason for last dental visit,1,"Went in on own for check-up, examination, or cleaning",5790
+OHQ033  ,OHQ033   - Main reason for last dental visit,2,"Was called in by the dentist for check-up, examination, or cleaning",187
+OHQ033  ,OHQ033   - Main reason for last dental visit,3,"Something was wrong, bothering or hurting {me/SP}",1863
+OHQ033  ,OHQ033   - Main reason for last dental visit,4,Went for treatment of a condition that dentist discovered at earlier checkup or examination,1087
+OHQ033  ,OHQ033   - Main reason for last dental visit,5,Other,166
+OHQ033  ,OHQ033   - Main reason for last dental visit,7,Refused,1
+OHQ033  ,OHQ033   - Main reason for last dental visit,9,Don't know,24
+OHQ033  ,OHQ033   - Main reason for last dental visit,.,Missing,652
+OHQ770  ,OHQ770   - Past yr need dental but couldn't get it,1,Yes,1385
+OHQ770  ,OHQ770   - Past yr need dental but couldn't get it,2,No,7732
+OHQ770  ,OHQ770   - Past yr need dental but couldn't get it,7,Refused,1
+OHQ770  ,OHQ770   - Past yr need dental but couldn't get it,9,Don't know,0
+OHQ770  ,OHQ770   - Past yr need dental but couldn't get it,.,Missing,652
+OHQ780A,OHQ780A - Could not afford the cost,10,Could not afford the cost,1089
+OHQ780A,OHQ780A - Could not afford the cost,77,Refused,0
+OHQ780A,OHQ780A - Could not afford the cost,99,Don't know,1
+OHQ780A,OHQ780A - Could not afford the cost,.,Missing,8680
+OHQ780B,OHQ780B - Did not want to spend the money,11,Did not want to spend the money,65
+OHQ780B,OHQ780B - Did not want to spend the money,.,Missing,9705
+OHQ780C,OHQ780C - Insurance did not cover procedures,12,Insurance did not cover recommended procedure,208
+OHQ780C,OHQ780C - Insurance did not cover procedures,.,Missing,9562
+OHQ780D,OHQ780D - Dental office is too far away,13,Dental office is too far away,25
+OHQ780D,OHQ780D - Dental office is too far away,.,Missing,9745
+OHQ780E,OHQ780E - Office not open at convenient time,14,Dental office not open at convenient time,21
+OHQ780E,OHQ780E - Office not open at convenient time,.,Missing,9749
+OHQ780F,OHQ780F - Another dentist recommended not doing it,15,Another dentist recommended not doing it,5
+OHQ780F,OHQ780F - Another dentist recommended not doing it,.,Missing,9765
+OHQ780G,OHQ780G - Afraid or do not like dentists,16,Afraid or do not like dentists,76
+OHQ780G,OHQ780G - Afraid or do not like dentists,.,Missing,9694
+OHQ780H,OHQ780H - Unable to take time off from work,17,Unable to take time off from work,45
+OHQ780H,OHQ780H - Unable to take time off from work,.,Missing,9725
+OHQ780I,OHQ780I - Too busy,18,Too busy,47
+OHQ780I,OHQ780I - Too busy,.,Missing,9723
+OHQ780J,OHQ780J - Expected dental problems to go away,19,I did not think anything serious was wrong - expected dental problems to go away,35
+OHQ780J,OHQ780J - Expected dental problems to go away,.,Missing,9735
+OHQ780K,OHQ780K - Other reason could not get dental care,20,Other,87
+OHQ780K,OHQ780K - Other reason could not get dental care,.,Missing,9683
+OSQ010a,OSQ010a - Broken or fractured a hip,1,Yes,83
+OSQ010a,OSQ010a - Broken or fractured a hip,2,No,3731
+OSQ010a,OSQ010a - Broken or fractured a hip,7,Refused,0
+OSQ010a,OSQ010a - Broken or fractured a hip,9,Don't know,1
+OSQ010a,OSQ010a - Broken or fractured a hip,.,Missing,0
+OSQ010b,OSQ010b - Broken or fractured a wrist,1,Yes,316
+OSQ010b,OSQ010b - Broken or fractured a wrist,2,No,3496
+OSQ010b,OSQ010b - Broken or fractured a wrist,7,Refused,0
+OSQ010b,OSQ010b - Broken or fractured a wrist,9,Don't know,3
+OSQ010b,OSQ010b - Broken or fractured a wrist,.,Missing,0
+OSQ010c,OSQ010c - Broken or fractured spine,1,Yes,77
+OSQ010c,OSQ010c - Broken or fractured spine,2,No,3734
+OSQ010c,OSQ010c - Broken or fractured spine,7,Refused,0
+OSQ010c,OSQ010c - Broken or fractured spine,9,Don't know,4
+OSQ010c,OSQ010c - Broken or fractured spine,.,Missing,0
+OSQ020a,OSQ020a - # Times broken/fractured hip,1,1,71
+OSQ020a,OSQ020a - # Times broken/fractured hip,2,2,9
+OSQ020a,OSQ020a - # Times broken/fractured hip,3,3,2
+OSQ020a,OSQ020a - # Times broken/fractured hip,7777,Refused,0
+OSQ020a,OSQ020a - # Times broken/fractured hip,9999,Don't know,1
+OSQ020a,OSQ020a - # Times broken/fractured hip,.,Missing,3732
+OSQ020b,OSQ020b - # Times broken/fractured wrist,1,1,267
+OSQ020b,OSQ020b - # Times broken/fractured wrist,2,2,35
+OSQ020b,OSQ020b - # Times broken/fractured wrist,3,3,9
+OSQ020b,OSQ020b - # Times broken/fractured wrist,4,4,3
+OSQ020b,OSQ020b - # Times broken/fractured wrist,6,6,1
+OSQ020b,OSQ020b - # Times broken/fractured wrist,10,10,1
+OSQ020b,OSQ020b - # Times broken/fractured wrist,7777,Refused,0
+OSQ020b,OSQ020b - # Times broken/fractured wrist,9999,Don't know,0
+OSQ020b,OSQ020b - # Times broken/fractured wrist,.,Missing,3499
+OSQ020c,OSQ020c - # Times broken/fractured spine,1,1,67
+OSQ020c,OSQ020c - # Times broken/fractured spine,2,2,8
+OSQ020c,OSQ020c - # Times broken/fractured spine,3,3,2
+OSQ020c,OSQ020c - # Times broken/fractured spine,7777,Refused,0
+OSQ020c,OSQ020c - # Times broken/fractured spine,9999,Don't know,0
+OSQ020c,OSQ020c - # Times broken/fractured spine,.,Missing,3738
+PUQ100  ,PUQ100   - Products used in home to control insects,1,Yes,789
+PUQ100  ,PUQ100   - Products used in home to control insects,2,No,6991
+PUQ100  ,PUQ100   - Products used in home to control insects,7,Refused,0
+PUQ100  ,PUQ100   - Products used in home to control insects,9,Don't know,31
+PUQ100  ,PUQ100   - Products used in home to control insects,.,Missing,480
+PUQ110  ,PUQ110   - Products used to kill weeds?,1,Yes,424
+PUQ110  ,PUQ110   - Products used to kill weeds?,2,No,7258
+PUQ110  ,PUQ110   - Products used to kill weeds?,7,Refused,0
+PUQ110  ,PUQ110   - Products used to kill weeds?,9,Don't know,128
+PUQ110  ,PUQ110   - Products used to kill weeds?,.,Missing,481
+PAQ605,PAQ605 - Vigorous work activity,1,Yes,1172
+PAQ605,PAQ605 - Vigorous work activity,2,No,5975
+PAQ605,PAQ605 - Vigorous work activity,7,Refused,1
+PAQ605,PAQ605 - Vigorous work activity,9,Don't know,0
+PAQ605,PAQ605 - Vigorous work activity,.,Missing,2336
+PAQ610,PAQ610 - Number of days vigorous work,1 to 7,Range of Values,1171
+PAQ610,PAQ610 - Number of days vigorous work,77,Refused,0
+PAQ610,PAQ610 - Number of days vigorous work,99,Don't know,1
+PAQ610,PAQ610 - Number of days vigorous work,.,Missing,8312
+PAD615,PAD615 - Minutes vigorous-intensity work,10 to 1080,Range of Values,1166
+PAD615,PAD615 - Minutes vigorous-intensity work,7777,Refused,0
+PAD615,PAD615 - Minutes vigorous-intensity work,9999,Don't know,2
+PAD615,PAD615 - Minutes vigorous-intensity work,.,Missing,8316
+PAQ620,PAQ620 - Moderate work activity,1,Yes,2308
+PAQ620,PAQ620 - Moderate work activity,2,No,4837
+PAQ620,PAQ620 - Moderate work activity,7,Refused,1
+PAQ620,PAQ620 - Moderate work activity,9,Don't know,2
+PAQ620,PAQ620 - Moderate work activity,.,Missing,2336
+PAQ625,PAQ625 - Number of days moderate work,1 to 7,Range of Values,2303
+PAQ625,PAQ625 - Number of days moderate work,77,Refused,1
+PAQ625,PAQ625 - Number of days moderate work,99,Don't know,3
+PAQ625,PAQ625 - Number of days moderate work,.,Missing,7177
+PAD630,PAD630 - Minutes moderate-intensity work,10 to 900,Range of Values,2296
+PAD630,PAD630 - Minutes moderate-intensity work,7777,Refused,0
+PAD630,PAD630 - Minutes moderate-intensity work,9999,Don't know,3
+PAD630,PAD630 - Minutes moderate-intensity work,.,Missing,7185
+PAQ635,PAQ635 - Walk or bicycle,1,Yes,2047
+PAQ635,PAQ635 - Walk or bicycle,2,No,5099
+PAQ635,PAQ635 - Walk or bicycle,7,Refused,0
+PAQ635,PAQ635 - Walk or bicycle,9,Don't know,1
+PAQ635,PAQ635 - Walk or bicycle,.,Missing,2337
+PAQ640,PAQ640 - Number of days walk or bicycle,1 to 7,Range of Values,2047
+PAQ640,PAQ640 - Number of days walk or bicycle,77,Refused,0
+PAQ640,PAQ640 - Number of days walk or bicycle,99,Don't know,0
+PAQ640,PAQ640 - Number of days walk or bicycle,.,Missing,7437
+PAD645,"PAD645 - Minutes walk/bicycle for 
+transportation",10 to 840,Range of Values,2040
+PAD645,"PAD645 - Minutes walk/bicycle for 
+transportation",7777,Refused,0
+PAD645,"PAD645 - Minutes walk/bicycle for 
+transportation",9999,Don't know,3
+PAD645,"PAD645 - Minutes walk/bicycle for 
+transportation",.,Missing,7441
+PAQ650,PAQ650 - Vigorous recreational activities,1,Yes,2059
+PAQ650,PAQ650 - Vigorous recreational activities,2,No,5087
+PAQ650,PAQ650 - Vigorous recreational activities,7,Refused,0
+PAQ650,PAQ650 - Vigorous recreational activities,9,Don't know,1
+PAQ650,PAQ650 - Vigorous recreational activities,.,Missing,2337
+PAQ655,"PAQ655 - Days vigorous recreational 
+activities",1 to 7,Range of Values,2056
+PAQ655,"PAQ655 - Days vigorous recreational 
+activities",77,Refused,0
+PAQ655,"PAQ655 - Days vigorous recreational 
+activities",99,Don't know,2
+PAQ655,"PAQ655 - Days vigorous recreational 
+activities",.,Missing,7426
+PAD660,"PAD660 - Minutes vigorous recreational 
+activities",10 to 600,Range of Values,2052
+PAD660,"PAD660 - Minutes vigorous recreational 
+activities",7777,Refused,0
+PAD660,"PAD660 - Minutes vigorous recreational 
+activities",9999,Don't know,3
+PAD660,"PAD660 - Minutes vigorous recreational 
+activities",.,Missing,7429
+PAQ665,PAQ665 - Moderate recreational activities,1,Yes,3059
+PAQ665,PAQ665 - Moderate recreational activities,2,No,4084
+PAQ665,PAQ665 - Moderate recreational activities,7,Refused,0
+PAQ665,PAQ665 - Moderate recreational activities,9,Don't know,2
+PAQ665,PAQ665 - Moderate recreational activities,.,Missing,2339
+PAQ670,"PAQ670 - Days moderate recreational 
+activities",1 to 7,Range of Values,3056
+PAQ670,"PAQ670 - Days moderate recreational 
+activities",77,Refused,0
+PAQ670,"PAQ670 - Days moderate recreational 
+activities",99,Don't know,3
+PAQ670,"PAQ670 - Days moderate recreational 
+activities",.,Missing,6425
+PAD675,"PAD675 - Minutes moderate recreational 
+activities",10 to 900,Range of Values,3056
+PAD675,"PAD675 - Minutes moderate recreational 
+activities",7777,Refused,0
+PAD675,"PAD675 - Minutes moderate recreational 
+activities",9999,Don't know,0
+PAD675,"PAD675 - Minutes moderate recreational 
+activities",.,Missing,6428
+PAD680,PAD680 - Minutes sedentary activity,0 to 1200,Range of Values,7109
+PAD680,PAD680 - Minutes sedentary activity,7777,Refused,1
+PAD680,PAD680 - Minutes sedentary activity,9999,Don't know,29
+PAD680,PAD680 - Minutes sedentary activity,.,Missing,2345
+PAQ706,"PAQ706 - Days physically active at least 60 
+min.",0,0 days,131
+PAQ706,"PAQ706 - Days physically active at least 60 
+min.",1,1 day,90
+PAQ706,"PAQ706 - Days physically active at least 60 
+min.",2,2 days,159
+PAQ706,"PAQ706 - Days physically active at least 60 
+min.",3,3 days,194
+PAQ706,"PAQ706 - Days physically active at least 60 
+min.",4,4 days,183
+PAQ706,"PAQ706 - Days physically active at least 60 
+min.",5,5 days,314
+PAQ706,"PAQ706 - Days physically active at least 60 
+min.",6,6 days,111
+PAQ706,"PAQ706 - Days physically active at least 60 
+min.",7,7 days,1799
+PAQ706,"PAQ706 - Days physically active at least 60 
+min.",77,Refused,0
+PAQ706,"PAQ706 - Days physically active at least 60 
+min.",99,Don't know,8
+PAQ706,"PAQ706 - Days physically active at least 60 
+min.",.,Missing,6495
+PAQ710,"PAQ710 - Hours watch TV or videos past 30 
+days",0,"Less than 1 hour,",1208
+PAQ710,"PAQ710 - Hours watch TV or videos past 30 
+days",1,"1 hour,",1776
+PAQ710,"PAQ710 - Hours watch TV or videos past 30 
+days",2,"2 hours,",2489
+PAQ710,"PAQ710 - Hours watch TV or videos past 30 
+days",3,"3 hours,",1473
+PAQ710,"PAQ710 - Hours watch TV or videos past 30 
+days",4,"4 hours, or",985
+PAQ710,"PAQ710 - Hours watch TV or videos past 30 
+days",5,"5 hours or more, or",1272
+PAQ710,"PAQ710 - Hours watch TV or videos past 30 
+days",8,{You don't/SP does not} watch TV or videos,241
+PAQ710,"PAQ710 - Hours watch TV or videos past 30 
+days",77,Refused,1
+PAQ710,"PAQ710 - Hours watch TV or videos past 30 
+days",99,Don't know,3
+PAQ710,"PAQ710 - Hours watch TV or videos past 30 
+days",.,Missing,36
+PAQ715,PAQ715 - Hours use computer past 30 days,0,"Less than 1 hour,",2491
+PAQ715,PAQ715 - Hours use computer past 30 days,1,"1 hour,",1722
+PAQ715,PAQ715 - Hours use computer past 30 days,2,"2 hours,",1298
+PAQ715,PAQ715 - Hours use computer past 30 days,3,"3 hours,",595
+PAQ715,PAQ715 - Hours use computer past 30 days,4,"4 hours, or",333
+PAQ715,PAQ715 - Hours use computer past 30 days,5,"5 hours or more, or",549
+PAQ715,PAQ715 - Hours use computer past 30 days,8,"{you do not/SP does not} use a computer outside of ",      school
+PAQ715,PAQ715 - Hours use computer past 30 days,77,Refused,0
+PAQ715,PAQ715 - Hours use computer past 30 days,99,Don't know,0
+PAQ715,PAQ715 - Hours use computer past 30 days,.,Missing,36
+PAQ722,"PAQ722 - Any physical activities past 7 
+days",1,Yes,2186
+PAQ722,"PAQ722 - Any physical activities past 7 
+days",2,No,520
+PAQ722,"PAQ722 - Any physical activities past 7 
+days",7,Refused,0
+PAQ722,"PAQ722 - Any physical activities past 7 
+days",9,Don't know,1
+PAQ722,"PAQ722 - Any physical activities past 7 
+days",.,Missing,6777
+PAQ724a,PAQ724a - Physical activity aerobics,1,AEROBICS/WEIGHT TRAINING/GYM/EXERCISE,126
+PAQ724a,PAQ724a - Physical activity aerobics,77,Refused,0
+PAQ724a,PAQ724a - Physical activity aerobics,99,Don't know,0
+PAQ724a,PAQ724a - Physical activity aerobics,.,Missing,9358
+PAQ724b,PAQ724b - Physical activity baseball,2,BASEBALL/SOFTBALL/CATCH/PITCHING,220
+PAQ724b,PAQ724b - Physical activity baseball,.,Missing,9264
+PAQ724c,PAQ724c - Physical activity basketball,3,BASKETBALL,443
+PAQ724c,PAQ724c - Physical activity basketball,.,Missing,9041
+PAQ724d,PAQ724d - Physical activity bike riding,4,BIKE RIDING/DIRT BIKING/MOUNTAIN BIKING,615
+PAQ724d,PAQ724d - Physical activity bike riding,.,Missing,8869
+PAQ724e,PAQ724e - Physical activity cheerleading,5,CHEERLEADING,42
+PAQ724e,PAQ724e - Physical activity cheerleading,.,Missing,9442
+PAQ724f,PAQ724f - Physical activity dance,6,DANCE,353
+PAQ724f,PAQ724f - Physical activity dance,.,Missing,9131
+PAQ724g,PAQ724g - Physical activity field hockey,7,FIELD HOCKEY/STREET HOCKEY/ROLLER HOCKEY,10
+PAQ724g,PAQ724g - Physical activity field hockey,.,Missing,9474
+PAQ724h,PAQ724h - Physical activity football,8,FOOTBALL,252
+PAQ724h,PAQ724h - Physical activity football,.,Missing,9232
+PAQ724i,PAQ724i - Physical activity golf,9,GOLF,15
+PAQ724i,PAQ724i - Physical activity golf,.,Missing,9469
+PAQ724j,PAQ724j - Physical activity gymnastics,10,GYMNASTICS/TUMBLING,154
+PAQ724j,PAQ724j - Physical activity gymnastics,.,Missing,9330
+PAQ724k,PAQ724k - Physical activity hiking,11,HIKING,49
+PAQ724k,PAQ724k - Physical activity hiking,.,Missing,9435
+PAQ724l,PAQ724l - Physical activity ice hockey,12,ICE HOCKEY,3
+PAQ724l,PAQ724l - Physical activity ice hockey,.,Missing,9481
+PAQ724m,PAQ724m - Physical activity ice skating,13,ICE SKATING,11
+PAQ724m,PAQ724m - Physical activity ice skating,.,Missing,9473
+PAQ724n,PAQ724n - Physical activity jumping rope,14,JUMPING ROPE,141
+PAQ724n,PAQ724n - Physical activity jumping rope,.,Missing,9343
+PAQ724o,PAQ724o - Physical activity lacrosse,15,LACROSSE,7
+PAQ724o,PAQ724o - Physical activity lacrosse,.,Missing,9477
+PAQ724p,PAQ724p - Physical activity martial arts,16,"MARTIAL ARTS (KARATE/TAE KWON DO/JUDO, ETC.)",77
+PAQ724p,PAQ724p - Physical activity martial arts,.,Missing,9407
+PAQ724q,PAQ724q - Physical activity playing games,17,"PLAYING GAMES (PROBE: WERE YOU PHYSICALLY ACTIVE? IF ","      NO, DON'T COUNT)"
+PAQ724q,PAQ724q - Physical activity playing games,.,Missing,9093
+PAQ724r,"PAQ724r - Physical activity roller 
+blading",18,ROLLER BLADING/ROLLER SKATING,55
+PAQ724r,"PAQ724r - Physical activity roller 
+blading",.,Missing,9429
+PAQ724s,PAQ724s - Physical activity running,19,RUNNING/JOGGING,926
+PAQ724s,PAQ724s - Physical activity running,.,Missing,8558
+PAQ724t,"PAQ724t - Physical activity scooter 
+riding",20,"SCOOTER RIDING (PROBE: DOES IT HAVE A MOTOR? IF YES, ",      DON'T COUNT)
+PAQ724t,"PAQ724t - Physical activity scooter 
+riding",.,Missing,9310
+PAQ724u,PAQ724u - Physical activity skateboarding,21,SKATEBOARDING,79
+PAQ724u,PAQ724u - Physical activity skateboarding,.,Missing,9405
+PAQ724v,PAQ724v - Physical activity soccer,22,SOCCER,389
+PAQ724v,PAQ724v - Physical activity soccer,.,Missing,9095
+PAQ724w,PAQ724w - Physical activity swimming,23,SWIMMING,272
+PAQ724w,PAQ724w - Physical activity swimming,.,Missing,9212
+PAQ724x,PAQ724x - Physical activity tennis,24,TENNIS,36
+PAQ724x,PAQ724x - Physical activity tennis,.,Missing,9448
+PAQ724y,"PAQ724y - Physical activity track & 
+field",25,TRACK & FIELD,25
+PAQ724y,"PAQ724y - Physical activity track & 
+field",.,Missing,9459
+PAQ724z,PAQ724z - Physical activity volleyball,26,VOLLEYBALL,46
+PAQ724z,PAQ724z - Physical activity volleyball,.,Missing,9438
+PAQ724aa,PAQ724aa - Physical activity walking,27,WALKING,472
+PAQ724aa,PAQ724aa - Physical activity walking,.,Missing,9012
+PAQ724ab,PAQ724ab - Physical activity wrestling,28,WRESTLING,107
+PAQ724ab,PAQ724ab - Physical activity wrestling,.,Missing,9377
+PAQ724ac,PAQ724ac - Physical activity frisbee,29,FRISBEE/ULTIMATE FRISBEE,46
+PAQ724ac,PAQ724ac - Physical activity frisbee,.,Missing,9438
+PAQ724ad,"PAQ724ad - Physical activity backyard 
+games",30,BACKYARD/PLAYGROUND GAMES AND ACTIVITIES,881
+PAQ724ad,"PAQ724ad - Physical activity backyard 
+games",.,Missing,8603
+PAQ724ae,PAQ724ae - Physical activity trampoline,31,TRAMPOLINE,165
+PAQ724ae,PAQ724ae - Physical activity trampoline,.,Missing,9319
+PAQ724af,"PAQ724af - Physical activity horseback 
+riding",32,HORSEBACK RIDING,14
+PAQ724af,"PAQ724af - Physical activity horseback 
+riding",.,Missing,9470
+PAQ724cm,PAQ724cm - Physical activity other,91,OTHER (SPECIFY),23
+PAQ724cm,PAQ724cm - Physical activity other,.,Missing,9461
+PAQ731,PAQ731 - Days played active video games,0,0 days,1456
+PAQ731,PAQ731 - Days played active video games,1,1 day,241
+PAQ731,PAQ731 - Days played active video games,2,2 days,204
+PAQ731,PAQ731 - Days played active video games,3,3 days,137
+PAQ731,PAQ731 - Days played active video games,4,4 days,54
+PAQ731,PAQ731 - Days played active video games,5,5 days,44
+PAQ731,PAQ731 - Days played active video games,6,6 days,11
+PAQ731,PAQ731 - Days played active video games,7,7 days,109
+PAQ731,PAQ731 - Days played active video games,77,Refused,0
+PAQ731,PAQ731 - Days played active video games,99,Don't know,1
+PAQ731,PAQ731 - Days played active video games,.,Missing,7227
+PAD733,PAD733 - Minutes play active video games,5 to 600,Range of Values,796
+PAD733,PAD733 - Minutes play active video games,7777,Refused,0
+PAD733,PAD733 - Minutes play active video games,9999,Don't know,2
+PAD733,PAD733 - Minutes play active video games,.,Missing,8686
+PAQ677,"PAQ677 - Past wk # days cardiovascular 
+exercise",0,0 days,111
+PAQ677,"PAQ677 - Past wk # days cardiovascular 
+exercise",1,1 day,62
+PAQ677,"PAQ677 - Past wk # days cardiovascular 
+exercise",2,2 days,81
+PAQ677,"PAQ677 - Past wk # days cardiovascular 
+exercise",3,3 days,110
+PAQ677,"PAQ677 - Past wk # days cardiovascular 
+exercise",4,4 days,65
+PAQ677,"PAQ677 - Past wk # days cardiovascular 
+exercise",5,5 days,154
+PAQ677,"PAQ677 - Past wk # days cardiovascular 
+exercise",6,6 days,43
+PAQ677,"PAQ677 - Past wk # days cardiovascular 
+exercise",7,7 days,52
+PAQ677,"PAQ677 - Past wk # days cardiovascular 
+exercise",77,Refused,0
+PAQ677,"PAQ677 - Past wk # days cardiovascular 
+exercise",99,Don't know,1
+PAQ677,"PAQ677 - Past wk # days cardiovascular 
+exercise",.,Missing,8805
+PAQ678,"PAQ678 - Past wk # days strengthened 
+muscles",0,0 days,207
+PAQ678,"PAQ678 - Past wk # days strengthened 
+muscles",1,1 day,96
+PAQ678,"PAQ678 - Past wk # days strengthened 
+muscles",2,2 days,109
+PAQ678,"PAQ678 - Past wk # days strengthened 
+muscles",3,3 days,106
+PAQ678,"PAQ678 - Past wk # days strengthened 
+muscles",4,4 days,39
+PAQ678,"PAQ678 - Past wk # days strengthened 
+muscles",5,5 days,77
+PAQ678,"PAQ678 - Past wk # days strengthened 
+muscles",6,6 days,13
+PAQ678,"PAQ678 - Past wk # days strengthened 
+muscles",7,7 days,32
+PAQ678,"PAQ678 - Past wk # days strengthened 
+muscles",77,Refused,0
+PAQ678,"PAQ678 - Past wk # days strengthened 
+muscles",99,Don't know,0
+PAQ678,"PAQ678 - Past wk # days strengthened 
+muscles",.,Missing,8805
+PAQ740,PAQ740 - Use school facilities at lunch,1,Yes,320
+PAQ740,PAQ740 - Use school facilities at lunch,2,No,353
+PAQ740,PAQ740 - Use school facilities at lunch,7,Refused,0
+PAQ740,PAQ740 - Use school facilities at lunch,9,Don't know,6
+PAQ740,PAQ740 - Use school facilities at lunch,.,Missing,8805
+PAQ742,"PAQ742 - Use school facilities for physical 
+activ",1,Yes,203
+PAQ742,"PAQ742 - Use school facilities for physical 
+activ",2,No,117
+PAQ742,"PAQ742 - Use school facilities for physical 
+activ",7,Refused,0
+PAQ742,"PAQ742 - Use school facilities for physical 
+activ",9,Don't know,0
+PAQ742,"PAQ742 - Use school facilities for physical 
+activ",.,Missing,9164
+PAQ744,PAQ744 - Have PE during school days?,1,Yes,556
+PAQ744,PAQ744 - Have PE during school days?,2,No,123
+PAQ744,PAQ744 - Have PE during school days?,7,Refused,0
+PAQ744,PAQ744 - Have PE during school days?,9,Don't know,0
+PAQ744,PAQ744 - Have PE during school days?,.,Missing,8805
+PAQ746,PAQ746 - How often do you have PE or gym?,1,1 day a week,36
+PAQ746,PAQ746 - How often do you have PE or gym?,2,2 days a week,65
+PAQ746,PAQ746 - How often do you have PE or gym?,3,3 days a week,129
+PAQ746,PAQ746 - How often do you have PE or gym?,4,"4 days a week, or",24
+PAQ746,PAQ746 - How often do you have PE or gym?,5,Every day,302
+PAQ746,PAQ746 - How often do you have PE or gym?,7,Refused,0
+PAQ746,PAQ746 - How often do you have PE or gym?,9,Don't know,0
+PAQ746,PAQ746 - How often do you have PE or gym?,.,Missing,8928
+PAQ748,PAQ748 - How long is the PE or gym class?,1,Less than 30 minutes,14
+PAQ748,PAQ748 - How long is the PE or gym class?,2,30-45 minutes,205
+PAQ748,PAQ748 - How long is the PE or gym class?,3,More than 45 minutes,334
+PAQ748,PAQ748 - How long is the PE or gym class?,7,Refused,0
+PAQ748,PAQ748 - How long is the PE or gym class?,9,Don't know,3
+PAQ748,PAQ748 - How long is the PE or gym class?,.,Missing,8928
+PAQ755,PAQ755 - Participate in school sports?,1,Yes,810
+PAQ755,PAQ755 - Participate in school sports?,2,No,1447
+PAQ755,PAQ755 - Participate in school sports?,7,Refused,0
+PAQ755,PAQ755 - Participate in school sports?,9,Don't know,0
+PAQ755,PAQ755 - Participate in school sports?,.,Missing,7227
+PAQ759a,PAQ759a - Participate in baseball,1,BASEBALL/SOFTBALL,118
+PAQ759a,PAQ759a - Participate in baseball,77,Refused,0
+PAQ759a,PAQ759a - Participate in baseball,99,Don't know,2
+PAQ759a,PAQ759a - Participate in baseball,.,Missing,9364
+PAQ759b,PAQ759b - Participate in basketball,2,BASKETBALL,253
+PAQ759b,PAQ759b - Participate in basketball,.,Missing,9231
+PAQ759c,PAQ759c - Participate in bocce ball,3,BOCCE BALL,4
+PAQ759c,PAQ759c - Participate in bocce ball,.,Missing,9480
+PAQ759d,PAQ759d - Participate in cheerleading,4,CHEERLEADING,52
+PAQ759d,PAQ759d - Participate in cheerleading,.,Missing,9432
+PAQ759e,PAQ759e - Participate in football,5,FOOTBALL,134
+PAQ759e,PAQ759e - Participate in football,.,Missing,9350
+PAQ759f,PAQ759f - Participate in golf,6,GOLF,5
+PAQ759f,PAQ759f - Participate in golf,.,Missing,9479
+PAQ759g,PAQ759g - Participate in gymnastics,7,GYMNASTICS,40
+PAQ759g,PAQ759g - Participate in gymnastics,.,Missing,9444
+PAQ759h,PAQ759h - Participate in hockey,8,HOCKEY,11
+PAQ759h,PAQ759h - Participate in hockey,.,Missing,9473
+PAQ759i,PAQ759i - Participate in lacrosse,9,LACROSSE,9
+PAQ759i,PAQ759i - Participate in lacrosse,.,Missing,9475
+PAQ759j,PAQ759j - Participate in soccer,10,SOCCER,219
+PAQ759j,PAQ759j - Participate in soccer,.,Missing,9265
+PAQ759k,PAQ759k - Participate in swimming/diving,11,SWIMMING/DIVING,42
+PAQ759k,PAQ759k - Participate in swimming/diving,.,Missing,9442
+PAQ759l,PAQ759l - Participate in tennis,12,TENNIS,25
+PAQ759l,PAQ759l - Participate in tennis,.,Missing,9459
+PAQ759m,PAQ759m - Participate in track and field,13,TRACK AND FIELD,77
+PAQ759m,PAQ759m - Participate in track and field,.,Missing,9407
+PAQ759n,PAQ759n - Participate in volleyball,14,VOLLEYBALL,49
+PAQ759n,PAQ759n - Participate in volleyball,.,Missing,9435
+PAQ759o,PAQ759o - Participate in wrestling,15,WRESTLING,28
+PAQ759o,PAQ759o - Participate in wrestling,.,Missing,9456
+PAQ759p,PAQ759p - Participate in other specify,16,OTHER (SPECIFY),56
+PAQ759p,PAQ759p - Participate in other specify,.,Missing,9428
+PAQ759q,PAQ759q - Participate in dance,17,DANCE,87
+PAQ759q,PAQ759q - Participate in dance,.,Missing,9397
+PAQ759r,PAQ759r - Participate in frisbee,18,FRISBEE/ULTIMATE FRISBEE,4
+PAQ759r,PAQ759r - Participate in frisbee,.,Missing,9480
+PAQ759s,PAQ759s - Participate in running,19,RUNNING,115
+PAQ759s,PAQ759s - Participate in running,.,Missing,9369
+PAQ759t,PAQ759t - Participate in trampoline,20,TRAMPOLINE,1
+PAQ759t,PAQ759t - Participate in trampoline,.,Missing,9483
+PAQ759u,PAQ759u - Participate in martial arts,21,MARTIAL ARTS,15
+PAQ759u,PAQ759u - Participate in martial arts,.,Missing,9469
+PAQ759v,PAQ759v - Participate in walking,22,WALKING,3
+PAQ759v,PAQ759v - Participate in walking,.,Missing,9481
+PAQ762,PAQ762 - Do you have recess during school?,1,Yes,1467
+PAQ762,PAQ762 - Do you have recess during school?,2,No,107
+PAQ762,PAQ762 - Do you have recess during school?,7,Refused,0
+PAQ762,PAQ762 - Do you have recess during school?,9,Don't know,4
+PAQ762,PAQ762 - Do you have recess during school?,.,Missing,7906
+PAQ764,PAQ764 - How often do you have recess?,1,1 day a week,22
+PAQ764,PAQ764 - How often do you have recess?,2,2 days a week,32
+PAQ764,PAQ764 - How often do you have recess?,3,3 days a week,32
+PAQ764,PAQ764 - How often do you have recess?,4,"4 days a week, or",28
+PAQ764,PAQ764 - How often do you have recess?,5,Every day,1338
+PAQ764,PAQ764 - How often do you have recess?,7,Refused,0
+PAQ764,PAQ764 - How often do you have recess?,9,Don't know,15
+PAQ764,PAQ764 - How often do you have recess?,.,Missing,8017
+PAQ766,PAQ766 - How long is the recess period?,1,Less than 10 minutes,7
+PAQ766,PAQ766 - How long is the recess period?,2,10-15 minutes,302
+PAQ766,PAQ766 - How long is the recess period?,3,16-30 minutes,785
+PAQ766,PAQ766 - How long is the recess period?,4,More than 30 minutes,327
+PAQ766,PAQ766 - How long is the recess period?,7,Refused,0
+PAQ766,PAQ766 - How long is the recess period?,9,Don't know,31
+PAQ766,PAQ766 - How long is the recess period?,.,Missing,8032
+PAQ679,PAQ679 - How much exercise for good health,1,"less than 10 minutes,",10
+PAQ679,PAQ679 - How much exercise for good health,2,"10-15 minutes,",25
+PAQ679,PAQ679 - How much exercise for good health,3,"16-30 minutes,",141
+PAQ679,PAQ679 - How much exercise for good health,4,"31-45 minutes,",44
+PAQ679,PAQ679 - How much exercise for good health,5,"46-60 minutes, or",313
+PAQ679,PAQ679 - How much exercise for good health,6,More than 60 minutes,138
+PAQ679,PAQ679 - How much exercise for good health,7,Refused,0
+PAQ679,PAQ679 - How much exercise for good health,9,Don't know,1
+PAQ679,PAQ679 - How much exercise for good health,.,Missing,8812
+PAQ750,"PAQ750 - Enjoy participating in PE or 
+recess",1,Strongly agree,1596
+PAQ750,"PAQ750 - Enjoy participating in PE or 
+recess",2,Agree,490
+PAQ750,"PAQ750 - Enjoy participating in PE or 
+recess",3,Neither agree nor disagree,81
+PAQ750,"PAQ750 - Enjoy participating in PE or 
+recess",4,Disagree,54
+PAQ750,"PAQ750 - Enjoy participating in PE or 
+recess",5,Strongly disagree,13
+PAQ750,"PAQ750 - Enjoy participating in PE or 
+recess",7,Refused,2
+PAQ750,"PAQ750 - Enjoy participating in PE or 
+recess",9,Don't know,14
+PAQ750,"PAQ750 - Enjoy participating in PE or 
+recess",.,Missing,7234
+PAQ770,"PAQ770 - Receive physical fitness award past 
+yr",1,Yes,166
+PAQ770,"PAQ770 - Receive physical fitness award past 
+yr",2,No,2084
+PAQ770,"PAQ770 - Receive physical fitness award past 
+yr",7,Refused,0
+PAQ770,"PAQ770 - Receive physical fitness award past 
+yr",9,Don't know,7
+PAQ770,"PAQ770 - Receive physical fitness award past 
+yr",.,Missing,7227
+PAQ772a,PAQ772a - Fitness award Fitnessgram,1,Fitnessgram,40
+PAQ772a,PAQ772a - Fitness award Fitnessgram,7,Refused,0
+PAQ772a,PAQ772a - Fitness award Fitnessgram,9,Don't know,9
+PAQ772a,PAQ772a - Fitness award Fitnessgram,.,Missing,9435
+PAQ772b,"PAQ772b - Fitness award President's 
+Challenge",2,President's Challenge,45
+PAQ772b,"PAQ772b - Fitness award President's 
+Challenge",.,Missing,9439
+PAQ772c,PAQ772c - Fitness award other specify,3,Other (specify),75
+PAQ772c,PAQ772c - Fitness award other specify,.,Missing,9409
+PAAQUEX,"PAAQUEX - Questionnaire source flag for 
+weighting",1,"Sample Person Interview Questionnaire Targets (B(2-11) ",      and B(16-150))
+PAAQUEX,"PAAQUEX - Questionnaire source flag for 
+weighting",2,MEC CAPI Questionnaire Targets (B(12-15)),713
+PAAQUEX,"PAAQUEX - Questionnaire source flag for 
+weighting",.,Missing,0
+PFQ020,"PFQ020 - Crawl, walk, run, play limitations",1,Yes,128
+PFQ020,"PFQ020 - Crawl, walk, run, play limitations",2,No,3332
+PFQ020,"PFQ020 - Crawl, walk, run, play limitations",7,Refused,0
+PFQ020,"PFQ020 - Crawl, walk, run, play limitations",9,Don't know,1
+PFQ020,"PFQ020 - Crawl, walk, run, play limitations",.,Missing,5769
+PFQ030,PFQ030 - Long term impairment/health problem,1,Yes,108
+PFQ030,PFQ030 - Long term impairment/health problem,2,No,19
+PFQ030,PFQ030 - Long term impairment/health problem,7,Refused,0
+PFQ030,PFQ030 - Long term impairment/health problem,9,Don't know,1
+PFQ030,PFQ030 - Long term impairment/health problem,.,Missing,9102
+RXDUSE,"RXDUSE - Taken prescription medicine, past month",1,Yes,14100
+RXDUSE,"RXDUSE - Taken prescription medicine, past month",2,No,6089
+RXDUSE,"RXDUSE - Taken prescription medicine, past month",7,Refused,4
+RXDUSE,"RXDUSE - Taken prescription medicine, past month",9,Don't know,1
+RXDUSE,"RXDUSE - Taken prescription medicine, past month",.,Missing,0
+RXDDRUG,RXDDRUG - Generic drug name,Generic drug name,Value was recorded,14016
+RXDDRUG,RXDDRUG - Generic drug name,55555,Unknown,6
+RXDDRUG,RXDDRUG - Generic drug name,77777,Refused,16
+RXDDRUG,RXDDRUG - Generic drug name,99999,Don't know,62
+RXDDRUG,RXDDRUG - Generic drug name,< blank >,Missing,6094
+RXDDRGID,RXDDRGID - Generic drug code,Generic drug code,Value was recorded,14016
+RXDDRGID,RXDDRGID - Generic drug code,< blank >,Missing,6178
+RXQSEEN,RXQSEEN - Medicine container seen by interviewer,1,Yes,12477
+RXQSEEN,RXQSEEN - Medicine container seen by interviewer,2,No,767
+RXQSEEN,RXQSEEN - Medicine container seen by interviewer,3,Only pharmacy print out seen,775
+RXQSEEN,RXQSEEN - Medicine container seen by interviewer,.,Missing,6175
+RXDDAYS,RXDDAYS - Number of days taken medicine,1 to 25550,Range of Values,13740
+RXDDAYS,RXDDAYS - Number of days taken medicine,77777,Refused,0
+RXDDAYS,RXDDAYS - Number of days taken medicine,99999,Don't know,278
+RXDDAYS,RXDDAYS - Number of days taken medicine,.,Missing,6176
+RXDRSC1,RXDRSC1 - ICD-10-CM code 1,ICD-10-CM code 1,Value was recorded,13633
+RXDRSC1,RXDRSC1 - ICD-10-CM code 1,55555,Unknown,41
+RXDRSC1,RXDRSC1 - ICD-10-CM code 1,77777,Refused,8
+RXDRSC1,RXDRSC1 - ICD-10-CM code 1,99999,Don't know,340
+RXDRSC1,RXDRSC1 - ICD-10-CM code 1,< blank >,Missing,6172
+RXDRSC2,RXDRSC2 - ICD-10-CM code 2,ICD-10-CM code 2,Value was recorded,714
+RXDRSC2,RXDRSC2 - ICD-10-CM code 2,< blank >,Missing,19480
+RXDRSC3,RXDRSC3 - ICD-10-CM code 3,ICD-10-CM code 3,Value was recorded,127
+RXDRSC3,RXDRSC3 - ICD-10-CM code 3,< blank >,Missing,20067
+RXDRSD1,RXDRSD1 - ICD-10-CM code 1 description,ICD-10-CM code 1 description,Value was recorded,13633
+RXDRSD1,RXDRSD1 - ICD-10-CM code 1 description,< blank >,Missing,6561
+RXDRSD2,RXDRSD2 - ICD-10-CM code 2 description,ICD-10-CM code 2 description,Value was recorded,714
+RXDRSD2,RXDRSD2 - ICD-10-CM code 2 description,< blank >,Missing,19480
+RXDRSD3,RXDRSD3 - ICD-10-CM code 3 description,ICD-10-CM code 3 description,Value was recorded,127
+RXDRSD3,RXDRSD3 - ICD-10-CM code 3 description,< blank >,Missing,20067
+RXDCOUNT,RXDCOUNT - Number of prescription medicines taken,1 to 23,Range of Values,14100
+RXDCOUNT,RXDCOUNT - Number of prescription medicines taken,.,Missing,6094
+RXQ510  ,RXQ510   - Dr told to take daily low-dose aspirin?,1,Yes,1284
+RXQ510  ,RXQ510   - Dr told to take daily low-dose aspirin?,2,No,2524
+RXQ510  ,RXQ510   - Dr told to take daily low-dose aspirin?,7,Refused,3
+RXQ510  ,RXQ510   - Dr told to take daily low-dose aspirin?,9,Don't know,4
+RXQ510  ,RXQ510   - Dr told to take daily low-dose aspirin?,.,Missing,0
+RXQ515  ,"RXQ515   - Followed advice, took low-dose aspirin?",1,Yes,946
+RXQ515  ,"RXQ515   - Followed advice, took low-dose aspirin?",2,No,229
+RXQ515  ,"RXQ515   - Followed advice, took low-dose aspirin?",3,Sometimes,60
+RXQ515  ,"RXQ515   - Followed advice, took low-dose aspirin?",4,Stopped aspirin use due to side effects,49
+RXQ515  ,"RXQ515   - Followed advice, took low-dose aspirin?",.,Missing,2531
+RXQ520  ,RXQ520   - Taking low-dose aspirin on your own?,1,Yes,133
+RXQ520  ,RXQ520   - Taking low-dose aspirin on your own?,2,No,2392
+RXQ520  ,RXQ520   - Taking low-dose aspirin on your own?,7,Refused,3
+RXQ520  ,RXQ520   - Taking low-dose aspirin on your own?,9,Don't know,3
+RXQ520  ,RXQ520   - Taking low-dose aspirin on your own?,.,Missing,1284
+RXQ525G ,RXQ525G  - Schedule/frequency of aspirin use,1,One every day,969
+RXQ525G ,RXQ525G  - Schedule/frequency of aspirin use,2,One every other day,67
+RXQ525G ,RXQ525G  - Schedule/frequency of aspirin use,3,Another schedule,96
+RXQ525G ,RXQ525G  - Schedule/frequency of aspirin use,7,Refused,0
+RXQ525G ,RXQ525G  - Schedule/frequency of aspirin use,9,Don't know,1
+RXQ525G ,RXQ525G  - Schedule/frequency of aspirin use,.,Missing,2682
+RXQ525Q ,RXQ525Q  - Another ASA schedule: number of doses,1 to 999,Range of Values,96
+RXQ525Q ,RXQ525Q  - Another ASA schedule: number of doses,.,Missing,3719
+RXQ525U ,RXQ525U  - Another ASA schedule: frequency of doses,1,Per day,12
+RXQ525U ,RXQ525U  - Another ASA schedule: frequency of doses,2,Per week,83
+RXQ525U ,RXQ525U  - Another ASA schedule: frequency of doses,.,Missing,3720
+RXD530  ,RXD530   - Aspirin dose in milligrams (mg),20 to 500,Range of Values,1121
+RXD530  ,RXD530   - Aspirin dose in milligrams (mg),77777,Refused,0
+RXD530  ,RXD530   - Aspirin dose in milligrams (mg),99999,Don't know,12
+RXD530  ,RXD530   - Aspirin dose in milligrams (mg),.,Missing,2682
+RHQ010,RHQ010 - Age when first menstrual period occurred,7 to 22,Range of Values,3230
+RHQ010,RHQ010 - Age when first menstrual period occurred,0,Hasn't started yet,51
+RHQ010,RHQ010 - Age when first menstrual period occurred,777,Refused,0
+RHQ010,RHQ010 - Age when first menstrual period occurred,999,Don't know,25
+RHQ010,RHQ010 - Age when first menstrual period occurred,.,Missing,312
+RHQ020,RHQ020 - Age range at first menstrual period,1,"Younger than 10,",1
+RHQ020,RHQ020 - Age range at first menstrual period,2,"10 to 12,",7
+RHQ020,RHQ020 - Age range at first menstrual period,3,"13 to 15, or",10
+RHQ020,RHQ020 - Age range at first menstrual period,4,16 or older?,1
+RHQ020,RHQ020 - Age range at first menstrual period,7,Refused,0
+RHQ020,RHQ020 - Age range at first menstrual period,9,Don't know,6
+RHQ020,RHQ020 - Age range at first menstrual period,.,Missing,3593
+RHQ031,RHQ031 - Had regular periods in past 12 months,1,Yes,1823
+RHQ031,RHQ031 - Had regular periods in past 12 months,2,No,1432
+RHQ031,RHQ031 - Had regular periods in past 12 months,7,Refused,0
+RHQ031,RHQ031 - Had regular periods in past 12 months,9,Don't know,1
+RHQ031,RHQ031 - Had regular periods in past 12 months,.,Missing,362
+RHD043,RHD043 - Reason not having regular periods,1,Pregnancy,11
+RHD043,RHD043 - Reason not having regular periods,2,Breast feeding,9
+RHD043,RHD043 - Reason not having regular periods,3,Hysterectomy,505
+RHD043,RHD043 - Reason not having regular periods,7,Menopause/Change of life,805
+RHD043,RHD043 - Reason not having regular periods,9,Other,89
+RHD043,RHD043 - Reason not having regular periods,77,Refused,0
+RHD043,RHD043 - Reason not having regular periods,99,Don't know,4
+RHD043,RHD043 - Reason not having regular periods,.,Missing,2195
+RHQ060,RHQ060 - Age at last menstrual period,15 to 65,Range of Values,1370
+RHQ060,RHQ060 - Age at last menstrual period,777,Refused,0
+RHQ060,RHQ060 - Age at last menstrual period,999,Don't know,53
+RHQ060,RHQ060 - Age at last menstrual period,.,Missing,2195
+RHQ070,RHQ070 - Age range at last menstrual period,1,Younger than 30,2
+RHQ070,RHQ070 - Age range at last menstrual period,2,30 to 34,3
+RHQ070,RHQ070 - Age range at last menstrual period,3,35 to 39,5
+RHQ070,RHQ070 - Age range at last menstrual period,4,40 to 44,8
+RHQ070,RHQ070 - Age range at last menstrual period,5,45 to 49,14
+RHQ070,RHQ070 - Age range at last menstrual period,6,"50 to 54, or",7
+RHQ070,RHQ070 - Age range at last menstrual period,7,55 or older?,6
+RHQ070,RHQ070 - Age range at last menstrual period,77,Refused,0
+RHQ070,RHQ070 - Age range at last menstrual period,99,Don't know,8
+RHQ070,RHQ070 - Age range at last menstrual period,.,Missing,3565
+RHQ074  ,RHQ074   - Tried for a year to become pregnant?,1,Yes,238
+RHQ074  ,RHQ074   - Tried for a year to become pregnant?,2,No,1691
+RHQ074  ,RHQ074   - Tried for a year to become pregnant?,7,Refused,0
+RHQ074  ,RHQ074   - Tried for a year to become pregnant?,9,Don't know,0
+RHQ074  ,RHQ074   - Tried for a year to become pregnant?,.,Missing,1689
+RHQ076  ,RHQ076   - Seen a DR b/c unable to become pregnant?,1,Yes,173
+RHQ076  ,RHQ076   - Seen a DR b/c unable to become pregnant?,2,No,1756
+RHQ076  ,RHQ076   - Seen a DR b/c unable to become pregnant?,7,Refused,0
+RHQ076  ,RHQ076   - Seen a DR b/c unable to become pregnant?,9,Don't know,0
+RHQ076  ,RHQ076   - Seen a DR b/c unable to become pregnant?,.,Missing,1689
+RHQ078  ,RHQ078   - Ever treated for a pelvic infection/PID?,1,Yes,101
+RHQ078  ,RHQ078   - Ever treated for a pelvic infection/PID?,2,No,1815
+RHQ078  ,RHQ078   - Ever treated for a pelvic infection/PID?,7,Refused,0
+RHQ078  ,RHQ078   - Ever treated for a pelvic infection/PID?,9,Don't know,13
+RHQ078  ,RHQ078   - Ever treated for a pelvic infection/PID?,.,Missing,1689
+RHQ131,RHQ131 - Ever been pregnant?,1,Yes,2195
+RHQ131,RHQ131 - Ever been pregnant?,2,No,434
+RHQ131,RHQ131 - Ever been pregnant?,7,Refused,2
+RHQ131,RHQ131 - Ever been pregnant?,9,Don't know,1
+RHQ131,RHQ131 - Ever been pregnant?,.,Missing,986
+RHD143,RHD143 - Are you pregnant now?,1,Yes,47
+RHD143,RHD143 - Are you pregnant now?,2,No,677
+RHD143,RHD143 - Are you pregnant now?,7,Refused,0
+RHD143,RHD143 - Are you pregnant now?,9,Don't know,10
+RHD143,RHD143 - Are you pregnant now?,.,Missing,2884
+RHQ160,RHQ160 - How many times have been pregnant?,1 to 33,Range of Values,2192
+RHQ160,RHQ160 - How many times have been pregnant?,77,Refused,1
+RHQ160,RHQ160 - How many times have been pregnant?,99,Don't know,0
+RHQ160,RHQ160 - How many times have been pregnant?,.,Missing,1425
+RHQ162,"RHQ162 - During pregnancy, told you have diabetes",1,Yes,196
+RHQ162,"RHQ162 - During pregnancy, told you have diabetes",2,No,1975
+RHQ162,"RHQ162 - During pregnancy, told you have diabetes",3,Borderline,15
+RHQ162,"RHQ162 - During pregnancy, told you have diabetes",7,Refused,0
+RHQ162,"RHQ162 - During pregnancy, told you have diabetes",9,Don't know,7
+RHQ162,"RHQ162 - During pregnancy, told you have diabetes",.,Missing,1425
+RHQ163,RHQ163 - Age told you had diabetes while pregnant,16 to 44,Range of Values,195
+RHQ163,RHQ163 - Age told you had diabetes while pregnant,777,Refused,0
+RHQ163,RHQ163 - Age told you had diabetes while pregnant,999,Don't know,1
+RHQ163,RHQ163 - Age told you had diabetes while pregnant,.,Missing,3422
+RHQ166,RHQ166 - How many vaginal deliveries?,0 to 13,Range of Values,2176
+RHQ166,RHQ166 - How many vaginal deliveries?,77,Refused,0
+RHQ166,RHQ166 - How many vaginal deliveries?,99,Don't know,0
+RHQ166,RHQ166 - How many vaginal deliveries?,.,Missing,1442
+RHQ169,RHQ169 - How many cesarean deliveries?,0 to 6,Range of Values,1241
+RHQ169,RHQ169 - How many cesarean deliveries?,77,Refused,0
+RHQ169,RHQ169 - How many cesarean deliveries?,99,Don't know,0
+RHQ169,RHQ169 - How many cesarean deliveries?,.,Missing,2377
+RHQ172,RHQ172 - Any babies weigh 9 lbs or more?,1,Yes,335
+RHQ172,RHQ172 - Any babies weigh 9 lbs or more?,2,No,1733
+RHQ172,RHQ172 - Any babies weigh 9 lbs or more?,7,Refused,0
+RHQ172,RHQ172 - Any babies weigh 9 lbs or more?,9,Don't know,13
+RHQ172,RHQ172 - Any babies weigh 9 lbs or more?,.,Missing,1537
+RHD173,RHD173 - Age when delivered baby 9 lbs or more?,15 to 42,Range of Values,330
+RHD173,RHD173 - Age when delivered baby 9 lbs or more?,14,14 years or under,2
+RHD173,RHD173 - Age when delivered baby 9 lbs or more?,45,45 years or older,1
+RHD173,RHD173 - Age when delivered baby 9 lbs or more?,777,Refused,0
+RHD173,RHD173 - Age when delivered baby 9 lbs or more?,999,Don't know,2
+RHD173,RHD173 - Age when delivered baby 9 lbs or more?,.,Missing,3283
+RHQ171,RHQ171 - How many deliveries live birth result?,0 to 12,Range of Values,2081
+RHQ171,RHQ171 - How many deliveries live birth result?,77,Refused,0
+RHQ171,RHQ171 - How many deliveries live birth result?,99,Don't know,0
+RHQ171,RHQ171 - How many deliveries live birth result?,.,Missing,1537
+RHD180,RHD180 - Age at first live birth,15 to 40,Range of Values,1632
+RHD180,RHD180 - Age at first live birth,14,14 years or under,17
+RHD180,RHD180 - Age at first live birth,45,45 years or older,0
+RHD180,RHD180 - Age at first live birth,777,Refused,0
+RHD180,RHD180 - Age at first live birth,999,Don't know,3
+RHD180,RHD180 - Age at first live birth,.,Missing,1966
+RHD190,RHD190 - Age at last live birth,15 to 44,Range of Values,2033
+RHD190,RHD190 - Age at last live birth,14,14 years or under,1
+RHD190,RHD190 - Age at last live birth,45,45 years or older,7
+RHD190,RHD190 - Age at last live birth,777,Refused,0
+RHD190,RHD190 - Age at last live birth,999,Don't know,13
+RHD190,RHD190 - Age at last live birth,.,Missing,1564
+RHQ197,RHQ197 - How many months ago have baby?,2 to 27,Range of Values,143
+RHQ197,RHQ197 - How many months ago have baby?,1,1 month or less,7
+RHQ197,RHQ197 - How many months ago have baby?,777,Refused,0
+RHQ197,RHQ197 - How many months ago have baby?,999,Don't know,0
+RHQ197,RHQ197 - How many months ago have baby?,.,Missing,3468
+RHQ200,RHQ200 - Now breastfeeding a child?,1,Yes,41
+RHQ200,RHQ200 - Now breastfeeding a child?,2,No,108
+RHQ200,RHQ200 - Now breastfeeding a child?,7,Refused,0
+RHQ200,RHQ200 - Now breastfeeding a child?,9,Don't know,0
+RHQ200,RHQ200 - Now breastfeeding a child?,.,Missing,3469
+RHD280,RHD280 - Had a hysterectomy?,1,Yes,565
+RHD280,RHD280 - Had a hysterectomy?,2,No,2053
+RHD280,RHD280 - Had a hysterectomy?,7,Refused,0
+RHD280,RHD280 - Had a hysterectomy?,9,Don't know,2
+RHD280,RHD280 - Had a hysterectomy?,.,Missing,998
+RHQ291,RHQ291 - Age when had hysterectomy,20 to 79,Range of Values,556
+RHQ291,RHQ291 - Age when had hysterectomy,777,Refused,0
+RHQ291,RHQ291 - Age when had hysterectomy,999,Don't know,9
+RHQ291,RHQ291 - Age when had hysterectomy,.,Missing,3053
+RHQ305,RHQ305 - Had both ovaries removed?,1,Yes,304
+RHQ305,RHQ305 - Had both ovaries removed?,2,No,2297
+RHQ305,RHQ305 - Had both ovaries removed?,7,Refused,0
+RHQ305,RHQ305 - Had both ovaries removed?,9,Don't know,20
+RHQ305,RHQ305 - Had both ovaries removed?,.,Missing,997
+RHQ332,RHQ332 - Age when both ovaries removed,20 to 75,Range of Values,301
+RHQ332,RHQ332 - Age when both ovaries removed,777,Refused,0
+RHQ332,RHQ332 - Age when both ovaries removed,999,Don't know,3
+RHQ332,RHQ332 - Age when both ovaries removed,.,Missing,3314
+RHQ420,RHQ420 - Ever taken birth control pills?,1,Yes,1867
+RHQ420,RHQ420 - Ever taken birth control pills?,2,No,1382
+RHQ420,RHQ420 - Ever taken birth control pills?,7,Refused,0
+RHQ420,RHQ420 - Ever taken birth control pills?,9,Don't know,4
+RHQ420,RHQ420 - Ever taken birth control pills?,.,Missing,365
+RHQ540,RHQ540 - Ever use female hormones?,1,Yes,498
+RHQ540,RHQ540 - Ever use female hormones?,2,No,2123
+RHQ540,RHQ540 - Ever use female hormones?,7,Refused,0
+RHQ540,RHQ540 - Ever use female hormones?,9,Don't know,8
+RHQ540,RHQ540 - Ever use female hormones?,.,Missing,989
+RHQ542A,RHQ542A - Hormone pills used,10,Pills,407
+RHQ542A,RHQ542A - Hormone pills used,77,Refused,0
+RHQ542A,RHQ542A - Hormone pills used,99,Don't know,1
+RHQ542A,RHQ542A - Hormone pills used,.,Missing,3210
+RHQ542B,RHQ542B - Hormone patches used,11,Patches,63
+RHQ542B,RHQ542B - Hormone patches used,.,Missing,3555
+RHQ542C,RHQ542C - Hormone cream/suppository/injection used,12,Cream/suppository/injection,112
+RHQ542C,RHQ542C - Hormone cream/suppository/injection used,.,Missing,3506
+RHQ542D,RHQ542D - Other form of female hormone used,13,Other,15
+RHQ542D,RHQ542D - Other form of female hormone used,.,Missing,3603
+RHQ554,RHQ554 - Use hormone pills w/estrogen only,1,Yes,295
+RHQ554,RHQ554 - Use hormone pills w/estrogen only,2,No,77
+RHQ554,RHQ554 - Use hormone pills w/estrogen only,7,Refused,0
+RHQ554,RHQ554 - Use hormone pills w/estrogen only,9,Don't know,35
+RHQ554,RHQ554 - Use hormone pills w/estrogen only,.,Missing,3211
+RHQ560Q,RHQ560Q - How long taking estrogen-only pills?,1 to 48,Range of Values,289
+RHQ560Q,RHQ560Q - How long taking estrogen-only pills?,77,Refused,0
+RHQ560Q,RHQ560Q - How long taking estrogen-only pills?,99,Don't know,6
+RHQ560Q,RHQ560Q - How long taking estrogen-only pills?,.,Missing,3323
+RHQ560U,"RHQ560U - Unit of measure: months, years",1,Months,51
+RHQ560U,"RHQ560U - Unit of measure: months, years",2,Years,238
+RHQ560U,"RHQ560U - Unit of measure: months, years",7,Refused,0
+RHQ560U,"RHQ560U - Unit of measure: months, years",9,Don't know,0
+RHQ560U,"RHQ560U - Unit of measure: months, years",.,Missing,3329
+RHQ570,RHQ570 - Used estrogen/progestin combo pills,1,Yes,80
+RHQ570,RHQ570 - Used estrogen/progestin combo pills,2,No,288
+RHQ570,RHQ570 - Used estrogen/progestin combo pills,7,Refused,0
+RHQ570,RHQ570 - Used estrogen/progestin combo pills,9,Don't know,39
+RHQ570,RHQ570 - Used estrogen/progestin combo pills,.,Missing,3211
+RHQ576Q,RHQ576Q - How long taking estrogen/progestin?,1 to 18,Range of Values,78
+RHQ576Q,RHQ576Q - How long taking estrogen/progestin?,77,Refused,0
+RHQ576Q,RHQ576Q - How long taking estrogen/progestin?,99,Don't know,2
+RHQ576Q,RHQ576Q - How long taking estrogen/progestin?,.,Missing,3538
+RHQ576U,"RHQ576U - Unit of measure: months, years",1,Months,20
+RHQ576U,"RHQ576U - Unit of measure: months, years",2,Years,58
+RHQ576U,"RHQ576U - Unit of measure: months, years",7,Refused,0
+RHQ576U,"RHQ576U - Unit of measure: months, years",9,Don't know,0
+RHQ576U,"RHQ576U - Unit of measure: months, years",.,Missing,3540
+RHQ580,RHQ580 - Used estrogen-only patches?,1,Yes,39
+RHQ580,RHQ580 - Used estrogen-only patches?,2,No,13
+RHQ580,RHQ580 - Used estrogen-only patches?,7,Refused,0
+RHQ580,RHQ580 - Used estrogen-only patches?,9,Don't know,11
+RHQ580,RHQ580 - Used estrogen-only patches?,.,Missing,3555
+RHQ586Q,RHQ586Q - How long using estrogen only patches?,1 to 10,Range of Values,37
+RHQ586Q,RHQ586Q - How long using estrogen only patches?,77,Refused,0
+RHQ586Q,RHQ586Q - How long using estrogen only patches?,99,Don't know,2
+RHQ586Q,RHQ586Q - How long using estrogen only patches?,.,Missing,3579
+RHQ586U,"RHQ586U - Unit of measure: months, years",1,Months,15
+RHQ586U,"RHQ586U - Unit of measure: months, years",2,Years,22
+RHQ586U,"RHQ586U - Unit of measure: months, years",7,Refused,0
+RHQ586U,"RHQ586U - Unit of measure: months, years",9,Don't know,0
+RHQ586U,"RHQ586U - Unit of measure: months, years",.,Missing,3581
+RHQ596,RHQ596 - Used estrogen/progestin combo patches?,1,Yes,12
+RHQ596,RHQ596 - Used estrogen/progestin combo patches?,2,No,42
+RHQ596,RHQ596 - Used estrogen/progestin combo patches?,7,Refused,0
+RHQ596,RHQ596 - Used estrogen/progestin combo patches?,9,Don't know,9
+RHQ596,RHQ596 - Used estrogen/progestin combo patches?,.,Missing,3555
+RHQ602Q,RHQ602Q - How long use estrogen/progestin patch,1 to 15,Range of Values,12
+RHQ602Q,RHQ602Q - How long use estrogen/progestin patch,77,Refused,0
+RHQ602Q,RHQ602Q - How long use estrogen/progestin patch,99,Don't know,0
+RHQ602Q,RHQ602Q - How long use estrogen/progestin patch,.,Missing,3606
+RHQ602U,"RHQ602U - Unit of measure: months, years",1,Months,5
+RHQ602U,"RHQ602U - Unit of measure: months, years",2,Years,7
+RHQ602U,"RHQ602U - Unit of measure: months, years",7,Refused,0
+RHQ602U,"RHQ602U - Unit of measure: months, years",9,Don't know,0
+RHQ602U,"RHQ602U - Unit of measure: months, years",.,Missing,3606
+SXD021,"SXD021 - Ever had vaginal, anal, or oral sex",1,Yes,4280
+SXD021,"SXD021 - Ever had vaginal, anal, or oral sex",2,No,243
+SXD021,"SXD021 - Ever had vaginal, anal, or oral sex",7,Refused,3
+SXD021,"SXD021 - Ever had vaginal, anal, or oral sex",9,Don't know,0
+SXD021,"SXD021 - Ever had vaginal, anal, or oral sex",.,Missing,531
+SXQ800  ,SXQ800   - Ever had vaginal sex with a woman,1,Yes,2000
+SXQ800  ,SXQ800   - Ever had vaginal sex with a woman,2,No,194
+SXQ800  ,SXQ800   - Ever had vaginal sex with a woman,7,Refused,4
+SXQ800  ,SXQ800   - Ever had vaginal sex with a woman,9,Don't know,0
+SXQ800  ,SXQ800   - Ever had vaginal sex with a woman,.,Missing,2859
+SXQ803  ,SXQ803   - Ever performed oral sex on a woman,1,Yes,1726
+SXQ803  ,SXQ803   - Ever performed oral sex on a woman,2,No,461
+SXQ803  ,SXQ803   - Ever performed oral sex on a woman,7,Refused,7
+SXQ803  ,SXQ803   - Ever performed oral sex on a woman,9,Don't know,4
+SXQ803  ,SXQ803   - Ever performed oral sex on a woman,.,Missing,2859
+SXQ806  ,SXQ806   - Ever had anal sex with a woman,1,Yes,846
+SXQ806  ,SXQ806   - Ever had anal sex with a woman,2,No,1342
+SXQ806  ,SXQ806   - Ever had anal sex with a woman,7,Refused,5
+SXQ806  ,SXQ806   - Ever had anal sex with a woman,9,Don't know,5
+SXQ806  ,SXQ806   - Ever had anal sex with a woman,.,Missing,2859
+SXQ809  ,"SXQ809   - Ever had any sex with a man: anal, oral",1,Yes,116
+SXQ809  ,"SXQ809   - Ever had any sex with a man: anal, oral",2,No,2076
+SXQ809  ,"SXQ809   - Ever had any sex with a man: anal, oral",7,Refused,5
+SXQ809  ,"SXQ809   - Ever had any sex with a man: anal, oral",9,Don't know,1
+SXQ809  ,"SXQ809   - Ever had any sex with a man: anal, oral",.,Missing,2859
+SLD010H,SLD010H - How much sleep do you get (hours)?,2 to 11,Range of Values,6408
+SLD010H,SLD010H - How much sleep do you get (hours)?,12,12 hours or more,46
+SLD010H,SLD010H - How much sleep do you get (hours)?,77,Refused,0
+SLD010H,SLD010H - How much sleep do you get (hours)?,99,Don't know,7
+SLD010H,SLD010H - How much sleep do you get (hours)?,.,Missing,3
+SLQ050,SLQ050 - Ever told doctor had trouble sleeping?,1,Yes,1582
+SLQ050,SLQ050 - Ever told doctor had trouble sleeping?,2,No,4880
+SLQ050,SLQ050 - Ever told doctor had trouble sleeping?,7,Refused,0
+SLQ050,SLQ050 - Ever told doctor had trouble sleeping?,9,Don't know,2
+SLQ050,SLQ050 - Ever told doctor had trouble sleeping?,.,Missing,0
+SLQ060,SLQ060 - Ever told by doctor have sleep disorder?,1,Yes,579
+SLQ060,SLQ060 - Ever told by doctor have sleep disorder?,2,No,5872
+SLQ060,SLQ060 - Ever told by doctor have sleep disorder?,7,Refused,0
+SLQ060,SLQ060 - Ever told by doctor have sleep disorder?,9,Don't know,13
+SLQ060,SLQ060 - Ever told by doctor have sleep disorder?,.,Missing,0
+SMQ020,SMQ020 - Smoked at least 100 cigarettes in life,1,Yes,2579
+SMQ020,SMQ020 - Smoked at least 100 cigarettes in life,2,No,3532
+SMQ020,SMQ020 - Smoked at least 100 cigarettes in life,7,Refused,0
+SMQ020,SMQ020 - Smoked at least 100 cigarettes in life,9,Don't know,2
+SMQ020,SMQ020 - Smoked at least 100 cigarettes in life,.,Missing,1055
+SMD030,SMD030 - Age started smoking cigarettes regularly,7 to 64,Range of Values,2448
+SMD030,SMD030 - Age started smoking cigarettes regularly,0,Never smoked cigarettes regularly,120
+SMD030,SMD030 - Age started smoking cigarettes regularly,80,80 years or older,0
+SMD030,SMD030 - Age started smoking cigarettes regularly,777,Refused,0
+SMD030,SMD030 - Age started smoking cigarettes regularly,999,Don't know,11
+SMD030,SMD030 - Age started smoking cigarettes regularly,.,Missing,4589
+SMQ040,SMQ040 - Do you now smoke cigarettes,1,Every day,992
+SMQ040,SMQ040 - Do you now smoke cigarettes,2,Some days,240
+SMQ040,SMQ040 - Do you now smoke cigarettes,3,Not at all,1347
+SMQ040,SMQ040 - Do you now smoke cigarettes,7,Refused,0
+SMQ040,SMQ040 - Do you now smoke cigarettes,9,Don't know,0
+SMQ040,SMQ040 - Do you now smoke cigarettes,.,Missing,4589
+SMQ050Q,SMQ050Q - How long since quit smoking cigarettes,1 to 90,Range of Values,1290
+SMQ050Q,SMQ050Q - How long since quit smoking cigarettes,66666,50 years or more,46
+SMQ050Q,SMQ050Q - How long since quit smoking cigarettes,77777,Refused,0
+SMQ050Q,SMQ050Q - How long since quit smoking cigarettes,99999,Don't know,11
+SMQ050Q,SMQ050Q - How long since quit smoking cigarettes,.,Missing,5821
+SMQ050U,SMQ050U - Unit of measure (day/week/month/year),1,Days,10
+SMQ050U,SMQ050U - Unit of measure (day/week/month/year),2,Weeks,28
+SMQ050U,SMQ050U - Unit of measure (day/week/month/year),3,Months,99
+SMQ050U,SMQ050U - Unit of measure (day/week/month/year),4,Years,1153
+SMQ050U,SMQ050U - Unit of measure (day/week/month/year),7,Refused,0
+SMQ050U,SMQ050U - Unit of measure (day/week/month/year),9,Don't know,0
+SMQ050U,SMQ050U - Unit of measure (day/week/month/year),.,Missing,5878
+SMD055,SMD055 - Age last smoked cigarettes regularly,14 to 79,Range of Values,1198
+SMD055,SMD055 - Age last smoked cigarettes regularly,80,80 years or older,6
+SMD055,SMD055 - Age last smoked cigarettes regularly,777,Refused,0
+SMD055,SMD055 - Age last smoked cigarettes regularly,999,Don't know,11
+SMD055,SMD055 - Age last smoked cigarettes regularly,.,Missing,5953
+SMD057,SMD057 - # cigarettes smoked per day when quit,2 to 90,Range of Values,1189
+SMD057,SMD057 - # cigarettes smoked per day when quit,1,1 cigarette or less,136
+SMD057,SMD057 - # cigarettes smoked per day when quit,95,95 cigarettes or more,7
+SMD057,SMD057 - # cigarettes smoked per day when quit,777,Refused,0
+SMD057,SMD057 - # cigarettes smoked per day when quit,999,Don't know,15
+SMD057,SMD057 - # cigarettes smoked per day when quit,.,Missing,5821
+SMQ078  ,SMQ078   - How soon after waking do you smoke,1,Within 5 minutes,258
+SMQ078  ,SMQ078   - How soon after waking do you smoke,2,From 6 to 30 minutes,321
+SMQ078  ,SMQ078   - How soon after waking do you smoke,3,From more than 30 minutes to one hour,211
+SMQ078  ,SMQ078   - How soon after waking do you smoke,4,From more than 1 hour to 2 hours,103
+SMQ078  ,SMQ078   - How soon after waking do you smoke,5,From more than 2 hours to 3 hours,40
+SMQ078  ,SMQ078   - How soon after waking do you smoke,6,From more than 3 hours to 4 hours,21
+SMQ078  ,SMQ078   - How soon after waking do you smoke,7,More than 4 hours,45
+SMQ078  ,SMQ078   - How soon after waking do you smoke,77,Refused,0
+SMQ078  ,SMQ078   - How soon after waking do you smoke,99,Don't know,0
+SMQ078  ,SMQ078   - How soon after waking do you smoke,.,Missing,6169
+SMD641,SMD641 - # days smoked cigs during past 30 days,0 to 30,Range of Values,1316
+SMD641,SMD641 - # days smoked cigs during past 30 days,77,Refused,0
+SMD641,SMD641 - # days smoked cigs during past 30 days,99,Don't know,0
+SMD641,SMD641 - # days smoked cigs during past 30 days,.,Missing,5852
+SMD650,SMD650 - Avg # cigarettes/day during past 30 days,2 to 90,Range of Values,1139
+SMD650,SMD650 - Avg # cigarettes/day during past 30 days,1,1 cigarette or less,107
+SMD650,SMD650 - Avg # cigarettes/day during past 30 days,95,95 cigarettes or more,0
+SMD650,SMD650 - Avg # cigarettes/day during past 30 days,777,Refused,0
+SMD650,SMD650 - Avg # cigarettes/day during past 30 days,999,Don't know,2
+SMD650,SMD650 - Avg # cigarettes/day during past 30 days,.,Missing,5920
+SMD093,SMD093 - May I please see the pack of cigarettes,1,Yes,829
+SMD093,SMD093 - May I please see the pack of cigarettes,2,No,280
+SMD093,SMD093 - May I please see the pack of cigarettes,3,No usual brand,69
+SMD093,SMD093 - May I please see the pack of cigarettes,4,Rolls own,54
+SMD093,SMD093 - May I please see the pack of cigarettes,7,Refused,0
+SMD093,SMD093 - May I please see the pack of cigarettes,9,Don't know,0
+SMD093,SMD093 - May I please see the pack of cigarettes,.,Missing,5936
+SMDUPCA,SMDUPCA - Cig 12-digit Universal Product Code-UPC,Cig 12-digit Universal Product Code-UPC,Value was recorded,758
+SMDUPCA,SMDUPCA - Cig 12-digit Universal Product Code-UPC, ,Missing,6352
+SMDUPCA,SMDUPCA - Cig 12-digit Universal Product Code-UPC,* NO MATCH *,No match,58
+SMD100BR,SMD100BR - Cigarette Brand/sub-brand,Cigarette Brand/sub-brand,Value was recorded,1092
+SMD100BR,SMD100BR - Cigarette Brand/sub-brand, ,Missing,6076
+SMD100FL,SMD100FL - Cigarette Filter type,0,Non-filter,12
+SMD100FL,SMD100FL - Cigarette Filter type,1,Filter,1079
+SMD100FL,SMD100FL - Cigarette Filter type,.,Missing,6077
+SMD100MN,SMD100MN - Cigarette Menthol indicator,0,Non-menthol,671
+SMD100MN,SMD100MN - Cigarette Menthol indicator,1,Menthol,421
+SMD100MN,SMD100MN - Cigarette Menthol indicator,.,Missing,6076
+SMD100LN,SMD100LN - Cigarette Length,1,Regular (68-72 mm),45
+SMD100LN,SMD100LN - Cigarette Length,2,King (79-88 mm),623
+SMD100LN,SMD100LN - Cigarette Length,3,Long (94-101 mm),410
+SMD100LN,SMD100LN - Cigarette Length,4,Ultra long (110-121 mm),14
+SMD100LN,SMD100LN - Cigarette Length,.,Missing,6076
+SMD100TR,SMD100TR - FTC Tar Content,2 to 24,Range of Values,828
+SMD100TR,SMD100TR - FTC Tar Content,.,Missing,6340
+SMD100NI,SMD100NI - FTC Nicotine Content,0.1 to 2,Range of Values,828
+SMD100NI,SMD100NI - FTC Nicotine Content,.,Missing,6340
+SMD100CO,SMD100CO - FTC Carbon Monoxide Content,3 to 19,Range of Values,828
+SMD100CO,SMD100CO - FTC Carbon Monoxide Content,.,Missing,6340
+SMQ621  ,SMQ621   - Cigarettes smoked in entire life,1,"I have never smoked, not even a puff",836
+SMQ621  ,SMQ621   - Cigarettes smoked in entire life,2,1 or more puffs but never a whole cigarette,85
+SMQ621  ,SMQ621   - Cigarettes smoked in entire life,3,1 cigarette,12
+SMQ621  ,SMQ621   - Cigarettes smoked in entire life,4,2 to 5 cigarettes,25
+SMQ621  ,SMQ621   - Cigarettes smoked in entire life,5,6 to 15 cigarettes,17
+SMQ621  ,SMQ621   - Cigarettes smoked in entire life,6,16 to 25 cigarettes,10
+SMQ621  ,SMQ621   - Cigarettes smoked in entire life,7,26 to 99 cigarettes,11
+SMQ621  ,SMQ621   - Cigarettes smoked in entire life,8,100 or more cigarettes,9
+SMQ621  ,SMQ621   - Cigarettes smoked in entire life,77,Refused,1
+SMQ621  ,SMQ621   - Cigarettes smoked in entire life,99,Don't know,1
+SMQ621  ,SMQ621   - Cigarettes smoked in entire life,.,Missing,6161
+SMD630,SMD630 - Age first smoked whole cigarette,7 to 17,Range of Values,82
+SMD630,SMD630 - Age first smoked whole cigarette,6,6 years or less,1
+SMD630,SMD630 - Age first smoked whole cigarette,77,Refused,0
+SMD630,SMD630 - Age first smoked whole cigarette,99,Don't know,0
+SMD630,SMD630 - Age first smoked whole cigarette,.,Missing,7085
+SMQ661  ,SMQ661   - Brand of cigarettes smoked past 30 days,1,Marlboro,13
+SMQ661  ,SMQ661   - Brand of cigarettes smoked past 30 days,2,Camel,3
+SMQ661  ,SMQ661   - Brand of cigarettes smoked past 30 days,3,Newport,9
+SMQ661  ,SMQ661   - Brand of cigarettes smoked past 30 days,8,Other brand,2
+SMQ661  ,SMQ661   - Brand of cigarettes smoked past 30 days,9,No usual brand,1
+SMQ661  ,SMQ661   - Brand of cigarettes smoked past 30 days,10,Hand-rolled cigarettes,1
+SMQ661  ,SMQ661   - Brand of cigarettes smoked past 30 days,77,Refused,0
+SMQ661  ,SMQ661   - Brand of cigarettes smoked past 30 days,99,Don't know,0
+SMQ661  ,SMQ661   - Brand of cigarettes smoked past 30 days,.,Missing,7139
+SMQ665A ,SMQ665A  - Marlboro variety,1,MARLBORO RED,4
+SMQ665A ,SMQ665A  - Marlboro variety,2,MARLBORO RED 83S,0
+SMQ665A ,SMQ665A  - Marlboro variety,3,MARLBORO GOLD,3
+SMQ665A ,SMQ665A  - Marlboro variety,4,MARLBORO GOLD MENTHOL,0
+SMQ665A ,SMQ665A  - Marlboro variety,5,MARLBORO SILVER,0
+SMQ665A ,SMQ665A  - Marlboro variety,6,MARLBORO BLACK,1
+SMQ665A ,SMQ665A  - Marlboro variety,7,MARLBORO MENTHOL,2
+SMQ665A ,SMQ665A  - Marlboro variety,8,OTHER MARLBORO,3
+SMQ665A ,SMQ665A  - Marlboro variety,77,Refused,0
+SMQ665A ,SMQ665A  - Marlboro variety,99,Don't know,0
+SMQ665A ,SMQ665A  - Marlboro variety,.,Missing,7155
+SMQ665B ,SMQ665B  - Camel variety,1,CAMEL,0
+SMQ665B ,SMQ665B  - Camel variety,2,CAMEL BLUE,0
+SMQ665B ,SMQ665B  - Camel variety,3,CAMEL CRUSH,1
+SMQ665B ,SMQ665B  - Camel variety,4,CAMEL CRUSH BOLD,0
+SMQ665B ,SMQ665B  - Camel variety,5,CAMEL MENTHOL,0
+SMQ665B ,SMQ665B  - Camel variety,6,CAMEL MENTHOL SILVER,1
+SMQ665B ,SMQ665B  - Camel variety,7,OTHER CAMEL,1
+SMQ665B ,SMQ665B  - Camel variety,77,Refused,0
+SMQ665B ,SMQ665B  - Camel variety,99,Don't know,0
+SMQ665B ,SMQ665B  - Camel variety,.,Missing,7165
+SMQ665C ,SMQ665C  - Newport variety,1,NEWPORT,9
+SMQ665C ,SMQ665C  - Newport variety,2,NEWPORT MENTHOL GOLD,0
+SMQ665C ,SMQ665C  - Newport variety,3,OTHER NEWPORT,0
+SMQ665C ,SMQ665C  - Newport variety,77,Refused,0
+SMQ665C ,SMQ665C  - Newport variety,99,Don't know,0
+SMQ665C ,SMQ665C  - Newport variety,.,Missing,7159
+SMQ665D ,SMQ665D  - Other brand,1,BASIC,0
+SMQ665D ,SMQ665D  - Other brand,2,DORAL RED 100S,0
+SMQ665D ,SMQ665D  - Other brand,3,DORAL MENTHOL GOLD BOX 100S,0
+SMQ665D ,SMQ665D  - Other brand,4,GPC,0
+SMQ665D ,SMQ665D  - Other brand,5,GPC MENTHOL,0
+SMQ665D ,SMQ665D  - Other brand,6,KOOL BLUE MENTHOL 100S,0
+SMQ665D ,SMQ665D  - Other brand,7,KOOL TRUE MENTHOL,1
+SMQ665D ,SMQ665D  - Other brand,8,VIRGINIA SLIMS,0
+SMQ665D ,SMQ665D  - Other brand,9,OTHER BRAND,1
+SMQ665D ,SMQ665D  - Other brand,77,Refused,0
+SMQ665D ,SMQ665D  - Other brand,99,Don't know,0
+SMQ665D ,SMQ665D  - Other brand,.,Missing,7166
+SMQ670,SMQ670 - Tried to quit smoking,1,Yes,600
+SMQ670,SMQ670 - Tried to quit smoking,2,No,661
+SMQ670,SMQ670 - Tried to quit smoking,7,Refused,0
+SMQ670,SMQ670 - Tried to quit smoking,9,Don't know,0
+SMQ670,SMQ670 - Tried to quit smoking,.,Missing,5907
+SMQ848  ,SMQ848   - # times stopped smoking cigarettes,1 to 20,Range of Values,578
+SMQ848  ,SMQ848   - # times stopped smoking cigarettes,777,Refused,0
+SMQ848  ,SMQ848   - # times stopped smoking cigarettes,999,Don't know,5
+SMQ848  ,SMQ848   - # times stopped smoking cigarettes,.,Missing,6585
+SMQ852Q ,SMQ852Q  - How long were you able to stop smoking,0 to 356,Range of Values,577
+SMQ852Q ,SMQ852Q  - How long were you able to stop smoking,7777,Refused,1
+SMQ852Q ,SMQ852Q  - How long were you able to stop smoking,9999,Don't know,2
+SMQ852Q ,SMQ852Q  - How long were you able to stop smoking,.,Missing,6588
+SMQ852U ,SMQ852U  - Unit of measure (day/week/month/year),1,Days,281
+SMQ852U ,SMQ852U  - Unit of measure (day/week/month/year),2,Weeks,138
+SMQ852U ,SMQ852U  - Unit of measure (day/week/month/year),3,Months,158
+SMQ852U ,SMQ852U  - Unit of measure (day/week/month/year),7,Refused,0
+SMQ852U ,SMQ852U  - Unit of measure (day/week/month/year),9,Don't know,0
+SMQ852U ,SMQ852U  - Unit of measure (day/week/month/year),.,Missing,6591
+SMAQUEX2,SMAQUEX2 - Questionnaire Mode Flag,1,Home Interview (18+ Yrs),6113
+SMAQUEX2,SMAQUEX2 - Questionnaire Mode Flag,2,ACASI (12 - 17 Yrs),1055
+SMAQUEX2,SMAQUEX2 - Questionnaire Mode Flag,.,Missing,0
+SMD460  ,SMD460   - # of people who live here smoke tobacco?,0,No one in houseold is a smoker,7601
+SMD460  ,SMD460   - # of people who live here smoke tobacco?,1,1 household member is a smoker,1403
+SMD460  ,SMD460   - # of people who live here smoke tobacco?,2,2 household members are smokers,849
+SMD460  ,SMD460   - # of people who live here smoke tobacco?,3,3 or more household members are smokers,200
+SMD460  ,SMD460   - # of people who live here smoke tobacco?,777,Refused,5
+SMD460  ,SMD460   - # of people who live here smoke tobacco?,999,Don't know,1
+SMD460  ,SMD460   - # of people who live here smoke tobacco?,.,Missing,116
+SMD470  ,SMD470   - # of people who smoke inside this home?,0,No one smokes inside the house,1145
+SMD470  ,SMD470   - # of people who smoke inside this home?,1,1 household member smokes inside the house,724
+SMD470  ,SMD470   - # of people who smoke inside this home?,2,2 household members smoke inside the house,511
+SMD470  ,SMD470   - # of people who smoke inside this home?,3,3 or more household members smoke inside the house,72
+SMD470  ,SMD470   - # of people who smoke inside this home?,777,Refused,0
+SMD470  ,SMD470   - # of people who smoke inside this home?,999,Don't know,0
+SMD470  ,SMD470   - # of people who smoke inside this home?,.,Missing,7723
+SMD480  ,SMD480   - In past week # days person smoked inside,0,0,98
+SMD480  ,SMD480   - In past week # days person smoked inside,1,1,179
+SMD480  ,SMD480   - In past week # days person smoked inside,2,2,230
+SMD480  ,SMD480   - In past week # days person smoked inside,3,3,49
+SMD480  ,SMD480   - In past week # days person smoked inside,4,4,35
+SMD480  ,SMD480   - In past week # days person smoked inside,5,5,27
+SMD480  ,SMD480   - In past week # days person smoked inside,6,6,7
+SMD480  ,SMD480   - In past week # days person smoked inside,7,7,679
+SMD480  ,SMD480   - In past week # days person smoked inside,77,Refused,0
+SMD480  ,SMD480   - In past week # days person smoked inside,99,Don't know,3
+SMD480  ,SMD480   - In past week # days person smoked inside,.,Missing,8868
+SMQ681  ,SMQ681   - Smoked tobacco last 5 days?,1,Yes,1321
+SMQ681  ,SMQ681   - Smoked tobacco last 5 days?,2,No,5108
+SMQ681  ,SMQ681   - Smoked tobacco last 5 days?,7,Refused,1
+SMQ681  ,SMQ681   - Smoked tobacco last 5 days?,9,Don't know,0
+SMQ681  ,SMQ681   - Smoked tobacco last 5 days?,.,Missing,549
+SMQ690A,SMQ690A - Used last 5 days - Cigarettes,1,Cigarettes,1119
+SMQ690A,SMQ690A - Used last 5 days - Cigarettes,77,Refused,0
+SMQ690A,SMQ690A - Used last 5 days - Cigarettes,99,Don't know,0
+SMQ690A,SMQ690A - Used last 5 days - Cigarettes,.,Missing,5860
+SMQ710  ,SMQ710   - # days smoked cigarettes last 5 days,1 to 5,Range of Values,1119
+SMQ710  ,SMQ710   - # days smoked cigarettes last 5 days,7,Refused,0
+SMQ710  ,SMQ710   - # days smoked cigarettes last 5 days,9,Don't know,0
+SMQ710  ,SMQ710   - # days smoked cigarettes last 5 days,.,Missing,5860
+SMQ720  ,SMQ720   - # cigarettes smoked per day,1 to 50,Range of Values,1118
+SMQ720  ,SMQ720   - # cigarettes smoked per day,95,95 or more,0
+SMQ720  ,SMQ720   - # cigarettes smoked per day,777,Refused,0
+SMQ720  ,SMQ720   - # cigarettes smoked per day,999,Don't know,1
+SMQ720  ,SMQ720   - # cigarettes smoked per day,.,Missing,5860
+SMQ725  ,SMQ725   - When did resp. smoke last cigarette?,1,Today,838
+SMQ725  ,SMQ725   - When did resp. smoke last cigarette?,2,Yesterday,215
+SMQ725  ,SMQ725   - When did resp. smoke last cigarette?,3,3 to 5 days ago,66
+SMQ725  ,SMQ725   - When did resp. smoke last cigarette?,7,Refused,0
+SMQ725  ,SMQ725   - When did resp. smoke last cigarette?,9,Don't know,0
+SMQ725  ,SMQ725   - When did resp. smoke last cigarette?,.,Missing,5860
+SMQ690B,SMQ690B - Used last 5 days - Pipes,2,Pipes,22
+SMQ690B,SMQ690B - Used last 5 days - Pipes,.,Missing,6957
+SMQ740  ,SMQ740   - # days smoked pipe over last 5 days,1 to 5,Range of Values,22
+SMQ740  ,SMQ740   - # days smoked pipe over last 5 days,7,Refused,0
+SMQ740  ,SMQ740   - # days smoked pipe over last 5 days,9,Don't know,0
+SMQ740  ,SMQ740   - # days smoked pipe over last 5 days,.,Missing,6957
+SMQ690C,SMQ690C - Used last 5 days - Cigars,3,Cigars or little cigars or cigarilllos,165
+SMQ690C,SMQ690C - Used last 5 days - Cigars,.,Missing,6814
+SMQ770,SMQ770 - # days smoked cigars over last 5 days,1 to 5,Range of Values,165
+SMQ770,SMQ770 - # days smoked cigars over last 5 days,7,Refused,0
+SMQ770,SMQ770 - # days smoked cigars over last 5 days,9,Don't know,0
+SMQ770,SMQ770 - # days smoked cigars over last 5 days,.,Missing,6814
+SMQ690G,"SMQ690G - Used last 5 days - Hookah, water pipes ",7,Water pipes or Hookahs,59
+SMQ690G,"SMQ690G - Used last 5 days - Hookah, water pipes ",.,Missing,6920
+SMQ845  ,SMQ845   - # days smoked water pipe last 5 days,1 to 5,Range of Values,59
+SMQ845  ,SMQ845   - # days smoked water pipe last 5 days,7,Refused,0
+SMQ845  ,SMQ845   - # days smoked water pipe last 5 days,9,Don't know,0
+SMQ845  ,SMQ845   - # days smoked water pipe last 5 days,.,Missing,6920
+SMQ690H,SMQ690H - Used last 5 days - E-cigarettes,8,E-cigarettes,125
+SMQ690H,SMQ690H - Used last 5 days - E-cigarettes,.,Missing,6854
+SMQ849  ,SMQ849   - # days smoked e-cigarette last 5 days,1 to 5,Range of Values,125
+SMQ849  ,SMQ849   - # days smoked e-cigarette last 5 days,7,Refused,0
+SMQ849  ,SMQ849   - # days smoked e-cigarette last 5 days,9,Don't know,0
+SMQ849  ,SMQ849   - # days smoked e-cigarette last 5 days,.,Missing,6854
+SMQ851,SMQ851 - Used smokeless tobacco last 5 days?,1,Yes,105
+SMQ851,SMQ851 - Used smokeless tobacco last 5 days?,2,No,6324
+SMQ851,SMQ851 - Used smokeless tobacco last 5 days?,7,Refused,0
+SMQ851,SMQ851 - Used smokeless tobacco last 5 days?,9,Don't know,1
+SMQ851,SMQ851 - Used smokeless tobacco last 5 days?,.,Missing,549
+SMQ690D,SMQ690D - Used last 5 days - Chewing tobacco,4,Chewing tobacco,52
+SMQ690D,SMQ690D - Used last 5 days - Chewing tobacco,.,Missing,6927
+SMQ800  ,SMQ800   - # days used chewing tobacco last 5 day,1 to 5,Range of Values,52
+SMQ800  ,SMQ800   - # days used chewing tobacco last 5 day,7,Refused,0
+SMQ800  ,SMQ800   - # days used chewing tobacco last 5 day,9,Don't know,0
+SMQ800  ,SMQ800   - # days used chewing tobacco last 5 day,.,Missing,6927
+SMQ690E,SMQ690E - Used last 5 days - Snuff,5,Snuff,54
+SMQ690E,SMQ690E - Used last 5 days - Snuff,.,Missing,6925
+SMQ817  ,SMQ817   - # days used snuff over last 5 days,1 to 5,Range of Values,54
+SMQ817  ,SMQ817   - # days used snuff over last 5 days,7,Refused,0
+SMQ817  ,SMQ817   - # days used snuff over last 5 days,9,Don't know,0
+SMQ817  ,SMQ817   - # days used snuff over last 5 days,.,Missing,6925
+SMQ690I,SMQ690I - Used last 5 days - Snus,9,Snus,3
+SMQ690I,SMQ690I - Used last 5 days - Snus,.,Missing,6976
+SMQ857  ,SMQ857   - # days used snus over last 5 days,1 to 5,Range of Values,3
+SMQ857  ,SMQ857   - # days used snus over last 5 days,7,Refused,0
+SMQ857  ,SMQ857   - # days used snus over last 5 days,9,Don't know,0
+SMQ857  ,SMQ857   - # days used snus over last 5 days,.,Missing,6976
+SMQ690J,SMQ690J - Used last 5 days - Dissolvables,10,Dissolvables,0
+SMQ690J,SMQ690J - Used last 5 days - Dissolvables,.,Missing,6979
+SMQ861  ,SMQ861   - # days used dissolvable over last 5 days,7,Refused,0
+SMQ861  ,SMQ861   - # days used dissolvable over last 5 days,9,Don't know,0
+SMQ861  ,SMQ861   - # days used dissolvable over last 5 days,.,Missing,6979
+SMQ863  ,SMQ863   - Used nicotine replacement last 5 days?,1,Yes,24
+SMQ863  ,SMQ863   - Used nicotine replacement last 5 days?,2,No,5399
+SMQ863  ,SMQ863   - Used nicotine replacement last 5 days?,7,Refused,0
+SMQ863  ,SMQ863   - Used nicotine replacement last 5 days?,9,Don't know,0
+SMQ863  ,SMQ863   - Used nicotine replacement last 5 days?,.,Missing,1556
+SMQ690F,"SMQ690F - Used last 5 days - Patch, gum, other",6,"Nicotine patches, gum, or other nicotine replacement therapy product",24
+SMQ690F,"SMQ690F - Used last 5 days - Patch, gum, other",.,Missing,6955
+SMQ830 ,SMQ830  - # days used nicotine quit smoking aids?,1 to 5,Range of Values,24
+SMQ830 ,SMQ830  - # days used nicotine quit smoking aids?,7,Refused,0
+SMQ830 ,SMQ830  - # days used nicotine quit smoking aids?,9,Don't know,0
+SMQ830 ,SMQ830  - # days used nicotine quit smoking aids?,.,Missing,6955
+SMQ840,SMQ840 - When last used nicotine quit smoking aid,1,Today,10
+SMQ840,SMQ840 - When last used nicotine quit smoking aid,2,Yesterday,9
+SMQ840,SMQ840 - When last used nicotine quit smoking aid,3,3 to 5 days ago,5
+SMQ840,SMQ840 - When last used nicotine quit smoking aid,7,Refused,0
+SMQ840,SMQ840 - When last used nicotine quit smoking aid,9,Don't know,0
+SMQ840,SMQ840 - When last used nicotine quit smoking aid,.,Missing,6955
+SMDANY,SMDANY - Used any tobacco product last 5 days?,1,Yes,1410
+SMDANY,SMDANY - Used any tobacco product last 5 days?,2,No,5018
+SMDANY,SMDANY - Used any tobacco product last 5 days?,7,Refused,0
+SMDANY,SMDANY - Used any tobacco product last 5 days?,9,Don't know,0
+SMDANY,SMDANY - Used any tobacco product last 5 days?,.,Missing,551
+SMAQUEX,SMAQUEX - Questionnaire Mode Flag,1,ACASI   B(12 - 17 Yrs.),1055
+SMAQUEX,SMAQUEX - Questionnaire Mode Flag,2,MEC CAPI   B(18 - 150 Yrs.),5924
+SMAQUEX,SMAQUEX - Questionnaire Mode Flag,.,Missing,0
+SMQ856  ,SMQ856   - Last 7-d worked at job not at home?,1,Yes,3181
+SMQ856  ,SMQ856   - Last 7-d worked at job not at home?,2,No,2931
+SMQ856  ,SMQ856   - Last 7-d worked at job not at home?,7,Refused,0
+SMQ856  ,SMQ856   - Last 7-d worked at job not at home?,9,Don't know,1
+SMQ856  ,SMQ856   - Last 7-d worked at job not at home?,.,Missing,4062
+SMQ858  ,SMQ858   - Last 7-d at job someone smoked indoors?,1,Yes,428
+SMQ858  ,SMQ858   - Last 7-d at job someone smoked indoors?,2,No,2753
+SMQ858  ,SMQ858   - Last 7-d at job someone smoked indoors?,7,Refused,0
+SMQ858  ,SMQ858   - Last 7-d at job someone smoked indoors?,9,Don't know,0
+SMQ858  ,SMQ858   - Last 7-d at job someone smoked indoors?,.,Missing,6994
+SMQ860  ,SMQ860   - Last 7-d spent time in a restaurant?,1,Yes,4797
+SMQ860  ,SMQ860   - Last 7-d spent time in a restaurant?,2,No,5306
+SMQ860  ,SMQ860   - Last 7-d spent time in a restaurant?,7,Refused,0
+SMQ860  ,SMQ860   - Last 7-d spent time in a restaurant?,9,Don't know,2
+SMQ860  ,SMQ860   - Last 7-d spent time in a restaurant?,.,Missing,70
+SMQ862  ,SMQ862   - Last 7-d at rest someone smoked indoors?,1,Yes,146
+SMQ862  ,SMQ862   - Last 7-d at rest someone smoked indoors?,2,No,4648
+SMQ862  ,SMQ862   - Last 7-d at rest someone smoked indoors?,7,Refused,0
+SMQ862  ,SMQ862   - Last 7-d at rest someone smoked indoors?,9,Don't know,3
+SMQ862  ,SMQ862   - Last 7-d at rest someone smoked indoors?,.,Missing,5378
+CSQ010  ,CSQ010   - Had problem with smell past 12 months?,1,Yes,306
+CSQ010  ,CSQ010   - Had problem with smell past 12 months?,2,No,3504
+CSQ010  ,CSQ010   - Had problem with smell past 12 months?,7,Refused,0
+CSQ010  ,CSQ010   - Had problem with smell past 12 months?,9,Don't know,5
+CSQ010  ,CSQ010   - Had problem with smell past 12 months?,.,Missing,0
+CSQ020  ,CSQ020   - Had change ability to smell since age 25,1,Better Now,232
+CSQ020  ,CSQ020   - Had change ability to smell since age 25,2,Worse Now,544
+CSQ020  ,CSQ020   - Had change ability to smell since age 25,3,No Change,3029
+CSQ020  ,CSQ020   - Had change ability to smell since age 25,7,Refused,0
+CSQ020  ,CSQ020   - Had change ability to smell since age 25,9,Don't know,10
+CSQ020  ,CSQ020   - Had change ability to smell since age 25,.,Missing,0
+CSQ030  ,"CSQ030   - Smells bother you, but not others",1,Yes,1036
+CSQ030  ,"CSQ030   - Smells bother you, but not others",2,No,2762
+CSQ030  ,"CSQ030   - Smells bother you, but not others",7,Refused,0
+CSQ030  ,"CSQ030   - Smells bother you, but not others",9,Don't know,17
+CSQ030  ,"CSQ030   - Smells bother you, but not others",.,Missing,0
+CSQ040  ,CSQ040   - Had phantom odor?,1,Yes,274
+CSQ040  ,CSQ040   - Had phantom odor?,2,No,3534
+CSQ040  ,CSQ040   - Had phantom odor?,7,Refused,0
+CSQ040  ,CSQ040   - Had phantom odor?,9,Don't know,7
+CSQ040  ,CSQ040   - Had phantom odor?,.,Missing,0
+WTSVOC2Y,WTSVOC2Y - VOC Subsample Weight,12082.296879 to 322113.58855,Range of Values,3323
+WTSVOC2Y,WTSVOC2Y - VOC Subsample Weight,0,No Lab Result,166
+WTSVOC2Y,WTSVOC2Y - VOC Subsample Weight,.,Missing,0
+VTQ210  ,VTQ210   - Attached garage?,1,Yes,1346
+VTQ210  ,VTQ210   - Attached garage?,2,No,1762
+VTQ210  ,VTQ210   - Attached garage?,7,Refused,0
+VTQ210  ,VTQ210   - Attached garage?,9,Don't know,1
+VTQ210  ,VTQ210   - Attached garage?,.,Missing,380
+VTQ220  ,VTQ220   - Private well?,1,Yes,301
+VTQ220  ,VTQ220   - Private well?,2,No,2749
+VTQ220  ,VTQ220   - Private well?,7,Refused,0
+VTQ220  ,VTQ220   - Private well?,9,Don't know,57
+VTQ220  ,VTQ220   - Private well?,.,Missing,382
+VTQ200A,VTQ200A - Store paints or fuels inside home?,1,Yes,1007
+VTQ200A,VTQ200A - Store paints or fuels inside home?,2,No,2065
+VTQ200A,VTQ200A - Store paints or fuels inside home?,7,Refused,0
+VTQ200A,VTQ200A - Store paints or fuels inside home?,9,Don't know,33
+VTQ200A,VTQ200A - Store paints or fuels inside home?,.,Missing,384
+VTQ231A,VTQ231A - Use moth balls or toilet deodorizers?,1,Yes,707
+VTQ231A,VTQ231A - Use moth balls or toilet deodorizers?,2,No,2354
+VTQ231A,VTQ231A - Use moth balls or toilet deodorizers?,7,Refused,0
+VTQ231A,VTQ231A - Use moth balls or toilet deodorizers?,9,Don't know,41
+VTQ231A,VTQ231A - Use moth balls or toilet deodorizers?,.,Missing,387
+VTQ241A,VTQ241A - Did you cook with natural gas?,1,Yes,772
+VTQ241A,VTQ241A - Did you cook with natural gas?,2,No,2327
+VTQ241A,VTQ241A - Did you cook with natural gas?,7,Refused,0
+VTQ241A,VTQ241A - Did you cook with natural gas?,9,Don't know,2
+VTQ241A,VTQ241A - Did you cook with natural gas?,.,Missing,388
+VTQ241B,VTQ241B - Long ago did you cook with natural gas? ,1 to 48,Range of Values,772
+VTQ241B,VTQ241B - Long ago did you cook with natural gas? ,77,Refused,0
+VTQ241B,VTQ241B - Long ago did you cook with natural gas? ,99,Don't know,0
+VTQ241B,VTQ241B - Long ago did you cook with natural gas? ,.,Missing,2717
+VTQ244A,VTQ244A - Did you pump gas into your car?,1,Yes,906
+VTQ244A,VTQ244A - Did you pump gas into your car?,2,No,2193
+VTQ244A,VTQ244A - Did you pump gas into your car?,7,Refused,0
+VTQ244A,VTQ244A - Did you pump gas into your car?,9,Don't know,1
+VTQ244A,VTQ244A - Did you pump gas into your car?,.,Missing,389
+VTQ244B,VTQ244B - Long ago did you pump gas in your car?,1 to 48,Range of Values,906
+VTQ244B,VTQ244B - Long ago did you pump gas in your car?,77,Refused,0
+VTQ244B,VTQ244B - Long ago did you pump gas in your car?,99,Don't know,0
+VTQ244B,VTQ244B - Long ago did you pump gas in your car?,.,Missing,2583
+VTQ251A,"VTQ251A - Spend time in pool, hot tub, steam room?",1,Yes,83
+VTQ251A,"VTQ251A - Spend time in pool, hot tub, steam room?",2,No,3017
+VTQ251A,"VTQ251A - Spend time in pool, hot tub, steam room?",7,Refused,0
+VTQ251A,"VTQ251A - Spend time in pool, hot tub, steam room?",9,Don't know,0
+VTQ251A,"VTQ251A - Spend time in pool, hot tub, steam room?",.,Missing,389
+VTQ251B,"VTQ251B - How long ago since at pool, hot tub?",1 to 48,Range of Values,83
+VTQ251B,"VTQ251B - How long ago since at pool, hot tub?",77,Refused,0
+VTQ251B,"VTQ251B - How long ago since at pool, hot tub?",99,Don't know,0
+VTQ251B,"VTQ251B - How long ago since at pool, hot tub?",.,Missing,3406
+VTQ261A,VTQ261A - In last 48 hrs use dry cleaning solvent?,1,Yes,136
+VTQ261A,VTQ261A - In last 48 hrs use dry cleaning solvent?,2,No,2956
+VTQ261A,VTQ261A - In last 48 hrs use dry cleaning solvent?,7,Refused,0
+VTQ261A,VTQ261A - In last 48 hrs use dry cleaning solvent?,9,Don't know,8
+VTQ261A,VTQ261A - In last 48 hrs use dry cleaning solvent?,.,Missing,389
+VTQ261B,VTQ261B - Long since use dry cleaning solvents?,1 to 48,Range of Values,135
+VTQ261B,VTQ261B - Long since use dry cleaning solvents?,77,Refused,0
+VTQ261B,VTQ261B - Long since use dry cleaning solvents?,99,Don't know,1
+VTQ261B,VTQ261B - Long since use dry cleaning solvents?,.,Missing,3353
+VTQ265A,VTQ265A - Spend 10+ minutes near person smoking?,1,Yes,824
+VTQ265A,VTQ265A - Spend 10+ minutes near person smoking?,2,No,2274
+VTQ265A,VTQ265A - Spend 10+ minutes near person smoking?,7,Refused,0
+VTQ265A,VTQ265A - Spend 10+ minutes near person smoking?,9,Don't know,2
+VTQ265A,VTQ265A - Spend 10+ minutes near person smoking?,.,Missing,389
+VTQ265B,VTQ265B - Long since being near person smoking?,1 to 48,Range of Values,824
+VTQ265B,VTQ265B - Long since being near person smoking?,77,Refused,0
+VTQ265B,VTQ265B - Long since being near person smoking?,99,Don't know,0
+VTQ265B,VTQ265B - Long since being near person smoking?,.,Missing,2665
+VTQ271A,"VTQ271A - In last 48 hrs, bathe for 5+ minutes?",1,Yes,2656
+VTQ271A,"VTQ271A - In last 48 hrs, bathe for 5+ minutes?",2,No,442
+VTQ271A,"VTQ271A - In last 48 hrs, bathe for 5+ minutes?",7,Refused,0
+VTQ271A,"VTQ271A - In last 48 hrs, bathe for 5+ minutes?",9,Don't know,2
+VTQ271A,"VTQ271A - In last 48 hrs, bathe for 5+ minutes?",.,Missing,389
+VTQ271B ,"VTQ271B  - How long, in hrs, since you bathed?",1 to 48,Range of Values,2651
+VTQ271B ,"VTQ271B  - How long, in hrs, since you bathed?",77,Refused,0
+VTQ271B ,"VTQ271B  - How long, in hrs, since you bathed?",99,Don't know,4
+VTQ271B ,"VTQ271B  - How long, in hrs, since you bathed?",.,Missing,834
+VTQ281A,VTQ281A - In past 48 hrs breathe paint fumes?,1,Yes,90
+VTQ281A,VTQ281A - In past 48 hrs breathe paint fumes?,2,No,3007
+VTQ281A,VTQ281A - In past 48 hrs breathe paint fumes?,7,Refused,0
+VTQ281A,VTQ281A - In past 48 hrs breathe paint fumes?,9,Don't know,2
+VTQ281A,VTQ281A - In past 48 hrs breathe paint fumes?,.,Missing,390
+VTQ281B,"VTQ281B - How long, since breathed paint fumes?",1 to 48,Range of Values,90
+VTQ281B,"VTQ281B - How long, since breathed paint fumes?",77,Refused,0
+VTQ281B,"VTQ281B - How long, since breathed paint fumes?",99,Don't know,0
+VTQ281B,"VTQ281B - How long, since breathed paint fumes?",.,Missing,3399
+VTQ281C ,VTQ281C  - In past 48 hrs breathe diesel fumes?,1,Yes,95
+VTQ281C ,VTQ281C  - In past 48 hrs breathe diesel fumes?,2,No,2998
+VTQ281C ,VTQ281C  - In past 48 hrs breathe diesel fumes?,7,Refused,0
+VTQ281C ,VTQ281C  - In past 48 hrs breathe diesel fumes?,9,Don't know,6
+VTQ281C ,VTQ281C  - In past 48 hrs breathe diesel fumes?,.,Missing,390
+VTQ281D,"VTQ281D - How long, since breathed diesel fumes?",1 to 48,Range of Values,95
+VTQ281D,"VTQ281D - How long, since breathed diesel fumes?",77,Refused,0
+VTQ281D,"VTQ281D - How long, since breathed diesel fumes?",99,Don't know,0
+VTQ281D,"VTQ281D - How long, since breathed diesel fumes?",.,Missing,3394
+VTQ281E,VTQ281E - Breathe fingernail polish fumes?,1,Yes,206
+VTQ281E,VTQ281E - Breathe fingernail polish fumes?,2,No,2891
+VTQ281E,VTQ281E - Breathe fingernail polish fumes?,7,Refused,0
+VTQ281E,VTQ281E - Breathe fingernail polish fumes?,9,Don't know,2
+VTQ281E,VTQ281E - Breathe fingernail polish fumes?,.,Missing,390
+VTQ281F,"VTQ281F - How long, since breathed polish fumes?",1 to 48,Range of Values,206
+VTQ281F,"VTQ281F - How long, since breathed polish fumes?",77,Refused,0
+VTQ281F,"VTQ281F - How long, since breathed polish fumes?",99,Don't know,0
+VTQ281F,"VTQ281F - How long, since breathed polish fumes?",.,Missing,3283
+WHD010,WHD010 - Current self-reported height (inches),48 to 81,Range of Values,6376
+WHD010,WHD010 - Current self-reported height (inches),7777,Refused,1
+WHD010,WHD010 - Current self-reported height (inches),9999,Don't know,62
+WHD010,WHD010 - Current self-reported height (inches),.,Missing,25
+WHD020,WHD020 - Current self-reported weight (pounds),75 to 493,Range of Values,6377
+WHD020,WHD020 - Current self-reported weight (pounds),7777,Refused,7
+WHD020,WHD020 - Current self-reported weight (pounds),9999,Don't know,46
+WHD020,WHD020 - Current self-reported weight (pounds),.,Missing,34
+WHQ030,WHQ030 - How do you consider your weight,1,"Overweight,",3218
+WHQ030,WHQ030 - How do you consider your weight,2,"Underweight, or",369
+WHQ030,WHQ030 - How do you consider your weight,3,About the right weight?,2865
+WHQ030,WHQ030 - How do you consider your weight,7,Refused,0
+WHQ030,WHQ030 - How do you consider your weight,9,Don't know,12
+WHQ030,WHQ030 - How do you consider your weight,.,Missing,0
+WHQ040,"WHQ040 - Like to weigh more, less or same",1,"More,",581
+WHQ040,"WHQ040 - Like to weigh more, less or same",2,"Less, or",3806
+WHQ040,"WHQ040 - Like to weigh more, less or same",3,Stay about the same?,2070
+WHQ040,"WHQ040 - Like to weigh more, less or same",7,Refused,1
+WHQ040,"WHQ040 - Like to weigh more, less or same",9,Don't know,6
+WHQ040,"WHQ040 - Like to weigh more, less or same",.,Missing,0
+WHD050,WHD050 - Self-reported weight - 1 yr ago (pounds),75 to 559,Range of Values,6330
+WHD050,WHD050 - Self-reported weight - 1 yr ago (pounds),7777,Refused,10
+WHD050,WHD050 - Self-reported weight - 1 yr ago (pounds),9999,Don't know,82
+WHD050,WHD050 - Self-reported weight - 1 yr ago (pounds),.,Missing,42
+WHQ030M,WHQ030M - How do you consider your weight,1,"fat or overweight,",254
+WHQ030M,WHQ030M - How do you consider your weight,2,"too thin, or",114
+WHQ030M,WHQ030M - How do you consider your weight,3,about the right weight?,1109
+WHQ030M,WHQ030M - How do you consider your weight,7,refused,0
+WHQ030M,WHQ030M - How do you consider your weight,9,don't know,1
+WHQ030M,WHQ030M - How do you consider your weight,.,Missing,74
+WHQ500,WHQ500 - Trying to do about weight,1,"lose weight,",589
+WHQ500,WHQ500 - Trying to do about weight,2,"gain weight,",179
+WHQ500,WHQ500 - Trying to do about weight,3,"stay the same weight, or",396
+WHQ500,WHQ500 - Trying to do about weight,4,not trying to do anything about your weight?,312
+WHQ500,WHQ500 - Trying to do about weight,7,Refused,1
+WHQ500,WHQ500 - Trying to do about weight,9,Don't know,1
+WHQ500,WHQ500 - Trying to do about weight,.,Missing,74
+WHQ520,WHQ520 - How often tried to lose weight,1,"never,",585
+WHQ520,WHQ520 - How often tried to lose weight,2,"sometimes, or",688
+WHQ520,WHQ520 - How often tried to lose weight,3,a lot?,204
+WHQ520,WHQ520 - How often tried to lose weight,7,Refused,0
+WHQ520,WHQ520 - How often tried to lose weight,9,Don't know,1
+WHQ520,WHQ520 - How often tried to lose weight,.,Missing,74

@@ -1,0 +1,1436 @@
+short_title,title,code or value,description,count
+PEASCST1,PEASCST1 - Blood Pressure Status,1,Complete,9493
+PEASCST1,PEASCST1 - Blood Pressure Status,2,Partial,3
+PEASCST1,PEASCST1 - Blood Pressure Status,3,Not done,317
+PEASCST1,PEASCST1 - Blood Pressure Status,.,Missing,0
+PEASCTM1,PEASCTM1 - Blood Pressure Time in Seconds,7 to 2868,Range of Values,9508
+PEASCTM1,PEASCTM1 - Blood Pressure Time in Seconds,.,Missing,305
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,1,Safety exclusion,4
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,2,SP refusal,16
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,3,No time,7
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,4,Physical limitation,14
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,5,Communication problem,1
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,6,Equipment failure,1
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,7,SP ill/emergency,12
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,56,Came late/left early,184
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,72,Error (technician/software/supply),3
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,84,SP with child,4
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,99,"Other, specify",69
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,122,Language barrier,5
+PEASCCT1,PEASCCT1 - Blood Pressure Comment,.,Missing,9493
+BPXCHR,BPXCHR - 60 sec HR (30 sec HR * 2),60 to 178,Range of Values,1961
+BPXCHR,BPXCHR - 60 sec HR (30 sec HR * 2),.,Missing,7852
+BPAARM,BPAARM - Arm selected,1,Right,7480
+BPAARM,BPAARM - Arm selected,2,Left,54
+BPAARM,BPAARM - Arm selected,8,Could not obtain,1
+BPAARM,BPAARM - Arm selected,.,Missing,2278
+BPACSZ,BPACSZ - Coded cuff size,1,Infant (6X12),2
+BPACSZ,BPACSZ - Coded cuff size,2,Child (9X17),450
+BPACSZ,BPACSZ - Coded cuff size,3,Adult (12X22),2590
+BPACSZ,BPACSZ - Coded cuff size,4,Large (15X32),3452
+BPACSZ,BPACSZ - Coded cuff size,5,Thigh (18X35),1048
+BPACSZ,BPACSZ - Coded cuff size,.,Missing,2271
+BPXPLS,BPXPLS - 60 sec. pulse (30 sec. pulse * 2),40 to 180,Range of Values,7549
+BPXPLS,BPXPLS - 60 sec. pulse (30 sec. pulse * 2),.,Missing,2264
+BPXPULS,BPXPULS - Pulse regular or irregular?,1,Regular,9381
+BPXPULS,BPXPULS - Pulse regular or irregular?,2,Irregular,130
+BPXPULS,BPXPULS - Pulse regular or irregular?,.,Missing,302
+BPXPTY,BPXPTY - Pulse type,1,Radial,7531
+BPXPTY,BPXPTY - Pulse type,2,Brachial,33
+BPXPTY,BPXPTY - Pulse type,8,Could not obtain,0
+BPXPTY,BPXPTY - Pulse type,.,Missing,2249
+BPXML1,BPXML1 - MIL: maximum inflation levels (mm Hg),100 to 240,Range of Values,7539
+BPXML1,BPXML1 - MIL: maximum inflation levels (mm Hg),888,Could not obtain,14
+BPXML1,BPXML1 - MIL: maximum inflation levels (mm Hg),.,Missing,2260
+BPXSY1,BPXSY1 - Systolic: Blood pres (1st rdg) mm Hg,66 to 228,Range of Values,7172
+BPXSY1,BPXSY1 - Systolic: Blood pres (1st rdg) mm Hg,.,Missing,2641
+BPXDI1,BPXDI1 - Diastolic: Blood pres (1st rdg) mm Hg,0 to 122,Range of Values,7172
+BPXDI1,BPXDI1 - Diastolic: Blood pres (1st rdg) mm Hg,.,Missing,2641
+BPAEN1,BPAEN1 - Enhancement used first reading,1,Yes,85
+BPAEN1,BPAEN1 - Enhancement used first reading,2,No,7454
+BPAEN1,BPAEN1 - Enhancement used first reading,8,Could not obtain,0
+BPAEN1,BPAEN1 - Enhancement used first reading,.,Missing,2274
+BPXSY2,BPXSY2 - Systolic: Blood pres (2nd rdg) mm Hg,66 to 230,Range of Values,7409
+BPXSY2,BPXSY2 - Systolic: Blood pres (2nd rdg) mm Hg,.,Missing,2404
+BPXDI2,BPXDI2 - Diastolic: Blood pres (2nd rdg) mm Hg,0 to 116,Range of Values,7409
+BPXDI2,BPXDI2 - Diastolic: Blood pres (2nd rdg) mm Hg,.,Missing,2404
+BPAEN2,BPAEN2 - Enhancement used second reading,1,Yes,347
+BPAEN2,BPAEN2 - Enhancement used second reading,2,No,7190
+BPAEN2,BPAEN2 - Enhancement used second reading,8,Could not obtain,0
+BPAEN2,BPAEN2 - Enhancement used second reading,.,Missing,2276
+BPXSY3,BPXSY3 - Systolic: Blood pres (3rd rdg) mm Hg,62 to 228,Range of Values,7408
+BPXSY3,BPXSY3 - Systolic: Blood pres (3rd rdg) mm Hg,.,Missing,2405
+BPXDI3,BPXDI3 - Diastolic: Blood pres (3rd rdg) mm Hg,0 to 118,Range of Values,7408
+BPXDI3,BPXDI3 - Diastolic: Blood pres (3rd rdg) mm Hg,.,Missing,2405
+BPAEN3,BPAEN3 - Enhancement used third reading,1,Yes,276
+BPAEN3,BPAEN3 - Enhancement used third reading,2,No,7261
+BPAEN3,BPAEN3 - Enhancement used third reading,8,Could not obtain,0
+BPAEN3,BPAEN3 - Enhancement used third reading,.,Missing,2276
+BPXSY4,BPXSY4 - Systolic: Blood pres (4th rdg) mm Hg,80 to 212,Range of Values,515
+BPXSY4,BPXSY4 - Systolic: Blood pres (4th rdg) mm Hg,.,Missing,9298
+BPXDI4,BPXDI4 - Diastolic: Blood pres (4th rdg) mm Hg,0 to 128,Range of Values,515
+BPXDI4,BPXDI4 - Diastolic: Blood pres (4th rdg) mm Hg,.,Missing,9298
+BPAEN4,BPAEN4 - Enhancement used fourth reading,1,Yes,68
+BPAEN4,BPAEN4 - Enhancement used fourth reading,2,No,494
+BPAEN4,BPAEN4 - Enhancement used fourth reading,8,Could not obtain,0
+BPAEN4,BPAEN4 - Enhancement used fourth reading,.,Missing,9251
+BMDSTATS,BMDSTATS - Body Measures Component Status Code,1,Complete data for age group,9003
+BMDSTATS,BMDSTATS - Body Measures Component Status Code,2,Partial:  Only height and weight obtained,317
+BMDSTATS,BMDSTATS - Body Measures Component Status Code,3,Other partial exam,423
+BMDSTATS,BMDSTATS - Body Measures Component Status Code,4,No body measures exam data,70
+BMDSTATS,BMDSTATS - Body Measures Component Status Code,.,Missing,0
+BMXWT,BMXWT - Weight (kg),3.1 to 222.6,Range of Values,9723
+BMXWT,BMXWT - Weight (kg),.,Missing,90
+BMIWT,BMIWT - Weight Comment,1,Could not obtain,17
+BMIWT,BMIWT - Weight Comment,2,Exceeds capacity,0
+BMIWT,BMIWT - Weight Comment,3,Clothing,346
+BMIWT,BMIWT - Weight Comment,4,Medical appliance,21
+BMIWT,BMIWT - Weight Comment,.,Missing,9429
+BMXRECUM,BMXRECUM - Recumbent Length (cm) ,48.6 to 115.1,Range of Values,1065
+BMXRECUM,BMXRECUM - Recumbent Length (cm) ,.,Missing,8748
+BMIRECUM,BMIRECUM - Recumbent Length Comment,1,Could not obtain,31
+BMIRECUM,BMIRECUM - Recumbent Length Comment,2,Exceeds capacity,0
+BMIRECUM,BMIRECUM - Recumbent Length Comment,3,Not straight,0
+BMIRECUM,BMIRECUM - Recumbent Length Comment,.,Missing,9782
+BMXHEAD,BMXHEAD - Head Circumference (cm) ,33.8 to 46.8,Range of Values,229
+BMXHEAD,BMXHEAD - Head Circumference (cm) ,.,Missing,9584
+BMIHEAD,BMIHEAD - Head Circumference Comment,1,Could not obtain,0
+BMIHEAD,BMIHEAD - Head Circumference Comment,.,Missing,9813
+BMXHT,BMXHT - Standing Height (cm),79.7 to 202.6,Range of Values,9067
+BMXHT,BMXHT - Standing Height (cm),.,Missing,746
+BMIHT,BMIHT - Standing Height Comment,1,Could not obtain,39
+BMIHT,BMIHT - Standing Height Comment,2,Exceeds capacity,0
+BMIHT,BMIHT - Standing Height Comment,3,Not straight,182
+BMIHT,BMIHT - Standing Height Comment,.,Missing,9592
+BMXBMI,BMXBMI - Body Mass Index (kg/m**2),12.1 to 82.9,Range of Values,9055
+BMXBMI,BMXBMI - Body Mass Index (kg/m**2),.,Missing,758
+BMDBMIC,BMDBMIC - BMI Category - Children/Youth,1,Underweight,132
+BMDBMIC,BMDBMIC - BMI Category - Children/Youth,2,Normal weight,2167
+BMDBMIC,BMDBMIC - BMI Category - Children/Youth,3,Overweight,595
+BMDBMIC,BMDBMIC - BMI Category - Children/Youth,4,Obese,629
+BMDBMIC,BMDBMIC - BMI Category - Children/Youth,.,Missing,6290
+BMXLEG,BMXLEG - Upper Leg Length (cm),24.4 to 51.9,Range of Values,7402
+BMXLEG,BMXLEG - Upper Leg Length (cm),.,Missing,2411
+BMILEG,BMILEG - Upper Leg Length Comment,1,Could not obtain,350
+BMILEG,BMILEG - Upper Leg Length Comment,.,Missing,9463
+BMXARML,BMXARML - Upper Arm Length (cm),9.9 to 47.9,Range of Values,9301
+BMXARML,BMXARML - Upper Arm Length (cm),.,Missing,512
+BMIARML,BMIARML - Upper Arm Length Comment,1,Could not obtain,368
+BMIARML,BMIARML - Upper Arm Length Comment,.,Missing,9445
+BMXARMC,BMXARMC - Arm Circumference (cm),10.4 to 59.4,Range of Values,9301
+BMXARMC,BMXARMC - Arm Circumference (cm),.,Missing,512
+BMIARMC,BMIARMC - Arm Circumference Comment,1,Could not obtain,372
+BMIARMC,BMIARMC - Arm Circumference Comment,.,Missing,9441
+BMXWAIST,BMXWAIST - Waist Circumference (cm),40.2 to 177.9,Range of Values,8661
+BMXWAIST,BMXWAIST - Waist Circumference (cm),.,Missing,1152
+BMIWAIST,BMIWAIST - Waist Circumference Comment,1,Could not obtain,439
+BMIWAIST,BMIWAIST - Waist Circumference Comment,.,Missing,9374
+BMXSAD1,BMXSAD1 - Sagittal Abdominal Diameter 1st (cm),10 to 40.2,Range of Values,7218
+BMXSAD1,BMXSAD1 - Sagittal Abdominal Diameter 1st (cm),.,Missing,2595
+BMXSAD2,BMXSAD2 - Sagittal Abdominal Diameter 2nd (cm),10.2 to 40.2,Range of Values,7218
+BMXSAD2,BMXSAD2 - Sagittal Abdominal Diameter 2nd (cm),.,Missing,2595
+BMXSAD3,BMXSAD3 - Sagittal Abdominal Diameter 3rd (cm),10.9 to 35.6,Range of Values,358
+BMXSAD3,BMXSAD3 - Sagittal Abdominal Diameter 3rd (cm),.,Missing,9455
+BMXSAD4,BMXSAD4 - Sagittal Abdominal Diameter 4th (cm),11 to 35.6,Range of Values,358
+BMXSAD4,BMXSAD4 - Sagittal Abdominal Diameter 4th (cm),.,Missing,9455
+BMDAVSAD,BMDAVSAD - Average Sagittal Abdominal Diameter (cm),10.1 to 40.1,Range of Values,7218
+BMDAVSAD,BMDAVSAD - Average Sagittal Abdominal Diameter (cm),.,Missing,2595
+BMDSADCM,BMDSADCM - Sagittal Abdominal Diameter Comment,1,Could not obtain,444
+BMDSADCM,BMDSADCM - Sagittal Abdominal Diameter Comment,2,SP unable to comply with exam instruction,19
+BMDSADCM,BMDSADCM - Sagittal Abdominal Diameter Comment,3,SP discomfort,1
+BMDSADCM,BMDSADCM - Sagittal Abdominal Diameter Comment,4,Use of positioning cushion,16
+BMDSADCM,BMDSADCM - Sagittal Abdominal Diameter Comment,5,Other,4
+BMDSADCM,BMDSADCM - Sagittal Abdominal Diameter Comment,.,Missing,9329
+OHDEXSTS,OHDEXSTS - Overall Oral Health Exam Status,1,Complete,8633
+OHDEXSTS,OHDEXSTS - Overall Oral Health Exam Status,2,Partial,333
+OHDEXSTS,OHDEXSTS - Overall Oral Health Exam Status,3,Not Done,456
+OHDEXSTS,OHDEXSTS - Overall Oral Health Exam Status,.,Missing,0
+OHDDESTS,OHDDESTS - Dentition Status Code,1,Complete,8964
+OHDDESTS,OHDDESTS - Dentition Status Code,2,Partial,2
+OHDDESTS,OHDDESTS - Dentition Status Code,3,Not Done,456
+OHDDESTS,OHDDESTS - Dentition Status Code,.,Missing,0
+OHXIMP,OHXIMP - Dental Implant: yes / no? ,1,Yes,142
+OHXIMP,OHXIMP - Dental Implant: yes / no? ,2,No,4177
+OHXIMP,OHXIMP - Dental Implant: yes / no? ,.,Missing,5103
+OHX01TC,OHX01TC - Tooth Count:  #1,1,Primary tooth (deciduous) present,0
+OHX01TC,OHX01TC - Tooth Count:  #1,2,Permanent tooth present,1339
+OHX01TC,OHX01TC - Tooth Count:  #1,3,Dental implant,0
+OHX01TC,OHX01TC - Tooth Count:  #1,4,Tooth not present,7578
+OHX01TC,OHX01TC - Tooth Count:  #1,5,Permanent dental root fragment present,51
+OHX01TC,OHX01TC - Tooth Count:  #1,9,Could not assess,0
+OHX01TC,OHX01TC - Tooth Count:  #1,.,Missing,454
+OHX02TC,OHX02TC - Tooth Count:  #2,1,Primary tooth (deciduous) present,0
+OHX02TC,OHX02TC - Tooth Count:  #2,2,Permanent tooth present,5037
+OHX02TC,OHX02TC - Tooth Count:  #2,3,Dental implant,6
+OHX02TC,OHX02TC - Tooth Count:  #2,4,Tooth not present,3844
+OHX02TC,OHX02TC - Tooth Count:  #2,5,Permanent dental root fragment present,81
+OHX02TC,OHX02TC - Tooth Count:  #2,9,Could not assess,0
+OHX02TC,OHX02TC - Tooth Count:  #2,.,Missing,454
+OHX03TC,OHX03TC - Tooth Count:  #3,1,Primary tooth (deciduous) present,0
+OHX03TC,OHX03TC - Tooth Count:  #3,2,Permanent tooth present,6221
+OHX03TC,OHX03TC - Tooth Count:  #3,3,Dental implant,16
+OHX03TC,OHX03TC - Tooth Count:  #3,4,Tooth not present,2612
+OHX03TC,OHX03TC - Tooth Count:  #3,5,Permanent dental root fragment present,119
+OHX03TC,OHX03TC - Tooth Count:  #3,9,Could not assess,0
+OHX03TC,OHX03TC - Tooth Count:  #3,.,Missing,454
+OHX04TC,OHX04TC - Tooth Count:  #4,1,Primary tooth (deciduous) present,1878
+OHX04TC,OHX04TC - Tooth Count:  #4,2,Permanent tooth present,5439
+OHX04TC,OHX04TC - Tooth Count:  #4,3,Dental implant,14
+OHX04TC,OHX04TC - Tooth Count:  #4,4,Tooth not present,1542
+OHX04TC,OHX04TC - Tooth Count:  #4,5,Permanent dental root fragment present,95
+OHX04TC,OHX04TC - Tooth Count:  #4,9,Could not assess,0
+OHX04TC,OHX04TC - Tooth Count:  #4,.,Missing,454
+OHX05TC,OHX05TC - Tooth Count:  #5,1,Primary tooth (deciduous) present,1875
+OHX05TC,OHX05TC - Tooth Count:  #5,2,Permanent tooth present,5436
+OHX05TC,OHX05TC - Tooth Count:  #5,3,Dental implant,11
+OHX05TC,OHX05TC - Tooth Count:  #5,4,Tooth not present,1542
+OHX05TC,OHX05TC - Tooth Count:  #5,5,Permanent dental root fragment present,104
+OHX05TC,OHX05TC - Tooth Count:  #5,9,Could not assess,0
+OHX05TC,OHX05TC - Tooth Count:  #5,.,Missing,454
+OHX06TC,OHX06TC - Tooth Count:  #6,1,Primary tooth (deciduous) present,1982
+OHX06TC,OHX06TC - Tooth Count:  #6,2,Permanent tooth present,5934
+OHX06TC,OHX06TC - Tooth Count:  #6,3,Dental implant,6
+OHX06TC,OHX06TC - Tooth Count:  #6,4,Tooth not present,980
+OHX06TC,OHX06TC - Tooth Count:  #6,5,Permanent dental root fragment present,66
+OHX06TC,OHX06TC - Tooth Count:  #6,9,Could not assess,0
+OHX06TC,OHX06TC - Tooth Count:  #6,.,Missing,454
+OHX07TC,OHX07TC - Tooth Count:  #7,1,Primary tooth (deciduous) present,1438
+OHX07TC,OHX07TC - Tooth Count:  #7,2,Permanent tooth present,6391
+OHX07TC,OHX07TC - Tooth Count:  #7,3,Dental implant,13
+OHX07TC,OHX07TC - Tooth Count:  #7,4,Tooth not present,1051
+OHX07TC,OHX07TC - Tooth Count:  #7,5,Permanent dental root fragment present,75
+OHX07TC,OHX07TC - Tooth Count:  #7,9,Could not assess,0
+OHX07TC,OHX07TC - Tooth Count:  #7,.,Missing,454
+OHX08TC,OHX08TC - Tooth Count:  #8,1,Primary tooth (deciduous) present,1253
+OHX08TC,OHX08TC - Tooth Count:  #8,2,Permanent tooth present,6648
+OHX08TC,OHX08TC - Tooth Count:  #8,3,Dental implant,9
+OHX08TC,OHX08TC - Tooth Count:  #8,4,Tooth not present,1004
+OHX08TC,OHX08TC - Tooth Count:  #8,5,Permanent dental root fragment present,54
+OHX08TC,OHX08TC - Tooth Count:  #8,9,Could not assess,0
+OHX08TC,OHX08TC - Tooth Count:  #8,.,Missing,454
+OHX09TC,OHX09TC - Tooth Count:  #9,1,Primary tooth (deciduous) present,1238
+OHX09TC,OHX09TC - Tooth Count:  #9,2,Permanent tooth present,6666
+OHX09TC,OHX09TC - Tooth Count:  #9,3,Dental implant,15
+OHX09TC,OHX09TC - Tooth Count:  #9,4,Tooth not present,990
+OHX09TC,OHX09TC - Tooth Count:  #9,5,Permanent dental root fragment present,59
+OHX09TC,OHX09TC - Tooth Count:  #9,9,Could not assess,0
+OHX09TC,OHX09TC - Tooth Count:  #9,.,Missing,454
+OHX10TC,OHX10TC - Tooth Count:  #10,1,Primary tooth (deciduous) present,1426
+OHX10TC,OHX10TC - Tooth Count:  #10,2,Permanent tooth present,6415
+OHX10TC,OHX10TC - Tooth Count:  #10,3,Dental implant,6
+OHX10TC,OHX10TC - Tooth Count:  #10,4,Tooth not present,1048
+OHX10TC,OHX10TC - Tooth Count:  #10,5,Permanent dental root fragment present,73
+OHX10TC,OHX10TC - Tooth Count:  #10,9,Could not assess,0
+OHX10TC,OHX10TC - Tooth Count:  #10,.,Missing,454
+OHX11TC,OHX11TC - Tooth Count:  #11,1,Primary tooth (deciduous) present,1991
+OHX11TC,OHX11TC - Tooth Count:  #11,2,Permanent tooth present,5942
+OHX11TC,OHX11TC - Tooth Count:  #11,3,Dental implant,10
+OHX11TC,OHX11TC - Tooth Count:  #11,4,Tooth not present,946
+OHX11TC,OHX11TC - Tooth Count:  #11,5,Permanent dental root fragment present,79
+OHX11TC,OHX11TC - Tooth Count:  #11,9,Could not assess,0
+OHX11TC,OHX11TC - Tooth Count:  #11,.,Missing,454
+OHX12TC,OHX12TC - Tooth Count:  #12,1,Primary tooth (deciduous) present,1885
+OHX12TC,OHX12TC - Tooth Count:  #12,2,Permanent tooth present,5422
+OHX12TC,OHX12TC - Tooth Count:  #12,3,Dental implant,11
+OHX12TC,OHX12TC - Tooth Count:  #12,4,Tooth not present,1531
+OHX12TC,OHX12TC - Tooth Count:  #12,5,Permanent dental root fragment present,119
+OHX12TC,OHX12TC - Tooth Count:  #12,9,Could not assess,0
+OHX12TC,OHX12TC - Tooth Count:  #12,.,Missing,454
+OHX13TC,OHX13TC - Tooth Count:  #13,1,Primary tooth (deciduous) present,1889
+OHX13TC,OHX13TC - Tooth Count:  #13,2,Permanent tooth present,5406
+OHX13TC,OHX13TC - Tooth Count:  #13,3,Dental implant,14
+OHX13TC,OHX13TC - Tooth Count:  #13,4,Tooth not present,1536
+OHX13TC,OHX13TC - Tooth Count:  #13,5,Permanent dental root fragment present,123
+OHX13TC,OHX13TC - Tooth Count:  #13,9,Could not assess,0
+OHX13TC,OHX13TC - Tooth Count:  #13,.,Missing,454
+OHX14TC,OHX14TC - Tooth Count:  #14,1,Primary tooth (deciduous) present,0
+OHX14TC,OHX14TC - Tooth Count:  #14,2,Permanent tooth present,6235
+OHX14TC,OHX14TC - Tooth Count:  #14,3,Dental implant,16
+OHX14TC,OHX14TC - Tooth Count:  #14,4,Tooth not present,2603
+OHX14TC,OHX14TC - Tooth Count:  #14,5,Permanent dental root fragment present,114
+OHX14TC,OHX14TC - Tooth Count:  #14,9,Could not assess,0
+OHX14TC,OHX14TC - Tooth Count:  #14,.,Missing,454
+OHX15TC,OHX15TC - Tooth Count:  #15,1,Primary tooth (deciduous) present,0
+OHX15TC,OHX15TC - Tooth Count:  #15,2,Permanent tooth present,5025
+OHX15TC,OHX15TC - Tooth Count:  #15,3,Dental implant,3
+OHX15TC,OHX15TC - Tooth Count:  #15,4,Tooth not present,3844
+OHX15TC,OHX15TC - Tooth Count:  #15,5,Permanent dental root fragment present,96
+OHX15TC,OHX15TC - Tooth Count:  #15,9,Could not assess,0
+OHX15TC,OHX15TC - Tooth Count:  #15,.,Missing,454
+OHX16TC,OHX16TC - Tooth Count:  #16,1,Primary tooth (deciduous) present,0
+OHX16TC,OHX16TC - Tooth Count:  #16,2,Permanent tooth present,1321
+OHX16TC,OHX16TC - Tooth Count:  #16,3,Dental implant,0
+OHX16TC,OHX16TC - Tooth Count:  #16,4,Tooth not present,7596
+OHX16TC,OHX16TC - Tooth Count:  #16,5,Permanent dental root fragment present,51
+OHX16TC,OHX16TC - Tooth Count:  #16,9,Could not assess,0
+OHX16TC,OHX16TC - Tooth Count:  #16,.,Missing,454
+OHX17TC,OHX17TC - Tooth Count:  #17,1,Primary tooth (deciduous) present,0
+OHX17TC,OHX17TC - Tooth Count:  #17,2,Permanent tooth present,1516
+OHX17TC,OHX17TC - Tooth Count:  #17,3,Dental implant,0
+OHX17TC,OHX17TC - Tooth Count:  #17,4,Tooth not present,7387
+OHX17TC,OHX17TC - Tooth Count:  #17,5,Permanent dental root fragment present,65
+OHX17TC,OHX17TC - Tooth Count:  #17,9,Could not assess,0
+OHX17TC,OHX17TC - Tooth Count:  #17,.,Missing,454
+OHX18TC,OHX18TC - Tooth Count:  #18,1,Primary tooth (deciduous) present,0
+OHX18TC,OHX18TC - Tooth Count:  #18,2,Permanent tooth present,4943
+OHX18TC,OHX18TC - Tooth Count:  #18,3,Dental implant,10
+OHX18TC,OHX18TC - Tooth Count:  #18,4,Tooth not present,3919
+OHX18TC,OHX18TC - Tooth Count:  #18,5,Permanent dental root fragment present,96
+OHX18TC,OHX18TC - Tooth Count:  #18,9,Could not assess,0
+OHX18TC,OHX18TC - Tooth Count:  #18,.,Missing,454
+OHX19TC,OHX19TC - Tooth Count:  #19,1,Primary tooth (deciduous) present,0
+OHX19TC,OHX19TC - Tooth Count:  #19,2,Permanent tooth present,5927
+OHX19TC,OHX19TC - Tooth Count:  #19,3,Dental implant,32
+OHX19TC,OHX19TC - Tooth Count:  #19,4,Tooth not present,2886
+OHX19TC,OHX19TC - Tooth Count:  #19,5,Permanent dental root fragment present,123
+OHX19TC,OHX19TC - Tooth Count:  #19,9,Could not assess,0
+OHX19TC,OHX19TC - Tooth Count:  #19,.,Missing,454
+OHX20TC,OHX20TC - Tooth Count:  #20,1,Primary tooth (deciduous) present,1894
+OHX20TC,OHX20TC - Tooth Count:  #20,2,Permanent tooth present,5710
+OHX20TC,OHX20TC - Tooth Count:  #20,3,Dental implant,8
+OHX20TC,OHX20TC - Tooth Count:  #20,4,Tooth not present,1265
+OHX20TC,OHX20TC - Tooth Count:  #20,5,Permanent dental root fragment present,91
+OHX20TC,OHX20TC - Tooth Count:  #20,9,Could not assess,0
+OHX20TC,OHX20TC - Tooth Count:  #20,.,Missing,454
+OHX21TC,OHX21TC - Tooth Count:  #21,1,Primary tooth (deciduous) present,1867
+OHX21TC,OHX21TC - Tooth Count:  #21,2,Permanent tooth present,5984
+OHX21TC,OHX21TC - Tooth Count:  #21,3,Dental implant,6
+OHX21TC,OHX21TC - Tooth Count:  #21,4,Tooth not present,1052
+OHX21TC,OHX21TC - Tooth Count:  #21,5,Permanent dental root fragment present,59
+OHX21TC,OHX21TC - Tooth Count:  #21,9,Could not assess,0
+OHX21TC,OHX21TC - Tooth Count:  #21,.,Missing,454
+OHX22TC,OHX22TC - Tooth Count:  #22,1,Primary tooth (deciduous) present,1813
+OHX22TC,OHX22TC - Tooth Count:  #22,2,Permanent tooth present,6464
+OHX22TC,OHX22TC - Tooth Count:  #22,3,Dental implant,8
+OHX22TC,OHX22TC - Tooth Count:  #22,4,Tooth not present,650
+OHX22TC,OHX22TC - Tooth Count:  #22,5,Permanent dental root fragment present,33
+OHX22TC,OHX22TC - Tooth Count:  #22,9,Could not assess,0
+OHX22TC,OHX22TC - Tooth Count:  #22,.,Missing,454
+OHX23TC,OHX23TC - Tooth Count:  #23,1,Primary tooth (deciduous) present,1286
+OHX23TC,OHX23TC - Tooth Count:  #23,2,Permanent tooth present,7012
+OHX23TC,OHX23TC - Tooth Count:  #23,3,Dental implant,5
+OHX23TC,OHX23TC - Tooth Count:  #23,4,Tooth not present,644
+OHX23TC,OHX23TC - Tooth Count:  #23,5,Permanent dental root fragment present,21
+OHX23TC,OHX23TC - Tooth Count:  #23,9,Could not assess,0
+OHX23TC,OHX23TC - Tooth Count:  #23,.,Missing,454
+OHX24TC,OHX24TC - Tooth Count:  #24,1,Primary tooth (deciduous) present,1097
+OHX24TC,OHX24TC - Tooth Count:  #24,2,Permanent tooth present,7206
+OHX24TC,OHX24TC - Tooth Count:  #24,3,Dental implant,1
+OHX24TC,OHX24TC - Tooth Count:  #24,4,Tooth not present,648
+OHX24TC,OHX24TC - Tooth Count:  #24,5,Permanent dental root fragment present,16
+OHX24TC,OHX24TC - Tooth Count:  #24,9,Could not assess,0
+OHX24TC,OHX24TC - Tooth Count:  #24,.,Missing,454
+OHX25TC,OHX25TC - Tooth Count:  #25,1,Primary tooth (deciduous) present,1104
+OHX25TC,OHX25TC - Tooth Count:  #25,2,Permanent tooth present,7189
+OHX25TC,OHX25TC - Tooth Count:  #25,3,Dental implant,3
+OHX25TC,OHX25TC - Tooth Count:  #25,4,Tooth not present,651
+OHX25TC,OHX25TC - Tooth Count:  #25,5,Permanent dental root fragment present,21
+OHX25TC,OHX25TC - Tooth Count:  #25,9,Could not assess,0
+OHX25TC,OHX25TC - Tooth Count:  #25,.,Missing,454
+OHX26TC,OHX26TC - Tooth Count:  #26,1,Primary tooth (deciduous) present,1286
+OHX26TC,OHX26TC - Tooth Count:  #26,2,Permanent tooth present,6995
+OHX26TC,OHX26TC - Tooth Count:  #26,3,Dental implant,4
+OHX26TC,OHX26TC - Tooth Count:  #26,4,Tooth not present,658
+OHX26TC,OHX26TC - Tooth Count:  #26,5,Permanent dental root fragment present,25
+OHX26TC,OHX26TC - Tooth Count:  #26,9,Could not assess,0
+OHX26TC,OHX26TC - Tooth Count:  #26,.,Missing,454
+OHX27TC,OHX27TC - Tooth Count:  #27,1,Primary tooth (deciduous) present,1807
+OHX27TC,OHX27TC - Tooth Count:  #27,2,Permanent tooth present,6467
+OHX27TC,OHX27TC - Tooth Count:  #27,3,Dental implant,10
+OHX27TC,OHX27TC - Tooth Count:  #27,4,Tooth not present,648
+OHX27TC,OHX27TC - Tooth Count:  #27,5,Permanent dental root fragment present,36
+OHX27TC,OHX27TC - Tooth Count:  #27,9,Could not assess,0
+OHX27TC,OHX27TC - Tooth Count:  #27,.,Missing,454
+OHX28TC,OHX28TC - Tooth Count:  #28,1,Primary tooth (deciduous) present,1865
+OHX28TC,OHX28TC - Tooth Count:  #28,2,Permanent tooth present,5995
+OHX28TC,OHX28TC - Tooth Count:  #28,3,Dental implant,7
+OHX28TC,OHX28TC - Tooth Count:  #28,4,Tooth not present,1037
+OHX28TC,OHX28TC - Tooth Count:  #28,5,Permanent dental root fragment present,64
+OHX28TC,OHX28TC - Tooth Count:  #28,9,Could not assess,0
+OHX28TC,OHX28TC - Tooth Count:  #28,.,Missing,454
+OHX29TC,OHX29TC - Tooth Count:  #29,1,Primary tooth (deciduous) present,1873
+OHX29TC,OHX29TC - Tooth Count:  #29,2,Permanent tooth present,5723
+OHX29TC,OHX29TC - Tooth Count:  #29,3,Dental implant,12
+OHX29TC,OHX29TC - Tooth Count:  #29,4,Tooth not present,1272
+OHX29TC,OHX29TC - Tooth Count:  #29,5,Permanent dental root fragment present,88
+OHX29TC,OHX29TC - Tooth Count:  #29,9,Could not assess,0
+OHX29TC,OHX29TC - Tooth Count:  #29,.,Missing,454
+OHX30TC,OHX30TC - Tooth Count:  #30,1,Primary tooth (deciduous) present,0
+OHX30TC,OHX30TC - Tooth Count:  #30,2,Permanent tooth present,5961
+OHX30TC,OHX30TC - Tooth Count:  #30,3,Dental implant,24
+OHX30TC,OHX30TC - Tooth Count:  #30,4,Tooth not present,2857
+OHX30TC,OHX30TC - Tooth Count:  #30,5,Permanent dental root fragment present,126
+OHX30TC,OHX30TC - Tooth Count:  #30,9,Could not assess,0
+OHX30TC,OHX30TC - Tooth Count:  #30,.,Missing,454
+OHX31TC,OHX31TC - Tooth Count:  #31,1,Primary tooth (deciduous) present,0
+OHX31TC,OHX31TC - Tooth Count:  #31,2,Permanent tooth present,5000
+OHX31TC,OHX31TC - Tooth Count:  #31,3,Dental implant,14
+OHX31TC,OHX31TC - Tooth Count:  #31,4,Tooth not present,3854
+OHX31TC,OHX31TC - Tooth Count:  #31,5,Permanent dental root fragment present,100
+OHX31TC,OHX31TC - Tooth Count:  #31,9,Could not assess,0
+OHX31TC,OHX31TC - Tooth Count:  #31,.,Missing,454
+OHX32TC,OHX32TC - Tooth Count:  #32,1,Primary tooth (deciduous) present,0
+OHX32TC,OHX32TC - Tooth Count:  #32,2,Permanent tooth present,1541
+OHX32TC,OHX32TC - Tooth Count:  #32,3,Dental implant,0
+OHX32TC,OHX32TC - Tooth Count:  #32,4,Tooth not present,7367
+OHX32TC,OHX32TC - Tooth Count:  #32,5,Permanent dental root fragment present,60
+OHX32TC,OHX32TC - Tooth Count:  #32,9,Could not assess,0
+OHX32TC,OHX32TC - Tooth Count:  #32,.,Missing,454
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,D,Sound primary tooth,0
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,E,Missing due to dental disease,745
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,J,Permanent root tip is present but no restorative replacement is present,81
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,K,Primary tooth with surface condition (s),0
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,M,Missing due to other causes,3
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,P,Missing due to dental disease but replaced by a removable restoration,644
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,Q,Missing due to other causes but replaced by a removable restoration,34
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,R,"Missing due to dental disease, but replaced by a fixed restoration",22
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,S,Sound permanent tooth,2637
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,T,Permanent root tip is present but a restorative replacement is present,0
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,U,Unerupted,2401
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,X,"Missing due to other causes, but replaced  by a fixed restoration",1
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,Y,"Tooth present, condition cannot be assessed",22
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,Z,Permanent tooth with surface condition (s),2375
+OHX02CTC,OHX02CTC - Coronal Caries: Tooth Count #2,< blank >,Missing,457
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,D,Sound primary tooth,0
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,E,Missing due to dental disease,638
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,J,Permanent root tip is present but no restorative replacement is present,118
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,K,Primary tooth with surface condition (s),0
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,M,Missing due to other causes,2
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,P,Missing due to dental disease but replaced by a removable restoration,688
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,Q,Missing due to other causes but replaced by a removable restoration,34
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,R,"Missing due to dental disease, but replaced by a fixed restoration",79
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,S,Sound permanent tooth,3230
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,T,Permanent root tip is present but a restorative replacement is present,1
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,U,Unerupted,1185
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,X,"Missing due to other causes, but replaced by a fixed restoration",1
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,Y,"Tooth present, condition cannot be assessed",58
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,Z,Permanent tooth with surface condition (s),2931
+OHX03CTC,OHX03CTC - Coronal Caries: Tooth Count #3,< blank >,Missing,457
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,D,Sound primary tooth,1477
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,E,Missing due to dental disease,418
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,J,Permanent root tip is present but no restorative replacement is present,95
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,K,Primary tooth with surface condition (s),390
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,M,Missing due to other causes,5
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,P,Missing due to dental disease but replaced by a removable restoration,682
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,Q,Missing due to other causes but replaced by a removable restoration,35
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,R,"Missing due to dental disease, but replaced by a fixed restoration",98
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,S,Sound permanent tooth,3777
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,T,Permanent root tip is present but a restorative replacement is present,0
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,U,Unerupted,318
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,X,"Missing due to other causes, but replaced by a fixed restoration",0
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,Y,"Tooth present, condition cannot be assessed",28
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,Z,Permanent tooth with surface condition (s),1642
+OHX04CTC,OHX04CTC - Coronal Caries: Tooth Count #4,< blank >,Missing,457
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,D,Sound primary tooth,1587
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,E,Missing due to dental disease,309
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,J,Permanent root tip is present but no restorative replacement is present,103
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,K,Primary tooth with surface condition (s),265
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,M,Missing due to other causes,353
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,P,Missing due to dental disease but replaced by a removable restoration,654
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,Q,Missing due to other causes but replaced by a removable restoration,35
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,R,"Missing due to dental disease,  but replaced by a fixed restoration",81
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,S,Sound permanent tooth,3997
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,T,Permanent root tip is present but a restorative replacement is present,1
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,U,Unerupted,120
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,X,"Missing due to other causes, but replaced by a fixed restoration",1
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,Y,"Tooth present, condition cannot be assessed",54
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,Z,Permanent tooth with surface condition (s),1405
+OHX05CTC,OHX05CTC - Coronal Caries: Tooth Count #5,< blank >,Missing,457
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,D,Sound primary tooth,1927
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,E,Missing due to dental disease,108
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,J,Permanent root tip is present but no restorative replacement is present,66
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,K,Primary tooth with surface condition (s),40
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,M,Missing due to other causes,18
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,P,Missing due to dental disease but replaced by a removable restoration,587
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,Q,Missing due to other causes but replaced by a removable restoration,35
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,R,"Missing due to dental disease,  but replaced by a fixed restoration",27
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,S,Sound permanent tooth,5165
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,T,Permanent root tip is present but a restorative replacement is present,0
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,U,Unerupted,206
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,X,"Missing due to other causes, but replaced by a fixed restoration",4
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,Y,"Tooth present, condition cannot be assessed",204
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,Z,Permanent tooth with surface condition (s),578
+OHX06CTC,OHX06CTC - Coronal Caries: Tooth Count #6,< blank >,Missing,457
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,D,Sound primary tooth,1386
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,E,Missing due to dental disease,147
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,J,Permanent root tip is present but no restorative replacement is present,74
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,K,Primary tooth with surface condition (s),50
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,M,Missing due to other causes,27
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,P,Missing due to dental disease but replaced by a removable restoration,648
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,Q,Missing due to other causes but replaced by a removable restoration,38
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,R,"Missing due to dental disease, but replaced by a fixed restoration",73
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,S,Sound permanent tooth,5322
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,T,Permanent root tip is present but a restorative replacement is present,1
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,U,Unerupted,117
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,X,"Missing due to other causes, but replaced but replaced by a fixed restoration",14
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,Y,"Tooth present, condition cannot be assessed",241
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,Z,Permanent tooth with surface condition (s),827
+OHX07CTC,OHX07CTC - Coronal Caries: Tooth Count #7,< blank >,Missing,457
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,D,Sound primary tooth,1171
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,E,Missing due to dental disease,139
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,J,Permanent root tip is present but no restorative replacement is present,53
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,K,Primary tooth with surface condition (s),79
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,M,Missing due to other causes,11
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,P,Missing  due to dental disease but replaced by a removable restoration,654
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,Q,Missing due to other causes but replaced by a removable restoration,44
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,R,Missing due to dental disease but replaced by a fixed restoration,80
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,S,Sound permanent tooth,5473
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,T,Permanent root tip is present but a restorative replacement is present,1
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,U,Unerupted,69
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,X,"Missing due to other causes, but replaced by a fixed restoration",16
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,Y,"Tooth present, condition cannot be assessed",336
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,Z,Permanent tooth with surface condition (s),839
+OHX08CTC,OHX08CTC - Coronal Caries: Tooth Count #8,< blank >,Missing,457
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,D,Sound primary tooth,1163
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,E,Missing due to dental disease,134
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,J,Permanent root tip is present but no restorative replacement is present,57
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,K,Primary tooth with surface condition (s),72
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,M,Missing due to other causes,12
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,P,Missing due to dental disease but replaced by a removable restoration,651
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,Q,Missing due to other causes but replaced by a removable restoration,41
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,R,"Missing due to dental disease, but replaced by a fixed restoration",77
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,S,Sound permanent tooth,5500
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,T,Permanent root tip is present but a restorative replacement is present,2
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,U,Unerupted,73
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,X,"Missing due to other causes, but replaced by a fixed restoration",16
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,Y,"Tooth present, condition cannot be assessed",354
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,Z,Permanent tooth with surface condition (s),813
+OHX09CTC,OHX09CTC - Coronal Caries: Tooth Count #9,< blank >,Missing,457
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,D,Sound primary tooth,1375
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,E,Missing due to dental disease,151
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,J,Permanent root tip is present but no restorative replacement is present,73
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,K,Primary tooth with surface condition (s),49
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,M,Missing due to other causes,25
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,P,Missing due to dental disease but replaced by a removable restoration,629
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,Q,Missing due to other causes but replaced by a removable restoration,37
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,R,"Missing due to dental disease, but replaced by a fixed restoration",70
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,S,Sound permanent tooth,5312
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,T,Permanent root tip is present but a restorative replacement is present,0
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,U,Unerupted,130
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,X,"Missing due to other causes, but replaced by a fixed restoration",12
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,Y,"Tooth present, condition cannot be assessed",234
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,Z,Permanent tooth with surface condition (s),868
+OHX10CTC,OHX10CTC - Coronal Caries: Tooth Count #10,< blank >,Missing,457
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,D,Sound primary tooth,1931
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,E,Missing due to dental disease,122
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,J,Permanent root tip is present but no restorative replacement is present,79
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,K,Primary tooth with surface condition (s),41
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,M,Missing due to other causes,14
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,P,Missing due to dental disease but replaced by a removable restoration,568
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,Q,Missing due to other causes but replaced by a removable restoration,32
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,R,"Missing due to dental disease, but replaced by a fixed restoration",26
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,S,Sound permanent tooth,5123
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,T,Permanent root tip is present but a restorative replacement is present,0
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,U,Unerupted,193
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,X,"Missing due to other causes, but replaced by a fixed restoration",1
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,Y,"Tooth present, condition cannot be assessed",203
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,Z,Permanent tooth with surface condition (s),632
+OHX11CTC,OHX11CTC - Coronal Caries: Tooth Count #11,< blank >,Missing,457
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,D,Sound primary tooth,1585
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,E,Missing due to dental disease,315
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,J,Permanent root tip is present but no restorative replacement is present,117
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,K,Primary tooth with surface condition (s),275
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,M,Missing due to other causes,345
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,P,Missing due to dental disease but replaced by a removable restoration,666
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,Q,Missing due to other causes but replaced by a removable restoration,35
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,R,"Missing due to dental disease, but replaced by a fixed restoration",74
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,S,Sound permanent tooth,3990
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,T,Permanent root tip is present but a restorative replacement is present,2
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,U,Unerupted,106
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,X,"Missing due to other causes, but replaced by a fixed restoration",1
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,Y,"Tooth present, condition cannot be assessed",63
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,Z,Permanent tooth with surface condition (s),1391
+OHX12CTC,OHX12CTC - Coronal Caries: Tooth Count #12,< blank >,Missing,457
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,D,Sound primary tooth,1494
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,E,Missing due to dental disease,426
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,J,Permanent root tip is present but no restorative replacement is present,123
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,K,Primary tooth with surface condition (s),386
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,M,Missing due to other causes,5
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,P,Missing due to dental disease but replaced by a removable restoration,674
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,Q,Missing due to other causes but replaced by a removable restoration,33
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,R,"Missing due to dental disease, but replaced by a fixed restoration",99
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,S,Sound permanent tooth,3760
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,T,Permanent root tip is present but a restorative replacement is present,0
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,U,Unerupted,312
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,X,"Missing due to other causes, but replaced by a fixed restoration",1
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,Y,"Tooth present, condition cannot be assessed",30
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,Z,Permanent tooth with surface condition (s),1622
+OHX13CTC,OHX13CTC - Coronal Caries: Tooth Count #13,< blank >,Missing,457
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,D,Sound primary tooth,0
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,E,Missing due to dental disease,631
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,J,Permanent root tip is present but no restorative replacement is present,114
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,K,Primary tooth with surface condition (s),0
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,M,Missing due to other causes,3
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,P,Missing due to dental disease but replaced by a removable restoration,698
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,Q,Missing due to other causes but replaced by a removable restoration,35
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,R,"Missing due to dental disease, but replaced by a fixed restoration",72
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,S,Sound permanent tooth,3234
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,T,Permanent root tip is present but a restorative replacement is present,0
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,U,Unerupted,1178
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,X,"Missing due to other causes, but replaced by a fixed restoration",0
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,Y,"Tooth present, condition cannot be assessed",59
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,Z,Permanent tooth with surface condition (s),2941
+OHX14CTC,OHX14CTC - Coronal Caries: Tooth Count #14,< blank >,Missing,457
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,D,Sound primary tooth,0
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,E,Missing due to dental disease,770
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,J,Permanent root tip is present but no restorative replacement is present,96
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,K,Primary tooth with surface condition (s),0
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,M,Missing due to other causes,6
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,P,Missing due to dental disease but replaced by a removable restoration,644
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,Q,Missing due to other causes but replaced by a removable restoration,33
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,R,"Missing due to dental disease, but replaced by a fixed restoration",11
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,S,Sound permanent tooth,2618
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,T,Permanent root tip is present but a restorative replacement is present,0
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,U,Unerupted,2382
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,X,"Missing due to other causes, but replaced by a fixed restoration",0
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,Y,"Tooth present, condition cannot be assessed",28
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,Z,Permanent tooth with surface condition (s),2377
+OHX15CTC,OHX15CTC - Coronal Caries: Tooth Count #15,< blank >,Missing,457
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,D,Sound primary tooth,0
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,E,Missing due to dental disease,1066
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,J,Permanent root tip is present but no restorative replacement is present,96
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,K,Primary tooth with surface condition (s),0
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,M,Missing due to other causes,2
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,P,Missing due to dental disease but replaced by a removable restoration,541
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,Q,Missing due to other causes but replaced by a removable restoration,23
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,R,"Missing due to dental disease, but replaced by a fixed restoration",29
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,S,Sound permanent tooth,2243
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,T,Permanent root tip is present but a restorative replacement is present,0
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,U,Unerupted,2267
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,X,"Missing due to other causes, but replaced by a fixed restoration",1
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,Y,"Tooth present, condition cannot be assessed",55
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,Z,Permanent tooth with surface condition (s),2642
+OHX18CTC,OHX18CTC - Coronal Caries: Tooth Count #18,< blank >,Missing,457
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,D,Sound primary tooth,0
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,E,Missing due to dental disease,1041
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,J,Permanent root tip is present but no restorative replacement is present,123
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,K,Primary tooth with surface condition (s),0
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,M,Missing due to other causes,3
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,P,Missing due to dental disease but replaced by a removable restoration,560
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,Q,Missing due to other causes but replaced by a removable restoration,22
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,R,"Missing due to dental disease, but replaced by a fixed restoration",145
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,S,Sound permanent tooth,2927
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,T,Permanent root tip is present but a restorative replacement is present,0
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,U,Unerupted,1142
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,X,"Missing due to other causes, but replaced by a fixed restoration",4
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,Y,"Tooth present, condition cannot be assessed",70
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,Z,Permanent tooth with surface condition (s),2928
+OHX19CTC,OHX19CTC - Coronal Caries: Tooth Count #19,< blank >,Missing,457
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,D,Sound primary tooth,1393
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,E,Missing due to dental disease,382
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,J,Permanent root tip is present but no restorative replacement is present,90
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,K,Primary tooth with surface condition (s),483
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,M,Missing due to other causes,8
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,P,Missing due to dental disease but replaced by a removable restoration,489
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,Q,Missing due to other causes but replaced by a removable restoration,21
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,R,"Missing due to dental disease, but replaced by a fixed restoration",63
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,S,Sound permanent tooth,4143
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,T,Permanent root tip is present but a restorative replacement is present,1
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,U,Unerupted,307
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,X,"Missing due to other causes, but replaced by a fixed restoration",1
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,Y,"Tooth present, condition cannot be assessed",35
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,Z,Permanent tooth with surface condition (s),1549
+OHX20CTC,OHX20CTC - Coronal Caries: Tooth Count #20,< blank >,Missing,457
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,D,Sound primary tooth,1490
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,E,Missing due to dental disease,184
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,J,Permanent root tip is present but no restorative replacement is present,57
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,K,Primary tooth with surface condition (s),360
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,M,Missing due to other causes,255
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,P,Missing due to dental disease but replaced by a removable restoration,424
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,Q,Missing due to other causes but replaced by a removable restoration,21
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,R,"Missing due to dental disease, but replaced by a fixed restoration",21
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,S,Sound permanent tooth,5072
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,T,Permanent root tip is present but a restorative replacement is present,2
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,U,Unerupted,153
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,X,"Missing due to other causes, but replaced by a fixed restoration",0
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,Y,"Tooth present, condition cannot be assessed",52
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,Z,Permanent tooth with surface condition (s),874
+OHX21CTC,OHX21CTC - Coronal Caries: Tooth Count #21,< blank >,Missing,457
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,D,Sound primary tooth,1790
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,E,Missing due to dental disease,78
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,J,Permanent root tip is present but no restorative replacement is present,28
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,K,Primary tooth with surface condition (s),13
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,M,Missing due to other causes,6
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,P,Missing due to dental disease but replaced by a removable restoration,358
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,Q,Missing due to other causes but replaced by a removable restoration,21
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,R,"Missing due to dental disease, but replaced by a fixed restoration",5
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,S,Sound permanent tooth,6017
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,T,Permanent root tip is present but a restorative replacement is present,5
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,U,Unerupted,190
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,X,"Missing due to other causes, but replaced by a fixed restoration",0
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,Y,"Tooth present, condition cannot be assessed",126
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,Z,Permanent tooth with surface condition (s),328
+OHX22CTC,OHX22CTC - Coronal Caries: Tooth Count #22,< blank >,Missing,457
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,D,Sound primary tooth,1285
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,E,Missing due to dental disease,94
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,J,Permanent root tip is present but no restorative replacement is present,21
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,K,Primary tooth with surface condition (s),0
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,M,Missing due to other causes,8
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,P,Missing due to dental disease but replaced by a removable restoration,417
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,Q,Missing due to other causes but replaced by a removable restoration,25
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,R,"Missing due to dental disease, but replaced by a fixed restoration",28
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,S,Sound permanent tooth,6734
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,T,Permanent root tip is present but a restorative replacement is present,0
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,U,Unerupted,72
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,X,"Missing due to other causes, but replaced by a fixed restoration",5
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,Y,"Tooth present, condition cannot be assessed",98
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,Z,Permanent tooth with surface condition (s),178
+OHX23CTC,OHX23CTC - Coronal Caries: Tooth Count #23,< blank >,Missing,457
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,D,Sound primary tooth,1096
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,E,Missing due to dental disease,115
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,J,Permanent root tip is present but no restorative replacement is present,16
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,K,Primary tooth with surface condition (s),0
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,M,Missing due to other causes,15
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,P,Missing due to dental disease but replaced by a removable restoration,432
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,Q,Missing due to other causes but replaced by a removable restoration,29
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,R,"Missing due to dental disease, but replaced by a fixed restoration",38
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,S,Sound permanent tooth,6991
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,T,Permanent root tip is present but a restorative replacement is present,0
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,U,Unerupted,12
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,X,"Missing due to other causes, but replaced by a fixed restoration",8
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,Y,"Tooth present, condition cannot be assessed",87
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,Z,Permanent tooth with surface condition (s),126
+OHX24CTC,OHX24CTC - Coronal Caries: Tooth Count #24,< blank >,Missing,457
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,D,Sound primary tooth,1103
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,E,Missing due to dental disease,114
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,J,Permanent root tip is present but no restorative replacement is present,20
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,K,Primary tooth with surface condition (s),0
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,M,Missing due to other causes,15
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,P,Missing due to dental disease but replaced by a removable restoration,434
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,Q,Missing due to other causes but replaced by a removable restoration,28
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,R,"Missing due to dental disease, but replaced by a fixed restoration",42
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,S,Sound permanent tooth,6964
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,T,Permanent root tip is present but a restorative replacement is present,1
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,U,Unerupted,10
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,X,"Missing due to other causes, but replaced by a fixed restoration",11
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,Y,"Tooth present, condition cannot be assessed",82
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,Z,Permanent tooth with surface condition (s),141
+OHX25CTC,OHX25CTC - Coronal Caries: Tooth Count #25,< blank >,Missing,457
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,D,Sound primary tooth,1283
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,E,Missing due to dental disease,103
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,J,Permanent root tip is present but no restorative replacement is present,25
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,K,Primary tooth with surface condition (s),1
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,M,Missing due to other causes,12
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,P,"Missing due to dental disease, but replaced by a removable restoration",420
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,Q,"Missing due to other causes, but replaced by a removable restoration",26
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,R,"Missing due to dental disease, but replaced by a fixed restoration",25
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,S,Sound permanent tooth,6719
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,T,Permanent root tip is present but a restorative replacement is present,0
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,U,Unerupted,70
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,X,"Missing due to other causes, but replaced by a fixed restoration",6
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,Y,"Tooth present, condition cannot be assessed",111
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,Z,Permanent tooth with surface condition (s),164
+OHX26CTC,OHX26CTC - Coronal Caries: Tooth Count #26,< blank >,Missing,457
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,D,Sound primary tooth,1787
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,E,Missing due to dental disease,82
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,J,Permanent root tip is present but no restorative replacement is present,36
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,K,Primary tooth with surface condition (s),11
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,M,Missing due to other causes,7
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,P,"Missing due to dental disease, but replaced by a removable restoration",359
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,Q,"Missing due to other causes, but replaced by a removable restoration",19
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,R,"Missing due to dental disease, but replaced by a fixed restoration",6
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,S,Sound permanent tooth,6044
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,T,Permanent root tip is present but a restorative replacement is present,0
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,U,Unerupted,184
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,X,"Missing due to other causes, but replaced by a fixed restoration",0
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,Y,"Tooth present, condition cannot be assessed",124
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,Z,Permanent tooth with surface condition (s),306
+OHX27CTC,OHX27CTC - Coronal Caries: Tooth Count #27,< blank >,Missing,457
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,D,Sound primary tooth,1471
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,E,Missing due to dental disease,189
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,J,Permanent root tip is present but no restorative replacement is present,63
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,K,Primary tooth with surface condition (s),383
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,M,Missing due to other causes,257
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,P,"Missing due to dental disease, but replaced by a removable restoration",416
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,Q,"Missing due to other causes, but replaced by a removable restoration",20
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,R,"Missing due to dental disease, but replaced by a fixed restoration",23
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,S,Sound permanent tooth,5045
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,T,Permanent root tip is present but a restorative replacement is present,1
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,U,Unerupted,139
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,X,"Missing due to other causes, but replaced by a fixed restoration",0
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,Y,"Tooth present, condition cannot be assessed",48
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,Z,Permanent tooth with surface condition (s),910
+OHX28CTC,OHX28CTC - Coronal Caries: Tooth Count #28,< blank >,Missing,457
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,D,Sound primary tooth,1360
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,E,Missing due to dental disease,386
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,J,Permanent root tip is present but no restorative replacement is present,88
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,K,Primary tooth with surface condition (s),498
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,M,Missing due to other causes,6
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,P,"Missing due to dental disease, but replaced by a removable restoration",488
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,Q,"Missing due to other causes, but replaced by a removable restoration",21
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,R,"Missing due to dental disease, but replaced by a fixed restoration",70
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,S,Sound permanent tooth,4148
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,T,Permanent root tip is present but a restorative replacement is present,0
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,U,Unerupted,311
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,X,"Missing due to other causes, but replaced by a fixed restoration",2
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,Y,"Tooth present, condition cannot be assessed",32
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,Z,Permanent tooth with surface condition (s),1555
+OHX29CTC,OHX29CTC - Coronal Caries: Tooth Count #29,< blank >,Missing,457
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,D,Sound primary tooth,0
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,E,Missing due to dental disease,1019
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,J,Permanent root tip is present but no restorative replacement is present,126
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,K,Primary tooth with surface condition (s),0
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,M,Missing due to other causes,1
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,P,"Missing due to dental disease, but replaced by a removable restoration",554
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,Q,"Missing due to other causes, but replaced by a removable restoration",21
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,R,"Missing due to dental disease, but replaced by a fixed restoration",145
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,S,Sound permanent tooth,2936
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,T,Permanent root tip is present but a restorative replacement is present,0
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,U,Unerupted,1140
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,X,"Missing due to other causes, but replaced  by a fixed restoration",1
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,Y,"Tooth present, condition cannot be assessed",67
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,Z,Permanent tooth with surface condition (s),2955
+OHX30CTC,OHX30CTC - Coronal Caries: Tooth Count #30,< blank >,Missing,457
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,D,Sound primary tooth,0
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,E,Missing due to dental disease,1004
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,J,Permanent root tip is present but no restorative replacement is present,99
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,K,Primary tooth with surface condition (s),0
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,M,Missing due to other causes,3
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,P,"Missing due to dental disease, but replaced by a removable restoration",527
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,Q,"Missing due to other causes, but replaced by a removable restoration",23
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,R,"Missing due to dental disease, but replaced by a fixed restoration",37
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,S,Sound permanent tooth,2198
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,T,Permanent root tip is present but a restorative replacement is present,1
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,U,Unerupted,2274
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,X,"Missing due to other causes, but replaced by a fixed restoration",0
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,Y,"Tooth present, condition cannot be assessed",64
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,Z,Permanent tooth with surface condition (s),2735
+OHX31CTC,OHX31CTC - Coronal Caries: Tooth Count #31,< blank >,Missing,457
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,Coronal Caries:  Surface condition #2,Value was recorded,1206
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,0,Lingual surface caries,6
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,1,Occlusal/incisal caries,181
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,2,Facial surface caries,4
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,3,Mesial caries,3
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,4,Distal caries,1
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,5,Lingual surface restoration,8
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,6,Occlusal/incisal restoration,963
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,7,Facial surface restoration,2
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,8,Mesial restoration,1
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,9,Distal restoration,0
+OHX02CSC,OHX02CSC - Coronal Caries:  Surface condition #2,< blank >,Missing,7047
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,Coronal Caries:  Surface condition #3,Value was recorded,2124
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,0,Lingual surface caries,23
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,1,Occlusal/incisal caries,129
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,2,Facial surface caries,1
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,3,Mesial caries,3
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,4,Distal caries,0
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,5,Lingual surface restoration,31
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,6,Occlusal/incisal restoration,613
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,7,Facial surface restoration,6
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,8,Mesial restoration,1
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,9,Distal restoration,0
+OHX03CSC,OHX03CSC - Coronal Caries:  Surface condition #3,< blank >,Missing,6491
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,Coronal Caries:  Surface condition #4,Value was recorded,1581
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,0,Lingual surface caries,6
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,1,Occlusal/incisal caries,76
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,2,Facial surface caries,4
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,3,Mesial caries,16
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,4,Distal caries,12
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,5,Lingual surface restoration,5
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,6,Occlusal/incisal restoration,318
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,7,Facial surface restoration,12
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,8,Mesial restoration,1
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,9,Distal restoration,1
+OHX04CSC,OHX04CSC - Coronal Caries:  Surface condition #4,< blank >,Missing,7390
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,Coronal Caries:  Surface condition #5,Value was recorded,1267
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,0,Lingual surface caries,0
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,1,Occlusal/incisal caries,61
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,2,Facial surface caries,9
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,3,Mesial caries,4
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,4,Distal caries,15
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,5,Lingual surface restoration,0
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,6,Occlusal/incisal restoration,298
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,7,Facial surface restoration,13
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,8,Mesial restoration,2
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,9,Distal restoration,1
+OHX05CSC,OHX05CSC - Coronal Caries:  Surface condition #5,< blank >,Missing,7752
+OHX06CSC,OHX06CSC - Coronal Caries:  Surface condition #6,Coronal Caries:  Surface condition #6,Value was recorded,365
+OHX06CSC,OHX06CSC - Coronal Caries:  Surface condition #6,0,Lingual surface caries,22
+OHX06CSC,OHX06CSC - Coronal Caries:  Surface condition #6,2,Facial surface caries,47
+OHX06CSC,OHX06CSC - Coronal Caries:  Surface condition #6,3,Mesial caries,26
+OHX06CSC,OHX06CSC - Coronal Caries:  Surface condition #6,4,Distal caries,26
+OHX06CSC,OHX06CSC - Coronal Caries:  Surface condition #6,5,Lingual surface restoration,18
+OHX06CSC,OHX06CSC - Coronal Caries:  Surface condition #6,7,Facial surface restoration,48
+OHX06CSC,OHX06CSC - Coronal Caries:  Surface condition #6,8,Mesial restoration,32
+OHX06CSC,OHX06CSC - Coronal Caries:  Surface condition #6,9,Distal restoration,34
+OHX06CSC,OHX06CSC - Coronal Caries:  Surface condition #6,< blank >,Missing,8804
+OHX07CSC,OHX07CSC - Coronal Caries:  Surface condition #7,Coronal Caries:  Surface condition #7,Value was recorded,476
+OHX07CSC,OHX07CSC - Coronal Caries:  Surface condition #7,0,Lingual surface caries,28
+OHX07CSC,OHX07CSC - Coronal Caries:  Surface condition #7,2,Facial surface caries,36
+OHX07CSC,OHX07CSC - Coronal Caries:  Surface condition #7,3,Mesial caries,68
+OHX07CSC,OHX07CSC - Coronal Caries:  Surface condition #7,4,Distal caries,20
+OHX07CSC,OHX07CSC - Coronal Caries:  Surface condition #7,5,Lingual surface restoration,105
+OHX07CSC,OHX07CSC - Coronal Caries:  Surface condition #7,7,Facial surface restoration,20
+OHX07CSC,OHX07CSC - Coronal Caries:  Surface condition #7,8,Mesial restoration,87
+OHX07CSC,OHX07CSC - Coronal Caries:  Surface condition #7,9,Distal restoration,37
+OHX07CSC,OHX07CSC - Coronal Caries:  Surface condition #7,< blank >,Missing,8545
+OHX08CSC,OHX08CSC - Coronal Caries:  Surface condition #8,Coronal Caries:  Surface condition #8,Value was recorded,564
+OHX08CSC,OHX08CSC - Coronal Caries:  Surface condition #8,0,Lingual surface caries,20
+OHX08CSC,OHX08CSC - Coronal Caries:  Surface condition #8,2,Facial surface caries,32
+OHX08CSC,OHX08CSC - Coronal Caries:  Surface condition #8,3,Mesial caries,67
+OHX08CSC,OHX08CSC - Coronal Caries:  Surface condition #8,4,Distal caries,46
+OHX08CSC,OHX08CSC - Coronal Caries:  Surface condition #8,5,Lingual surface restoration,21
+OHX08CSC,OHX08CSC - Coronal Caries:  Surface condition #8,7,Facial surface restoration,19
+OHX08CSC,OHX08CSC - Coronal Caries:  Surface condition #8,8,Mesial restoration,78
+OHX08CSC,OHX08CSC - Coronal Caries:  Surface condition #8,9,Distal restoration,71
+OHX08CSC,OHX08CSC - Coronal Caries:  Surface condition #8,< blank >,Missing,8504
+OHX09CSC,OHX09CSC - Coronal Caries:  Surface condition #9,Coronal Caries:  Surface condition #9,Value was recorded,563
+OHX09CSC,OHX09CSC - Coronal Caries:  Surface condition #9,0,Lingual surface caries,15
+OHX09CSC,OHX09CSC - Coronal Caries:  Surface condition #9,2,Facial surface caries,19
+OHX09CSC,OHX09CSC - Coronal Caries:  Surface condition #9,3,Mesial caries,73
+OHX09CSC,OHX09CSC - Coronal Caries:  Surface condition #9,4,Distal caries,36
+OHX09CSC,OHX09CSC - Coronal Caries:  Surface condition #9,5,Lingual surface restoration,28
+OHX09CSC,OHX09CSC - Coronal Caries:  Surface condition #9,7,Facial surface restoration,14
+OHX09CSC,OHX09CSC - Coronal Caries:  Surface condition #9,8,Mesial restoration,69
+OHX09CSC,OHX09CSC - Coronal Caries:  Surface condition #9,9,Distal restoration,68
+OHX09CSC,OHX09CSC - Coronal Caries:  Surface condition #9,< blank >,Missing,8537
+OHX10CSC,OHX10CSC - Coronal Caries:  Surface condition #10,Coronal Caries:  Surface condition #10,Value was recorded,529
+OHX10CSC,OHX10CSC - Coronal Caries:  Surface condition #10,0,Lingual surface caries,21
+OHX10CSC,OHX10CSC - Coronal Caries:  Surface condition #10,2,Facial surface caries,23
+OHX10CSC,OHX10CSC - Coronal Caries:  Surface condition #10,3,Mesial caries,57
+OHX10CSC,OHX10CSC - Coronal Caries:  Surface condition #10,4,Distal caries,26
+OHX10CSC,OHX10CSC - Coronal Caries:  Surface condition #10,5,Lingual surface restoration,99
+OHX10CSC,OHX10CSC - Coronal Caries:  Surface condition #10,7,Facial surface restoration,28
+OHX10CSC,OHX10CSC - Coronal Caries:  Surface condition #10,8,Mesial restoration,88
+OHX10CSC,OHX10CSC - Coronal Caries:  Surface condition #10,9,Distal restoration,46
+OHX10CSC,OHX10CSC - Coronal Caries:  Surface condition #10,< blank >,Missing,8505
+OHX11CSC,OHX11CSC - Coronal Caries:  Surface condition #11,Coronal Caries:  Surface condition #11,Value was recorded,401
+OHX11CSC,OHX11CSC - Coronal Caries:  Surface condition #11,0,Lingual surface caries,23
+OHX11CSC,OHX11CSC - Coronal Caries:  Surface condition #11,2,Facial surface caries,50
+OHX11CSC,OHX11CSC - Coronal Caries:  Surface condition #11,3,Mesial caries,16
+OHX11CSC,OHX11CSC - Coronal Caries:  Surface condition #11,4,Distal caries,32
+OHX11CSC,OHX11CSC - Coronal Caries:  Surface condition #11,5,Lingual surface restoration,23
+OHX11CSC,OHX11CSC - Coronal Caries:  Surface condition #11,7,Facial surface restoration,55
+OHX11CSC,OHX11CSC - Coronal Caries:  Surface condition #11,8,Mesial restoration,25
+OHX11CSC,OHX11CSC - Coronal Caries:  Surface condition #11,9,Distal restoration,48
+OHX11CSC,OHX11CSC - Coronal Caries:  Surface condition #11,< blank >,Missing,8749
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,Coronal Caries:  Surface condition #12,Value was recorded,1215
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,0,Lingual surface caries,1
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,1,Occlusal/incisal caries,59
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,2,Facial surface caries,13
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,3,Mesial caries,4
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,4,Distal caries,24
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,5,Lingual surface restoration,1
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,6,Occlusal/incisal restoration,331
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,7,Facial surface restoration,14
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,8,Mesial restoration,0
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,9,Distal restoration,4
+OHX12CSC,OHX12CSC - Coronal Caries:  Surface condition #12,< blank >,Missing,7756
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,Coronal Caries:  Surface condition #13,Value was recorded,1554
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,0,Lingual surface caries,4
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,1,Occlusal/incisal caries,69
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,2,Facial surface caries,6
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,3,Mesial caries,11
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,4,Distal caries,13
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,5,Lingual surface restoration,3
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,6,Occlusal/incisal restoration,337
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,7,Facial surface restoration,9
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,8,Mesial restoration,1
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,9,Distal restoration,1
+OHX13CSC,OHX13CSC - Coronal Caries:  Surface condition #13,< blank >,Missing,7414
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,Coronal Caries:  Surface condition #14,Value was recorded,2075
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,0,Lingual surface caries,23
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,1,Occlusal/incisal caries,158
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,2,Facial surface caries,2
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,3,Mesial caries,3
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,4,Distal caries,0
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,5,Lingual surface restoration,18
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,6,Occlusal/incisal restoration,657
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,7,Facial surface restoration,6
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,8,Mesial restoration,0
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,9,Distal restoration,0
+OHX14CSC,OHX14CSC - Coronal Caries:  Surface condition #14,< blank >,Missing,6480
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,Coronal Caries:  Surface condition #15,Value was recorded,1260
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,0,Lingual surface caries,10
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,1,Occlusal/incisal caries,191
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,2,Facial surface caries,7
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,3,Mesial caries,1
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,4,Distal caries,3
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,5,Lingual surface restoration,9
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,6,Occlusal/incisal restoration,894
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,7,Facial surface restoration,2
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,8,Mesial restoration,0
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,9,Distal restoration,0
+OHX15CSC,OHX15CSC - Coronal Caries:  Surface condition #15,< blank >,Missing,7045
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,Coronal Caries:  Surface condition #18,Value was recorded,1375
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,0,Lingual surface caries,0
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,1,Occlusal/incisal caries,199
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,2,Facial surface caries,56
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,3,Mesial caries,1
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,4,Distal caries,0
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,5,Lingual surface restoration,0
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,6,Occlusal/incisal restoration,948
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,7,Facial surface restoration,62
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,8,Mesial restoration,1
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,9,Distal restoration,0
+OHX18CSC,OHX18CSC - Coronal Caries:  Surface condition #18,< blank >,Missing,6780
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,Coronal Caries:  Surface condition #19,Value was recorded,1901
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,0,Lingual surface caries,0
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,1,Occlusal/incisal caries,117
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,2,Facial surface caries,54
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,3,Mesial caries,3
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,4,Distal caries,1
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,5,Lingual surface restoration,0
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,6,Occlusal/incisal restoration,731
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,7,Facial surface restoration,121
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,8,Mesial restoration,0
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,9,Distal restoration,0
+OHX19CSC,OHX19CSC - Coronal Caries:  Surface condition #19,< blank >,Missing,6494
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,Coronal Caries:  Surface condition #20,Value was recorded,1309
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,0,Lingual surface caries,0
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,1,Occlusal/incisal caries,102
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,2,Facial surface caries,19
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,3,Mesial caries,10
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,4,Distal caries,7
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,5,Lingual surface restoration,0
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,6,Occlusal/incisal restoration,560
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,7,Facial surface restoration,23
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,8,Mesial restoration,1
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,9,Distal restoration,1
+OHX20CSC,OHX20CSC - Coronal Caries:  Surface condition #20,< blank >,Missing,7390
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,Coronal Caries:  Surface condition #21,Value was recorded,742
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,0,Lingual surface caries,2
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,1,Occlusal/incisal caries,33
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,2,Facial surface caries,45
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,3,Mesial caries,3
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,4,Distal caries,14
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,5,Lingual surface restoration,0
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,6,Occlusal/incisal restoration,341
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,7,Facial surface restoration,48
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,8,Mesial restoration,3
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,9,Distal restoration,3
+OHX21CSC,OHX21CSC - Coronal Caries:  Surface condition #21,< blank >,Missing,8188
+OHX22CSC,OHX22CSC - Coronal Caries:  Surface condition #22,Coronal Caries:  Surface condition #22,Value was recorded,170
+OHX22CSC,OHX22CSC - Coronal Caries:  Surface condition #22,0,Lingual surface caries,1
+OHX22CSC,OHX22CSC - Coronal Caries:  Surface condition #22,2,Facial surface caries,58
+OHX22CSC,OHX22CSC - Coronal Caries:  Surface condition #22,3,Mesial caries,13
+OHX22CSC,OHX22CSC - Coronal Caries:  Surface condition #22,4,Distal caries,8
+OHX22CSC,OHX22CSC - Coronal Caries:  Surface condition #22,5,Lingual surface restoration,10
+OHX22CSC,OHX22CSC - Coronal Caries:  Surface condition #22,7,Facial surface restoration,64
+OHX22CSC,OHX22CSC - Coronal Caries:  Surface condition #22,8,Mesial restoration,7
+OHX22CSC,OHX22CSC - Coronal Caries:  Surface condition #22,9,Distal restoration,10
+OHX22CSC,OHX22CSC - Coronal Caries:  Surface condition #22,< blank >,Missing,9081
+OHX23CSC,OHX23CSC - Coronal Caries:  Surface condition #23,Coronal Caries:  Surface condition #23,Value was recorded,88
+OHX23CSC,OHX23CSC - Coronal Caries:  Surface condition #23,0,Lingual surface caries,7
+OHX23CSC,OHX23CSC - Coronal Caries:  Surface condition #23,2,Facial surface caries,21
+OHX23CSC,OHX23CSC - Coronal Caries:  Surface condition #23,3,Mesial caries,6
+OHX23CSC,OHX23CSC - Coronal Caries:  Surface condition #23,4,Distal caries,8
+OHX23CSC,OHX23CSC - Coronal Caries:  Surface condition #23,5,Lingual surface restoration,7
+OHX23CSC,OHX23CSC - Coronal Caries:  Surface condition #23,7,Facial surface restoration,22
+OHX23CSC,OHX23CSC - Coronal Caries:  Surface condition #23,8,Mesial restoration,8
+OHX23CSC,OHX23CSC - Coronal Caries:  Surface condition #23,9,Distal restoration,11
+OHX23CSC,OHX23CSC - Coronal Caries:  Surface condition #23,< blank >,Missing,9244
+OHX24CSC,OHX24CSC - Coronal Caries:  Surface condition #24,Coronal Caries:  Surface condition #24,Value was recorded,75
+OHX24CSC,OHX24CSC - Coronal Caries:  Surface condition #24,0,Lingual surface caries,3
+OHX24CSC,OHX24CSC - Coronal Caries:  Surface condition #24,2,Facial surface caries,11
+OHX24CSC,OHX24CSC - Coronal Caries:  Surface condition #24,3,Mesial caries,2
+OHX24CSC,OHX24CSC - Coronal Caries:  Surface condition #24,4,Distal caries,4
+OHX24CSC,OHX24CSC - Coronal Caries:  Surface condition #24,5,Lingual surface restoration,6
+OHX24CSC,OHX24CSC - Coronal Caries:  Surface condition #24,7,Facial surface restoration,19
+OHX24CSC,OHX24CSC - Coronal Caries:  Surface condition #24,8,Mesial restoration,2
+OHX24CSC,OHX24CSC - Coronal Caries:  Surface condition #24,9,Distal restoration,4
+OHX24CSC,OHX24CSC - Coronal Caries:  Surface condition #24,< blank >,Missing,9296
+OHX25CSC,OHX25CSC - Coronal Caries:  Surface condition #25,Coronal Caries:  Surface condition #25,Value was recorded,73
+OHX25CSC,OHX25CSC - Coronal Caries:  Surface condition #25,0,Lingual surface caries,5
+OHX25CSC,OHX25CSC - Coronal Caries:  Surface condition #25,2,Facial surface caries,14
+OHX25CSC,OHX25CSC - Coronal Caries:  Surface condition #25,3,Mesial caries,4
+OHX25CSC,OHX25CSC - Coronal Caries:  Surface condition #25,4,Distal caries,9
+OHX25CSC,OHX25CSC - Coronal Caries:  Surface condition #25,5,Lingual surface restoration,8
+OHX25CSC,OHX25CSC - Coronal Caries:  Surface condition #25,7,Facial surface restoration,18
+OHX25CSC,OHX25CSC - Coronal Caries:  Surface condition #25,8,Mesial restoration,6
+OHX25CSC,OHX25CSC - Coronal Caries:  Surface condition #25,9,Distal restoration,4
+OHX25CSC,OHX25CSC - Coronal Caries:  Surface condition #25,< blank >,Missing,9281
+OHX26CSC,OHX26CSC - Coronal Caries:  Surface condition #26,Coronal Caries:  Surface condition #26,Value was recorded,86
+OHX26CSC,OHX26CSC - Coronal Caries:  Surface condition #26,0,Lingual surface caries,2
+OHX26CSC,OHX26CSC - Coronal Caries:  Surface condition #26,2,Facial surface caries,20
+OHX26CSC,OHX26CSC - Coronal Caries:  Surface condition #26,3,Mesial caries,7
+OHX26CSC,OHX26CSC - Coronal Caries:  Surface condition #26,4,Distal caries,5
+OHX26CSC,OHX26CSC - Coronal Caries:  Surface condition #26,5,Lingual surface restoration,3
+OHX26CSC,OHX26CSC - Coronal Caries:  Surface condition #26,7,Facial surface restoration,29
+OHX26CSC,OHX26CSC - Coronal Caries:  Surface condition #26,8,Mesial restoration,6
+OHX26CSC,OHX26CSC - Coronal Caries:  Surface condition #26,9,Distal restoration,7
+OHX26CSC,OHX26CSC - Coronal Caries:  Surface condition #26,< blank >,Missing,9257
+OHX27CSC,OHX27CSC - Coronal Caries:  Surface condition #27,Coronal Caries:  Surface condition #27,Value was recorded,148
+OHX27CSC,OHX27CSC - Coronal Caries:  Surface condition #27,0,Lingual surface caries,3
+OHX27CSC,OHX27CSC - Coronal Caries:  Surface condition #27,2,Facial surface caries,57
+OHX27CSC,OHX27CSC - Coronal Caries:  Surface condition #27,3,Mesial caries,18
+OHX27CSC,OHX27CSC - Coronal Caries:  Surface condition #27,4,Distal caries,8
+OHX27CSC,OHX27CSC - Coronal Caries:  Surface condition #27,5,Lingual surface restoration,5
+OHX27CSC,OHX27CSC - Coronal Caries:  Surface condition #27,7,Facial surface restoration,67
+OHX27CSC,OHX27CSC - Coronal Caries:  Surface condition #27,8,Mesial restoration,6
+OHX27CSC,OHX27CSC - Coronal Caries:  Surface condition #27,9,Distal restoration,5
+OHX27CSC,OHX27CSC - Coronal Caries:  Surface condition #27,< blank >,Missing,9105
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,Coronal Caries:  Surface condition #28,Value was recorded,806
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,0,Lingual surface caries,2
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,1,Occlusal/incisal caries,46
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,2,Facial surface caries,33
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,3,Mesial caries,4
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,4,Distal caries,12
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,5,Lingual surface restoration,0
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,6,Occlusal/incisal restoration,349
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,7,Facial surface restoration,40
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,8,Mesial restoration,0
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,9,Distal restoration,1
+OHX28CSC,OHX28CSC - Coronal Caries:  Surface condition #28,< blank >,Missing,8129
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,Coronal Caries:  Surface condition #29,Value was recorded,1353
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,0,Lingual surface caries,1
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,1,Occlusal/incisal caries,108
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,2,Facial surface caries,16
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,3,Mesial caries,8
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,4,Distal caries,7
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,5,Lingual surface restoration,1
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,6,Occlusal/incisal restoration,539
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,7,Facial surface restoration,20
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,8,Mesial restoration,0
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,9,Distal restoration,0
+OHX29CSC,OHX29CSC - Coronal Caries:  Surface condition #29,< blank >,Missing,7369
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,Coronal Caries:  Surface condition #30,Value was recorded,1957
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,0,Lingual surface caries,1
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,1,Occlusal/incisal caries,122
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,2,Facial surface caries,56
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,3,Mesial caries,5
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,4,Distal caries,2
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,5,Lingual surface restoration,0
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,6,Occlusal/incisal restoration,678
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,7,Facial surface restoration,133
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,8,Mesial restoration,1
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,9,Distal restoration,0
+OHX30CSC,OHX30CSC - Coronal Caries:  Surface condition #30,< blank >,Missing,6467
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,Coronal Caries:  Surface condition #31,Value was recorded,1450
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,0,Lingual surface caries,2
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,1,Occlusal/incisal caries,224
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,2,Facial surface caries,45
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,3,Mesial caries,1
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,4,Distal caries,0
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,5,Lingual surface restoration,1
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,6,Occlusal/incisal restoration,937
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,7,Facial surface restoration,75
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,8,Mesial restoration,0
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,9,Distal restoration,0
+OHX31CSC,OHX31CSC - Coronal Caries:  Surface condition #31,< blank >,Missing,6687
+OHX02SE,OHX02SE - Dental Sealants:  #2,0,Sealant not present,912
+OHX02SE,OHX02SE - Dental Sealants:  #2,1,Occlusal sealant on permanent tooth,345
+OHX02SE,OHX02SE - Dental Sealants:  #2,2,Facial sealant on permanent tooth,0
+OHX02SE,OHX02SE - Dental Sealants:  #2,3,Lingual sealant on permanent tooth,0
+OHX02SE,OHX02SE - Dental Sealants:  #2,4,Occlusal sealant on primary tooth,0
+OHX02SE,OHX02SE - Dental Sealants:  #2,9,Cannot be assessed,1942
+OHX02SE,OHX02SE - Dental Sealants:  #2,12,Occlusal-facial sealant on permanent tooth,0
+OHX02SE,OHX02SE - Dental Sealants:  #2,13,Occlusal-lingual sealant on permanent tooth,65
+OHX02SE,OHX02SE - Dental Sealants:  #2,< blank >,Missing,6158
+OHX03SE,OHX03SE - Dental Sealants:  #3,0,Sealant not present,1577
+OHX03SE,OHX03SE - Dental Sealants:  #3,1,Occlusal sealant on permanent tooth,741
+OHX03SE,OHX03SE - Dental Sealants:  #3,2,Facial sealant on permanent tooth,0
+OHX03SE,OHX03SE - Dental Sealants:  #3,3,Lingual sealant on permanent tooth,1
+OHX03SE,OHX03SE - Dental Sealants:  #3,4,Occlusal sealant on primary tooth,0
+OHX03SE,OHX03SE - Dental Sealants:  #3,9,Cannot be assessed,763
+OHX03SE,OHX03SE - Dental Sealants:  #3,12,Occlusal-facial sealant on permanent tooth,0
+OHX03SE,OHX03SE - Dental Sealants:  #3,13,Occlusal-lingual sealant on permanent tooth,182
+OHX03SE,OHX03SE - Dental Sealants:  #3,< blank >,Missing,6158
+OHX04SE,OHX04SE - Dental Sealants:  #4,0,Sealant not present,2973
+OHX04SE,OHX04SE - Dental Sealants:  #4,1,Occlusal sealant on permanent tooth,121
+OHX04SE,OHX04SE - Dental Sealants:  #4,2,Facial sealant on permanent tooth,0
+OHX04SE,OHX04SE - Dental Sealants:  #4,3,Lingual sealant on permanent tooth,0
+OHX04SE,OHX04SE - Dental Sealants:  #4,4,Occlusal sealant on primary tooth,85
+OHX04SE,OHX04SE - Dental Sealants:  #4,9,Cannot be assessed,85
+OHX04SE,OHX04SE - Dental Sealants:  #4,12,Occlusal-facial sealant on permanent tooth,0
+OHX04SE,OHX04SE - Dental Sealants:  #4,13,Occlusal-lingual sealant on permanent tooth,0
+OHX04SE,OHX04SE - Dental Sealants:  #4,< blank >,Missing,6158
+OHX05SE,OHX05SE - Dental Sealants:  #5,0,Sealant not present,2892
+OHX05SE,OHX05SE - Dental Sealants:  #5,1,Occlusal sealant on permanent tooth,121
+OHX05SE,OHX05SE - Dental Sealants:  #5,2,Facial sealant on permanent tooth,0
+OHX05SE,OHX05SE - Dental Sealants:  #5,3,Lingual sealant on permanent tooth,0
+OHX05SE,OHX05SE - Dental Sealants:  #5,4,Occlusal sealant on primary tooth,57
+OHX05SE,OHX05SE - Dental Sealants:  #5,9,Cannot be assessed,194
+OHX05SE,OHX05SE - Dental Sealants:  #5,12,Occlusal-facial sealant on permanent tooth,0
+OHX05SE,OHX05SE - Dental Sealants:  #5,13,Occlusal-lingual sealant on permanent tooth,0
+OHX05SE,OHX05SE - Dental Sealants:  #5,< blank >,Missing,6158
+OHX07SE,OHX07SE - Dental Sealants:  #7,0,Sealant not present,2103
+OHX07SE,OHX07SE - Dental Sealants:  #7,1,Occlusal sealant on permanent tooth,0
+OHX07SE,OHX07SE - Dental Sealants:  #7,2,Facial sealant on permanent tooth,0
+OHX07SE,OHX07SE - Dental Sealants:  #7,3,Lingual sealant on permanent tooth,9
+OHX07SE,OHX07SE - Dental Sealants:  #7,4,Occlusal sealant on primary tooth,0
+OHX07SE,OHX07SE - Dental Sealants:  #7,9,Cannot be assessed,1152
+OHX07SE,OHX07SE - Dental Sealants:  #7,12,Occlusal-facial sealant on permanent tooth,0
+OHX07SE,OHX07SE - Dental Sealants:  #7,13,Occlusal-lingual sealant on permanent tooth,0
+OHX07SE,OHX07SE - Dental Sealants:  #7,< blank >,Missing,6158
+OHX10SE,OHX10SE - Dental Sealants:  #10,0,Sealant not present,2106
+OHX10SE,OHX10SE - Dental Sealants:  #10,1,Occlusal sealant on permanent tooth,0
+OHX10SE,OHX10SE - Dental Sealants:  #10,2,Facial sealant on permanent tooth,0
+OHX10SE,OHX10SE - Dental Sealants:  #10,3,Lingual sealant on permanent tooth,10
+OHX10SE,OHX10SE - Dental Sealants:  #10,4,Occlusal sealant on primary tooth,0
+OHX10SE,OHX10SE - Dental Sealants:  #10,9,Cannot be assessed,1148
+OHX10SE,OHX10SE - Dental Sealants:  #10,12,Occlusal-facial sealant on permanent tooth,0
+OHX10SE,OHX10SE - Dental Sealants:  #10,13,Occlusal-lingual sealant on permanent tooth,0
+OHX10SE,OHX10SE - Dental Sealants:  #10,< blank >,Missing,6158
+OHX12SE,OHX12SE - Dental Sealants:  #12,0,Sealant not present,2894
+OHX12SE,OHX12SE - Dental Sealants:  #12,1,Occlusal sealant on permanent tooth,131
+OHX12SE,OHX12SE - Dental Sealants:  #12,2,Facial sealant on permanent tooth,0
+OHX12SE,OHX12SE - Dental Sealants:  #12,3,Lingual sealant on permanent tooth,0
+OHX12SE,OHX12SE - Dental Sealants:  #12,4,Occlusal sealant on primary tooth,49
+OHX12SE,OHX12SE - Dental Sealants:  #12,9,Cannot be assessed,190
+OHX12SE,OHX12SE - Dental Sealants:  #12,12,Occlusal-facial sealant on permanent tooth,0
+OHX12SE,OHX12SE - Dental Sealants:  #12,13,Occlusal-lingual sealant on permanent tooth,0
+OHX12SE,OHX12SE - Dental Sealants:  #12,< blank >,Missing,6158
+OHX13SE,OHX13SE - Dental Sealants:  #13,0,Sealant not present,2976
+OHX13SE,OHX13SE - Dental Sealants:  #13,1,Occlusal sealant on permanent tooth,121
+OHX13SE,OHX13SE - Dental Sealants:  #13,2,Facial sealant on permanent tooth,0
+OHX13SE,OHX13SE - Dental Sealants:  #13,3,Lingual sealant on permanent tooth,0
+OHX13SE,OHX13SE - Dental Sealants:  #13,4,Occlusal sealant on primary tooth,83
+OHX13SE,OHX13SE - Dental Sealants:  #13,9,Cannot be assessed,84
+OHX13SE,OHX13SE - Dental Sealants:  #13,12,Occlusal-facial sealant on permanent tooth,0
+OHX13SE,OHX13SE - Dental Sealants:  #13,13,Occlusal-lingual sealant on permanent tooth,0
+OHX13SE,OHX13SE - Dental Sealants:  #13,< blank >,Missing,6158
+OHX14SE,OHX14SE - Dental Sealants:  #14,0,Sealant not present,1585
+OHX14SE,OHX14SE - Dental Sealants:  #14,1,Occlusal sealant on permanent tooth,740
+OHX14SE,OHX14SE - Dental Sealants:  #14,2,Facial sealant on permanent tooth,0
+OHX14SE,OHX14SE - Dental Sealants:  #14,3,Lingual sealant on permanent tooth,0
+OHX14SE,OHX14SE - Dental Sealants:  #14,4,Occlusal sealant on primary tooth,0
+OHX14SE,OHX14SE - Dental Sealants:  #14,9,Cannot be assessed,754
+OHX14SE,OHX14SE - Dental Sealants:  #14,12,Occlusal-facial sealant on permanent tooth,0
+OHX14SE,OHX14SE - Dental Sealants:  #14,13,Occlusal-lingual sealant on permanent tooth,185
+OHX14SE,OHX14SE - Dental Sealants:  #14,< blank >,Missing,6158
+OHX15SE,OHX15SE - Dental Sealants:  #15,0,Sealant not present,927
+OHX15SE,OHX15SE - Dental Sealants:  #15,1,Occlusal sealant on permanent tooth,337
+OHX15SE,OHX15SE - Dental Sealants:  #15,2,Facial sealant on permanent tooth,0
+OHX15SE,OHX15SE - Dental Sealants:  #15,3,Lingual sealant on permanent tooth,1
+OHX15SE,OHX15SE - Dental Sealants:  #15,4,Occlusal sealant on primary tooth,0
+OHX15SE,OHX15SE - Dental Sealants:  #15,9,Cannot be assessed,1932
+OHX15SE,OHX15SE - Dental Sealants:  #15,12,Occlusal-facial sealant on permanent tooth,0
+OHX15SE,OHX15SE - Dental Sealants:  #15,13,Occlusal-lingual sealant on permanent tooth,67
+OHX15SE,OHX15SE - Dental Sealants:  #15,< blank >,Missing,6158
+OHX18SE,OHX18SE - Dental Sealants:  #18,0,Sealant not present,987
+OHX18SE,OHX18SE - Dental Sealants:  #18,1,Occlusal sealant on permanent tooth,361
+OHX18SE,OHX18SE - Dental Sealants:  #18,2,Facial sealant on permanent tooth,3
+OHX18SE,OHX18SE - Dental Sealants:  #18,3,Lingual sealant on permanent tooth,0
+OHX18SE,OHX18SE - Dental Sealants:  #18,4,Occlusal sealant on primary tooth,0
+OHX18SE,OHX18SE - Dental Sealants:  #18,9,Cannot be assessed,1872
+OHX18SE,OHX18SE - Dental Sealants:  #18,12,Occlusal-facial sealant on permanent tooth,41
+OHX18SE,OHX18SE - Dental Sealants:  #18,13,Occlusal-lingual sealant on permanent tooth,0
+OHX18SE,OHX18SE - Dental Sealants:  #18,< blank >,Missing,6158
+OHX19SE,OHX19SE - Dental Sealants:  #19,0,Sealant not present,1619
+OHX19SE,OHX19SE - Dental Sealants:  #19,1,Occlusal sealant on permanent tooth,796
+OHX19SE,OHX19SE - Dental Sealants:  #19,2,Facial sealant on permanent tooth,4
+OHX19SE,OHX19SE - Dental Sealants:  #19,3,Lingual sealant on permanent tooth,0
+OHX19SE,OHX19SE - Dental Sealants:  #19,4,Occlusal sealant on primary tooth,0
+OHX19SE,OHX19SE - Dental Sealants:  #19,9,Cannot be assessed,752
+OHX19SE,OHX19SE - Dental Sealants:  #19,12,Occlusal-facial sealant on permanent tooth,93
+OHX19SE,OHX19SE - Dental Sealants:  #19,13,Occlusal-lingual sealant on permanent tooth,0
+OHX19SE,OHX19SE - Dental Sealants:  #19,< blank >,Missing,6158
+OHX20SE,OHX20SE - Dental Sealants:  #20,0,Sealant not present,2932
+OHX20SE,OHX20SE - Dental Sealants:  #20,1,Occlusal sealant on permanent tooth,126
+OHX20SE,OHX20SE - Dental Sealants:  #20,2,Facial sealant on permanent tooth,0
+OHX20SE,OHX20SE - Dental Sealants:  #20,3,Lingual sealant on permanent tooth,0
+OHX20SE,OHX20SE - Dental Sealants:  #20,4,Occlusal sealant on primary tooth,93
+OHX20SE,OHX20SE - Dental Sealants:  #20,9,Cannot be assessed,113
+OHX20SE,OHX20SE - Dental Sealants:  #20,12,Occlusal-facial sealant on permanent tooth,0
+OHX20SE,OHX20SE - Dental Sealants:  #20,13,Occlusal-lingual sealant on permanent tooth,0
+OHX20SE,OHX20SE - Dental Sealants:  #20,< blank >,Missing,6158
+OHX21SE,OHX21SE - Dental Sealants:  #21,0,Sealant not present,2863
+OHX21SE,OHX21SE - Dental Sealants:  #21,1,Occlusal sealant on permanent tooth,130
+OHX21SE,OHX21SE - Dental Sealants:  #21,2,Facial sealant on permanent tooth,0
+OHX21SE,OHX21SE - Dental Sealants:  #21,3,Lingual sealant on permanent tooth,0
+OHX21SE,OHX21SE - Dental Sealants:  #21,4,Occlusal sealant on primary tooth,57
+OHX21SE,OHX21SE - Dental Sealants:  #21,9,Cannot be assessed,214
+OHX21SE,OHX21SE - Dental Sealants:  #21,12,Occlusal-facial sealant on permanent tooth,0
+OHX21SE,OHX21SE - Dental Sealants:  #21,13,Occlusal-lingual sealant on permanent tooth,0
+OHX21SE,OHX21SE - Dental Sealants:  #21,< blank >,Missing,6158
+OHX28SE,OHX28SE - Dental Sealants:  #28,0,Sealant not present,2865
+OHX28SE,OHX28SE - Dental Sealants:  #28,1,Occlusal sealant on permanent tooth,127
+OHX28SE,OHX28SE - Dental Sealants:  #28,2,Facial sealant on permanent tooth,0
+OHX28SE,OHX28SE - Dental Sealants:  #28,3,Lingual sealant on permanent tooth,0
+OHX28SE,OHX28SE - Dental Sealants:  #28,4,Occlusal sealant on primary tooth,61
+OHX28SE,OHX28SE - Dental Sealants:  #28,9,Cannot be assessed,211
+OHX28SE,OHX28SE - Dental Sealants:  #28,12,Occlusal-facial sealant on permanent tooth,0
+OHX28SE,OHX28SE - Dental Sealants:  #28,13,Occlusal-lingual sealant on permanent tooth,0
+OHX28SE,OHX28SE - Dental Sealants:  #28,< blank >,Missing,6158
+OHX29SE,OHX29SE - Dental Sealants:  #29,0,Sealant not present,2948
+OHX29SE,OHX29SE - Dental Sealants:  #29,1,Occlusal sealant on permanent tooth,124
+OHX29SE,OHX29SE - Dental Sealants:  #29,2,Facial sealant on permanent tooth,0
+OHX29SE,OHX29SE - Dental Sealants:  #29,3,Lingual sealant on permanent tooth,0
+OHX29SE,OHX29SE - Dental Sealants:  #29,4,Occlusal sealant on primary tooth,93
+OHX29SE,OHX29SE - Dental Sealants:  #29,9,Cannot be assessed,99
+OHX29SE,OHX29SE - Dental Sealants:  #29,12,Occlusal-facial sealant on permanent tooth,0
+OHX29SE,OHX29SE - Dental Sealants:  #29,13,Occlusal-lingual sealant on permanent tooth,0
+OHX29SE,OHX29SE - Dental Sealants:  #29,< blank >,Missing,6158
+OHX30SE,OHX30SE - Dental Sealants:  #30,0,Sealant not present,1610
+OHX30SE,OHX30SE - Dental Sealants:  #30,1,Occlusal sealant on permanent tooth,808
+OHX30SE,OHX30SE - Dental Sealants:  #30,2,Facial sealant on permanent tooth,4
+OHX30SE,OHX30SE - Dental Sealants:  #30,3,Lingual sealant on permanent tooth,0
+OHX30SE,OHX30SE - Dental Sealants:  #30,4,Occlusal sealant on primary tooth,0
+OHX30SE,OHX30SE - Dental Sealants:  #30,9,Cannot be assessed,744
+OHX30SE,OHX30SE - Dental Sealants:  #30,12,Occlusal-facial sealant on permanent tooth,98
+OHX30SE,OHX30SE - Dental Sealants:  #30,13,Occlusal-lingual sealant on permanent tooth,0
+OHX30SE,OHX30SE - Dental Sealants:  #30,< blank >,Missing,6158
+OHX31SE,OHX31SE - Dental Sealants:  #31,0,Sealant not present,966
+OHX31SE,OHX31SE - Dental Sealants:  #31,1,Occlusal sealant on permanent tooth,369
+OHX31SE,OHX31SE - Dental Sealants:  #31,2,Facial sealant on permanent tooth,0
+OHX31SE,OHX31SE - Dental Sealants:  #31,3,Lingual sealant on permanent tooth,0
+OHX31SE,OHX31SE - Dental Sealants:  #31,4,Occlusal sealant on primary tooth,0
+OHX31SE,OHX31SE - Dental Sealants:  #31,9,Cannot be assessed,1885
+OHX31SE,OHX31SE - Dental Sealants:  #31,12,Occlusal-facial sealant on permanent tooth,44
+OHX31SE,OHX31SE - Dental Sealants:  #31,13,Occlusal-lingual sealant on permanent tooth,0
+OHX31SE,OHX31SE - Dental Sealants:  #31,< blank >,Missing,6158
+CSXEXSTS,CSXEXSTS - Overall Taste & Smell Exam Status,1,Complete,3094
+CSXEXSTS,CSXEXSTS - Overall Taste & Smell Exam Status,2,Partial,462
+CSXEXSTS,CSXEXSTS - Overall Taste & Smell Exam Status,3,Not done,152
+CSXEXSTS,CSXEXSTS - Overall Taste & Smell Exam Status,.,Missing,0
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,1,Safety exclusion,3
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,2,Refused,9
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,3,No Time,8
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,4,Physical Limitation,6
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,5,Communication Problem,19
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,6,Equipment problem,2
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,7,SP ill/emergency,14
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,12,Eye specific limitation,8
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,34,SP pregnant,1
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,38,Technical difficulty,1
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,49,Urine not Collected,9
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,51,SP unable to comply,4
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,56,Came Late/Left Early,97
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,84,SP with Child,2
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,99,Other,14
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,122,Language Barrier,11
+CSXEXCMT,CSXEXCMT - Taste & Smell Exam Status Comment Code,.,Missing,3500
+CSQ245  ,CSQ245   - Ever had quinine allergy?,1,Yes,23
+CSQ245  ,CSQ245   - Ever had quinine allergy?,2,No,3418
+CSQ245  ,CSQ245   - Ever had quinine allergy?,7,Refused,2
+CSQ245  ,CSQ245   - Ever had quinine allergy?,9,Don't know,114
+CSQ245  ,CSQ245   - Ever had quinine allergy?,.,Missing,151
+CSQ241  ,CSQ241   - Currently pregnant or breast feeding?,1,Yes,6
+CSQ241  ,CSQ241   - Currently pregnant or breast feeding?,2,No,971
+CSQ241  ,CSQ241   - Currently pregnant or breast feeding?,7,Refused,1
+CSQ241  ,CSQ241   - Currently pregnant or breast feeding?,9,Don't know,1
+CSQ241  ,CSQ241   - Currently pregnant or breast feeding?,.,Missing,2729
+CSQ260a,CSQ260a - Sneeze Frequently?,1,Checked,177
+CSQ260a,CSQ260a - Sneeze Frequently?,7,Refused,2
+CSQ260a,CSQ260a - Sneeze Frequently?,9,Don't know,3
+CSQ260a,CSQ260a - Sneeze Frequently?,.,Missing,3526
+CSQ260d,CSQ260d - Have Discolored Nasal Mucus?,1,Checked,74
+CSQ260d,CSQ260d - Have Discolored Nasal Mucus?,.,Missing,3634
+CSQ260g,CSQ260g - Have Nasal Blockage?,1,Checked,283
+CSQ260g,CSQ260g - Have Nasal Blockage?,.,Missing,3425
+CSQ260i,CSQ260i - Have Sinus Pain?,1,Checked,105
+CSQ260i,CSQ260i - Have Sinus Pain?,.,Missing,3603
+CSQ260n,CSQ260n - Runny Nose?,1,Checked,421
+CSQ260n,CSQ260n - Runny Nose?,.,Missing,3287
+CSQ260m ,CSQ260m  - None of the above?,1,Checked,2754
+CSQ260m ,CSQ260m  - None of the above?,.,Missing,954
+CSQ270  ,CSQ270   - Type of Nasal Blockage,1,Yes,146
+CSQ270  ,CSQ270   - Type of Nasal Blockage,2,No,135
+CSQ270  ,CSQ270   - Type of Nasal Blockage,7,Refused,0
+CSQ270  ,CSQ270   - Type of Nasal Blockage,9,Don't know,2
+CSQ270  ,CSQ270   - Type of Nasal Blockage,.,Missing,3425
+CSQ450,CSQ450 - Low intermediate light (85 candelas/m2),0 to 100,Range of Values,3420
+CSQ450,CSQ450 - Low intermediate light (85 candelas/m2),.,Missing,288
+CSQ460,CSQ460 - High intermediate light(439 candelas/m2),0 to 100,Range of Values,3416
+CSQ460,CSQ460 - High intermediate light(439 candelas/m2),.,Missing,292
+CSQ470,CSQ470 - Medium test light (193 candelas/m2),0 to 100,Range of Values,3412
+CSQ470,CSQ470 - Medium test light (193 candelas/m2),.,Missing,296
+CSQ480,CSQ480 - Low test light (4.3 candelas/m2),0 to 100,Range of Values,3411
+CSQ480,CSQ480 - Low test light (4.3 candelas/m2),.,Missing,297
+CSQ490,CSQ490 - High test light (1000 candelas/m2),0 to 100,Range of Values,3411
+CSQ490,CSQ490 - High test light (1000 candelas/m2),.,Missing,297
+CSXQUIPG,CSXQUIPG - Tongue Tip Test: 1 mM Quinine gLMS,0 to 100,Range of Values,3133
+CSXQUIPG,CSXQUIPG - Tongue Tip Test: 1 mM Quinine gLMS,.,Missing,575
+CSXQUIPT,CSXQUIPT - Tongue Tip 1mM Quinine: What Was Taste?,1,Salty,103
+CSXQUIPT,CSXQUIPT - Tongue Tip 1mM Quinine: What Was Taste?,2,Bitter,1232
+CSXQUIPT,CSXQUIPT - Tongue Tip 1mM Quinine: What Was Taste?,3,Something else,492
+CSXQUIPT,CSXQUIPT - Tongue Tip 1mM Quinine: What Was Taste?,4,No Taste,1149
+CSXQUIPT,CSXQUIPT - Tongue Tip 1mM Quinine: What Was Taste?,5,Sour,157
+CSXQUIPT,CSXQUIPT - Tongue Tip 1mM Quinine: What Was Taste?,.,Missing,575
+CSXNAPG ,CSXNAPG  - Tongue Tip Test: 1M NaCl gLMS,0 to 100,Range of Values,3129
+CSXNAPG ,CSXNAPG  - Tongue Tip Test: 1M NaCl gLMS,.,Missing,579
+CSXNAPT ,CSXNAPT  - Tongue Tip 1M NaCl: What Was Taste?,1,Salty,2675
+CSXNAPT ,CSXNAPT  - Tongue Tip 1M NaCl: What Was Taste?,2,Bitter,125
+CSXNAPT ,CSXNAPT  - Tongue Tip 1M NaCl: What Was Taste?,3,Something else,102
+CSXNAPT ,CSXNAPT  - Tongue Tip 1M NaCl: What Was Taste?,4,No Taste,90
+CSXNAPT ,CSXNAPT  - Tongue Tip 1M NaCl: What Was Taste?,5,Sour,225
+CSXNAPT ,CSXNAPT  - Tongue Tip 1M NaCl: What Was Taste?,.,Missing,491
+CSXQUISG,CSXQUISG - Whole Mouth Test: 1 mM Quinine gLMS,0 to 100,Range of Values,3114
+CSXQUISG,CSXQUISG - Whole Mouth Test: 1 mM Quinine gLMS,.,Missing,594
+CSXQUIST,CSXQUIST - Whole Mouth 1 mM Quinine: What Was Taste,1,Salty,34
+CSXQUIST,CSXQUIST - Whole Mouth 1 mM Quinine: What Was Taste,2,Bitter,2574
+CSXQUIST,CSXQUIST - Whole Mouth 1 mM Quinine: What Was Taste,3,Something else,344
+CSXQUIST,CSXQUIST - Whole Mouth 1 mM Quinine: What Was Taste,4,No Taste,15
+CSXQUIST,CSXQUIST - Whole Mouth 1 mM Quinine: What Was Taste,5,Sour,147
+CSXQUIST,CSXQUIST - Whole Mouth 1 mM Quinine: What Was Taste,.,Missing,594
+CSXSLTSG,CSXSLTSG - Whole Mouth Test: 1 M NaCl gLMS,2 to 100,Range of Values,3217
+CSXSLTSG,CSXSLTSG - Whole Mouth Test: 1 M NaCl gLMS,.,Missing,491
+CSXSLTST,CSXSLTST - Whole Mouth 1 M NaCl: What Was Taste?,1,Salty,3128
+CSXSLTST,CSXSLTST - Whole Mouth 1 M NaCl: What Was Taste?,2,Bitter,34
+CSXSLTST,CSXSLTST - Whole Mouth 1 M NaCl: What Was Taste?,3,Something else,23
+CSXSLTST,CSXSLTST - Whole Mouth 1 M NaCl: What Was Taste?,4,No Taste,1
+CSXSLTST,CSXSLTST - Whole Mouth 1 M NaCl: What Was Taste?,5,Sour,31
+CSXSLTST,CSXSLTST - Whole Mouth 1 M NaCl: What Was Taste?,.,Missing,491
+CSXNASG ,CSXNASG  - Whole Mouth Test: .32 M NaCl gLMS,0 to 100,Range of Values,3218
+CSXNASG ,CSXNASG  - Whole Mouth Test: .32 M NaCl gLMS,.,Missing,490
+CSXNAST ,CSXNAST  - Whole Mouth .32 NaCl: What Was Taste?,1,Salty,2885
+CSXNAST ,CSXNAST  - Whole Mouth .32 NaCl: What Was Taste?,2,Bitter,78
+CSXNAST ,CSXNAST  - Whole Mouth .32 NaCl: What Was Taste?,3,Something else,146
+CSXNAST ,CSXNAST  - Whole Mouth .32 NaCl: What Was Taste?,4,No Taste,28
+CSXNAST ,CSXNAST  - Whole Mouth .32 NaCl: What Was Taste?,5,Sour,81
+CSXNAST ,CSXNAST  - Whole Mouth .32 NaCl: What Was Taste?,.,Missing,490
+CSXTSEQ ,CSXTSEQ  - Whole Mouth Taste Test Sequence,A,"1M NaCl, 1mM quinine, 0.32M NaCl",1576
+CSXTSEQ ,CSXTSEQ  - Whole Mouth Taste Test Sequence,B,"0.32M NaCl, 1mM quinine, 1M NaCl",1658
+CSXCHOOD,CSXCHOOD - Smell Test: Chocolate Scent,1,Lemon,120
+CSXCHOOD,CSXCHOOD - Smell Test: Chocolate Scent,2,Chocolate,2901
+CSXCHOOD,CSXCHOOD - Smell Test: Chocolate Scent,3,Smoke,356
+CSXCHOOD,CSXCHOOD - Smell Test: Chocolate Scent,4,Black pepper,150
+CSXCHOOD,CSXCHOOD - Smell Test: Chocolate Scent,.,Missing,181
+CSXSBOD ,CSXSBOD  - Smell Test: Strawberry Scent,1,Strawberry,2819
+CSXSBOD ,CSXSBOD  - Smell Test: Strawberry Scent,2,Garlic,29
+CSXSBOD ,CSXSBOD  - Smell Test: Strawberry Scent,3,Leather,553
+CSXSBOD ,CSXSBOD  - Smell Test: Strawberry Scent,4,Gasoline,124
+CSXSBOD ,CSXSBOD  - Smell Test: Strawberry Scent,.,Missing,183
+CSXSMKOD,CSXSMKOD - Smell Test: Smoke Scent,1,Garlic,124
+CSXSMKOD,CSXSMKOD - Smell Test: Smoke Scent,2,Grass,223
+CSXSMKOD,CSXSMKOD - Smell Test: Smoke Scent,3,Smoke,3047
+CSXSMKOD,CSXSMKOD - Smell Test: Smoke Scent,4,Peach,129
+CSXSMKOD,CSXSMKOD - Smell Test: Smoke Scent,.,Missing,185
+CSXLEAOD,CSXLEAOD - Smell Test: Leather Scent,1,Mint,206
+CSXLEAOD,CSXLEAOD - Smell Test: Leather Scent,2,Flower,429
+CSXLEAOD,CSXLEAOD - Smell Test: Leather Scent,3,Leather,2693
+CSXLEAOD,CSXLEAOD - Smell Test: Leather Scent,4,Apple,192
+CSXLEAOD,CSXLEAOD - Smell Test: Leather Scent,.,Missing,188
+CSXSOAOD,CSXSOAOD - Smell Test: Soap Scent,1,Soap,3250
+CSXSOAOD,CSXSOAOD - Smell Test: Soap Scent,2,Black Pepper,99
+CSXSOAOD,CSXSOAOD - Smell Test: Soap Scent,3,Leather,101
+CSXSOAOD,CSXSOAOD - Smell Test: Soap Scent,4,Peanut,70
+CSXSOAOD,CSXSOAOD - Smell Test: Soap Scent,.,Missing,188
+CSXGRAOD,CSXGRAOD - Smell Test: Grape Scent,1,Gasoline,444
+CSXGRAOD,CSXGRAOD - Smell Test: Grape Scent,2,Grape,2192
+CSXGRAOD,CSXGRAOD - Smell Test: Grape Scent,3,Rose,774
+CSXGRAOD,CSXGRAOD - Smell Test: Grape Scent,4,Peanut,109
+CSXGRAOD,CSXGRAOD - Smell Test: Grape Scent,.,Missing,189
+CSXONOD ,CSXONOD  - Smell Test: Onion Scent,1,Chocolate,53
+CSXONOD ,CSXONOD  - Smell Test: Onion Scent,2,Strawberry,33
+CSXONOD ,CSXONOD  - Smell Test: Onion Scent,3,Onion,3321
+CSXONOD ,CSXONOD  - Smell Test: Onion Scent,4,Fruit Punch,112
+CSXONOD ,CSXONOD  - Smell Test: Onion Scent,.,Missing,189
+CSXNGSOD,CSXNGSOD - Smell Test: Natural Gas Scent,1,Orange,111
+CSXNGSOD,CSXNGSOD - Smell Test: Natural Gas Scent,2,Cinnamon,184
+CSXNGSOD,CSXNGSOD - Smell Test: Natural Gas Scent,3,Cola,175
+CSXNGSOD,CSXNGSOD - Smell Test: Natural Gas Scent,4,Natural Gas,3049
+CSXNGSOD,CSXNGSOD - Smell Test: Natural Gas Scent,.,Missing,189
+CSXSLTRT,CSXSLTRT - Whole Mouth Repeat: 1M NaCl gLMS,1 to 100,Range of Values,1595
+CSXSLTRT,CSXSLTRT - Whole Mouth Repeat: 1M NaCl gLMS,.,Missing,2113
+CSXSLTRG,CSXSLTRG - Repeat 1M NaCl: What Was Taste?,1,Salty,1548
+CSXSLTRG,CSXSLTRG - Repeat 1M NaCl: What Was Taste?,2,Bitter,20
+CSXSLTRG,CSXSLTRG - Repeat 1M NaCl: What Was Taste?,3,Something else,10
+CSXSLTRG,CSXSLTRG - Repeat 1M NaCl: What Was Taste?,4,No Taste,2
+CSXSLTRG,CSXSLTRG - Repeat 1M NaCl: What Was Taste?,5,Sour,15
+CSXSLTRG,CSXSLTRG - Repeat 1M NaCl: What Was Taste?,.,Missing,2113
+CSXNART ,CSXNART  - Whole Mouth Repeat: 0.32M NaCl gLMS,0 to 100,Range of Values,1613
+CSXNART ,CSXNART  - Whole Mouth Repeat: 0.32M NaCl gLMS,.,Missing,2095
+CSXNARG ,CSXNARG  - Repeat .32M NaCl: What Was Taste?,1,Salty,1464
+CSXNARG ,CSXNARG  - Repeat .32M NaCl: What Was Taste?,2,Bitter,40
+CSXNARG ,CSXNARG  - Repeat .32M NaCl: What Was Taste?,3,Something else,67
+CSXNARG ,CSXNARG  - Repeat .32M NaCl: What Was Taste?,4,No Taste,21
+CSXNARG ,CSXNARG  - Repeat .32M NaCl: What Was Taste?,5,Sour,21
+CSXNARG ,CSXNARG  - Repeat .32M NaCl: What Was Taste?,.,Missing,2095
+CSAEFFRT,CSAEFFRT - Participant's Understanding of Test,1,Very good,1845
+CSAEFFRT,CSAEFFRT - Participant's Understanding of Test,2,Good,1096
+CSAEFFRT,CSAEFFRT - Participant's Understanding of Test,3,Fair,404
+CSAEFFRT,CSAEFFRT - Participant's Understanding of Test,4,Poor,164
+CSAEFFRT,CSAEFFRT - Participant's Understanding of Test,5,Unable to Cooperate,28
+CSAEFFRT,CSAEFFRT - Participant's Understanding of Test,.,Missing,171
