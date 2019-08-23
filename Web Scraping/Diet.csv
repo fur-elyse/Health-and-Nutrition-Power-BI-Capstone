@@ -1,451 +1,451 @@
-short_title,title,code or value,description,count
-WTDRD1,WTDRD1 - Dietary day one sample weight,2493.021655 to 267526.89097,Range of Values,8661
-WTDRD1,WTDRD1 - Dietary day one sample weight,0,Day 1 dietary recall not done/incomplete,1152
-WTDRD1,WTDRD1 - Dietary day one sample weight,.,Missing,0
-WTDR2D,WTDR2D - Dietary two-day sample weight,1953.802108 to 818626.65723,Range of Values,7574
-WTDR2D,WTDR2D - Dietary two-day sample weight,0,Day 2 dietary recall not done/incomplete,1087
-WTDR2D,WTDR2D - Dietary two-day sample weight,.,Missing,1152
-DR1DRSTZ,DR1DRSTZ - Dietary recall status,1,Reliable and met the minimum criteria,8531
-DR1DRSTZ,DR1DRSTZ - Dietary recall status,2,Not reliable or not met the minimum criteria,122
-DR1DRSTZ,DR1DRSTZ - Dietary recall status,4,Reported consuming breast-milk,130
-DR1DRSTZ,DR1DRSTZ - Dietary recall status,5,Not done,1030
-DR1DRSTZ,DR1DRSTZ - Dietary recall status,.,Missing,0
-DR1EXMER,DR1EXMER - Interviewer ID code,2 to 91,Range of Values,8783
-DR1EXMER,DR1EXMER - Interviewer ID code,.,Missing,1030
-DRABF,DRABF - Breast-fed infant (either day),1,Yes,134
-DRABF,DRABF - Breast-fed infant (either day),2,No,8527
-DRABF,DRABF - Breast-fed infant (either day),.,Missing,1152
-DRDINT,DRDINT - Number of days of intake,1,Day 1 only,1087
-DRDINT,DRDINT - Number of days of intake,2,Day 1 and day 2,7574
-DRDINT,DRDINT - Number of days of intake,.,Missing,1152
-DR1DBIH,DR1DBIH - # of days b/w intake and HH interview,-31 to 74,Range of Values,8706
-DR1DBIH,DR1DBIH - # of days b/w intake and HH interview,.,Missing,1107
-DR1DAY,DR1DAY - Intake day of the week,1,Sunday,1460
-DR1DAY,DR1DAY - Intake day of the week,2,Monday,698
-DR1DAY,DR1DAY - Intake day of the week,3,Tuesday,887
-DR1DAY,DR1DAY - Intake day of the week,4,Wednesday,821
-DR1DAY,DR1DAY - Intake day of the week,5,Thursday,728
-DR1DAY,DR1DAY - Intake day of the week,6,Friday,2228
-DR1DAY,DR1DAY - Intake day of the week,7,Saturday,1961
-DR1DAY,DR1DAY - Intake day of the week,.,Missing,1030
-DR1LANG,DR1LANG - Language respondent used mostly,1,English,7862
-DR1LANG,DR1LANG - Language respondent used mostly,2,Spanish,716
-DR1LANG,DR1LANG - Language respondent used mostly,3,English and Spanish,98
-DR1LANG,DR1LANG - Language respondent used mostly,4,Other,38
-DR1LANG,DR1LANG - Language respondent used mostly,5,Asian Languages,66
-DR1LANG,DR1LANG - Language respondent used mostly,6,Asian Languages and English,17
-DR1LANG,DR1LANG - Language respondent used mostly,.,Missing,1016
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,1,SP,6702
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,2,Mother of SP,1596
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,3,Father of SP,234
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,4,Wife of SP,8
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,5,Husband of SP,1
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,6,Daughter of SP,11
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,7,Son of SP,4
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,8,Grandparent of SP,53
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,9,"Friend, Partner, Non Relative",1
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,10,"Translator, not a HH member",2
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,11,"Child care provider, Caretaker",10
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,12,Other Relative,30
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,14,Other specify,0
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,77,Refused,0
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,99,Don't know,1
-DR1MNRSP,DR1MNRSP - Main respondent for this interview,.,Missing,1160
-DR1HELPD,DR1HELPD - Helped in responding for this interview,1,SP,704
-DR1HELPD,DR1HELPD - Helped in responding for this interview,2,Mother of SP,338
-DR1HELPD,DR1HELPD - Helped in responding for this interview,3,Father of SP,115
-DR1HELPD,DR1HELPD - Helped in responding for this interview,4,Wife of SP,1
-DR1HELPD,DR1HELPD - Helped in responding for this interview,5,Husband of SP,2
-DR1HELPD,DR1HELPD - Helped in responding for this interview,6,Daughter of SP,8
-DR1HELPD,DR1HELPD - Helped in responding for this interview,7,Son of SP,5
-DR1HELPD,DR1HELPD - Helped in responding for this interview,8,Grandparent of SP,17
-DR1HELPD,DR1HELPD - Helped in responding for this interview,9,"Friend, Partner, Non Relative",3
-DR1HELPD,DR1HELPD - Helped in responding for this interview,10,"Translator, not a HH member",53
-DR1HELPD,DR1HELPD - Helped in responding for this interview,11,"Child care provider, Caretaker",6
-DR1HELPD,DR1HELPD - Helped in responding for this interview,12,Other Relative,28
-DR1HELPD,DR1HELPD - Helped in responding for this interview,13,No one,7347
-DR1HELPD,DR1HELPD - Helped in responding for this interview,14,Other specify,0
-DR1HELPD,DR1HELPD - Helped in responding for this interview,77,Refused,0
-DR1HELPD,DR1HELPD - Helped in responding for this interview,99,Don't know,1
-DR1HELPD,DR1HELPD - Helped in responding for this interview,.,Missing,1185
-DBQ095Z,DBQ095Z - Type of table salt used,1,"Ordinary salt [includes regular iodized salt, sea salt and seasoning salts made with regular salt]",4976
-DBQ095Z,DBQ095Z - Type of table salt used,2,Lite salt,321
-DBQ095Z,DBQ095Z - Type of table salt used,3,Salt substitute,102
-DBQ095Z,DBQ095Z - Type of table salt used,4,Doesn't use or add salt products at the table,3258
-DBQ095Z,DBQ095Z - Type of table salt used,91,Other,0
-DBQ095Z,DBQ095Z - Type of table salt used,99,Don't know,126
-DBQ095Z,DBQ095Z - Type of table salt used,.,Missing,1030
-DBD100,DBD100 - How often add salt to food at table,1,Rarely,2871
-DBD100,DBD100 - How often add salt to food at table,2,Occasionally,1579
-DBD100,DBD100 - How often add salt to food at table,3,Very often,941
-DBD100,DBD100 - How often add salt to food at table,7,Refused,0
-DBD100,DBD100 - How often add salt to food at table,9,Don't know,8
-DBD100,DBD100 - How often add salt to food at table,.,Missing,4414
-DRQSPREP,DRQSPREP - Salt used in preparation?,1,Never,557
-DRQSPREP,DRQSPREP - Salt used in preparation?,2,Rarely,1602
-DRQSPREP,DRQSPREP - Salt used in preparation?,3,Occasionally,3078
-DRQSPREP,DRQSPREP - Salt used in preparation?,4,Very Often,3398
-DRQSPREP,DRQSPREP - Salt used in preparation?,9,Don't know,148
-DRQSPREP,DRQSPREP - Salt used in preparation?,.,Missing,1030
-DR1STY,DR1STY - Salt used at table yesterday?,1,Yes,1448
-DR1STY,DR1STY - Salt used at table yesterday?,2,No,7273
-DR1STY,DR1STY - Salt used at table yesterday?,9,Don't know,62
-DR1STY,DR1STY - Salt used at table yesterday?,.,Missing,1030
-DR1SKY,DR1SKY - Type of salt used yesterday,1,"Ordinary, sea, seasoned, or other flavored salt",1320
-DR1SKY,DR1SKY - Type of salt used yesterday,2,Lite salt,83
-DR1SKY,DR1SKY - Type of salt used yesterday,3,Salt substitute,29
-DR1SKY,DR1SKY - Type of salt used yesterday,91,Other,0
-DR1SKY,DR1SKY - Type of salt used yesterday,99,Don't know,16
-DR1SKY,DR1SKY - Type of salt used yesterday,.,Missing,8365
-DRQSDIET,DRQSDIET - On special diet?,1,Yes,1033
-DRQSDIET,DRQSDIET - On special diet?,2,No,7704
-DRQSDIET,DRQSDIET - On special diet?,9,Don't know,46
-DRQSDIET,DRQSDIET - On special diet?,.,Missing,1030
-DRQSDT1,DRQSDT1 - Weight loss/Low calorie diet,1,Weight loss or low calorie diets,523
-DRQSDT1,DRQSDT1 - Weight loss/Low calorie diet,.,Missing,9290
-DRQSDT2,DRQSDT2 - Low fat/Low cholesterol diet,2,Low fat or low cholesterol diet,131
-DRQSDT2,DRQSDT2 - Low fat/Low cholesterol diet,.,Missing,9682
-DRQSDT3,DRQSDT3 - Low salt/Low sodium diet,3,Low salt or low sodium diet (including diet to lower blood pressure or hypertension),121
-DRQSDT3,DRQSDT3 - Low salt/Low sodium diet,.,Missing,9692
-DRQSDT4,DRQSDT4 - Sugar free/Low sugar diet,4,Sugar free or low sugar diet,37
-DRQSDT4,DRQSDT4 - Sugar free/Low sugar diet,.,Missing,9776
-DRQSDT5,DRQSDT5 - Low fiber diet,5,Low fiber or low residue diet,0
-DRQSDT5,DRQSDT5 - Low fiber diet,.,Missing,9813
-DRQSDT6,DRQSDT6 - High fiber diet,6,High fiber or high residue diet,4
-DRQSDT6,DRQSDT6 - High fiber diet,.,Missing,9809
-DRQSDT7,DRQSDT7 - Diabetic diet,7,Diabetic diet (including gestational diabetic diets),146
-DRQSDT7,DRQSDT7 - Diabetic diet,.,Missing,9667
-DRQSDT8,DRQSDT8 - Weight gain/Muscle building diet,8,Weight gain/Muscle building diet,34
-DRQSDT8,DRQSDT8 - Weight gain/Muscle building diet,.,Missing,9779
-DRQSDT9,DRQSDT9 - Low carbohydrate diet,9,Low carbohydrate diet,67
-DRQSDT9,DRQSDT9 - Low carbohydrate diet,.,Missing,9746
-DRQSDT10,DRQSDT10 - High protein diet,10,High protein diet,22
-DRQSDT10,DRQSDT10 - High protein diet,.,Missing,9791
-DRQSDT11,DRQSDT11 - Gluten-free/Celiac diet,11,Gluten-free/Celiac diet,31
-DRQSDT11,DRQSDT11 - Gluten-free/Celiac diet,.,Missing,9782
-DRQSDT12,DRQSDT12 - Renal/Kidney diet,12,Renal/Kidney diet,8
-DRQSDT12,DRQSDT12 - Renal/Kidney diet,.,Missing,9805
-DRQSDT91,DRQSDT91 - Other special diet,91,Other special diet,75
-DRQSDT91,DRQSDT91 - Other special diet,.,Missing,9738
-DR1TNUMF,DR1TNUMF - Number of foods/beverages reported,1 to 49,Range of Values,8661
-DR1TNUMF,DR1TNUMF - Number of foods/beverages reported,.,Missing,1152
-DR1TKCAL,DR1TKCAL - Energy (kcal),117 to 12108,Range of Values,8531
-DR1TKCAL,DR1TKCAL - Energy (kcal),.,Missing,1282
-DR1TPROT,DR1TPROT - Protein (gm),0 to 869.49,Range of Values,8531
-DR1TPROT,DR1TPROT - Protein (gm),.,Missing,1282
-DR1TCARB,DR1TCARB - Carbohydrate (gm),8.67 to 1423.87,Range of Values,8531
-DR1TCARB,DR1TCARB - Carbohydrate (gm),.,Missing,1282
-DR1TSUGR,DR1TSUGR - Total sugars (gm),0.13 to 1115.5,Range of Values,8531
-DR1TSUGR,DR1TSUGR - Total sugars (gm),.,Missing,1282
-DR1TFIBE,DR1TFIBE - Dietary fiber (gm),0 to 136.3,Range of Values,8531
-DR1TFIBE,DR1TFIBE - Dietary fiber (gm),.,Missing,1282
-DR1TTFAT,DR1TTFAT - Total fat (gm),0 to 548.38,Range of Values,8531
-DR1TTFAT,DR1TTFAT - Total fat (gm),.,Missing,1282
-DR1TSFAT,DR1TSFAT - Total saturated fatty acids (gm),0 to 177.467,Range of Values,8531
-DR1TSFAT,DR1TSFAT - Total saturated fatty acids (gm),.,Missing,1282
-DR1TMFAT,DR1TMFAT - Total monounsaturated fatty acids (gm),0 to 221.673,Range of Values,8531
-DR1TMFAT,DR1TMFAT - Total monounsaturated fatty acids (gm),.,Missing,1282
-DR1TPFAT,DR1TPFAT - Total polyunsaturated fatty acids (gm),0 to 182.462,Range of Values,8531
-DR1TPFAT,DR1TPFAT - Total polyunsaturated fatty acids (gm),.,Missing,1282
-DR1TCHOL,DR1TCHOL - Cholesterol (mg),0 to 3515,Range of Values,8531
-DR1TCHOL,DR1TCHOL - Cholesterol (mg),.,Missing,1282
-DR1TATOC,DR1TATOC - Vitamin E as alpha-tocopherol (mg),0 to 172.32,Range of Values,8531
-DR1TATOC,DR1TATOC - Vitamin E as alpha-tocopherol (mg),.,Missing,1282
-DR1TATOA,DR1TATOA - Added alpha-tocopherol (Vitamin E) (mg),0 to 99.87,Range of Values,8531
-DR1TATOA,DR1TATOA - Added alpha-tocopherol (Vitamin E) (mg),.,Missing,1282
-DR1TRET,DR1TRET - Retinol (mcg),0 to 10565,Range of Values,8531
-DR1TRET,DR1TRET - Retinol (mcg),.,Missing,1282
-DR1TVARA,"DR1TVARA - Vitamin A, RAE (mcg)",0 to 10597,Range of Values,8531
-DR1TVARA,"DR1TVARA - Vitamin A, RAE (mcg)",.,Missing,1282
-DR1TACAR,DR1TACAR - Alpha-carotene (mcg),0 to 35057,Range of Values,8531
-DR1TACAR,DR1TACAR - Alpha-carotene (mcg),.,Missing,1282
-DR1TBCAR,DR1TBCAR - Beta-carotene (mcg),0 to 78752,Range of Values,8531
-DR1TBCAR,DR1TBCAR - Beta-carotene (mcg),.,Missing,1282
-DR1TCRYP,DR1TCRYP - Beta-cryptoxanthin (mcg),0 to 24328,Range of Values,8531
-DR1TCRYP,DR1TCRYP - Beta-cryptoxanthin (mcg),.,Missing,1282
-DR1TLYCO,DR1TLYCO - Lycopene (mcg),0 to 103913,Range of Values,8531
-DR1TLYCO,DR1TLYCO - Lycopene (mcg),.,Missing,1282
-DR1TLZ,DR1TLZ - Lutein + zeaxanthin (mcg),0 to 102638,Range of Values,8531
-DR1TLZ,DR1TLZ - Lutein + zeaxanthin (mcg),.,Missing,1282
-DR1TVB1,DR1TVB1 - Thiamin (Vitamin B1) (mg),0.007 to 10.652,Range of Values,8531
-DR1TVB1,DR1TVB1 - Thiamin (Vitamin B1) (mg),.,Missing,1282
-DR1TVB2,DR1TVB2 - Riboflavin (Vitamin B2) (mg),0 to 29.455,Range of Values,8531
-DR1TVB2,DR1TVB2 - Riboflavin (Vitamin B2) (mg),.,Missing,1282
-DR1TNIAC,DR1TNIAC - Niacin (mg),0.215 to 379.852,Range of Values,8531
-DR1TNIAC,DR1TNIAC - Niacin (mg),.,Missing,1282
-DR1TVB6,DR1TVB6 - Vitamin B6 (mg),0.016 to 48.321,Range of Values,8531
-DR1TVB6,DR1TVB6 - Vitamin B6 (mg),.,Missing,1282
-DR1TFOLA,DR1TFOLA - Total folate (mcg),0 to 3172,Range of Values,8531
-DR1TFOLA,DR1TFOLA - Total folate (mcg),.,Missing,1282
-DR1TFA,DR1TFA - Folic acid (mcg),0 to 2828,Range of Values,8531
-DR1TFA,DR1TFA - Folic acid (mcg),.,Missing,1282
-DR1TFF,DR1TFF - Food folate (mcg),0 to 2357,Range of Values,8531
-DR1TFF,DR1TFF - Food folate (mcg),.,Missing,1282
-DR1TFDFE,"DR1TFDFE - Folate, DFE (mcg)",0 to 5151,Range of Values,8531
-DR1TFDFE,"DR1TFDFE - Folate, DFE (mcg)",.,Missing,1282
-DR1TCHL,DR1TCHL - Total choline (mg) ,0 to 2909.1,Range of Values,8531
-DR1TCHL,DR1TCHL - Total choline (mg) ,.,Missing,1282
-DR1TVB12,DR1TVB12 - Vitamin B12 (mcg),0 to 110.39,Range of Values,8531
-DR1TVB12,DR1TVB12 - Vitamin B12 (mcg),.,Missing,1282
-DR1TB12A,DR1TB12A - Added vitamin B12 (mcg),0 to 89.23,Range of Values,8531
-DR1TB12A,DR1TB12A - Added vitamin B12 (mcg),.,Missing,1282
-DR1TVC,DR1TVC - Vitamin C (mg),0 to 2008,Range of Values,8531
-DR1TVC,DR1TVC - Vitamin C (mg),.,Missing,1282
-DR1TVD,DR1TVD - Vitamin D (D2 + D3) (mcg),0 to 86.3,Range of Values,8531
-DR1TVD,DR1TVD - Vitamin D (D2 + D3) (mcg),.,Missing,1282
-DR1TVK,DR1TVK - Vitamin K (mcg),0 to 4080.5,Range of Values,8531
-DR1TVK,DR1TVK - Vitamin K (mcg),.,Missing,1282
-DR1TCALC,DR1TCALC - Calcium (mg),6 to 7337,Range of Values,8531
-DR1TCALC,DR1TCALC - Calcium (mg),.,Missing,1282
-DR1TPHOS,DR1TPHOS - Phosphorus (mg),0 to 11529,Range of Values,8531
-DR1TPHOS,DR1TPHOS - Phosphorus (mg),.,Missing,1282
-DR1TMAGN,DR1TMAGN - Magnesium (mg),0 to 2725,Range of Values,8531
-DR1TMAGN,DR1TMAGN - Magnesium (mg),.,Missing,1282
-DR1TIRON,DR1TIRON - Iron (mg),0.13 to 130.76,Range of Values,8531
-DR1TIRON,DR1TIRON - Iron (mg),.,Missing,1282
-DR1TZINC,DR1TZINC - Zinc (mg),0.16 to 116.05,Range of Values,8531
-DR1TZINC,DR1TZINC - Zinc (mg),.,Missing,1282
-DR1TCOPP,DR1TCOPP - Copper (mg),0.022 to 20.318,Range of Values,8531
-DR1TCOPP,DR1TCOPP - Copper (mg),.,Missing,1282
-DR1TSODI,DR1TSODI - Sodium (mg),17 to 21399,Range of Values,8531
-DR1TSODI,DR1TSODI - Sodium (mg),.,Missing,1282
-DR1TPOTA,DR1TPOTA - Potassium (mg),68 to 15876,Range of Values,8531
-DR1TPOTA,DR1TPOTA - Potassium (mg),.,Missing,1282
-DR1TSELE,DR1TSELE - Selenium (mcg),0 to 986.5,Range of Values,8531
-DR1TSELE,DR1TSELE - Selenium (mcg),.,Missing,1282
-DR1TCAFF,DR1TCAFF - Caffeine (mg),0 to 2448,Range of Values,8531
-DR1TCAFF,DR1TCAFF - Caffeine (mg),.,Missing,1282
-DR1TTHEO,DR1TTHEO - Theobromine (mg),0 to 2038,Range of Values,8531
-DR1TTHEO,DR1TTHEO - Theobromine (mg),.,Missing,1282
-DR1TALCO,DR1TALCO - Alcohol (gm),0 to 591.4,Range of Values,8531
-DR1TALCO,DR1TALCO - Alcohol (gm),.,Missing,1282
-DR1TMOIS,DR1TMOIS - Moisture (gm),135.95 to 17350.04,Range of Values,8531
-DR1TMOIS,DR1TMOIS - Moisture (gm),.,Missing,1282
-DR1TS040,DR1TS040 - SFA 4:0 (Butanoic) (gm),0 to 5.377,Range of Values,8531
-DR1TS040,DR1TS040 - SFA 4:0 (Butanoic) (gm),.,Missing,1282
-DR1TS060,DR1TS060 - SFA 6:0 (Hexanoic) (gm),0 to 3.014,Range of Values,8531
-DR1TS060,DR1TS060 - SFA 6:0 (Hexanoic) (gm),.,Missing,1282
-DR1TS080,DR1TS080 - SFA 8:0 (Octanoic) (gm),0 to 14.886,Range of Values,8531
-DR1TS080,DR1TS080 - SFA 8:0 (Octanoic) (gm),.,Missing,1282
-DR1TS100,DR1TS100 - SFA 10:0 (Decanoic) (gm),0 to 10.475,Range of Values,8531
-DR1TS100,DR1TS100 - SFA 10:0 (Decanoic) (gm),.,Missing,1282
-DR1TS120,DR1TS120 - SFA 12:0 (Dodecanoic) (gm),0 to 26.403,Range of Values,8531
-DR1TS120,DR1TS120 - SFA 12:0 (Dodecanoic) (gm),.,Missing,1282
-DR1TS140,DR1TS140 - SFA 14:0 (Tetradecanoic) (gm),0 to 18.757,Range of Values,8531
-DR1TS140,DR1TS140 - SFA 14:0 (Tetradecanoic) (gm),.,Missing,1282
-DR1TS160,DR1TS160 - SFA 16:0 (Hexadecanoic) (gm),0 to 91.727,Range of Values,8531
-DR1TS160,DR1TS160 - SFA 16:0 (Hexadecanoic) (gm),.,Missing,1282
-DR1TS180,DR1TS180 - SFA 18:0 (Octadecanoic) (gm),0 to 42.57,Range of Values,8531
-DR1TS180,DR1TS180 - SFA 18:0 (Octadecanoic) (gm),.,Missing,1282
-DR1TM161,DR1TM161 - MFA 16:1 (Hexadecenoic) (gm),0 to 13.915,Range of Values,8531
-DR1TM161,DR1TM161 - MFA 16:1 (Hexadecenoic) (gm),.,Missing,1282
-DR1TM181,DR1TM181 - MFA 18:1 (Octadecenoic) (gm),0 to 204.75,Range of Values,8531
-DR1TM181,DR1TM181 - MFA 18:1 (Octadecenoic) (gm),.,Missing,1282
-DR1TM201,DR1TM201 - MFA 20:1 (Eicosenoic) (gm),0 to 5.764,Range of Values,8531
-DR1TM201,DR1TM201 - MFA 20:1 (Eicosenoic) (gm),.,Missing,1282
-DR1TM221,DR1TM221 - MFA 22:1 (Docosenoic) (gm),0 to 3.618,Range of Values,8531
-DR1TM221,DR1TM221 - MFA 22:1 (Docosenoic) (gm),.,Missing,1282
-DR1TP182,DR1TP182 - PFA 18:2 (Octadecadienoic) (gm),0 to 170.285,Range of Values,8531
-DR1TP182,DR1TP182 - PFA 18:2 (Octadecadienoic) (gm),.,Missing,1282
-DR1TP183,DR1TP183 - PFA 18:3 (Octadecatrienoic) (gm),0 to 16.593,Range of Values,8531
-DR1TP183,DR1TP183 - PFA 18:3 (Octadecatrienoic) (gm),.,Missing,1282
-DR1TP184,DR1TP184 - PFA 18:4 (Octadecatetraenoic) (gm),0 to 0.635,Range of Values,8531
-DR1TP184,DR1TP184 - PFA 18:4 (Octadecatetraenoic) (gm),.,Missing,1282
-DR1TP204,DR1TP204 - PFA 20:4 (Eicosatetraenoic) (gm),0 to 2.461,Range of Values,8531
-DR1TP204,DR1TP204 - PFA 20:4 (Eicosatetraenoic) (gm),.,Missing,1282
-DR1TP205,DR1TP205 - PFA 20:5 (Eicosapentaenoic) (gm),0 to 2.687,Range of Values,8531
-DR1TP205,DR1TP205 - PFA 20:5 (Eicosapentaenoic) (gm),.,Missing,1282
-DR1TP225,DR1TP225 - PFA 22:5 (Docosapentaenoic) (gm),0 to 1.073,Range of Values,8531
-DR1TP225,DR1TP225 - PFA 22:5 (Docosapentaenoic) (gm),.,Missing,1282
-DR1TP226,DR1TP226 - PFA 22:6 (Docosahexaenoic) (gm),0 to 4.337,Range of Values,8531
-DR1TP226,DR1TP226 - PFA 22:6 (Docosahexaenoic) (gm),.,Missing,1282
-DR1_300,DR1_300 - Compare food consumed yesterday to usual,1,Much more than usual,830
-DR1_300,DR1_300 - Compare food consumed yesterday to usual,2,Usual,6210
-DR1_300,DR1_300 - Compare food consumed yesterday to usual,3,Much less than usual,1673
-DR1_300,DR1_300 - Compare food consumed yesterday to usual,7,Refused,0
-DR1_300,DR1_300 - Compare food consumed yesterday to usual,9,Don't know,70
-DR1_300,DR1_300 - Compare food consumed yesterday to usual,.,Missing,1030
-DR1_320Z,DR1_320Z - Total plain water drank yesterday (gm),0 to 13440,Range of Values,8661
-DR1_320Z,DR1_320Z - Total plain water drank yesterday (gm),.,Missing,1152
-DR1_330Z,DR1_330Z - Total tap water drank yesterday (gm),0 to 13440,Range of Values,8661
-DR1_330Z,DR1_330Z - Total tap water drank yesterday (gm),.,Missing,1152
-DR1BWATZ,DR1BWATZ - Total bottled water drank yesterday (gm),0 to 11310,Range of Values,8661
-DR1BWATZ,DR1BWATZ - Total bottled water drank yesterday (gm),.,Missing,1152
-DR1TWS,DR1TWS - Tap water source,1,Community supply,6033
-DR1TWS,DR1TWS - Tap water source,2,Well or rain cistern,570
-DR1TWS,DR1TWS - Tap water source,3,Spring,124
-DR1TWS,DR1TWS - Tap water source,4,Don't drink tap water,1648
-DR1TWS,DR1TWS - Tap water source,91,Other,0
-DR1TWS,DR1TWS - Tap water source,99,Don't know,408
-DR1TWS,DR1TWS - Tap water source,.,Missing,1030
-DRD340,DRD340 - Shellfish eaten during past 30 days,1,Yes,3761
-DRD340,DRD340 - Shellfish eaten during past 30 days,2,No,4585
-DRD340,DRD340 - Shellfish eaten during past 30 days,7,Refused,19
-DRD340,DRD340 - Shellfish eaten during past 30 days,9,Don't know,47
-DRD340,DRD340 - Shellfish eaten during past 30 days,.,Missing,1401
-DRD350A,DRD350A - Clams eaten during past 30 days,1,Yes,428
-DRD350A,DRD350A - Clams eaten during past 30 days,2,No,3333
-DRD350A,DRD350A - Clams eaten during past 30 days,.,Missing,6052
-DRD350AQ,DRD350AQ - # of times clams eaten in past 30 days,1 to 12,Range of Values,428
-DRD350AQ,DRD350AQ - # of times clams eaten in past 30 days,.,Missing,9385
-DRD350B,DRD350B - Crabs eaten during past 30 days,1,Yes,785
-DRD350B,DRD350B - Crabs eaten during past 30 days,2,No,2976
-DRD350B,DRD350B - Crabs eaten during past 30 days,.,Missing,6052
-DRD350BQ,DRD350BQ - # of times crabs eaten in past 30 days,1 to 12,Range of Values,785
-DRD350BQ,DRD350BQ - # of times crabs eaten in past 30 days,.,Missing,9028
-DRD350C,DRD350C - Crayfish eaten during past 30 days,1,Yes,199
-DRD350C,DRD350C - Crayfish eaten during past 30 days,2,No,3562
-DRD350C,DRD350C - Crayfish eaten during past 30 days,.,Missing,6052
-DRD350CQ,DRD350CQ - # of times crayfish eaten past 30 days,1 to 16,Range of Values,199
-DRD350CQ,DRD350CQ - # of times crayfish eaten past 30 days,.,Missing,9614
-DRD350D,DRD350D - Lobsters eaten during past 30 days,1,Yes,412
-DRD350D,DRD350D - Lobsters eaten during past 30 days,2,No,3349
-DRD350D,DRD350D - Lobsters eaten during past 30 days,.,Missing,6052
-DRD350DQ,DRD350DQ - # of times lobsters eaten past 30 days,1 to 10,Range of Values,412
-DRD350DQ,DRD350DQ - # of times lobsters eaten past 30 days,.,Missing,9401
-DRD350E,DRD350E - Mussels eaten during past 30 days,1,Yes,255
-DRD350E,DRD350E - Mussels eaten during past 30 days,2,No,3506
-DRD350E,DRD350E - Mussels eaten during past 30 days,.,Missing,6052
-DRD350EQ,DRD350EQ - # of times mussels eaten in past 30 days,1 to 6,Range of Values,255
-DRD350EQ,DRD350EQ - # of times mussels eaten in past 30 days,.,Missing,9558
-DRD350F,DRD350F - Oysters eaten during past 30 days,1,Yes,288
-DRD350F,DRD350F - Oysters eaten during past 30 days,2,No,3473
-DRD350F,DRD350F - Oysters eaten during past 30 days,.,Missing,6052
-DRD350FQ,DRD350FQ - # of times oysters eaten in past 30 days,1 to 20,Range of Values,288
-DRD350FQ,DRD350FQ - # of times oysters eaten in past 30 days,.,Missing,9525
-DRD350G,DRD350G - Scallops eaten during past 30 days,1,Yes,353
-DRD350G,DRD350G - Scallops eaten during past 30 days,2,No,3408
-DRD350G,DRD350G - Scallops eaten during past 30 days,.,Missing,6052
-DRD350GQ,DRD350GQ - # of times scallops eaten past 30 days,1 to 12,Range of Values,353
-DRD350GQ,DRD350GQ - # of times scallops eaten past 30 days,.,Missing,9460
-DRD350H,DRD350H - Shrimp eaten during past 30 days,1,Yes,3254
-DRD350H,DRD350H - Shrimp eaten during past 30 days,2,No,507
-DRD350H,DRD350H - Shrimp eaten during past 30 days,.,Missing,6052
-DRD350HQ,DRD350HQ - # of times shrimp eaten in past 30 days,1 to 30,Range of Values,3254
-DRD350HQ,DRD350HQ - # of times shrimp eaten in past 30 days,.,Missing,6559
-DRD350I,DRD350I - Other shellfish eaten past 30 days,1,Yes,220
-DRD350I,DRD350I - Other shellfish eaten past 30 days,2,No,3541
-DRD350I,DRD350I - Other shellfish eaten past 30 days,.,Missing,6052
-DRD350IQ,DRD350IQ - # of times other shellfish eaten,1 to 10,Range of Values,220
-DRD350IQ,DRD350IQ - # of times other shellfish eaten,.,Missing,9593
-DRD350J,DRD350J - Other unknown shellfish eaten past 30 d,1,Yes,16
-DRD350J,DRD350J - Other unknown shellfish eaten past 30 d,2,No,3745
-DRD350J,DRD350J - Other unknown shellfish eaten past 30 d,.,Missing,6052
-DRD350JQ,DRD350JQ - # of times other unknown shellfish eaten,1 to 4,Range of Values,16
-DRD350JQ,DRD350JQ - # of times other unknown shellfish eaten,.,Missing,9797
-DRD350K,DRD350K - Refused on shellfish eaten past 30 days,1,Yes,0
-DRD350K,DRD350K - Refused on shellfish eaten past 30 days,2,No,3760
-DRD350K,DRD350K - Refused on shellfish eaten past 30 days,.,Missing,6053
-DRD360,DRD360 - Fish eaten during past 30 days,1,Yes,5121
-DRD360,DRD360 - Fish eaten during past 30 days,2,No,3216
-DRD360,DRD360 - Fish eaten during past 30 days,7,Refused,16
-DRD360,DRD360 - Fish eaten during past 30 days,9,Don't know,58
-DRD360,DRD360 - Fish eaten during past 30 days,.,Missing,1402
-DRD370A,DRD370A - Breaded fish products eaten past 30 days,1,Yes,646
-DRD370A,DRD370A - Breaded fish products eaten past 30 days,2,No,4475
-DRD370A,DRD370A - Breaded fish products eaten past 30 days,.,Missing,4692
-DRD370AQ,DRD370AQ - # of times breaded fish products eaten,1 to 15,Range of Values,646
-DRD370AQ,DRD370AQ - # of times breaded fish products eaten,.,Missing,9167
-DRD370B,DRD370B - Tuna eaten during past 30 days,1,Yes,1890
-DRD370B,DRD370B - Tuna eaten during past 30 days,2,No,3231
-DRD370B,DRD370B - Tuna eaten during past 30 days,.,Missing,4692
-DRD370BQ,DRD370BQ - # of times tuna eaten in past 30 days,1 to 25,Range of Values,1890
-DRD370BQ,DRD370BQ - # of times tuna eaten in past 30 days,.,Missing,7923
-DRD370C,DRD370C - Bass eaten during past 30 days,1,Yes,118
-DRD370C,DRD370C - Bass eaten during past 30 days,2,No,5003
-DRD370C,DRD370C - Bass eaten during past 30 days,.,Missing,4692
-DRD370CQ,DRD370CQ - # of times bass eaten in past 30 days,1 to 14,Range of Values,118
-DRD370CQ,DRD370CQ - # of times bass eaten in past 30 days,.,Missing,9695
-DRD370D,DRD370D - Catfish eaten during past 30 days,1,Yes,827
-DRD370D,DRD370D - Catfish eaten during past 30 days,2,No,4294
-DRD370D,DRD370D - Catfish eaten during past 30 days,.,Missing,4692
-DRD370DQ,DRD370DQ - # of times catfish eaten in past 30 days,1 to 15,Range of Values,827
-DRD370DQ,DRD370DQ - # of times catfish eaten in past 30 days,.,Missing,8986
-DRD370E,DRD370E - Cod eaten during past 30 days,1,Yes,559
-DRD370E,DRD370E - Cod eaten during past 30 days,2,No,4562
-DRD370E,DRD370E - Cod eaten during past 30 days,.,Missing,4692
-DRD370EQ,DRD370EQ - # of times cod eaten in past 30 days,1 to 15,Range of Values,559
-DRD370EQ,DRD370EQ - # of times cod eaten in past 30 days,.,Missing,9254
-DRD370F,DRD370F - Flatfish eaten during past 30 days,1,Yes,257
-DRD370F,DRD370F - Flatfish eaten during past 30 days,2,No,4864
-DRD370F,DRD370F - Flatfish eaten during past 30 days,.,Missing,4692
-DRD370FQ,DRD370FQ - # of times flatfish eaten past 30 days,1 to 21,Range of Values,257
-DRD370FQ,DRD370FQ - # of times flatfish eaten past 30 days,.,Missing,9556
-DRD370G,DRD370G - Haddock eaten during past 30 days,1,Yes,192
-DRD370G,DRD370G - Haddock eaten during past 30 days,2,No,4929
-DRD370G,DRD370G - Haddock eaten during past 30 days,.,Missing,4692
-DRD370GQ,DRD370GQ - # of times haddock eaten in past 30 days,1 to 12,Range of Values,192
-DRD370GQ,DRD370GQ - # of times haddock eaten in past 30 days,.,Missing,9621
-DRD370H,DRD370H - Mackerel eaten during past 30 days,1,Yes,96
-DRD370H,DRD370H - Mackerel eaten during past 30 days,2,No,5025
-DRD370H,DRD370H - Mackerel eaten during past 30 days,.,Missing,4692
-DRD370HQ,DRD370HQ - # of times mackerel eaten past 30 days,1 to 14,Range of Values,96
-DRD370HQ,DRD370HQ - # of times mackerel eaten past 30 days,.,Missing,9717
-DRD370I,DRD370I - Perch eaten during past 30 days,1,Yes,108
-DRD370I,DRD370I - Perch eaten during past 30 days,2,No,5013
-DRD370I,DRD370I - Perch eaten during past 30 days,.,Missing,4692
-DRD370IQ,DRD370IQ - # of times perch eaten in past 30 days,1 to 5,Range of Values,108
-DRD370IQ,DRD370IQ - # of times perch eaten in past 30 days,.,Missing,9705
-DRD370J,DRD370J - Pike eaten during past 30 days,1,Yes,12
-DRD370J,DRD370J - Pike eaten during past 30 days,2,No,5109
-DRD370J,DRD370J - Pike eaten during past 30 days,.,Missing,4692
-DRD370JQ,DRD370JQ - # of times pike eaten in past 30 days,1 to 3,Range of Values,12
-DRD370JQ,DRD370JQ - # of times pike eaten in past 30 days,.,Missing,9801
-DRD370K,DRD370K - Pollock eaten during past 30 days,1,Yes,147
-DRD370K,DRD370K - Pollock eaten during past 30 days,2,No,4974
-DRD370K,DRD370K - Pollock eaten during past 30 days,.,Missing,4692
-DRD370KQ,DRD370KQ - # of times pollock eaten in past 30 days,1 to 16,Range of Values,147
-DRD370KQ,DRD370KQ - # of times pollock eaten in past 30 days,.,Missing,9666
-DRD370L,DRD370L - Porgy eaten during past 30 days,1,Yes,35
-DRD370L,DRD370L - Porgy eaten during past 30 days,2,No,5086
-DRD370L,DRD370L - Porgy eaten during past 30 days,.,Missing,4692
-DRD370LQ,DRD370LQ - # of times porgy eaten in past 30 days,1 to 7,Range of Values,35
-DRD370LQ,DRD370LQ - # of times porgy eaten in past 30 days,.,Missing,9778
-DRD370M,DRD370M - Salmon eaten during past 30 days,1,Yes,1774
-DRD370M,DRD370M - Salmon eaten during past 30 days,2,No,3347
-DRD370M,DRD370M - Salmon eaten during past 30 days,.,Missing,4692
-DRD370MQ,DRD370MQ - # of times salmon eaten in past 30 days,1 to 28,Range of Values,1774
-DRD370MQ,DRD370MQ - # of times salmon eaten in past 30 days,.,Missing,8039
-DRD370N,DRD370N - Sardines eaten during past 30 days,1,Yes,215
-DRD370N,DRD370N - Sardines eaten during past 30 days,2,No,4906
-DRD370N,DRD370N - Sardines eaten during past 30 days,.,Missing,4692
-DRD370NQ,DRD370NQ - # of times sardines eaten past 30 days,1 to 25,Range of Values,215
-DRD370NQ,DRD370NQ - # of times sardines eaten past 30 days,.,Missing,9598
-DRD370O,DRD370O - Sea bass eaten during past 30 days,1,Yes,87
-DRD370O,DRD370O - Sea bass eaten during past 30 days,2,No,5034
-DRD370O,DRD370O - Sea bass eaten during past 30 days,.,Missing,4692
-DRD370OQ,DRD370OQ - # of times sea bass eaten past 30 days,1 to 8,Range of Values,87
-DRD370OQ,DRD370OQ - # of times sea bass eaten past 30 days,.,Missing,9726
-DRD370P,DRD370P - Shark eaten during past 30 days,1,Yes,10
-DRD370P,DRD370P - Shark eaten during past 30 days,2,No,5111
-DRD370P,DRD370P - Shark eaten during past 30 days,.,Missing,4692
-DRD370PQ,DRD370PQ - # of times shark eaten in past 30 days,1 to 3,Range of Values,10
-DRD370PQ,DRD370PQ - # of times shark eaten in past 30 days,.,Missing,9803
-DRD370Q,DRD370Q - Swordfish eaten during past 30 days,1,Yes,61
-DRD370Q,DRD370Q - Swordfish eaten during past 30 days,2,No,5060
-DRD370Q,DRD370Q - Swordfish eaten during past 30 days,.,Missing,4692
-DRD370QQ,DRD370QQ - # of times swordfish eaten past 30 days,1 to 10,Range of Values,61
-DRD370QQ,DRD370QQ - # of times swordfish eaten past 30 days,.,Missing,9752
-DRD370R,DRD370R - Trout eaten during past 30 days,1,Yes,171
-DRD370R,DRD370R - Trout eaten during past 30 days,2,No,4950
-DRD370R,DRD370R - Trout eaten during past 30 days,.,Missing,4692
-DRD370RQ,DRD370RQ - # of times trout eaten in past 30 days,1 to 8,Range of Values,171
-DRD370RQ,DRD370RQ - # of times trout eaten in past 30 days,.,Missing,9642
-DRD370S,DRD370S - Walleye eaten during past 30 days,1,Yes,27
-DRD370S,DRD370S - Walleye eaten during past 30 days,2,No,5094
-DRD370S,DRD370S - Walleye eaten during past 30 days,.,Missing,4692
-DRD370SQ,DRD370SQ - # of times walleye eaten in past 30 days,1 to 10,Range of Values,27
-DRD370SQ,DRD370SQ - # of times walleye eaten in past 30 days,.,Missing,9786
-DRD370T,DRD370T - Other fish eaten during past 30 days,1,Yes,1318
-DRD370T,DRD370T - Other fish eaten during past 30 days,2,No,3803
-DRD370T,DRD370T - Other fish eaten during past 30 days,.,Missing,4692
-DRD370TQ,DRD370TQ - # of times other fish eaten past 30 days,1 to 30,Range of Values,1318
-DRD370TQ,DRD370TQ - # of times other fish eaten past 30 days,.,Missing,8495
-DRD370U,DRD370U - Other unknown fish eaten in past 30 days,1,Yes,317
-DRD370U,DRD370U - Other unknown fish eaten in past 30 days,2,No,4804
-DRD370U,DRD370U - Other unknown fish eaten in past 30 days,.,Missing,4692
-DRD370UQ,DRD370UQ - # of times other unknown fish eaten,1 to 30,Range of Values,317
-DRD370UQ,DRD370UQ - # of times other unknown fish eaten,.,Missing,9496
-DRD370V,DRD370V - Refused on fish eaten past 30 days,1,Yes,0
-DRD370V,DRD370V - Refused on fish eaten past 30 days,2,No,5120
-DRD370V,DRD370V - Refused on fish eaten past 30 days,.,Missing,4693
+short_title,title,code or value,description,count,Lookup,Column
+WTDRD1,WTDRD1 - Dietary day one sample weight,2493.021655 to 267526.89097,Range of Values,8661,WTDRD1_2493.021655 to 267526.89097,WTDRD1_Range of Values
+WTDRD1,WTDRD1 - Dietary day one sample weight,0,Day 1 dietary recall not done/incomplete,1152,WTDRD1_0,WTDRD1_Day 1 dietary recall not done/incomplete
+WTDRD1,WTDRD1 - Dietary day one sample weight,.,Missing,0,WTDRD1_.,WTDRD1_Missing
+WTDR2D,WTDR2D - Dietary two-day sample weight,1953.802108 to 818626.65723,Range of Values,7574,WTDR2D_1953.802108 to 818626.65723,WTDR2D_Range of Values
+WTDR2D,WTDR2D - Dietary two-day sample weight,0,Day 2 dietary recall not done/incomplete,1087,WTDR2D_0,WTDR2D_Day 2 dietary recall not done/incomplete
+WTDR2D,WTDR2D - Dietary two-day sample weight,.,Missing,1152,WTDR2D_.,WTDR2D_Missing
+DR1DRSTZ,DR1DRSTZ - Dietary recall status,1,Reliable and met the minimum criteria,8531,DR1DRSTZ_1,DR1DRSTZ_Reliable and met the minimum criteria
+DR1DRSTZ,DR1DRSTZ - Dietary recall status,2,Not reliable or not met the minimum criteria,122,DR1DRSTZ_2,DR1DRSTZ_Not reliable or not met the minimum criteria
+DR1DRSTZ,DR1DRSTZ - Dietary recall status,4,Reported consuming breast-milk,130,DR1DRSTZ_4,DR1DRSTZ_Reported consuming breast-milk
+DR1DRSTZ,DR1DRSTZ - Dietary recall status,5,Not done,1030,DR1DRSTZ_5,DR1DRSTZ_Not done
+DR1DRSTZ,DR1DRSTZ - Dietary recall status,.,Missing,0,DR1DRSTZ_.,DR1DRSTZ_Missing
+DR1EXMER,DR1EXMER - Interviewer ID code,2 to 91,Range of Values,8783,DR1EXMER_2 to 91,DR1EXMER_Range of Values
+DR1EXMER,DR1EXMER - Interviewer ID code,.,Missing,1030,DR1EXMER_.,DR1EXMER_Missing
+DRABF,DRABF - Breast-fed infant (either day),1,Yes,134,DRABF_1,DRABF_Yes
+DRABF,DRABF - Breast-fed infant (either day),2,No,8527,DRABF_2,DRABF_No
+DRABF,DRABF - Breast-fed infant (either day),.,Missing,1152,DRABF_.,DRABF_Missing
+DRDINT,DRDINT - Number of days of intake,1,Day 1 only,1087,DRDINT_1,DRDINT_Day 1 only
+DRDINT,DRDINT - Number of days of intake,2,Day 1 and day 2,7574,DRDINT_2,DRDINT_Day 1 and day 2
+DRDINT,DRDINT - Number of days of intake,.,Missing,1152,DRDINT_.,DRDINT_Missing
+DR1DBIH,DR1DBIH - # of days b/w intake and HH interview,-31 to 74,Range of Values,8706,DR1DBIH_-31 to 74,DR1DBIH_Range of Values
+DR1DBIH,DR1DBIH - # of days b/w intake and HH interview,.,Missing,1107,DR1DBIH_.,DR1DBIH_Missing
+DR1DAY,DR1DAY - Intake day of the week,1,Sunday,1460,DR1DAY_1,DR1DAY_Sunday
+DR1DAY,DR1DAY - Intake day of the week,2,Monday,698,DR1DAY_2,DR1DAY_Monday
+DR1DAY,DR1DAY - Intake day of the week,3,Tuesday,887,DR1DAY_3,DR1DAY_Tuesday
+DR1DAY,DR1DAY - Intake day of the week,4,Wednesday,821,DR1DAY_4,DR1DAY_Wednesday
+DR1DAY,DR1DAY - Intake day of the week,5,Thursday,728,DR1DAY_5,DR1DAY_Thursday
+DR1DAY,DR1DAY - Intake day of the week,6,Friday,2228,DR1DAY_6,DR1DAY_Friday
+DR1DAY,DR1DAY - Intake day of the week,7,Saturday,1961,DR1DAY_7,DR1DAY_Saturday
+DR1DAY,DR1DAY - Intake day of the week,.,Missing,1030,DR1DAY_.,DR1DAY_Missing
+DR1LANG,DR1LANG - Language respondent used mostly,1,English,7862,DR1LANG_1,DR1LANG_English
+DR1LANG,DR1LANG - Language respondent used mostly,2,Spanish,716,DR1LANG_2,DR1LANG_Spanish
+DR1LANG,DR1LANG - Language respondent used mostly,3,English and Spanish,98,DR1LANG_3,DR1LANG_English and Spanish
+DR1LANG,DR1LANG - Language respondent used mostly,4,Other,38,DR1LANG_4,DR1LANG_Other
+DR1LANG,DR1LANG - Language respondent used mostly,5,Asian Languages,66,DR1LANG_5,DR1LANG_Asian Languages
+DR1LANG,DR1LANG - Language respondent used mostly,6,Asian Languages and English,17,DR1LANG_6,DR1LANG_Asian Languages and English
+DR1LANG,DR1LANG - Language respondent used mostly,.,Missing,1016,DR1LANG_.,DR1LANG_Missing
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,1,SP,6702,DR1MNRSP_1,DR1MNRSP_SP
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,2,Mother of SP,1596,DR1MNRSP_2,DR1MNRSP_Mother of SP
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,3,Father of SP,234,DR1MNRSP_3,DR1MNRSP_Father of SP
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,4,Wife of SP,8,DR1MNRSP_4,DR1MNRSP_Wife of SP
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,5,Husband of SP,1,DR1MNRSP_5,DR1MNRSP_Husband of SP
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,6,Daughter of SP,11,DR1MNRSP_6,DR1MNRSP_Daughter of SP
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,7,Son of SP,4,DR1MNRSP_7,DR1MNRSP_Son of SP
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,8,Grandparent of SP,53,DR1MNRSP_8,DR1MNRSP_Grandparent of SP
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,9,"Friend, Partner, Non Relative",1,DR1MNRSP_9,"DR1MNRSP_Friend, Partner, Non Relative"
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,10,"Translator, not a HH member",2,DR1MNRSP_10,"DR1MNRSP_Translator, not a HH member"
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,11,"Child care provider, Caretaker",10,DR1MNRSP_11,"DR1MNRSP_Child care provider, Caretaker"
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,12,Other Relative,30,DR1MNRSP_12,DR1MNRSP_Other Relative
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,14,Other specify,0,DR1MNRSP_14,DR1MNRSP_Other specify
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,77,Refused,0,DR1MNRSP_77,DR1MNRSP_Refused
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,99,Don't know,1,DR1MNRSP_99,DR1MNRSP_Don't know
+DR1MNRSP,DR1MNRSP - Main respondent for this interview,.,Missing,1160,DR1MNRSP_.,DR1MNRSP_Missing
+DR1HELPD,DR1HELPD - Helped in responding for this interview,1,SP,704,DR1HELPD_1,DR1HELPD_SP
+DR1HELPD,DR1HELPD - Helped in responding for this interview,2,Mother of SP,338,DR1HELPD_2,DR1HELPD_Mother of SP
+DR1HELPD,DR1HELPD - Helped in responding for this interview,3,Father of SP,115,DR1HELPD_3,DR1HELPD_Father of SP
+DR1HELPD,DR1HELPD - Helped in responding for this interview,4,Wife of SP,1,DR1HELPD_4,DR1HELPD_Wife of SP
+DR1HELPD,DR1HELPD - Helped in responding for this interview,5,Husband of SP,2,DR1HELPD_5,DR1HELPD_Husband of SP
+DR1HELPD,DR1HELPD - Helped in responding for this interview,6,Daughter of SP,8,DR1HELPD_6,DR1HELPD_Daughter of SP
+DR1HELPD,DR1HELPD - Helped in responding for this interview,7,Son of SP,5,DR1HELPD_7,DR1HELPD_Son of SP
+DR1HELPD,DR1HELPD - Helped in responding for this interview,8,Grandparent of SP,17,DR1HELPD_8,DR1HELPD_Grandparent of SP
+DR1HELPD,DR1HELPD - Helped in responding for this interview,9,"Friend, Partner, Non Relative",3,DR1HELPD_9,"DR1HELPD_Friend, Partner, Non Relative"
+DR1HELPD,DR1HELPD - Helped in responding for this interview,10,"Translator, not a HH member",53,DR1HELPD_10,"DR1HELPD_Translator, not a HH member"
+DR1HELPD,DR1HELPD - Helped in responding for this interview,11,"Child care provider, Caretaker",6,DR1HELPD_11,"DR1HELPD_Child care provider, Caretaker"
+DR1HELPD,DR1HELPD - Helped in responding for this interview,12,Other Relative,28,DR1HELPD_12,DR1HELPD_Other Relative
+DR1HELPD,DR1HELPD - Helped in responding for this interview,13,No one,7347,DR1HELPD_13,DR1HELPD_No one
+DR1HELPD,DR1HELPD - Helped in responding for this interview,14,Other specify,0,DR1HELPD_14,DR1HELPD_Other specify
+DR1HELPD,DR1HELPD - Helped in responding for this interview,77,Refused,0,DR1HELPD_77,DR1HELPD_Refused
+DR1HELPD,DR1HELPD - Helped in responding for this interview,99,Don't know,1,DR1HELPD_99,DR1HELPD_Don't know
+DR1HELPD,DR1HELPD - Helped in responding for this interview,.,Missing,1185,DR1HELPD_.,DR1HELPD_Missing
+DBQ095Z,DBQ095Z - Type of table salt used,1,"Ordinary salt [includes regular iodized salt, sea salt and seasoning salts made with regular salt]",4976,DBQ095Z_1,"DBQ095Z_Ordinary salt [includes regular iodized salt, sea salt and seasoning salts made with regular salt]"
+DBQ095Z,DBQ095Z - Type of table salt used,2,Lite salt,321,DBQ095Z_2,DBQ095Z_Lite salt
+DBQ095Z,DBQ095Z - Type of table salt used,3,Salt substitute,102,DBQ095Z_3,DBQ095Z_Salt substitute
+DBQ095Z,DBQ095Z - Type of table salt used,4,Doesn't use or add salt products at the table,3258,DBQ095Z_4,DBQ095Z_Doesn't use or add salt products at the table
+DBQ095Z,DBQ095Z - Type of table salt used,91,Other,0,DBQ095Z_91,DBQ095Z_Other
+DBQ095Z,DBQ095Z - Type of table salt used,99,Don't know,126,DBQ095Z_99,DBQ095Z_Don't know
+DBQ095Z,DBQ095Z - Type of table salt used,.,Missing,1030,DBQ095Z_.,DBQ095Z_Missing
+DBD100,DBD100 - How often add salt to food at table,1,Rarely,2871,DBD100_1,DBD100_Rarely
+DBD100,DBD100 - How often add salt to food at table,2,Occasionally,1579,DBD100_2,DBD100_Occasionally
+DBD100,DBD100 - How often add salt to food at table,3,Very often,941,DBD100_3,DBD100_Very often
+DBD100,DBD100 - How often add salt to food at table,7,Refused,0,DBD100_7,DBD100_Refused
+DBD100,DBD100 - How often add salt to food at table,9,Don't know,8,DBD100_9,DBD100_Don't know
+DBD100,DBD100 - How often add salt to food at table,.,Missing,4414,DBD100_.,DBD100_Missing
+DRQSPREP,DRQSPREP - Salt used in preparation?,1,Never,557,DRQSPREP_1,DRQSPREP_Never
+DRQSPREP,DRQSPREP - Salt used in preparation?,2,Rarely,1602,DRQSPREP_2,DRQSPREP_Rarely
+DRQSPREP,DRQSPREP - Salt used in preparation?,3,Occasionally,3078,DRQSPREP_3,DRQSPREP_Occasionally
+DRQSPREP,DRQSPREP - Salt used in preparation?,4,Very Often,3398,DRQSPREP_4,DRQSPREP_Very Often
+DRQSPREP,DRQSPREP - Salt used in preparation?,9,Don't know,148,DRQSPREP_9,DRQSPREP_Don't know
+DRQSPREP,DRQSPREP - Salt used in preparation?,.,Missing,1030,DRQSPREP_.,DRQSPREP_Missing
+DR1STY,DR1STY - Salt used at table yesterday?,1,Yes,1448,DR1STY_1,DR1STY_Yes
+DR1STY,DR1STY - Salt used at table yesterday?,2,No,7273,DR1STY_2,DR1STY_No
+DR1STY,DR1STY - Salt used at table yesterday?,9,Don't know,62,DR1STY_9,DR1STY_Don't know
+DR1STY,DR1STY - Salt used at table yesterday?,.,Missing,1030,DR1STY_.,DR1STY_Missing
+DR1SKY,DR1SKY - Type of salt used yesterday,1,"Ordinary, sea, seasoned, or other flavored salt",1320,DR1SKY_1,"DR1SKY_Ordinary, sea, seasoned, or other flavored salt"
+DR1SKY,DR1SKY - Type of salt used yesterday,2,Lite salt,83,DR1SKY_2,DR1SKY_Lite salt
+DR1SKY,DR1SKY - Type of salt used yesterday,3,Salt substitute,29,DR1SKY_3,DR1SKY_Salt substitute
+DR1SKY,DR1SKY - Type of salt used yesterday,91,Other,0,DR1SKY_91,DR1SKY_Other
+DR1SKY,DR1SKY - Type of salt used yesterday,99,Don't know,16,DR1SKY_99,DR1SKY_Don't know
+DR1SKY,DR1SKY - Type of salt used yesterday,.,Missing,8365,DR1SKY_.,DR1SKY_Missing
+DRQSDIET,DRQSDIET - On special diet?,1,Yes,1033,DRQSDIET_1,DRQSDIET_Yes
+DRQSDIET,DRQSDIET - On special diet?,2,No,7704,DRQSDIET_2,DRQSDIET_No
+DRQSDIET,DRQSDIET - On special diet?,9,Don't know,46,DRQSDIET_9,DRQSDIET_Don't know
+DRQSDIET,DRQSDIET - On special diet?,.,Missing,1030,DRQSDIET_.,DRQSDIET_Missing
+DRQSDT1,DRQSDT1 - Weight loss/Low calorie diet,1,Weight loss or low calorie diets,523,DRQSDT1_1,DRQSDT1_Weight loss or low calorie diets
+DRQSDT1,DRQSDT1 - Weight loss/Low calorie diet,.,Missing,9290,DRQSDT1_.,DRQSDT1_Missing
+DRQSDT2,DRQSDT2 - Low fat/Low cholesterol diet,2,Low fat or low cholesterol diet,131,DRQSDT2_2,DRQSDT2_Low fat or low cholesterol diet
+DRQSDT2,DRQSDT2 - Low fat/Low cholesterol diet,.,Missing,9682,DRQSDT2_.,DRQSDT2_Missing
+DRQSDT3,DRQSDT3 - Low salt/Low sodium diet,3,Low salt or low sodium diet (including diet to lower blood pressure or hypertension),121,DRQSDT3_3,DRQSDT3_Low salt or low sodium diet (including diet to lower blood pressure or hypertension)
+DRQSDT3,DRQSDT3 - Low salt/Low sodium diet,.,Missing,9692,DRQSDT3_.,DRQSDT3_Missing
+DRQSDT4,DRQSDT4 - Sugar free/Low sugar diet,4,Sugar free or low sugar diet,37,DRQSDT4_4,DRQSDT4_Sugar free or low sugar diet
+DRQSDT4,DRQSDT4 - Sugar free/Low sugar diet,.,Missing,9776,DRQSDT4_.,DRQSDT4_Missing
+DRQSDT5,DRQSDT5 - Low fiber diet,5,Low fiber or low residue diet,0,DRQSDT5_5,DRQSDT5_Low fiber or low residue diet
+DRQSDT5,DRQSDT5 - Low fiber diet,.,Missing,9813,DRQSDT5_.,DRQSDT5_Missing
+DRQSDT6,DRQSDT6 - High fiber diet,6,High fiber or high residue diet,4,DRQSDT6_6,DRQSDT6_High fiber or high residue diet
+DRQSDT6,DRQSDT6 - High fiber diet,.,Missing,9809,DRQSDT6_.,DRQSDT6_Missing
+DRQSDT7,DRQSDT7 - Diabetic diet,7,Diabetic diet (including gestational diabetic diets),146,DRQSDT7_7,DRQSDT7_Diabetic diet (including gestational diabetic diets)
+DRQSDT7,DRQSDT7 - Diabetic diet,.,Missing,9667,DRQSDT7_.,DRQSDT7_Missing
+DRQSDT8,DRQSDT8 - Weight gain/Muscle building diet,8,Weight gain/Muscle building diet,34,DRQSDT8_8,DRQSDT8_Weight gain/Muscle building diet
+DRQSDT8,DRQSDT8 - Weight gain/Muscle building diet,.,Missing,9779,DRQSDT8_.,DRQSDT8_Missing
+DRQSDT9,DRQSDT9 - Low carbohydrate diet,9,Low carbohydrate diet,67,DRQSDT9_9,DRQSDT9_Low carbohydrate diet
+DRQSDT9,DRQSDT9 - Low carbohydrate diet,.,Missing,9746,DRQSDT9_.,DRQSDT9_Missing
+DRQSDT10,DRQSDT10 - High protein diet,10,High protein diet,22,DRQSDT10_10,DRQSDT10_High protein diet
+DRQSDT10,DRQSDT10 - High protein diet,.,Missing,9791,DRQSDT10_.,DRQSDT10_Missing
+DRQSDT11,DRQSDT11 - Gluten-free/Celiac diet,11,Gluten-free/Celiac diet,31,DRQSDT11_11,DRQSDT11_Gluten-free/Celiac diet
+DRQSDT11,DRQSDT11 - Gluten-free/Celiac diet,.,Missing,9782,DRQSDT11_.,DRQSDT11_Missing
+DRQSDT12,DRQSDT12 - Renal/Kidney diet,12,Renal/Kidney diet,8,DRQSDT12_12,DRQSDT12_Renal/Kidney diet
+DRQSDT12,DRQSDT12 - Renal/Kidney diet,.,Missing,9805,DRQSDT12_.,DRQSDT12_Missing
+DRQSDT91,DRQSDT91 - Other special diet,91,Other special diet,75,DRQSDT91_91,DRQSDT91_Other special diet
+DRQSDT91,DRQSDT91 - Other special diet,.,Missing,9738,DRQSDT91_.,DRQSDT91_Missing
+DR1TNUMF,DR1TNUMF - Number of foods/beverages reported,1 to 49,Range of Values,8661,DR1TNUMF_1 to 49,DR1TNUMF_Range of Values
+DR1TNUMF,DR1TNUMF - Number of foods/beverages reported,.,Missing,1152,DR1TNUMF_.,DR1TNUMF_Missing
+DR1TKCAL,DR1TKCAL - Energy (kcal),117 to 12108,Range of Values,8531,DR1TKCAL_117 to 12108,DR1TKCAL_Range of Values
+DR1TKCAL,DR1TKCAL - Energy (kcal),.,Missing,1282,DR1TKCAL_.,DR1TKCAL_Missing
+DR1TPROT,DR1TPROT - Protein (gm),0 to 869.49,Range of Values,8531,DR1TPROT_0 to 869.49,DR1TPROT_Range of Values
+DR1TPROT,DR1TPROT - Protein (gm),.,Missing,1282,DR1TPROT_.,DR1TPROT_Missing
+DR1TCARB,DR1TCARB - Carbohydrate (gm),8.67 to 1423.87,Range of Values,8531,DR1TCARB_8.67 to 1423.87,DR1TCARB_Range of Values
+DR1TCARB,DR1TCARB - Carbohydrate (gm),.,Missing,1282,DR1TCARB_.,DR1TCARB_Missing
+DR1TSUGR,DR1TSUGR - Total sugars (gm),0.13 to 1115.5,Range of Values,8531,DR1TSUGR_0.13 to 1115.5,DR1TSUGR_Range of Values
+DR1TSUGR,DR1TSUGR - Total sugars (gm),.,Missing,1282,DR1TSUGR_.,DR1TSUGR_Missing
+DR1TFIBE,DR1TFIBE - Dietary fiber (gm),0 to 136.3,Range of Values,8531,DR1TFIBE_0 to 136.3,DR1TFIBE_Range of Values
+DR1TFIBE,DR1TFIBE - Dietary fiber (gm),.,Missing,1282,DR1TFIBE_.,DR1TFIBE_Missing
+DR1TTFAT,DR1TTFAT - Total fat (gm),0 to 548.38,Range of Values,8531,DR1TTFAT_0 to 548.38,DR1TTFAT_Range of Values
+DR1TTFAT,DR1TTFAT - Total fat (gm),.,Missing,1282,DR1TTFAT_.,DR1TTFAT_Missing
+DR1TSFAT,DR1TSFAT - Total saturated fatty acids (gm),0 to 177.467,Range of Values,8531,DR1TSFAT_0 to 177.467,DR1TSFAT_Range of Values
+DR1TSFAT,DR1TSFAT - Total saturated fatty acids (gm),.,Missing,1282,DR1TSFAT_.,DR1TSFAT_Missing
+DR1TMFAT,DR1TMFAT - Total monounsaturated fatty acids (gm),0 to 221.673,Range of Values,8531,DR1TMFAT_0 to 221.673,DR1TMFAT_Range of Values
+DR1TMFAT,DR1TMFAT - Total monounsaturated fatty acids (gm),.,Missing,1282,DR1TMFAT_.,DR1TMFAT_Missing
+DR1TPFAT,DR1TPFAT - Total polyunsaturated fatty acids (gm),0 to 182.462,Range of Values,8531,DR1TPFAT_0 to 182.462,DR1TPFAT_Range of Values
+DR1TPFAT,DR1TPFAT - Total polyunsaturated fatty acids (gm),.,Missing,1282,DR1TPFAT_.,DR1TPFAT_Missing
+DR1TCHOL,DR1TCHOL - Cholesterol (mg),0 to 3515,Range of Values,8531,DR1TCHOL_0 to 3515,DR1TCHOL_Range of Values
+DR1TCHOL,DR1TCHOL - Cholesterol (mg),.,Missing,1282,DR1TCHOL_.,DR1TCHOL_Missing
+DR1TATOC,DR1TATOC - Vitamin E as alpha-tocopherol (mg),0 to 172.32,Range of Values,8531,DR1TATOC_0 to 172.32,DR1TATOC_Range of Values
+DR1TATOC,DR1TATOC - Vitamin E as alpha-tocopherol (mg),.,Missing,1282,DR1TATOC_.,DR1TATOC_Missing
+DR1TATOA,DR1TATOA - Added alpha-tocopherol (Vitamin E) (mg),0 to 99.87,Range of Values,8531,DR1TATOA_0 to 99.87,DR1TATOA_Range of Values
+DR1TATOA,DR1TATOA - Added alpha-tocopherol (Vitamin E) (mg),.,Missing,1282,DR1TATOA_.,DR1TATOA_Missing
+DR1TRET,DR1TRET - Retinol (mcg),0 to 10565,Range of Values,8531,DR1TRET_0 to 10565,DR1TRET_Range of Values
+DR1TRET,DR1TRET - Retinol (mcg),.,Missing,1282,DR1TRET_.,DR1TRET_Missing
+DR1TVARA,"DR1TVARA - Vitamin A, RAE (mcg)",0 to 10597,Range of Values,8531,DR1TVARA_0 to 10597,DR1TVARA_Range of Values
+DR1TVARA,"DR1TVARA - Vitamin A, RAE (mcg)",.,Missing,1282,DR1TVARA_.,DR1TVARA_Missing
+DR1TACAR,DR1TACAR - Alpha-carotene (mcg),0 to 35057,Range of Values,8531,DR1TACAR_0 to 35057,DR1TACAR_Range of Values
+DR1TACAR,DR1TACAR - Alpha-carotene (mcg),.,Missing,1282,DR1TACAR_.,DR1TACAR_Missing
+DR1TBCAR,DR1TBCAR - Beta-carotene (mcg),0 to 78752,Range of Values,8531,DR1TBCAR_0 to 78752,DR1TBCAR_Range of Values
+DR1TBCAR,DR1TBCAR - Beta-carotene (mcg),.,Missing,1282,DR1TBCAR_.,DR1TBCAR_Missing
+DR1TCRYP,DR1TCRYP - Beta-cryptoxanthin (mcg),0 to 24328,Range of Values,8531,DR1TCRYP_0 to 24328,DR1TCRYP_Range of Values
+DR1TCRYP,DR1TCRYP - Beta-cryptoxanthin (mcg),.,Missing,1282,DR1TCRYP_.,DR1TCRYP_Missing
+DR1TLYCO,DR1TLYCO - Lycopene (mcg),0 to 103913,Range of Values,8531,DR1TLYCO_0 to 103913,DR1TLYCO_Range of Values
+DR1TLYCO,DR1TLYCO - Lycopene (mcg),.,Missing,1282,DR1TLYCO_.,DR1TLYCO_Missing
+DR1TLZ,DR1TLZ - Lutein + zeaxanthin (mcg),0 to 102638,Range of Values,8531,DR1TLZ_0 to 102638,DR1TLZ_Range of Values
+DR1TLZ,DR1TLZ - Lutein + zeaxanthin (mcg),.,Missing,1282,DR1TLZ_.,DR1TLZ_Missing
+DR1TVB1,DR1TVB1 - Thiamin (Vitamin B1) (mg),0.007 to 10.652,Range of Values,8531,DR1TVB1_0.007 to 10.652,DR1TVB1_Range of Values
+DR1TVB1,DR1TVB1 - Thiamin (Vitamin B1) (mg),.,Missing,1282,DR1TVB1_.,DR1TVB1_Missing
+DR1TVB2,DR1TVB2 - Riboflavin (Vitamin B2) (mg),0 to 29.455,Range of Values,8531,DR1TVB2_0 to 29.455,DR1TVB2_Range of Values
+DR1TVB2,DR1TVB2 - Riboflavin (Vitamin B2) (mg),.,Missing,1282,DR1TVB2_.,DR1TVB2_Missing
+DR1TNIAC,DR1TNIAC - Niacin (mg),0.215 to 379.852,Range of Values,8531,DR1TNIAC_0.215 to 379.852,DR1TNIAC_Range of Values
+DR1TNIAC,DR1TNIAC - Niacin (mg),.,Missing,1282,DR1TNIAC_.,DR1TNIAC_Missing
+DR1TVB6,DR1TVB6 - Vitamin B6 (mg),0.016 to 48.321,Range of Values,8531,DR1TVB6_0.016 to 48.321,DR1TVB6_Range of Values
+DR1TVB6,DR1TVB6 - Vitamin B6 (mg),.,Missing,1282,DR1TVB6_.,DR1TVB6_Missing
+DR1TFOLA,DR1TFOLA - Total folate (mcg),0 to 3172,Range of Values,8531,DR1TFOLA_0 to 3172,DR1TFOLA_Range of Values
+DR1TFOLA,DR1TFOLA - Total folate (mcg),.,Missing,1282,DR1TFOLA_.,DR1TFOLA_Missing
+DR1TFA,DR1TFA - Folic acid (mcg),0 to 2828,Range of Values,8531,DR1TFA_0 to 2828,DR1TFA_Range of Values
+DR1TFA,DR1TFA - Folic acid (mcg),.,Missing,1282,DR1TFA_.,DR1TFA_Missing
+DR1TFF,DR1TFF - Food folate (mcg),0 to 2357,Range of Values,8531,DR1TFF_0 to 2357,DR1TFF_Range of Values
+DR1TFF,DR1TFF - Food folate (mcg),.,Missing,1282,DR1TFF_.,DR1TFF_Missing
+DR1TFDFE,"DR1TFDFE - Folate, DFE (mcg)",0 to 5151,Range of Values,8531,DR1TFDFE_0 to 5151,DR1TFDFE_Range of Values
+DR1TFDFE,"DR1TFDFE - Folate, DFE (mcg)",.,Missing,1282,DR1TFDFE_.,DR1TFDFE_Missing
+DR1TCHL,DR1TCHL - Total choline (mg) ,0 to 2909.1,Range of Values,8531,DR1TCHL_0 to 2909.1,DR1TCHL_Range of Values
+DR1TCHL,DR1TCHL - Total choline (mg) ,.,Missing,1282,DR1TCHL_.,DR1TCHL_Missing
+DR1TVB12,DR1TVB12 - Vitamin B12 (mcg),0 to 110.39,Range of Values,8531,DR1TVB12_0 to 110.39,DR1TVB12_Range of Values
+DR1TVB12,DR1TVB12 - Vitamin B12 (mcg),.,Missing,1282,DR1TVB12_.,DR1TVB12_Missing
+DR1TB12A,DR1TB12A - Added vitamin B12 (mcg),0 to 89.23,Range of Values,8531,DR1TB12A_0 to 89.23,DR1TB12A_Range of Values
+DR1TB12A,DR1TB12A - Added vitamin B12 (mcg),.,Missing,1282,DR1TB12A_.,DR1TB12A_Missing
+DR1TVC,DR1TVC - Vitamin C (mg),0 to 2008,Range of Values,8531,DR1TVC_0 to 2008,DR1TVC_Range of Values
+DR1TVC,DR1TVC - Vitamin C (mg),.,Missing,1282,DR1TVC_.,DR1TVC_Missing
+DR1TVD,DR1TVD - Vitamin D (D2 + D3) (mcg),0 to 86.3,Range of Values,8531,DR1TVD_0 to 86.3,DR1TVD_Range of Values
+DR1TVD,DR1TVD - Vitamin D (D2 + D3) (mcg),.,Missing,1282,DR1TVD_.,DR1TVD_Missing
+DR1TVK,DR1TVK - Vitamin K (mcg),0 to 4080.5,Range of Values,8531,DR1TVK_0 to 4080.5,DR1TVK_Range of Values
+DR1TVK,DR1TVK - Vitamin K (mcg),.,Missing,1282,DR1TVK_.,DR1TVK_Missing
+DR1TCALC,DR1TCALC - Calcium (mg),6 to 7337,Range of Values,8531,DR1TCALC_6 to 7337,DR1TCALC_Range of Values
+DR1TCALC,DR1TCALC - Calcium (mg),.,Missing,1282,DR1TCALC_.,DR1TCALC_Missing
+DR1TPHOS,DR1TPHOS - Phosphorus (mg),0 to 11529,Range of Values,8531,DR1TPHOS_0 to 11529,DR1TPHOS_Range of Values
+DR1TPHOS,DR1TPHOS - Phosphorus (mg),.,Missing,1282,DR1TPHOS_.,DR1TPHOS_Missing
+DR1TMAGN,DR1TMAGN - Magnesium (mg),0 to 2725,Range of Values,8531,DR1TMAGN_0 to 2725,DR1TMAGN_Range of Values
+DR1TMAGN,DR1TMAGN - Magnesium (mg),.,Missing,1282,DR1TMAGN_.,DR1TMAGN_Missing
+DR1TIRON,DR1TIRON - Iron (mg),0.13 to 130.76,Range of Values,8531,DR1TIRON_0.13 to 130.76,DR1TIRON_Range of Values
+DR1TIRON,DR1TIRON - Iron (mg),.,Missing,1282,DR1TIRON_.,DR1TIRON_Missing
+DR1TZINC,DR1TZINC - Zinc (mg),0.16 to 116.05,Range of Values,8531,DR1TZINC_0.16 to 116.05,DR1TZINC_Range of Values
+DR1TZINC,DR1TZINC - Zinc (mg),.,Missing,1282,DR1TZINC_.,DR1TZINC_Missing
+DR1TCOPP,DR1TCOPP - Copper (mg),0.022 to 20.318,Range of Values,8531,DR1TCOPP_0.022 to 20.318,DR1TCOPP_Range of Values
+DR1TCOPP,DR1TCOPP - Copper (mg),.,Missing,1282,DR1TCOPP_.,DR1TCOPP_Missing
+DR1TSODI,DR1TSODI - Sodium (mg),17 to 21399,Range of Values,8531,DR1TSODI_17 to 21399,DR1TSODI_Range of Values
+DR1TSODI,DR1TSODI - Sodium (mg),.,Missing,1282,DR1TSODI_.,DR1TSODI_Missing
+DR1TPOTA,DR1TPOTA - Potassium (mg),68 to 15876,Range of Values,8531,DR1TPOTA_68 to 15876,DR1TPOTA_Range of Values
+DR1TPOTA,DR1TPOTA - Potassium (mg),.,Missing,1282,DR1TPOTA_.,DR1TPOTA_Missing
+DR1TSELE,DR1TSELE - Selenium (mcg),0 to 986.5,Range of Values,8531,DR1TSELE_0 to 986.5,DR1TSELE_Range of Values
+DR1TSELE,DR1TSELE - Selenium (mcg),.,Missing,1282,DR1TSELE_.,DR1TSELE_Missing
+DR1TCAFF,DR1TCAFF - Caffeine (mg),0 to 2448,Range of Values,8531,DR1TCAFF_0 to 2448,DR1TCAFF_Range of Values
+DR1TCAFF,DR1TCAFF - Caffeine (mg),.,Missing,1282,DR1TCAFF_.,DR1TCAFF_Missing
+DR1TTHEO,DR1TTHEO - Theobromine (mg),0 to 2038,Range of Values,8531,DR1TTHEO_0 to 2038,DR1TTHEO_Range of Values
+DR1TTHEO,DR1TTHEO - Theobromine (mg),.,Missing,1282,DR1TTHEO_.,DR1TTHEO_Missing
+DR1TALCO,DR1TALCO - Alcohol (gm),0 to 591.4,Range of Values,8531,DR1TALCO_0 to 591.4,DR1TALCO_Range of Values
+DR1TALCO,DR1TALCO - Alcohol (gm),.,Missing,1282,DR1TALCO_.,DR1TALCO_Missing
+DR1TMOIS,DR1TMOIS - Moisture (gm),135.95 to 17350.04,Range of Values,8531,DR1TMOIS_135.95 to 17350.04,DR1TMOIS_Range of Values
+DR1TMOIS,DR1TMOIS - Moisture (gm),.,Missing,1282,DR1TMOIS_.,DR1TMOIS_Missing
+DR1TS040,DR1TS040 - SFA 4:0 (Butanoic) (gm),0 to 5.377,Range of Values,8531,DR1TS040_0 to 5.377,DR1TS040_Range of Values
+DR1TS040,DR1TS040 - SFA 4:0 (Butanoic) (gm),.,Missing,1282,DR1TS040_.,DR1TS040_Missing
+DR1TS060,DR1TS060 - SFA 6:0 (Hexanoic) (gm),0 to 3.014,Range of Values,8531,DR1TS060_0 to 3.014,DR1TS060_Range of Values
+DR1TS060,DR1TS060 - SFA 6:0 (Hexanoic) (gm),.,Missing,1282,DR1TS060_.,DR1TS060_Missing
+DR1TS080,DR1TS080 - SFA 8:0 (Octanoic) (gm),0 to 14.886,Range of Values,8531,DR1TS080_0 to 14.886,DR1TS080_Range of Values
+DR1TS080,DR1TS080 - SFA 8:0 (Octanoic) (gm),.,Missing,1282,DR1TS080_.,DR1TS080_Missing
+DR1TS100,DR1TS100 - SFA 10:0 (Decanoic) (gm),0 to 10.475,Range of Values,8531,DR1TS100_0 to 10.475,DR1TS100_Range of Values
+DR1TS100,DR1TS100 - SFA 10:0 (Decanoic) (gm),.,Missing,1282,DR1TS100_.,DR1TS100_Missing
+DR1TS120,DR1TS120 - SFA 12:0 (Dodecanoic) (gm),0 to 26.403,Range of Values,8531,DR1TS120_0 to 26.403,DR1TS120_Range of Values
+DR1TS120,DR1TS120 - SFA 12:0 (Dodecanoic) (gm),.,Missing,1282,DR1TS120_.,DR1TS120_Missing
+DR1TS140,DR1TS140 - SFA 14:0 (Tetradecanoic) (gm),0 to 18.757,Range of Values,8531,DR1TS140_0 to 18.757,DR1TS140_Range of Values
+DR1TS140,DR1TS140 - SFA 14:0 (Tetradecanoic) (gm),.,Missing,1282,DR1TS140_.,DR1TS140_Missing
+DR1TS160,DR1TS160 - SFA 16:0 (Hexadecanoic) (gm),0 to 91.727,Range of Values,8531,DR1TS160_0 to 91.727,DR1TS160_Range of Values
+DR1TS160,DR1TS160 - SFA 16:0 (Hexadecanoic) (gm),.,Missing,1282,DR1TS160_.,DR1TS160_Missing
+DR1TS180,DR1TS180 - SFA 18:0 (Octadecanoic) (gm),0 to 42.57,Range of Values,8531,DR1TS180_0 to 42.57,DR1TS180_Range of Values
+DR1TS180,DR1TS180 - SFA 18:0 (Octadecanoic) (gm),.,Missing,1282,DR1TS180_.,DR1TS180_Missing
+DR1TM161,DR1TM161 - MFA 16:1 (Hexadecenoic) (gm),0 to 13.915,Range of Values,8531,DR1TM161_0 to 13.915,DR1TM161_Range of Values
+DR1TM161,DR1TM161 - MFA 16:1 (Hexadecenoic) (gm),.,Missing,1282,DR1TM161_.,DR1TM161_Missing
+DR1TM181,DR1TM181 - MFA 18:1 (Octadecenoic) (gm),0 to 204.75,Range of Values,8531,DR1TM181_0 to 204.75,DR1TM181_Range of Values
+DR1TM181,DR1TM181 - MFA 18:1 (Octadecenoic) (gm),.,Missing,1282,DR1TM181_.,DR1TM181_Missing
+DR1TM201,DR1TM201 - MFA 20:1 (Eicosenoic) (gm),0 to 5.764,Range of Values,8531,DR1TM201_0 to 5.764,DR1TM201_Range of Values
+DR1TM201,DR1TM201 - MFA 20:1 (Eicosenoic) (gm),.,Missing,1282,DR1TM201_.,DR1TM201_Missing
+DR1TM221,DR1TM221 - MFA 22:1 (Docosenoic) (gm),0 to 3.618,Range of Values,8531,DR1TM221_0 to 3.618,DR1TM221_Range of Values
+DR1TM221,DR1TM221 - MFA 22:1 (Docosenoic) (gm),.,Missing,1282,DR1TM221_.,DR1TM221_Missing
+DR1TP182,DR1TP182 - PFA 18:2 (Octadecadienoic) (gm),0 to 170.285,Range of Values,8531,DR1TP182_0 to 170.285,DR1TP182_Range of Values
+DR1TP182,DR1TP182 - PFA 18:2 (Octadecadienoic) (gm),.,Missing,1282,DR1TP182_.,DR1TP182_Missing
+DR1TP183,DR1TP183 - PFA 18:3 (Octadecatrienoic) (gm),0 to 16.593,Range of Values,8531,DR1TP183_0 to 16.593,DR1TP183_Range of Values
+DR1TP183,DR1TP183 - PFA 18:3 (Octadecatrienoic) (gm),.,Missing,1282,DR1TP183_.,DR1TP183_Missing
+DR1TP184,DR1TP184 - PFA 18:4 (Octadecatetraenoic) (gm),0 to 0.635,Range of Values,8531,DR1TP184_0 to 0.635,DR1TP184_Range of Values
+DR1TP184,DR1TP184 - PFA 18:4 (Octadecatetraenoic) (gm),.,Missing,1282,DR1TP184_.,DR1TP184_Missing
+DR1TP204,DR1TP204 - PFA 20:4 (Eicosatetraenoic) (gm),0 to 2.461,Range of Values,8531,DR1TP204_0 to 2.461,DR1TP204_Range of Values
+DR1TP204,DR1TP204 - PFA 20:4 (Eicosatetraenoic) (gm),.,Missing,1282,DR1TP204_.,DR1TP204_Missing
+DR1TP205,DR1TP205 - PFA 20:5 (Eicosapentaenoic) (gm),0 to 2.687,Range of Values,8531,DR1TP205_0 to 2.687,DR1TP205_Range of Values
+DR1TP205,DR1TP205 - PFA 20:5 (Eicosapentaenoic) (gm),.,Missing,1282,DR1TP205_.,DR1TP205_Missing
+DR1TP225,DR1TP225 - PFA 22:5 (Docosapentaenoic) (gm),0 to 1.073,Range of Values,8531,DR1TP225_0 to 1.073,DR1TP225_Range of Values
+DR1TP225,DR1TP225 - PFA 22:5 (Docosapentaenoic) (gm),.,Missing,1282,DR1TP225_.,DR1TP225_Missing
+DR1TP226,DR1TP226 - PFA 22:6 (Docosahexaenoic) (gm),0 to 4.337,Range of Values,8531,DR1TP226_0 to 4.337,DR1TP226_Range of Values
+DR1TP226,DR1TP226 - PFA 22:6 (Docosahexaenoic) (gm),.,Missing,1282,DR1TP226_.,DR1TP226_Missing
+DR1_300,DR1_300 - Compare food consumed yesterday to usual,1,Much more than usual,830,DR1_300_1,DR1_300_Much more than usual
+DR1_300,DR1_300 - Compare food consumed yesterday to usual,2,Usual,6210,DR1_300_2,DR1_300_Usual
+DR1_300,DR1_300 - Compare food consumed yesterday to usual,3,Much less than usual,1673,DR1_300_3,DR1_300_Much less than usual
+DR1_300,DR1_300 - Compare food consumed yesterday to usual,7,Refused,0,DR1_300_7,DR1_300_Refused
+DR1_300,DR1_300 - Compare food consumed yesterday to usual,9,Don't know,70,DR1_300_9,DR1_300_Don't know
+DR1_300,DR1_300 - Compare food consumed yesterday to usual,.,Missing,1030,DR1_300_.,DR1_300_Missing
+DR1_320Z,DR1_320Z - Total plain water drank yesterday (gm),0 to 13440,Range of Values,8661,DR1_320Z_0 to 13440,DR1_320Z_Range of Values
+DR1_320Z,DR1_320Z - Total plain water drank yesterday (gm),.,Missing,1152,DR1_320Z_.,DR1_320Z_Missing
+DR1_330Z,DR1_330Z - Total tap water drank yesterday (gm),0 to 13440,Range of Values,8661,DR1_330Z_0 to 13440,DR1_330Z_Range of Values
+DR1_330Z,DR1_330Z - Total tap water drank yesterday (gm),.,Missing,1152,DR1_330Z_.,DR1_330Z_Missing
+DR1BWATZ,DR1BWATZ - Total bottled water drank yesterday (gm),0 to 11310,Range of Values,8661,DR1BWATZ_0 to 11310,DR1BWATZ_Range of Values
+DR1BWATZ,DR1BWATZ - Total bottled water drank yesterday (gm),.,Missing,1152,DR1BWATZ_.,DR1BWATZ_Missing
+DR1TWS,DR1TWS - Tap water source,1,Community supply,6033,DR1TWS_1,DR1TWS_Community supply
+DR1TWS,DR1TWS - Tap water source,2,Well or rain cistern,570,DR1TWS_2,DR1TWS_Well or rain cistern
+DR1TWS,DR1TWS - Tap water source,3,Spring,124,DR1TWS_3,DR1TWS_Spring
+DR1TWS,DR1TWS - Tap water source,4,Don't drink tap water,1648,DR1TWS_4,DR1TWS_Don't drink tap water
+DR1TWS,DR1TWS - Tap water source,91,Other,0,DR1TWS_91,DR1TWS_Other
+DR1TWS,DR1TWS - Tap water source,99,Don't know,408,DR1TWS_99,DR1TWS_Don't know
+DR1TWS,DR1TWS - Tap water source,.,Missing,1030,DR1TWS_.,DR1TWS_Missing
+DRD340,DRD340 - Shellfish eaten during past 30 days,1,Yes,3761,DRD340_1,DRD340_Yes
+DRD340,DRD340 - Shellfish eaten during past 30 days,2,No,4585,DRD340_2,DRD340_No
+DRD340,DRD340 - Shellfish eaten during past 30 days,7,Refused,19,DRD340_7,DRD340_Refused
+DRD340,DRD340 - Shellfish eaten during past 30 days,9,Don't know,47,DRD340_9,DRD340_Don't know
+DRD340,DRD340 - Shellfish eaten during past 30 days,.,Missing,1401,DRD340_.,DRD340_Missing
+DRD350A,DRD350A - Clams eaten during past 30 days,1,Yes,428,DRD350A_1,DRD350A_Yes
+DRD350A,DRD350A - Clams eaten during past 30 days,2,No,3333,DRD350A_2,DRD350A_No
+DRD350A,DRD350A - Clams eaten during past 30 days,.,Missing,6052,DRD350A_.,DRD350A_Missing
+DRD350AQ,DRD350AQ - # of times clams eaten in past 30 days,1 to 12,Range of Values,428,DRD350AQ_1 to 12,DRD350AQ_Range of Values
+DRD350AQ,DRD350AQ - # of times clams eaten in past 30 days,.,Missing,9385,DRD350AQ_.,DRD350AQ_Missing
+DRD350B,DRD350B - Crabs eaten during past 30 days,1,Yes,785,DRD350B_1,DRD350B_Yes
+DRD350B,DRD350B - Crabs eaten during past 30 days,2,No,2976,DRD350B_2,DRD350B_No
+DRD350B,DRD350B - Crabs eaten during past 30 days,.,Missing,6052,DRD350B_.,DRD350B_Missing
+DRD350BQ,DRD350BQ - # of times crabs eaten in past 30 days,1 to 12,Range of Values,785,DRD350BQ_1 to 12,DRD350BQ_Range of Values
+DRD350BQ,DRD350BQ - # of times crabs eaten in past 30 days,.,Missing,9028,DRD350BQ_.,DRD350BQ_Missing
+DRD350C,DRD350C - Crayfish eaten during past 30 days,1,Yes,199,DRD350C_1,DRD350C_Yes
+DRD350C,DRD350C - Crayfish eaten during past 30 days,2,No,3562,DRD350C_2,DRD350C_No
+DRD350C,DRD350C - Crayfish eaten during past 30 days,.,Missing,6052,DRD350C_.,DRD350C_Missing
+DRD350CQ,DRD350CQ - # of times crayfish eaten past 30 days,1 to 16,Range of Values,199,DRD350CQ_1 to 16,DRD350CQ_Range of Values
+DRD350CQ,DRD350CQ - # of times crayfish eaten past 30 days,.,Missing,9614,DRD350CQ_.,DRD350CQ_Missing
+DRD350D,DRD350D - Lobsters eaten during past 30 days,1,Yes,412,DRD350D_1,DRD350D_Yes
+DRD350D,DRD350D - Lobsters eaten during past 30 days,2,No,3349,DRD350D_2,DRD350D_No
+DRD350D,DRD350D - Lobsters eaten during past 30 days,.,Missing,6052,DRD350D_.,DRD350D_Missing
+DRD350DQ,DRD350DQ - # of times lobsters eaten past 30 days,1 to 10,Range of Values,412,DRD350DQ_1 to 10,DRD350DQ_Range of Values
+DRD350DQ,DRD350DQ - # of times lobsters eaten past 30 days,.,Missing,9401,DRD350DQ_.,DRD350DQ_Missing
+DRD350E,DRD350E - Mussels eaten during past 30 days,1,Yes,255,DRD350E_1,DRD350E_Yes
+DRD350E,DRD350E - Mussels eaten during past 30 days,2,No,3506,DRD350E_2,DRD350E_No
+DRD350E,DRD350E - Mussels eaten during past 30 days,.,Missing,6052,DRD350E_.,DRD350E_Missing
+DRD350EQ,DRD350EQ - # of times mussels eaten in past 30 days,1 to 6,Range of Values,255,DRD350EQ_1 to 6,DRD350EQ_Range of Values
+DRD350EQ,DRD350EQ - # of times mussels eaten in past 30 days,.,Missing,9558,DRD350EQ_.,DRD350EQ_Missing
+DRD350F,DRD350F - Oysters eaten during past 30 days,1,Yes,288,DRD350F_1,DRD350F_Yes
+DRD350F,DRD350F - Oysters eaten during past 30 days,2,No,3473,DRD350F_2,DRD350F_No
+DRD350F,DRD350F - Oysters eaten during past 30 days,.,Missing,6052,DRD350F_.,DRD350F_Missing
+DRD350FQ,DRD350FQ - # of times oysters eaten in past 30 days,1 to 20,Range of Values,288,DRD350FQ_1 to 20,DRD350FQ_Range of Values
+DRD350FQ,DRD350FQ - # of times oysters eaten in past 30 days,.,Missing,9525,DRD350FQ_.,DRD350FQ_Missing
+DRD350G,DRD350G - Scallops eaten during past 30 days,1,Yes,353,DRD350G_1,DRD350G_Yes
+DRD350G,DRD350G - Scallops eaten during past 30 days,2,No,3408,DRD350G_2,DRD350G_No
+DRD350G,DRD350G - Scallops eaten during past 30 days,.,Missing,6052,DRD350G_.,DRD350G_Missing
+DRD350GQ,DRD350GQ - # of times scallops eaten past 30 days,1 to 12,Range of Values,353,DRD350GQ_1 to 12,DRD350GQ_Range of Values
+DRD350GQ,DRD350GQ - # of times scallops eaten past 30 days,.,Missing,9460,DRD350GQ_.,DRD350GQ_Missing
+DRD350H,DRD350H - Shrimp eaten during past 30 days,1,Yes,3254,DRD350H_1,DRD350H_Yes
+DRD350H,DRD350H - Shrimp eaten during past 30 days,2,No,507,DRD350H_2,DRD350H_No
+DRD350H,DRD350H - Shrimp eaten during past 30 days,.,Missing,6052,DRD350H_.,DRD350H_Missing
+DRD350HQ,DRD350HQ - # of times shrimp eaten in past 30 days,1 to 30,Range of Values,3254,DRD350HQ_1 to 30,DRD350HQ_Range of Values
+DRD350HQ,DRD350HQ - # of times shrimp eaten in past 30 days,.,Missing,6559,DRD350HQ_.,DRD350HQ_Missing
+DRD350I,DRD350I - Other shellfish eaten past 30 days,1,Yes,220,DRD350I_1,DRD350I_Yes
+DRD350I,DRD350I - Other shellfish eaten past 30 days,2,No,3541,DRD350I_2,DRD350I_No
+DRD350I,DRD350I - Other shellfish eaten past 30 days,.,Missing,6052,DRD350I_.,DRD350I_Missing
+DRD350IQ,DRD350IQ - # of times other shellfish eaten,1 to 10,Range of Values,220,DRD350IQ_1 to 10,DRD350IQ_Range of Values
+DRD350IQ,DRD350IQ - # of times other shellfish eaten,.,Missing,9593,DRD350IQ_.,DRD350IQ_Missing
+DRD350J,DRD350J - Other unknown shellfish eaten past 30 d,1,Yes,16,DRD350J_1,DRD350J_Yes
+DRD350J,DRD350J - Other unknown shellfish eaten past 30 d,2,No,3745,DRD350J_2,DRD350J_No
+DRD350J,DRD350J - Other unknown shellfish eaten past 30 d,.,Missing,6052,DRD350J_.,DRD350J_Missing
+DRD350JQ,DRD350JQ - # of times other unknown shellfish eaten,1 to 4,Range of Values,16,DRD350JQ_1 to 4,DRD350JQ_Range of Values
+DRD350JQ,DRD350JQ - # of times other unknown shellfish eaten,.,Missing,9797,DRD350JQ_.,DRD350JQ_Missing
+DRD350K,DRD350K - Refused on shellfish eaten past 30 days,1,Yes,0,DRD350K_1,DRD350K_Yes
+DRD350K,DRD350K - Refused on shellfish eaten past 30 days,2,No,3760,DRD350K_2,DRD350K_No
+DRD350K,DRD350K - Refused on shellfish eaten past 30 days,.,Missing,6053,DRD350K_.,DRD350K_Missing
+DRD360,DRD360 - Fish eaten during past 30 days,1,Yes,5121,DRD360_1,DRD360_Yes
+DRD360,DRD360 - Fish eaten during past 30 days,2,No,3216,DRD360_2,DRD360_No
+DRD360,DRD360 - Fish eaten during past 30 days,7,Refused,16,DRD360_7,DRD360_Refused
+DRD360,DRD360 - Fish eaten during past 30 days,9,Don't know,58,DRD360_9,DRD360_Don't know
+DRD360,DRD360 - Fish eaten during past 30 days,.,Missing,1402,DRD360_.,DRD360_Missing
+DRD370A,DRD370A - Breaded fish products eaten past 30 days,1,Yes,646,DRD370A_1,DRD370A_Yes
+DRD370A,DRD370A - Breaded fish products eaten past 30 days,2,No,4475,DRD370A_2,DRD370A_No
+DRD370A,DRD370A - Breaded fish products eaten past 30 days,.,Missing,4692,DRD370A_.,DRD370A_Missing
+DRD370AQ,DRD370AQ - # of times breaded fish products eaten,1 to 15,Range of Values,646,DRD370AQ_1 to 15,DRD370AQ_Range of Values
+DRD370AQ,DRD370AQ - # of times breaded fish products eaten,.,Missing,9167,DRD370AQ_.,DRD370AQ_Missing
+DRD370B,DRD370B - Tuna eaten during past 30 days,1,Yes,1890,DRD370B_1,DRD370B_Yes
+DRD370B,DRD370B - Tuna eaten during past 30 days,2,No,3231,DRD370B_2,DRD370B_No
+DRD370B,DRD370B - Tuna eaten during past 30 days,.,Missing,4692,DRD370B_.,DRD370B_Missing
+DRD370BQ,DRD370BQ - # of times tuna eaten in past 30 days,1 to 25,Range of Values,1890,DRD370BQ_1 to 25,DRD370BQ_Range of Values
+DRD370BQ,DRD370BQ - # of times tuna eaten in past 30 days,.,Missing,7923,DRD370BQ_.,DRD370BQ_Missing
+DRD370C,DRD370C - Bass eaten during past 30 days,1,Yes,118,DRD370C_1,DRD370C_Yes
+DRD370C,DRD370C - Bass eaten during past 30 days,2,No,5003,DRD370C_2,DRD370C_No
+DRD370C,DRD370C - Bass eaten during past 30 days,.,Missing,4692,DRD370C_.,DRD370C_Missing
+DRD370CQ,DRD370CQ - # of times bass eaten in past 30 days,1 to 14,Range of Values,118,DRD370CQ_1 to 14,DRD370CQ_Range of Values
+DRD370CQ,DRD370CQ - # of times bass eaten in past 30 days,.,Missing,9695,DRD370CQ_.,DRD370CQ_Missing
+DRD370D,DRD370D - Catfish eaten during past 30 days,1,Yes,827,DRD370D_1,DRD370D_Yes
+DRD370D,DRD370D - Catfish eaten during past 30 days,2,No,4294,DRD370D_2,DRD370D_No
+DRD370D,DRD370D - Catfish eaten during past 30 days,.,Missing,4692,DRD370D_.,DRD370D_Missing
+DRD370DQ,DRD370DQ - # of times catfish eaten in past 30 days,1 to 15,Range of Values,827,DRD370DQ_1 to 15,DRD370DQ_Range of Values
+DRD370DQ,DRD370DQ - # of times catfish eaten in past 30 days,.,Missing,8986,DRD370DQ_.,DRD370DQ_Missing
+DRD370E,DRD370E - Cod eaten during past 30 days,1,Yes,559,DRD370E_1,DRD370E_Yes
+DRD370E,DRD370E - Cod eaten during past 30 days,2,No,4562,DRD370E_2,DRD370E_No
+DRD370E,DRD370E - Cod eaten during past 30 days,.,Missing,4692,DRD370E_.,DRD370E_Missing
+DRD370EQ,DRD370EQ - # of times cod eaten in past 30 days,1 to 15,Range of Values,559,DRD370EQ_1 to 15,DRD370EQ_Range of Values
+DRD370EQ,DRD370EQ - # of times cod eaten in past 30 days,.,Missing,9254,DRD370EQ_.,DRD370EQ_Missing
+DRD370F,DRD370F - Flatfish eaten during past 30 days,1,Yes,257,DRD370F_1,DRD370F_Yes
+DRD370F,DRD370F - Flatfish eaten during past 30 days,2,No,4864,DRD370F_2,DRD370F_No
+DRD370F,DRD370F - Flatfish eaten during past 30 days,.,Missing,4692,DRD370F_.,DRD370F_Missing
+DRD370FQ,DRD370FQ - # of times flatfish eaten past 30 days,1 to 21,Range of Values,257,DRD370FQ_1 to 21,DRD370FQ_Range of Values
+DRD370FQ,DRD370FQ - # of times flatfish eaten past 30 days,.,Missing,9556,DRD370FQ_.,DRD370FQ_Missing
+DRD370G,DRD370G - Haddock eaten during past 30 days,1,Yes,192,DRD370G_1,DRD370G_Yes
+DRD370G,DRD370G - Haddock eaten during past 30 days,2,No,4929,DRD370G_2,DRD370G_No
+DRD370G,DRD370G - Haddock eaten during past 30 days,.,Missing,4692,DRD370G_.,DRD370G_Missing
+DRD370GQ,DRD370GQ - # of times haddock eaten in past 30 days,1 to 12,Range of Values,192,DRD370GQ_1 to 12,DRD370GQ_Range of Values
+DRD370GQ,DRD370GQ - # of times haddock eaten in past 30 days,.,Missing,9621,DRD370GQ_.,DRD370GQ_Missing
+DRD370H,DRD370H - Mackerel eaten during past 30 days,1,Yes,96,DRD370H_1,DRD370H_Yes
+DRD370H,DRD370H - Mackerel eaten during past 30 days,2,No,5025,DRD370H_2,DRD370H_No
+DRD370H,DRD370H - Mackerel eaten during past 30 days,.,Missing,4692,DRD370H_.,DRD370H_Missing
+DRD370HQ,DRD370HQ - # of times mackerel eaten past 30 days,1 to 14,Range of Values,96,DRD370HQ_1 to 14,DRD370HQ_Range of Values
+DRD370HQ,DRD370HQ - # of times mackerel eaten past 30 days,.,Missing,9717,DRD370HQ_.,DRD370HQ_Missing
+DRD370I,DRD370I - Perch eaten during past 30 days,1,Yes,108,DRD370I_1,DRD370I_Yes
+DRD370I,DRD370I - Perch eaten during past 30 days,2,No,5013,DRD370I_2,DRD370I_No
+DRD370I,DRD370I - Perch eaten during past 30 days,.,Missing,4692,DRD370I_.,DRD370I_Missing
+DRD370IQ,DRD370IQ - # of times perch eaten in past 30 days,1 to 5,Range of Values,108,DRD370IQ_1 to 5,DRD370IQ_Range of Values
+DRD370IQ,DRD370IQ - # of times perch eaten in past 30 days,.,Missing,9705,DRD370IQ_.,DRD370IQ_Missing
+DRD370J,DRD370J - Pike eaten during past 30 days,1,Yes,12,DRD370J_1,DRD370J_Yes
+DRD370J,DRD370J - Pike eaten during past 30 days,2,No,5109,DRD370J_2,DRD370J_No
+DRD370J,DRD370J - Pike eaten during past 30 days,.,Missing,4692,DRD370J_.,DRD370J_Missing
+DRD370JQ,DRD370JQ - # of times pike eaten in past 30 days,1 to 3,Range of Values,12,DRD370JQ_1 to 3,DRD370JQ_Range of Values
+DRD370JQ,DRD370JQ - # of times pike eaten in past 30 days,.,Missing,9801,DRD370JQ_.,DRD370JQ_Missing
+DRD370K,DRD370K - Pollock eaten during past 30 days,1,Yes,147,DRD370K_1,DRD370K_Yes
+DRD370K,DRD370K - Pollock eaten during past 30 days,2,No,4974,DRD370K_2,DRD370K_No
+DRD370K,DRD370K - Pollock eaten during past 30 days,.,Missing,4692,DRD370K_.,DRD370K_Missing
+DRD370KQ,DRD370KQ - # of times pollock eaten in past 30 days,1 to 16,Range of Values,147,DRD370KQ_1 to 16,DRD370KQ_Range of Values
+DRD370KQ,DRD370KQ - # of times pollock eaten in past 30 days,.,Missing,9666,DRD370KQ_.,DRD370KQ_Missing
+DRD370L,DRD370L - Porgy eaten during past 30 days,1,Yes,35,DRD370L_1,DRD370L_Yes
+DRD370L,DRD370L - Porgy eaten during past 30 days,2,No,5086,DRD370L_2,DRD370L_No
+DRD370L,DRD370L - Porgy eaten during past 30 days,.,Missing,4692,DRD370L_.,DRD370L_Missing
+DRD370LQ,DRD370LQ - # of times porgy eaten in past 30 days,1 to 7,Range of Values,35,DRD370LQ_1 to 7,DRD370LQ_Range of Values
+DRD370LQ,DRD370LQ - # of times porgy eaten in past 30 days,.,Missing,9778,DRD370LQ_.,DRD370LQ_Missing
+DRD370M,DRD370M - Salmon eaten during past 30 days,1,Yes,1774,DRD370M_1,DRD370M_Yes
+DRD370M,DRD370M - Salmon eaten during past 30 days,2,No,3347,DRD370M_2,DRD370M_No
+DRD370M,DRD370M - Salmon eaten during past 30 days,.,Missing,4692,DRD370M_.,DRD370M_Missing
+DRD370MQ,DRD370MQ - # of times salmon eaten in past 30 days,1 to 28,Range of Values,1774,DRD370MQ_1 to 28,DRD370MQ_Range of Values
+DRD370MQ,DRD370MQ - # of times salmon eaten in past 30 days,.,Missing,8039,DRD370MQ_.,DRD370MQ_Missing
+DRD370N,DRD370N - Sardines eaten during past 30 days,1,Yes,215,DRD370N_1,DRD370N_Yes
+DRD370N,DRD370N - Sardines eaten during past 30 days,2,No,4906,DRD370N_2,DRD370N_No
+DRD370N,DRD370N - Sardines eaten during past 30 days,.,Missing,4692,DRD370N_.,DRD370N_Missing
+DRD370NQ,DRD370NQ - # of times sardines eaten past 30 days,1 to 25,Range of Values,215,DRD370NQ_1 to 25,DRD370NQ_Range of Values
+DRD370NQ,DRD370NQ - # of times sardines eaten past 30 days,.,Missing,9598,DRD370NQ_.,DRD370NQ_Missing
+DRD370O,DRD370O - Sea bass eaten during past 30 days,1,Yes,87,DRD370O_1,DRD370O_Yes
+DRD370O,DRD370O - Sea bass eaten during past 30 days,2,No,5034,DRD370O_2,DRD370O_No
+DRD370O,DRD370O - Sea bass eaten during past 30 days,.,Missing,4692,DRD370O_.,DRD370O_Missing
+DRD370OQ,DRD370OQ - # of times sea bass eaten past 30 days,1 to 8,Range of Values,87,DRD370OQ_1 to 8,DRD370OQ_Range of Values
+DRD370OQ,DRD370OQ - # of times sea bass eaten past 30 days,.,Missing,9726,DRD370OQ_.,DRD370OQ_Missing
+DRD370P,DRD370P - Shark eaten during past 30 days,1,Yes,10,DRD370P_1,DRD370P_Yes
+DRD370P,DRD370P - Shark eaten during past 30 days,2,No,5111,DRD370P_2,DRD370P_No
+DRD370P,DRD370P - Shark eaten during past 30 days,.,Missing,4692,DRD370P_.,DRD370P_Missing
+DRD370PQ,DRD370PQ - # of times shark eaten in past 30 days,1 to 3,Range of Values,10,DRD370PQ_1 to 3,DRD370PQ_Range of Values
+DRD370PQ,DRD370PQ - # of times shark eaten in past 30 days,.,Missing,9803,DRD370PQ_.,DRD370PQ_Missing
+DRD370Q,DRD370Q - Swordfish eaten during past 30 days,1,Yes,61,DRD370Q_1,DRD370Q_Yes
+DRD370Q,DRD370Q - Swordfish eaten during past 30 days,2,No,5060,DRD370Q_2,DRD370Q_No
+DRD370Q,DRD370Q - Swordfish eaten during past 30 days,.,Missing,4692,DRD370Q_.,DRD370Q_Missing
+DRD370QQ,DRD370QQ - # of times swordfish eaten past 30 days,1 to 10,Range of Values,61,DRD370QQ_1 to 10,DRD370QQ_Range of Values
+DRD370QQ,DRD370QQ - # of times swordfish eaten past 30 days,.,Missing,9752,DRD370QQ_.,DRD370QQ_Missing
+DRD370R,DRD370R - Trout eaten during past 30 days,1,Yes,171,DRD370R_1,DRD370R_Yes
+DRD370R,DRD370R - Trout eaten during past 30 days,2,No,4950,DRD370R_2,DRD370R_No
+DRD370R,DRD370R - Trout eaten during past 30 days,.,Missing,4692,DRD370R_.,DRD370R_Missing
+DRD370RQ,DRD370RQ - # of times trout eaten in past 30 days,1 to 8,Range of Values,171,DRD370RQ_1 to 8,DRD370RQ_Range of Values
+DRD370RQ,DRD370RQ - # of times trout eaten in past 30 days,.,Missing,9642,DRD370RQ_.,DRD370RQ_Missing
+DRD370S,DRD370S - Walleye eaten during past 30 days,1,Yes,27,DRD370S_1,DRD370S_Yes
+DRD370S,DRD370S - Walleye eaten during past 30 days,2,No,5094,DRD370S_2,DRD370S_No
+DRD370S,DRD370S - Walleye eaten during past 30 days,.,Missing,4692,DRD370S_.,DRD370S_Missing
+DRD370SQ,DRD370SQ - # of times walleye eaten in past 30 days,1 to 10,Range of Values,27,DRD370SQ_1 to 10,DRD370SQ_Range of Values
+DRD370SQ,DRD370SQ - # of times walleye eaten in past 30 days,.,Missing,9786,DRD370SQ_.,DRD370SQ_Missing
+DRD370T,DRD370T - Other fish eaten during past 30 days,1,Yes,1318,DRD370T_1,DRD370T_Yes
+DRD370T,DRD370T - Other fish eaten during past 30 days,2,No,3803,DRD370T_2,DRD370T_No
+DRD370T,DRD370T - Other fish eaten during past 30 days,.,Missing,4692,DRD370T_.,DRD370T_Missing
+DRD370TQ,DRD370TQ - # of times other fish eaten past 30 days,1 to 30,Range of Values,1318,DRD370TQ_1 to 30,DRD370TQ_Range of Values
+DRD370TQ,DRD370TQ - # of times other fish eaten past 30 days,.,Missing,8495,DRD370TQ_.,DRD370TQ_Missing
+DRD370U,DRD370U - Other unknown fish eaten in past 30 days,1,Yes,317,DRD370U_1,DRD370U_Yes
+DRD370U,DRD370U - Other unknown fish eaten in past 30 days,2,No,4804,DRD370U_2,DRD370U_No
+DRD370U,DRD370U - Other unknown fish eaten in past 30 days,.,Missing,4692,DRD370U_.,DRD370U_Missing
+DRD370UQ,DRD370UQ - # of times other unknown fish eaten,1 to 30,Range of Values,317,DRD370UQ_1 to 30,DRD370UQ_Range of Values
+DRD370UQ,DRD370UQ - # of times other unknown fish eaten,.,Missing,9496,DRD370UQ_.,DRD370UQ_Missing
+DRD370V,DRD370V - Refused on fish eaten past 30 days,1,Yes,0,DRD370V_1,DRD370V_Yes
+DRD370V,DRD370V - Refused on fish eaten past 30 days,2,No,5120,DRD370V_2,DRD370V_No
+DRD370V,DRD370V - Refused on fish eaten past 30 days,.,Missing,4693,DRD370V_.,DRD370V_Missing
