@@ -1,0 +1,251 @@
+short_title,title,code or value,description,count,Lookup,Column
+SDDSRVYR,SDDSRVYR - Data release cycle,8,NHANES 2013-2014 public release,10175,SDDSRVYR_8,SDDSRVYR_NHANES 2013-2014 public release
+SDDSRVYR,SDDSRVYR - Data release cycle,.,Missing,0,SDDSRVYR_.,SDDSRVYR_Missing
+RIDSTATR,RIDSTATR - Interview/Examination status,1,Interviewed only,362,RIDSTATR_1,RIDSTATR_Interviewed only
+RIDSTATR,RIDSTATR - Interview/Examination status,2,Both interviewed and MEC examined,9813,RIDSTATR_2,RIDSTATR_Both interviewed and MEC examined
+RIDSTATR,RIDSTATR - Interview/Examination status,.,Missing,0,RIDSTATR_.,RIDSTATR_Missing
+RIAGENDR,RIAGENDR - Gender,1,Male,5003,RIAGENDR_1,RIAGENDR_Male
+RIAGENDR,RIAGENDR - Gender,2,Female,5172,RIAGENDR_2,RIAGENDR_Female
+RIAGENDR,RIAGENDR - Gender,.,Missing,0,RIAGENDR_.,RIAGENDR_Missing
+RIDAGEYR,RIDAGEYR - Age in years at screening ,0 to 79,Range of Values,9823,RIDAGEYR_0 to 79,RIDAGEYR_Range of Values
+RIDAGEYR,RIDAGEYR - Age in years at screening ,80,80 years of age and over,352,RIDAGEYR_80,RIDAGEYR_80 years of age and over
+RIDAGEYR,RIDAGEYR - Age in years at screening ,.,Missing,0,RIDAGEYR_.,RIDAGEYR_Missing
+RIDAGEMN,RIDAGEMN - Age in months at screening - 0 to 24 mos,0 to 24,Range of Values,673,RIDAGEMN_0 to 24,RIDAGEMN_Range of Values
+RIDAGEMN,RIDAGEMN - Age in months at screening - 0 to 24 mos,.,Missing,9502,RIDAGEMN_.,RIDAGEMN_Missing
+RIDRETH1,RIDRETH1 - Race/Hispanic origin,1,Mexican American,1730,RIDRETH1_1,RIDRETH1_Mexican American
+RIDRETH1,RIDRETH1 - Race/Hispanic origin,2,Other Hispanic,960,RIDRETH1_2,RIDRETH1_Other Hispanic
+RIDRETH1,RIDRETH1 - Race/Hispanic origin,3,Non-Hispanic White,3674,RIDRETH1_3,RIDRETH1_Non-Hispanic White
+RIDRETH1,RIDRETH1 - Race/Hispanic origin,4,Non-Hispanic Black,2267,RIDRETH1_4,RIDRETH1_Non-Hispanic Black
+RIDRETH1,RIDRETH1 - Race/Hispanic origin,5,Other Race - Including Multi-Racial,1544,RIDRETH1_5,RIDRETH1_Other Race - Including Multi-Racial
+RIDRETH1,RIDRETH1 - Race/Hispanic origin,.,Missing,0,RIDRETH1_.,RIDRETH1_Missing
+RIDRETH3,RIDRETH3 - Race/Hispanic origin w/ NH Asian,1,Mexican American,1730,RIDRETH3_1,RIDRETH3_Mexican American
+RIDRETH3,RIDRETH3 - Race/Hispanic origin w/ NH Asian,2,Other Hispanic,960,RIDRETH3_2,RIDRETH3_Other Hispanic
+RIDRETH3,RIDRETH3 - Race/Hispanic origin w/ NH Asian,3,Non-Hispanic White,3674,RIDRETH3_3,RIDRETH3_Non-Hispanic White
+RIDRETH3,RIDRETH3 - Race/Hispanic origin w/ NH Asian,4,Non-Hispanic Black,2267,RIDRETH3_4,RIDRETH3_Non-Hispanic Black
+RIDRETH3,RIDRETH3 - Race/Hispanic origin w/ NH Asian,6,Non-Hispanic Asian,1074,RIDRETH3_6,RIDRETH3_Non-Hispanic Asian
+RIDRETH3,RIDRETH3 - Race/Hispanic origin w/ NH Asian,7,Other Race - Including Multi-Racial,470,RIDRETH3_7,RIDRETH3_Other Race - Including Multi-Racial
+RIDRETH3,RIDRETH3 - Race/Hispanic origin w/ NH Asian,.,Missing,0,RIDRETH3_.,RIDRETH3_Missing
+RIDEXMON,RIDEXMON - Six month time period,1,November 1 through April 30,4823,RIDEXMON_1,RIDEXMON_November 1 through April 30
+RIDEXMON,RIDEXMON - Six month time period,2,May 1 through October 31,4990,RIDEXMON_2,RIDEXMON_May 1 through October 31
+RIDEXMON,RIDEXMON - Six month time period,.,Missing,362,RIDEXMON_.,RIDEXMON_Missing
+RIDEXAGM,RIDEXAGM - Age in months at exam - 0 to 19 years,0 to 239,Range of Values,4213,RIDEXAGM_0 to 239,RIDEXAGM_Range of Values
+RIDEXAGM,RIDEXAGM - Age in months at exam - 0 to 19 years,.,Missing,5962,RIDEXAGM_.,RIDEXAGM_Missing
+DMQMILIZ,DMQMILIZ - Served active duty in US Armed Forces,1,Yes,543,DMQMILIZ_1,DMQMILIZ_Yes
+DMQMILIZ,DMQMILIZ - Served active duty in US Armed Forces,2,No,5717,DMQMILIZ_2,DMQMILIZ_No
+DMQMILIZ,DMQMILIZ - Served active duty in US Armed Forces,7,Refused,1,DMQMILIZ_7,DMQMILIZ_Refused
+DMQMILIZ,DMQMILIZ - Served active duty in US Armed Forces,9,Don't Know,0,DMQMILIZ_9,DMQMILIZ_Don't Know
+DMQMILIZ,DMQMILIZ - Served active duty in US Armed Forces,.,Missing,3914,DMQMILIZ_.,DMQMILIZ_Missing
+DMQADFC,DMQADFC - Served in a foreign country,1,Yes,282,DMQADFC_1,DMQADFC_Yes
+DMQADFC,DMQADFC - Served in a foreign country,2,No,260,DMQADFC_2,DMQADFC_No
+DMQADFC,DMQADFC - Served in a foreign country,7,Refused,0,DMQADFC_7,DMQADFC_Refused
+DMQADFC,DMQADFC - Served in a foreign country,9,Don't Know,1,DMQADFC_9,DMQADFC_Don't Know
+DMQADFC,DMQADFC - Served in a foreign country,.,Missing,9632,DMQADFC_.,DMQADFC_Missing
+DMDBORN4,DMDBORN4 - Country of birth,1,"Born in 50 US states or Washington, DC",8262,DMDBORN4_1,"DMDBORN4_Born in 50 US states or Washington, DC"
+DMDBORN4,DMDBORN4 - Country of birth,2,Others,1908,DMDBORN4_2,DMDBORN4_Others
+DMDBORN4,DMDBORN4 - Country of birth,77,Refused,4,DMDBORN4_77,DMDBORN4_Refused
+DMDBORN4,DMDBORN4 - Country of birth,99,Don't Know,1,DMDBORN4_99,DMDBORN4_Don't Know
+DMDBORN4,DMDBORN4 - Country of birth,.,Missing,0,DMDBORN4_.,DMDBORN4_Missing
+DMDCITZN,DMDCITZN - Citizenship status,1,Citizen by birth or naturalization,9220,DMDCITZN_1,DMDCITZN_Citizen by birth or naturalization
+DMDCITZN,DMDCITZN - Citizenship status,2,Not a citizen of the US,944,DMDCITZN_2,DMDCITZN_Not a citizen of the US
+DMDCITZN,DMDCITZN - Citizenship status,7,Refused,4,DMDCITZN_7,DMDCITZN_Refused
+DMDCITZN,DMDCITZN - Citizenship status,9,Don't Know,3,DMDCITZN_9,DMDCITZN_Don't Know
+DMDCITZN,DMDCITZN - Citizenship status,.,Missing,4,DMDCITZN_.,DMDCITZN_Missing
+DMDYRSUS,DMDYRSUS - Length of time in US,1,Less than 1 year,70,DMDYRSUS_1,DMDYRSUS_Less than 1 year
+DMDYRSUS,DMDYRSUS - Length of time in US,2,"1 year or more, but less than 5 years",170,DMDYRSUS_2,"DMDYRSUS_1 year or more, but less than 5 years"
+DMDYRSUS,DMDYRSUS - Length of time in US,3,"5 year or more, but less than 10 years",234,DMDYRSUS_3,"DMDYRSUS_5 year or more, but less than 10 years"
+DMDYRSUS,DMDYRSUS - Length of time in US,4,"10 year or more, but less than 15 years",298,DMDYRSUS_4,"DMDYRSUS_10 year or more, but less than 15 years"
+DMDYRSUS,DMDYRSUS - Length of time in US,5,"15 year or more, but less than 20 years",210,DMDYRSUS_5,"DMDYRSUS_15 year or more, but less than 20 years"
+DMDYRSUS,DMDYRSUS - Length of time in US,6,"20 year or more, but less than 30 years",342,DMDYRSUS_6,"DMDYRSUS_20 year or more, but less than 30 years"
+DMDYRSUS,DMDYRSUS - Length of time in US,7,"30 year or more, but less than 40 years",246,DMDYRSUS_7,"DMDYRSUS_30 year or more, but less than 40 years"
+DMDYRSUS,DMDYRSUS - Length of time in US,8,"40 year or more, but less than 50 years",146,DMDYRSUS_8,"DMDYRSUS_40 year or more, but less than 50 years"
+DMDYRSUS,DMDYRSUS - Length of time in US,9,50 years or more,106,DMDYRSUS_9,DMDYRSUS_50 years or more
+DMDYRSUS,DMDYRSUS - Length of time in US,77,Refused,41,DMDYRSUS_77,DMDYRSUS_Refused
+DMDYRSUS,DMDYRSUS - Length of time in US,99,Don't Know,45,DMDYRSUS_99,DMDYRSUS_Don't Know
+DMDYRSUS,DMDYRSUS - Length of time in US,.,Missing,8267,DMDYRSUS_.,DMDYRSUS_Missing
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,0,Never attended / kindergarten only,277,DMDEDUC3_0,DMDEDUC3_Never attended / kindergarten only
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,1,1st grade,237,DMDEDUC3_1,DMDEDUC3_1st grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,2,2nd grade,231,DMDEDUC3_2,DMDEDUC3_2nd grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,3,3rd grade,215,DMDEDUC3_3,DMDEDUC3_3rd grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,4,4th grade,234,DMDEDUC3_4,DMDEDUC3_4th grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,5,5th grade,212,DMDEDUC3_5,DMDEDUC3_5th grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,6,6th grade,178,DMDEDUC3_6,DMDEDUC3_6th grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,7,7th grade,203,DMDEDUC3_7,DMDEDUC3_7th grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,8,8th grade,189,DMDEDUC3_8,DMDEDUC3_8th grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,9,9th grade,194,DMDEDUC3_9,DMDEDUC3_9th grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,10,10th grade,162,DMDEDUC3_10,DMDEDUC3_10th grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,11,11th grade,186,DMDEDUC3_11,DMDEDUC3_11th grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,12,"12th grade, no diploma",45,DMDEDUC3_12,"DMDEDUC3_12th grade, no diploma"
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,13,High school graduate,137,DMDEDUC3_13,DMDEDUC3_High school graduate
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,14,GED or equivalent,9,DMDEDUC3_14,DMDEDUC3_GED or equivalent
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,15,More than high school,81,DMDEDUC3_15,DMDEDUC3_More than high school
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,55,Less than 5th grade,3,DMDEDUC3_55,DMDEDUC3_Less than 5th grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,66,Less than 9th grade,9,DMDEDUC3_66,DMDEDUC3_Less than 9th grade
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,77,Refused,0,DMDEDUC3_77,DMDEDUC3_Refused
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,99,Don't Know,1,DMDEDUC3_99,DMDEDUC3_Don't Know
+DMDEDUC3,DMDEDUC3 - Education level - Children/Youth 6-19,.,Missing,7372,DMDEDUC3_.,DMDEDUC3_Missing
+DMDEDUC2,DMDEDUC2 - Education level - Adults 20+,1,Less than 9th grade,455,DMDEDUC2_1,DMDEDUC2_Less than 9th grade
+DMDEDUC2,DMDEDUC2 - Education level - Adults 20+,2,9-11th grade (Includes 12th grade with no diploma),791,DMDEDUC2_2,DMDEDUC2_9-11th grade (Includes 12th grade with no diploma)
+DMDEDUC2,DMDEDUC2 - Education level - Adults 20+,3,High school graduate/GED or equivalent,1303,DMDEDUC2_3,DMDEDUC2_High school graduate/GED or equivalent
+DMDEDUC2,DMDEDUC2 - Education level - Adults 20+,4,Some college or AA degree,1770,DMDEDUC2_4,DMDEDUC2_Some college or AA degree
+DMDEDUC2,DMDEDUC2 - Education level - Adults 20+,5,College graduate or above,1443,DMDEDUC2_5,DMDEDUC2_College graduate or above
+DMDEDUC2,DMDEDUC2 - Education level - Adults 20+,7,Refused,2,DMDEDUC2_7,DMDEDUC2_Refused
+DMDEDUC2,DMDEDUC2 - Education level - Adults 20+,9,Don't Know,5,DMDEDUC2_9,DMDEDUC2_Don't Know
+DMDEDUC2,DMDEDUC2 - Education level - Adults 20+,.,Missing,4406,DMDEDUC2_.,DMDEDUC2_Missing
+DMDMARTL,DMDMARTL - Marital status,1,Married,2965,DMDMARTL_1,DMDMARTL_Married
+DMDMARTL,DMDMARTL - Marital status,2,Widowed,436,DMDMARTL_2,DMDMARTL_Widowed
+DMDMARTL,DMDMARTL - Marital status,3,Divorced,659,DMDMARTL_3,DMDMARTL_Divorced
+DMDMARTL,DMDMARTL - Marital status,4,Separated,177,DMDMARTL_4,DMDMARTL_Separated
+DMDMARTL,DMDMARTL - Marital status,5,Never married,1112,DMDMARTL_5,DMDMARTL_Never married
+DMDMARTL,DMDMARTL - Marital status,6,Living with partner,417,DMDMARTL_6,DMDMARTL_Living with partner
+DMDMARTL,DMDMARTL - Marital status,77,Refused,2,DMDMARTL_77,DMDMARTL_Refused
+DMDMARTL,DMDMARTL - Marital status,99,Don't Know,1,DMDMARTL_99,DMDMARTL_Don't Know
+DMDMARTL,DMDMARTL - Marital status,.,Missing,4406,DMDMARTL_.,DMDMARTL_Missing
+RIDEXPRG,RIDEXPRG - Pregnancy status at exam,1,"Yes, positive lab pregnancy test or self-reported pregnant at exam",65,RIDEXPRG_1,"RIDEXPRG_Yes, positive lab pregnancy test or self-reported pregnant at exam"
+RIDEXPRG,RIDEXPRG - Pregnancy status at exam,2,The participant was not pregnant at exam,1150,RIDEXPRG_2,RIDEXPRG_The participant was not pregnant at exam
+RIDEXPRG,RIDEXPRG - Pregnancy status at exam,3,Cannot ascertain if the participant is pregnant at exam,94,RIDEXPRG_3,RIDEXPRG_Cannot ascertain if the participant is pregnant at exam
+RIDEXPRG,RIDEXPRG - Pregnancy status at exam,.,Missing,8866,RIDEXPRG_.,RIDEXPRG_Missing
+SIALANG,SIALANG - Language of SP Interview,1,English,9100,SIALANG_1,SIALANG_English
+SIALANG,SIALANG - Language of SP Interview,2,Spanish,1075,SIALANG_2,SIALANG_Spanish
+SIALANG,SIALANG - Language of SP Interview,.,Missing,0,SIALANG_.,SIALANG_Missing
+SIAPROXY,SIAPROXY - Proxy used in SP Interview?,1,Yes,3757,SIAPROXY_1,SIAPROXY_Yes
+SIAPROXY,SIAPROXY - Proxy used in SP Interview?,2,No,6417,SIAPROXY_2,SIAPROXY_No
+SIAPROXY,SIAPROXY - Proxy used in SP Interview?,.,Missing,1,SIAPROXY_.,SIAPROXY_Missing
+SIAINTRP,SIAINTRP - Interpreter used in SP Interview?,1,Yes,342,SIAINTRP_1,SIAINTRP_Yes
+SIAINTRP,SIAINTRP - Interpreter used in SP Interview?,2,No,9833,SIAINTRP_2,SIAINTRP_No
+SIAINTRP,SIAINTRP - Interpreter used in SP Interview?,.,Missing,0,SIAINTRP_.,SIAINTRP_Missing
+FIALANG,FIALANG - Language of Family Interview,1,English,9417,FIALANG_1,FIALANG_English
+FIALANG,FIALANG - Language of Family Interview,2,Spanish,637,FIALANG_2,FIALANG_Spanish
+FIALANG,FIALANG - Language of Family Interview,.,Missing,121,FIALANG_.,FIALANG_Missing
+FIAPROXY,FIAPROXY - Proxy used in Family Interview?,1,Yes,13,FIAPROXY_1,FIAPROXY_Yes
+FIAPROXY,FIAPROXY - Proxy used in Family Interview?,2,No,10041,FIAPROXY_2,FIAPROXY_No
+FIAPROXY,FIAPROXY - Proxy used in Family Interview?,.,Missing,121,FIAPROXY_.,FIAPROXY_Missing
+FIAINTRP,FIAINTRP - Interpreter used in Family Interview?,1,Yes,311,FIAINTRP_1,FIAINTRP_Yes
+FIAINTRP,FIAINTRP - Interpreter used in Family Interview?,2,No,9743,FIAINTRP_2,FIAINTRP_No
+FIAINTRP,FIAINTRP - Interpreter used in Family Interview?,.,Missing,121,FIAINTRP_.,FIAINTRP_Missing
+MIALANG,MIALANG - Language of MEC Interview,1,English,6904,MIALANG_1,MIALANG_English
+MIALANG,MIALANG - Language of MEC Interview,2,Spanish,407,MIALANG_2,MIALANG_Spanish
+MIALANG,MIALANG - Language of MEC Interview,.,Missing,2864,MIALANG_.,MIALANG_Missing
+MIAPROXY,MIAPROXY - Proxy used in MEC Interview?,1,Yes,48,MIAPROXY_1,MIAPROXY_Yes
+MIAPROXY,MIAPROXY - Proxy used in MEC Interview?,2,No,7264,MIAPROXY_2,MIAPROXY_No
+MIAPROXY,MIAPROXY - Proxy used in MEC Interview?,.,Missing,2863,MIAPROXY_.,MIAPROXY_Missing
+MIAINTRP,MIAINTRP - Interpreter used in MEC Interview?,1,Yes,247,MIAINTRP_1,MIAINTRP_Yes
+MIAINTRP,MIAINTRP - Interpreter used in MEC Interview?,2,No,7066,MIAINTRP_2,MIAINTRP_No
+MIAINTRP,MIAINTRP - Interpreter used in MEC Interview?,.,Missing,2862,MIAINTRP_.,MIAINTRP_Missing
+AIALANGA,AIALANGA - Language of ACASI Interview,1,English,5762,AIALANGA_1,AIALANGA_English
+AIALANGA,AIALANGA - Language of ACASI Interview,2,Spanish,482,AIALANGA_2,AIALANGA_Spanish
+AIALANGA,AIALANGA - Language of ACASI Interview,3,Asian languages,73,AIALANGA_3,AIALANGA_Asian languages
+AIALANGA,AIALANGA - Language of ACASI Interview,.,Missing,3858,AIALANGA_.,AIALANGA_Missing
+DMDHHSIZ,DMDHHSIZ - Total number of people in the Household,1,1,817,DMDHHSIZ_1,DMDHHSIZ_1
+DMDHHSIZ,DMDHHSIZ - Total number of people in the Household,2,2,1787,DMDHHSIZ_2,DMDHHSIZ_2
+DMDHHSIZ,DMDHHSIZ - Total number of people in the Household,3,3,1779,DMDHHSIZ_3,DMDHHSIZ_3
+DMDHHSIZ,DMDHHSIZ - Total number of people in the Household,4,4,2100,DMDHHSIZ_4,DMDHHSIZ_4
+DMDHHSIZ,DMDHHSIZ - Total number of people in the Household,5,5,1781,DMDHHSIZ_5,DMDHHSIZ_5
+DMDHHSIZ,DMDHHSIZ - Total number of people in the Household,6,6,985,DMDHHSIZ_6,DMDHHSIZ_6
+DMDHHSIZ,DMDHHSIZ - Total number of people in the Household,7,7 or more people in the Household,926,DMDHHSIZ_7,DMDHHSIZ_7 or more people in the Household
+DMDHHSIZ,DMDHHSIZ - Total number of people in the Household,.,Missing,0,DMDHHSIZ_.,DMDHHSIZ_Missing
+DMDFMSIZ,DMDFMSIZ - Total number of people in the Family,1,1,1297,DMDFMSIZ_1,DMDFMSIZ_1
+DMDFMSIZ,DMDFMSIZ - Total number of people in the Family,2,2,1610,DMDFMSIZ_2,DMDFMSIZ_2
+DMDFMSIZ,DMDFMSIZ - Total number of people in the Family,3,3,1737,DMDFMSIZ_3,DMDFMSIZ_3
+DMDFMSIZ,DMDFMSIZ - Total number of people in the Family,4,4,2027,DMDFMSIZ_4,DMDFMSIZ_4
+DMDFMSIZ,DMDFMSIZ - Total number of people in the Family,5,5,1723,DMDFMSIZ_5,DMDFMSIZ_5
+DMDFMSIZ,DMDFMSIZ - Total number of people in the Family,6,6,961,DMDFMSIZ_6,DMDFMSIZ_6
+DMDFMSIZ,DMDFMSIZ - Total number of people in the Family,7,7 or more people in the Family,820,DMDFMSIZ_7,DMDFMSIZ_7 or more people in the Family
+DMDFMSIZ,DMDFMSIZ - Total number of people in the Family,.,Missing,0,DMDFMSIZ_.,DMDFMSIZ_Missing
+DMDHHSZA,DMDHHSZA - # of children 5 years or younger in HH,0,0,6417,DMDHHSZA_0,DMDHHSZA_0
+DMDHHSZA,DMDHHSZA - # of children 5 years or younger in HH,1,1,2341,DMDHHSZA_1,DMDHHSZA_1
+DMDHHSZA,DMDHHSZA - # of children 5 years or younger in HH,2,2,1068,DMDHHSZA_2,DMDHHSZA_2
+DMDHHSZA,DMDHHSZA - # of children 5 years or younger in HH,3,3 or more,349,DMDHHSZA_3,DMDHHSZA_3 or more
+DMDHHSZA,DMDHHSZA - # of children 5 years or younger in HH,.,Missing,0,DMDHHSZA_.,DMDHHSZA_Missing
+DMDHHSZB,DMDHHSZB - # of children 6-17 years old in HH,0,0,4907,DMDHHSZB_0,DMDHHSZB_0
+DMDHHSZB,DMDHHSZB - # of children 6-17 years old in HH,1,1,2099,DMDHHSZB_1,DMDHHSZB_1
+DMDHHSZB,DMDHHSZB - # of children 6-17 years old in HH,2,2,1814,DMDHHSZB_2,DMDHHSZB_2
+DMDHHSZB,DMDHHSZB - # of children 6-17 years old in HH,3,3,887,DMDHHSZB_3,DMDHHSZB_3
+DMDHHSZB,DMDHHSZB - # of children 6-17 years old in HH,4,4 or more,468,DMDHHSZB_4,DMDHHSZB_4 or more
+DMDHHSZB,DMDHHSZB - # of children 6-17 years old in HH,.,Missing,0,DMDHHSZB_.,DMDHHSZB_Missing
+DMDHHSZE,DMDHHSZE - # of adults 60 years or older in HH,0,0,7384,DMDHHSZE_0,DMDHHSZE_0
+DMDHHSZE,DMDHHSZE - # of adults 60 years or older in HH,1,1,1612,DMDHHSZE_1,DMDHHSZE_1
+DMDHHSZE,DMDHHSZE - # of adults 60 years or older in HH,2,2,1114,DMDHHSZE_2,DMDHHSZE_2
+DMDHHSZE,DMDHHSZE - # of adults 60 years or older in HH,3,3 or more,65,DMDHHSZE_3,DMDHHSZE_3 or more
+DMDHHSZE,DMDHHSZE - # of adults 60 years or older in HH,.,Missing,0,DMDHHSZE_.,DMDHHSZE_Missing
+DMDHRGND,DMDHRGND - HH ref person's gender,1,Male,5088,DMDHRGND_1,DMDHRGND_Male
+DMDHRGND,DMDHRGND - HH ref person's gender,2,Female,5087,DMDHRGND_2,DMDHRGND_Female
+DMDHRGND,DMDHRGND - HH ref person's gender,.,Missing,0,DMDHRGND_.,DMDHRGND_Missing
+DMDHRAGE,DMDHRAGE - HH ref person's age in years,18 to 79,Range of Values,9815,DMDHRAGE_18 to 79,DMDHRAGE_Range of Values
+DMDHRAGE,DMDHRAGE - HH ref person's age in years,80,80 years of age and over,360,DMDHRAGE_80,DMDHRAGE_80 years of age and over
+DMDHRAGE,DMDHRAGE - HH ref person's age in years,.,Missing,0,DMDHRAGE_.,DMDHRAGE_Missing
+DMDHRBR4,DMDHRBR4 - HH ref person's country of birth,1,"Born in 50 US states or Washington, DC",6894,DMDHRBR4_1,"DMDHRBR4_Born in 50 US states or Washington, DC"
+DMDHRBR4,DMDHRBR4 - HH ref person's country of birth,2,Others,2972,DMDHRBR4_2,DMDHRBR4_Others
+DMDHRBR4,DMDHRBR4 - HH ref person's country of birth,77,Refused,12,DMDHRBR4_77,DMDHRBR4_Refused
+DMDHRBR4,DMDHRBR4 - HH ref person's country of birth,99,Don't Know,0,DMDHRBR4_99,DMDHRBR4_Don't Know
+DMDHRBR4,DMDHRBR4 - HH ref person's country of birth,.,Missing,297,DMDHRBR4_.,DMDHRBR4_Missing
+DMDHREDU,DMDHREDU - HH ref person's education level,1,Less Than 9th Grade,785,DMDHREDU_1,DMDHREDU_Less Than 9th Grade
+DMDHREDU,DMDHREDU - HH ref person's education level,2,9-11th Grade (Includes 12th grade with no diploma),1405,DMDHREDU_2,DMDHREDU_9-11th Grade (Includes 12th grade with no diploma)
+DMDHREDU,DMDHREDU - HH ref person's education level,3,High School Grad/GED or Equivalent,2282,DMDHREDU_3,DMDHREDU_High School Grad/GED or Equivalent
+DMDHREDU,DMDHREDU - HH ref person's education level,4,Some College or AA degree,2969,DMDHREDU_4,DMDHREDU_Some College or AA degree
+DMDHREDU,DMDHREDU - HH ref person's education level,5,College Graduate or above,2413,DMDHREDU_5,DMDHREDU_College Graduate or above
+DMDHREDU,DMDHREDU - HH ref person's education level,7,Refused,9,DMDHREDU_7,DMDHREDU_Refused
+DMDHREDU,DMDHREDU - HH ref person's education level,9,Don't Know,18,DMDHREDU_9,DMDHREDU_Don't Know
+DMDHREDU,DMDHREDU - HH ref person's education level,.,Missing,294,DMDHREDU_.,DMDHREDU_Missing
+DMDHRMAR,DMDHRMAR - HH ref person's marital status,1,Married,5843,DMDHRMAR_1,DMDHRMAR_Married
+DMDHRMAR,DMDHRMAR - HH ref person's marital status,2,Widowed,532,DMDHRMAR_2,DMDHRMAR_Widowed
+DMDHRMAR,DMDHRMAR - HH ref person's marital status,3,Divorced,1087,DMDHRMAR_3,DMDHRMAR_Divorced
+DMDHRMAR,DMDHRMAR - HH ref person's marital status,4,Separated,396,DMDHRMAR_4,DMDHRMAR_Separated
+DMDHRMAR,DMDHRMAR - HH ref person's marital status,5,Never married,1340,DMDHRMAR_5,DMDHRMAR_Never married
+DMDHRMAR,DMDHRMAR - HH ref person's marital status,6,Living with partner,801,DMDHRMAR_6,DMDHRMAR_Living with partner
+DMDHRMAR,DMDHRMAR - HH ref person's marital status,77,Refused,46,DMDHRMAR_77,DMDHRMAR_Refused
+DMDHRMAR,DMDHRMAR - HH ref person's marital status,99,Don't Know,7,DMDHRMAR_99,DMDHRMAR_Don't Know
+DMDHRMAR,DMDHRMAR - HH ref person's marital status,.,Missing,123,DMDHRMAR_.,DMDHRMAR_Missing
+DMDHSEDU,DMDHSEDU - HH ref person's spouse's education level,1,Less Than 9th Grade,496,DMDHSEDU_1,DMDHSEDU_Less Than 9th Grade
+DMDHSEDU,DMDHSEDU - HH ref person's spouse's education level,2,9-11th Grade (Includes 12th grade with no diploma),632,DMDHSEDU_2,DMDHSEDU_9-11th Grade (Includes 12th grade with no diploma)
+DMDHSEDU,DMDHSEDU - HH ref person's spouse's education level,3,High School Grad/GED or Equivalent,1063,DMDHSEDU_3,DMDHSEDU_High School Grad/GED or Equivalent
+DMDHSEDU,DMDHSEDU - HH ref person's spouse's education level,4,Some College or AA degree,1470,DMDHSEDU_4,DMDHSEDU_Some College or AA degree
+DMDHSEDU,DMDHSEDU - HH ref person's spouse's education level,5,College Graduate or above,1664,DMDHSEDU_5,DMDHSEDU_College Graduate or above
+DMDHSEDU,DMDHSEDU - HH ref person's spouse's education level,7,Refused,1,DMDHSEDU_7,DMDHSEDU_Refused
+DMDHSEDU,DMDHSEDU - HH ref person's spouse's education level,9,Don't Know,16,DMDHSEDU_9,DMDHSEDU_Don't Know
+DMDHSEDU,DMDHSEDU - HH ref person's spouse's education level,.,Missing,4833,DMDHSEDU_.,DMDHSEDU_Missing
+WTINT2YR,WTINT2YR - Full sample 2 year interview weight,3697.772098 to 167884.54371,Range of Values,10175,WTINT2YR_3697.772098 to 167884.54371,WTINT2YR_Range of Values
+WTINT2YR,WTINT2YR - Full sample 2 year interview weight,.,Missing,0,WTINT2YR_.,WTINT2YR_Missing
+WTMEC2YR,WTMEC2YR - Full sample 2 year MEC exam weight,3748.417657 to 171395.2649,Range of Values,9813,WTMEC2YR_3748.417657 to 171395.2649,WTMEC2YR_Range of Values
+WTMEC2YR,WTMEC2YR - Full sample 2 year MEC exam weight,0,Not MEC Examined,362,WTMEC2YR_0,WTMEC2YR_Not MEC Examined
+WTMEC2YR,WTMEC2YR - Full sample 2 year MEC exam weight,.,Missing,0,WTMEC2YR_.,WTMEC2YR_Missing
+SDMVPSU,SDMVPSU - Masked variance pseudo-PSU,1 to 2,Range of Values,10175,SDMVPSU_1 to 2,SDMVPSU_Range of Values
+SDMVPSU,SDMVPSU - Masked variance pseudo-PSU,.,Missing,0,SDMVPSU_.,SDMVPSU_Missing
+SDMVSTRA,SDMVSTRA - Masked variance pseudo-stratum,104 to 118,Range of Values,10175,SDMVSTRA_104 to 118,SDMVSTRA_Range of Values
+SDMVSTRA,SDMVSTRA - Masked variance pseudo-stratum,.,Missing,0,SDMVSTRA_.,SDMVSTRA_Missing
+INDHHIN2,INDHHIN2 - Annual household income,1,"$ 0 to $ 4,999",273,INDHHIN2_1,"INDHHIN2_$ 0 to $ 4,999"
+INDHHIN2,INDHHIN2 - Annual household income,2,"$ 5,000 to $ 9,999",407,INDHHIN2_2,"INDHHIN2_$ 5,000 to $ 9,999"
+INDHHIN2,INDHHIN2 - Annual household income,3,"$10,000 to $14,999",639,INDHHIN2_3,"INDHHIN2_$10,000 to $14,999"
+INDHHIN2,INDHHIN2 - Annual household income,4,"$15,000 to $19,999",658,INDHHIN2_4,"INDHHIN2_$15,000 to $19,999"
+INDHHIN2,INDHHIN2 - Annual household income,5,"$20,000 to $24,999",880,INDHHIN2_5,"INDHHIN2_$20,000 to $24,999"
+INDHHIN2,INDHHIN2 - Annual household income,6,"$25,000 to $34,999",1185,INDHHIN2_6,"INDHHIN2_$25,000 to $34,999"
+INDHHIN2,INDHHIN2 - Annual household income,7,"$35,000 to $44,999",913,INDHHIN2_7,"INDHHIN2_$35,000 to $44,999"
+INDHHIN2,INDHHIN2 - Annual household income,8,"$45,000 to $54,999",764,INDHHIN2_8,"INDHHIN2_$45,000 to $54,999"
+INDHHIN2,INDHHIN2 - Annual household income,9,"$55,000 to $64,999",521,INDHHIN2_9,"INDHHIN2_$55,000 to $64,999"
+INDHHIN2,INDHHIN2 - Annual household income,10,"$65,000 to $74,999",378,INDHHIN2_10,"INDHHIN2_$65,000 to $74,999"
+INDHHIN2,INDHHIN2 - Annual household income,12,"$20,000 and Over",323,INDHHIN2_12,"INDHHIN2_$20,000 and Over"
+INDHHIN2,INDHHIN2 - Annual household income,13,"Under $20,000",133,INDHHIN2_13,"INDHHIN2_Under $20,000"
+INDHHIN2,INDHHIN2 - Annual household income,14,"$75,000 to $99,999",860,INDHHIN2_14,"INDHHIN2_$75,000 to $99,999"
+INDHHIN2,INDHHIN2 - Annual household income,15,"$100,000 and Over",1781,INDHHIN2_15,"INDHHIN2_$100,000 and Over"
+INDHHIN2,INDHHIN2 - Annual household income,77,Refused,252,INDHHIN2_77,INDHHIN2_Refused
+INDHHIN2,INDHHIN2 - Annual household income,99,Don't know,75,INDHHIN2_99,INDHHIN2_Don't know
+INDHHIN2,INDHHIN2 - Annual household income,.,Missing,133,INDHHIN2_.,INDHHIN2_Missing
+INDFMIN2,INDFMIN2 - Annual family income,1,"$ 0 to $ 4,999",375,INDFMIN2_1,"INDFMIN2_$ 0 to $ 4,999"
+INDFMIN2,INDFMIN2 - Annual family income,2,"$ 5,000 to $ 9,999",467,INDFMIN2_2,"INDFMIN2_$ 5,000 to $ 9,999"
+INDFMIN2,INDFMIN2 - Annual family income,3,"$10,000 to $14,999",691,INDFMIN2_3,"INDFMIN2_$10,000 to $14,999"
+INDFMIN2,INDFMIN2 - Annual family income,4,"$15,000 to $19,999",706,INDFMIN2_4,"INDFMIN2_$15,000 to $19,999"
+INDFMIN2,INDFMIN2 - Annual family income,5,"$20,000 to $24,999",897,INDFMIN2_5,"INDFMIN2_$20,000 to $24,999"
+INDFMIN2,INDFMIN2 - Annual family income,6,"$25,000 to $34,999",1182,INDFMIN2_6,"INDFMIN2_$25,000 to $34,999"
+INDFMIN2,INDFMIN2 - Annual family income,7,"$35,000 to $44,999",913,INDFMIN2_7,"INDFMIN2_$35,000 to $44,999"
+INDFMIN2,INDFMIN2 - Annual family income,8,"$45,000 to $54,999",740,INDFMIN2_8,"INDFMIN2_$45,000 to $54,999"
+INDFMIN2,INDFMIN2 - Annual family income,9,"$55,000 to $64,999",502,INDFMIN2_9,"INDFMIN2_$55,000 to $64,999"
+INDFMIN2,INDFMIN2 - Annual family income,10,"$65,000 to $74,999",381,INDFMIN2_10,"INDFMIN2_$65,000 to $74,999"
+INDFMIN2,INDFMIN2 - Annual family income,12,"$20,000 and Over",219,INDFMIN2_12,"INDFMIN2_$20,000 and Over"
+INDFMIN2,INDFMIN2 - Annual family income,13,"Under $20,000",129,INDFMIN2_13,"INDFMIN2_Under $20,000"
+INDFMIN2,INDFMIN2 - Annual family income,14,"$75,000 to $99,999",835,INDFMIN2_14,"INDFMIN2_$75,000 to $99,999"
+INDFMIN2,INDFMIN2 - Annual family income,15,"$100,000 and Over",1701,INDFMIN2_15,"INDFMIN2_$100,000 and Over"
+INDFMIN2,INDFMIN2 - Annual family income,77,Refused,246,INDFMIN2_77,INDFMIN2_Refused
+INDFMIN2,INDFMIN2 - Annual family income,99,Don't know,68,INDFMIN2_99,INDFMIN2_Don't know
+INDFMIN2,INDFMIN2 - Annual family income,.,Missing,123,INDFMIN2_.,INDFMIN2_Missing
+INDFMPIR,INDFMPIR - Ratio of family income to poverty,0 to 4.99,Range of Values,7974,INDFMPIR_0 to 4.99,INDFMPIR_Range of Values
+INDFMPIR,INDFMPIR - Ratio of family income to poverty,5,Value greater than or equal to 5.00,1416,INDFMPIR_5,INDFMPIR_Value greater than or equal to 5.00
+INDFMPIR,INDFMPIR - Ratio of family income to poverty,.,Missing,785,INDFMPIR_.,INDFMPIR_Missing
