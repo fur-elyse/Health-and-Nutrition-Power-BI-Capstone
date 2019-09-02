@@ -1,0 +1,17 @@
+David	- researched on what diseases to tackle
+	- can provide reason why we've chosen these variables
+
+Need to perform ETL to remove _ from the values
+
+Communicable and Non-communicable diseases
+
+To-Dos Tomorrow
+
+David - which columns to be selected
+Elyse, Fred, Vince - ETL
+
+Business Questions
+Among the top communicable and non-communicable diseases, what are the key (attributes/factors) that are highly correlated to them?
+*which may or may not be the cause
+
+What are common and distinctive attributes/factors in relation to the diseases
