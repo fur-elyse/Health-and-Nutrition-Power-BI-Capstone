@@ -1,5 +1,5 @@
 David	- researched on what diseases to tackle
-	- can provide reason why we've chosen these variables
+	- can provide reason why we've chosen these variables/diseases
 
 Need to perform ETL to remove _ from the values
 
@@ -15,3 +15,10 @@ Among the top communicable and non-communicable diseases, what are the key (attr
 *which may or may not be the cause
 
 What are common and distinctive attributes/factors in relation to the diseases
+
+
+--Sep 3--
+
+Standardized dashboard layout -> Each member will do at least 1 dashboard
+In parallel, determine the necessary/relevant columns (ETL)
+Someone creates the slide templates where the dashboards will be pasted
