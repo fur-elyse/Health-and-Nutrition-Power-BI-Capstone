@@ -1,1 +1,5 @@
-Demographics - 1,4,8,11,12,13,1417,18,30,31,41,,45,46,47
+Demographics - 1,4,5,8,11,12,13,1417,18,30,31,41,45,46,47
+Sources:
+	Income - https://www.pewsocialtrends.org/2015/12/09/the-american-middle-class-is-losing-ground/
+
+	https://aspe.hhs.gov/2013-poverty-guidelines#threshholds
