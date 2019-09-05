@@ -14,4 +14,4 @@ We have divided the process of the project into 4 parts: Web Scraping, Data Clea
 We web scraped the legends in the NHANES website to get a good grasp of our data. From there, we cleaned and mapped the values.
 We even tried to use PCA and Random Forest to try to reduce the number of features, but in the end, due to the lack of time, we chose to use featrues deemed to be relevant based what's stated on research papers online.
 
-If you have any questions or would like to discuss this further, you may reach out to me at **fur.elyse@gmail.com**.
+If you have any questions or would like to discuss this further, you may reach out to me at **fur.elyse@gmail.com, fredtupas@cobenagroup.com, vincevertulfo@cobenagroup.com, davidimaano@cobenagroup.com**.
