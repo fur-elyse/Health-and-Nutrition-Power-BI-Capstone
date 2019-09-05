@@ -30,3 +30,13 @@ Diseases
 3) Herpes - Vince
 4) Chlamydia -> Elyse
 5) Hypertension
+
+
+--Sep 4--
+
+Where's the data from
+Intended users
+Why is it important for them to use our dashboard
+Infographic thing for embedding in the website
+How will a user use the dashboard?
+Font and title should be readable. Use a magnifier
