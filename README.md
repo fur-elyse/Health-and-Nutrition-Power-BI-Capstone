@@ -3,7 +3,8 @@ This is our study on the 2013-2014 National Health and Nutrition Exam Survey con
 Through this project, we aim to use this as a proof of concept (POC) for a proposal to emulate this dashboard in the Philippine context.
 
 **Intended Users:** General Public
-**Purpose of the Dashboard:** Given that the Philippines is a very conservative country, people are not comfortable in talking about sex or anything related to it. This lack of communication and education in turn creates a lack of awareness on the issue. Therefore, we aim to increase awareness on and to de-stigmatize Sexually Transmitted Infections (STIs) by creating two things:
+
+**Purpose of the Dashboard:** Given that the Philippines is a very conservative country, people are not comfortable with talking about matters on sex. This lack of communication and education in turn creates a lack of awareness on the issue. Therefore, we aim to increase awareness on and to de-stigmatize Sexually Transmitted Infections (STIs) by creating two things:
 - a dashboard (Dashboard_Sample) - can be embedded on a website.
 - an infogrpahic (Infographic_Sample) - can be shared online or even printed and physically shared to others.
 
